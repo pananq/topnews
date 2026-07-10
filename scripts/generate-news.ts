@@ -7,8 +7,11 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const outputPath = path.join(root, "data", "latest.json");
 
 const latest = await generateLatestNews({
-  apiKey: process.env.OPENAI_API_KEY,
-  model: process.env.OPENAI_MODEL,
+  aiProvider: process.env.AI_PROVIDER === "openai" ? "openai" : "deepseek",
+  deepseekApiKey: process.env.DEEPSEEK_API_KEY,
+  deepseekModel: process.env.DEEPSEEK_MODEL,
+  openaiApiKey: process.env.OPENAI_API_KEY,
+  openaiModel: process.env.OPENAI_MODEL,
 });
 
 await fs.mkdir(path.dirname(outputPath), { recursive: true });

@@ -7,14 +7,18 @@ import { rankClusters } from "./rank";
 import { NEWS_SOURCES } from "./sources";
 import { isWithinWindow } from "./time";
 import type { NewsSourceConfig, NormalizedArticle, RawFeedItem } from "./types";
-import { summarizeClusters } from "./aiSummaries";
+import { summarizeClusters, type AiProvider } from "./aiSummaries";
 
 interface GenerateOptions {
   now?: Date;
   articles?: NormalizedArticle[];
   fetchFeeds?: boolean;
-  apiKey?: string;
-  model?: string;
+  aiProvider?: AiProvider;
+  openaiApiKey?: string;
+  openaiModel?: string;
+  deepseekApiKey?: string;
+  deepseekModel?: string;
+  fetchImpl?: typeof fetch;
 }
 
 export async function generateLatestNews(options: GenerateOptions = {}): Promise<LatestNews> {
@@ -22,13 +26,25 @@ export async function generateLatestNews(options: GenerateOptions = {}): Promise
   const articles = options.articles ?? (options.fetchFeeds === false ? [] : await fetchRecentArticles(now));
   const clusters = clusterArticles(articles);
   const ranked = rankClusters(clusters, now).slice(0, 10);
-  const generatedEvents = ranked.length > 0 ? await summarizeClusters(ranked, { apiKey: options.apiKey, model: options.model }) : [];
+  const provider = options.aiProvider ?? "deepseek";
+  const hasConfiguredKey = provider === "deepseek" ? Boolean(options.deepseekApiKey) : Boolean(options.openaiApiKey);
+  const generatedEvents =
+    ranked.length > 0
+      ? await summarizeClusters(ranked, {
+          provider,
+          deepseekApiKey: options.deepseekApiKey,
+          deepseekModel: options.deepseekModel,
+          openaiApiKey: options.openaiApiKey,
+          openaiModel: options.openaiModel,
+          fetchImpl: options.fetchImpl,
+        })
+      : [];
   const events = ensureTenEvents(generatedEvents);
   const latest: LatestNews = {
     generatedAt: now.toISOString(),
     windowHours: 24,
     timezone: "Asia/Shanghai",
-    status: options.apiKey && generatedEvents.length > 0 ? "fresh" : "sample",
+    status: hasConfiguredKey && generatedEvents.length > 0 ? "fresh" : "sample",
     events,
   };
 

@@ -3,10 +3,15 @@ import type { NewsEvent } from "../shared/schema";
 import type { RankedCluster } from "./types";
 
 interface SummaryOptions {
-  apiKey?: string;
-  model?: string;
+  provider?: AiProvider;
+  openaiApiKey?: string;
+  openaiModel?: string;
+  deepseekApiKey?: string;
+  deepseekModel?: string;
   fetchImpl?: typeof fetch;
 }
+
+export type AiProvider = "deepseek" | "openai";
 
 interface AiEventSummary {
   titleZh: string;
@@ -42,12 +47,15 @@ const EVENT_SUMMARY_SCHEMA = {
 };
 
 export async function summarizeClusters(clusters: RankedCluster[], options: SummaryOptions = {}): Promise<NewsEvent[]> {
-  if (!options.apiKey) {
+  const provider = options.provider ?? "deepseek";
+  const apiKey = provider === "deepseek" ? options.deepseekApiKey : options.openaiApiKey;
+
+  if (!apiKey) {
     return fallbackSummaries(clusters);
   }
 
   try {
-    const aiSummaries = await requestAiSummaries(clusters, options);
+    const aiSummaries = provider === "deepseek" ? await requestDeepSeekSummaries(clusters, options) : await requestOpenAiSummaries(clusters, options);
     return clusters.map((cluster, index) => buildEvent(cluster, index + 1, aiSummaries[index] ?? fallbackSummary(cluster)));
   } catch (error) {
     console.warn(`AI summary failed, using deterministic fallback: ${error instanceof Error ? error.message : String(error)}`);
@@ -96,16 +104,16 @@ function buildEvent(cluster: RankedCluster, rank: number, summary: AiEventSummar
   };
 }
 
-async function requestAiSummaries(clusters: RankedCluster[], options: SummaryOptions): Promise<AiEventSummary[]> {
+async function requestOpenAiSummaries(clusters: RankedCluster[], options: SummaryOptions): Promise<AiEventSummary[]> {
   const fetchImpl = options.fetchImpl ?? fetch;
   const response = await fetchImpl("https://api.openai.com/v1/responses", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "Authorization": `Bearer ${options.apiKey}`,
+      "Authorization": `Bearer ${options.openaiApiKey}`,
     },
     body: JSON.stringify({
-      model: options.model ?? "gpt-5.5",
+      model: options.openaiModel ?? "gpt-5.5",
       input: [
         {
           role: "developer",
@@ -150,6 +158,63 @@ async function requestAiSummaries(clusters: RankedCluster[], options: SummaryOpt
 
   if (!text) {
     throw new Error("OpenAI response did not include output text");
+  }
+
+  const parsed = JSON.parse(text) as { events: AiEventSummary[] };
+  return parsed.events;
+}
+
+async function requestDeepSeekSummaries(clusters: RankedCluster[], options: SummaryOptions): Promise<AiEventSummary[]> {
+  const fetchImpl = options.fetchImpl ?? fetch;
+  const response = await fetchImpl("https://api.deepseek.com/chat/completions", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Authorization": `Bearer ${options.deepseekApiKey}`,
+    },
+    body: JSON.stringify({
+      model: options.deepseekModel ?? "deepseek-v4-flash",
+      messages: [
+        {
+          role: "system",
+          content: "你是新闻编辑。只基于提供的来源标题和摘要生成中文简报。必须只输出合法 JSON，不要输出 Markdown，不要编造事实。",
+        },
+        {
+          role: "user",
+          content: JSON.stringify({
+            instruction:
+              "请输出 json，格式为 {\"events\":[{\"titleZh\":\"...\",\"summaryZh\":\"...\",\"category\":\"政治|科技|经济|国际|安全|气候|社会|体育|娱乐\",\"regions\":[\"...\"],\"reasonZh\":\"...\"}]}。为每个新闻事件生成中文标题、2-3 句中文摘要、一个主分类、影响地区和热度依据。",
+            clusters: clusters.map((cluster) => ({
+              representativeTitle: cluster.representativeTitle,
+              heat: cluster.heat,
+              articles: cluster.articles.slice(0, 5).map((article) => ({
+                sourceName: article.sourceName,
+                sourceRegion: article.sourceRegion,
+                language: article.language,
+                title: article.title,
+                summary: article.summary,
+                publishedAt: article.publishedAt,
+              })),
+            })),
+          }),
+        },
+      ],
+      response_format: {
+        type: "json_object",
+      },
+      stream: false,
+    }),
+  });
+
+  if (!response.ok) {
+    throw new Error(`DeepSeek API returned ${response.status}`);
+  }
+
+  const payload = (await response.json()) as { choices?: Array<{ message?: { content?: string } }> };
+  const text = payload.choices?.[0]?.message?.content;
+
+  if (!text) {
+    throw new Error("DeepSeek response did not include message content");
   }
 
   const parsed = JSON.parse(text) as { events: AiEventSummary[] };
