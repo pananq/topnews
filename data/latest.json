@@ -1,17 +1,19 @@
 {
-  "generatedAt": "2026-07-10T16:37:09.411Z",
+  "generatedAt": "2026-07-10T16:42:49.321Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "sample",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-      "summaryZh": "自动摘要：Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
-      "category": "国际",
+      "titleZh": "东亚准备应对破坏性台风，菲律宾山体滑坡已致15人死亡",
+      "summaryZh": "超强台风“巴威”宽度约1000公里，预计将成为几十年来最强风暴之一，正向台湾和中国东南部移动。菲律宾因台风引发的山体滑坡已造成15人死亡。台湾、日本和中国的居民正在囤积物资。",
+      "category": "气候",
       "regions": [
-        "Europe",
-        "Middle East"
+        "菲律宾",
+        "台湾",
+        "中国",
+        "日本"
       ],
       "heat": {
         "score": 100,
@@ -42,11 +44,11 @@
     },
     {
       "rank": 2,
-      "titleZh": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
-      "summaryZh": "自动摘要：Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
-      "category": "国际",
+      "titleZh": "伊朗最高领袖哈梅内伊在马什哈德下葬，数万人送行",
+      "summaryZh": "阿里·哈梅内伊被安葬在伊朗最神圣的什叶派穆斯林圣地伊玛目礼萨圣陵，结束了为期六天的公众哀悼仪式。伊朗新领导层将如何应对国内外的多个问题备受关注。",
+      "category": "政治",
       "regions": [
-        "Europe"
+        "伊朗"
       ],
       "heat": {
         "score": 96,
@@ -77,15 +79,15 @@
     },
     {
       "rank": 3,
-      "titleZh": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-      "summaryZh": "自动摘要：Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
+      "titleZh": "被指控谋杀摩纳哥爆炸案嫌疑人的乌克兰特工改变口供",
+      "summaryZh": "两名与乌克兰安全部门有关联的男子被指控杀害阿纳斯塔西娅·别列佐夫斯卡，并将尸体丢弃在树林中。作案动机仍不清楚，事件在两国引发关注。",
       "category": "国际",
       "regions": [
-        "Europe",
-        "Middle East"
+        "乌克兰",
+        "摩纳哥"
       ],
       "heat": {
-        "score": 95,
+        "score": 94,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
@@ -107,11 +109,40 @@
     },
     {
       "rank": 4,
-      "titleZh": "Disney Plus is reportedly looking into a free streaming tier",
-      "summaryZh": "自动摘要：Disney Plus is considering making some of its content free to watch, according to a report from Business Insider. A source tells the outlet that Adam Smith, Disney's chief product and technology officer, mentioned a free streaming tier during the company's town hall on Thursday. It's not clear which shows or movies the purported free streaming tier involves, or when Disney would consider rolling it out, but Business Insider reports that it's \"part of an ongoing discussion about concepts to better serve fans.\" Disney didn't immediately respond to The Verge's request for comment. With YouTube taking up a large portion of viewers' time in fro … Read the full story at The Verge.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
+      "titleZh": "瑞安航空航班上男子险些被吸出窗外",
+      "summaryZh": "一架从希腊飞往德国的瑞安航空航班上，一名男子因窗户破裂险些被吸出舱外，他的妻子抓住他的双腿约五分钟才阻止其被吸出。事件正在调查中。",
+      "category": "社会",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 90,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-10T16:42:24.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/passenger-partly-sucked-from-ryanair-plane-during-flight/a-77909298?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-10T14:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "迪士尼+据报正在考虑推出免费流媒体层",
+      "summaryZh": "据商业内幕报道，迪士尼+首席产品和技术官亚当·史密斯在全公司会议中提到免费流媒体层计划。迪士尼希望通过免费内容更好地与YouTube和Tubi等免费服务竞争，但具体内容和推出时间尚不清楚。",
       "category": "科技",
       "regions": [
-        "Americas"
+        "美国"
       ],
       "heat": {
         "score": 90,
@@ -135,41 +166,12 @@
       ]
     },
     {
-      "rank": 5,
-      "titleZh": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-      "summaryZh": "自动摘要：The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
-      "category": "国际",
-      "regions": [
-        "Europe"
-      ],
-      "heat": {
-        "score": 89,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-10T12:31:08.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/passenger-partly-sucked-from-ryanair-plane-during-flight/a-77909298?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-10T14:15:00.000Z"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "titleZh": "China lands reusable rocket for first time, state media says",
-      "summaryZh": "自动摘要：It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
-      "category": "国际",
+      "titleZh": "中国首次成功着陆可重复使用火箭",
+      "summaryZh": "中国首次实现可重复使用火箭的回收着陆，继美国SpaceX和蓝色起源之后加入该技术俱乐部。中国开发者采用了一种不同于现有玩家的替代着陆方案。",
+      "category": "科技",
       "regions": [
-        "Europe"
+        "中国"
       ],
       "heat": {
         "score": 86,
@@ -194,11 +196,12 @@
     },
     {
       "rank": 7,
-      "titleZh": "Spain vs Belgium LIVE: FIFA World Cup 2026 quarterfinal",
-      "summaryZh": "自动摘要：Live coverage and text updates as Lamine Yamal's Spain face Belgium for the right to meet France in the semifinals.。该事件由 1 个来源报道，保留原文链接供继续阅读。",
-      "category": "国际",
+      "titleZh": "西班牙对阵比利时：2026年世界杯四分之一决赛直播",
+      "summaryZh": "西班牙与比利时在2026年世界杯四分之一决赛中交锋，胜者将在半决赛对阵法国。比赛正在进行中并提供文字直播。",
+      "category": "体育",
       "regions": [
-        "Middle East"
+        "西班牙",
+        "比利时"
       ],
       "heat": {
         "score": 71,
@@ -223,11 +226,34 @@
     },
     {
       "rank": 8,
-      "titleZh": "Netflix is turning into YouTube",
-      "summaryZh": "自动摘要：Netflix has shows and movies. And video games. And live sports. And podcasts. And also, apparently, YouTube videos? For a company that used to seem like the next big thing in TV, it all feels a little frenetic, and maybe a tad desperate. For a company that sees sleep as its primary competitor, it might all make perfect sense. On this episode of The Vergecast, David and Nilay try to figure out why Netflix continues to expand its content machine and whether the company's ongoing YouTube-ification makes any sense at all. Many have tried to compete with YouTube; none have succeeded. Does that mean Netflix might inch its way up the Go90 Scale of … Read the full story at The Verge.。该事件由 1 个来源报道，保留原文链接供继续阅读。",
+      "titleZh": "祖鲁国王对视频中辱骂妻子表示后悔",
+      "summaryZh": "一段在南非广泛传播的视频显示，祖鲁国王米苏祖鲁·卡兹韦利蒂尼威胁要殴打妻子并指责她出轨。事后国王发表声明表示后悔。",
+      "category": "社会",
+      "regions": [
+        "南非"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-10T16:42:11.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "Netflix正在变成YouTube",
+      "summaryZh": "Netflix不断扩展其内容领域，包括电视剧、电影、游戏、直播体育和播客，如今似乎还要加入YouTube风格的视频。评论认为这家公司试图与YouTube竞争，但前路未知。",
       "category": "科技",
       "regions": [
-        "Americas"
+        "美国"
       ],
       "heat": {
         "score": 60,
@@ -245,12 +271,12 @@
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
-      "summaryZh": "自动摘要：Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iPhone and the unrealistic limitations of an early 2000s relic.。该事件由 1 个来源报道，保留原文链接供继续阅读。",
+      "rank": 10,
+      "titleZh": "Dumb Co挑战我用被破解的翻盖手机换iPhone",
+      "summaryZh": "Dumb Co销售可与智能手机同步的翻盖手机，旨在融合iPhone的无限连接与早期翻盖手机的有限功能。作者尝试了这种手机，体验独特。",
       "category": "科技",
       "regions": [
-        "Americas"
+        "美国"
       ],
       "heat": {
         "score": 60,
@@ -264,29 +290,6 @@
           "url": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
           "language": "en",
           "publishedAt": "2026-07-10T16:06:49.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "US declassifies even more UFO videos",
-      "summaryZh": "自动摘要：The US government published a fourth instalment of unresolved cases, promising to release more files on a rolling basis.。该事件由 1 个来源报道，保留原文链接供继续阅读。",
-      "category": "国际",
-      "regions": [
-        "Europe"
-      ],
-      "heat": {
-        "score": 59,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-10T15:28:17.000Z"
         }
       ]
     }
