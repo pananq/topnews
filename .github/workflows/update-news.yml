@@ -1,6 +1,9 @@
 name: Update global news digest
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Beijing 08:00 is UTC 00:00.
     - cron: "0 0 * * *"
