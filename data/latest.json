@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T15:31:10.828Z",
+  "generatedAt": "2026-07-10T16:37:09.411Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "sample",
@@ -49,7 +49,7 @@
         "Europe"
       ],
       "heat": {
-        "score": 97,
+        "score": 96,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -77,36 +77,6 @@
     },
     {
       "rank": 3,
-      "titleZh": "FIFA World Cup 2026: Day 29",
-      "summaryZh": "自动摘要：FIFA World Cup 2026: Day 29。该事件由 2 个来源报道，保留原文链接供继续阅读。",
-      "category": "国际",
-      "regions": [
-        "Middle East",
-        "Europe"
-      ],
-      "heat": {
-        "score": 96,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/fifa-world-cup-2026-day-29?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-10T11:10:19.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/what-s-behind-germany-s-world-cup-woes/a-77886108?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-10T08:47:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "titleZh": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
       "summaryZh": "自动摘要：Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
       "category": "国际",
@@ -136,9 +106,38 @@
       ]
     },
     {
+      "rank": 4,
+      "titleZh": "Disney Plus is reportedly looking into a free streaming tier",
+      "summaryZh": "自动摘要：Disney Plus is considering making some of its content free to watch, according to a report from Business Insider. A source tells the outlet that Adam Smith, Disney's chief product and technology officer, mentioned a free streaming tier during the company's town hall on Thursday. It's not clear which shows or movies the purported free streaming tier involves, or when Disney would consider rolling it out, but Business Insider reports that it's \"part of an ongoing discussion about concepts to better serve fans.\" Disney didn't immediately respond to The Verge's request for comment. With YouTube taking up a large portion of viewers' time in fro … Read the full story at The Verge.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "Americas"
+      ],
+      "heat": {
+        "score": 90,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/streaming/964056/disney-plus-free-tier-report",
+          "language": "en",
+          "publishedAt": "2026-07-10T15:33:58.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+          "language": "en",
+          "publishedAt": "2026-07-10T16:29:05.000Z"
+        }
+      ]
+    },
+    {
       "rank": 5,
       "titleZh": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-      "summaryZh": "自动摘要：Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
+      "summaryZh": "自动摘要：The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
       "category": "国际",
       "regions": [
         "Europe"
@@ -166,35 +165,6 @@
     },
     {
       "rank": 6,
-      "titleZh": "Instagram and Facebook will likely require a redesign after EU rules they&#8217;re &#8216;addictive&#8217;",
-      "summaryZh": "自动摘要：Meta is in breach of the EU's Digital Services Act (DSA), a preliminary investigation has found, over the \"addictive\" design of Instagram and Facebook. It's likely to be forced to redesign both apps and could face a fine of up to $12 billion. The European Commission said Meta \"did not adequately assess the risks of its addictive design on the physical and mental wellbeing of users, including minors and vulnerable adults.\" It singled out features like personalized recommendations, autoplay, and infinite scroll, arguing that they \"fuel the user's urge to keep scrolling and shift the brain into 'autopilot mode.'\" The report also criticizes th … Read the full story at The Verge.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
-      "category": "科技",
-      "regions": [
-        "Americas"
-      ],
-      "heat": {
-        "score": 88,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/policy/963872/meta-eu-addictive-design-200b-fine-risk-digital-services-act-dsa",
-          "language": "en",
-          "publishedAt": "2026-07-10T10:52:53.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
-          "language": "en",
-          "publishedAt": "2026-07-10T14:19:40.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "titleZh": "China lands reusable rocket for first time, state media says",
       "summaryZh": "自动摘要：It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
       "category": "国际",
@@ -202,7 +172,7 @@
         "Europe"
       ],
       "heat": {
-        "score": 87,
+        "score": 86,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -223,9 +193,38 @@
       ]
     },
     {
+      "rank": 7,
+      "titleZh": "Spain vs Belgium LIVE: FIFA World Cup 2026 quarterfinal",
+      "summaryZh": "自动摘要：Live coverage and text updates as Lamine Yamal's Spain face Belgium for the right to meet France in the semifinals.。该事件由 1 个来源报道，保留原文链接供继续阅读。",
+      "category": "国际",
+      "regions": [
+        "Middle East"
+      ],
+      "heat": {
+        "score": 71,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/7/10/spain-vs-belgium-live-fifa-world-cup-2026-quarterfinal?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-10T15:34:18.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/fifa-world-cup-2026-day-29?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-10T11:10:19.000Z"
+        }
+      ]
+    },
+    {
       "rank": 8,
-      "titleZh": "Anker&#8217;s 3-in-1 Qi2.2 charging station is $95 off",
-      "summaryZh": "自动摘要：Anker’s Prime Wireless Charging Station can deliver up to 25W of power to compatible iPhones. If you’re looking to declutter your nightstand and quickly charge up to three of your most-used gadgets, Anker’s Prime Wireless Charging Station is an easy way to do both. The station has spots for your MagSafe-ready iPhone, Apple Watch, and AirPods, and right now it’s down to a new all-time low of $134.99 ($95 off) in white at Amazon and directly from Anker with code WS7DV2LJ3JGU. You can also buy it in black from either retailer for $5 more. Anker Prime Wireless Charging Station (3-in-1, MagGo, AirCool, Dock Stand) Where to Buy: $229.99 $134.99 at Amazon $229.99 $134.99 at Anker (with code WS7DV2LJ3JGU) The Qi2.2-compatible charger supports up to 25W wireless charging for compatible iPhones (the iPhone 16 and up, excluding the 16E and 17E). Anker claims this charging station can bring an iPhone 17 Pro from 0 to 50 percent in about 22 minutes. It also includes dedicated 5W charging pads for an Apple Watch and AirPods (or another pair that includes a wireless charging case), allowing you to power all three devices simultaneously. You can switch between three charging modes depending on your priorities, whether that’s fast top-ups, cooler charging, or quiet, slower charging overnight. What makes this 3-in-1 charger stand out from the competition is its 1.65-inch touchscreen that displays each device’s charging status, power draw, or temperature. If you’d rather customize things, you can pair it with Anker’s app to adjust settings, switch charging modes, and tweak the display. The adjustable phone stand tilts up to 80 degrees, and Anker even includes a 65W USB-C power adapter and cable in the box, so you won’t need to buy those separately. A few more worthwhile deals You can buy the Fanttik A10 Pro digital tape measure for $49.99 ($40 off) with code AKJL8MH3 at Amazon, which marks a new low price. The tool functions as both a 165-foot laser distance meter and a 9.8-foot digital tape measure, making it useful for measuring rooms and hanging stuff on your wall. It also features a bright 1.47-inch color display, and supports measurements in six different units. The digital tape measure can calculate distance, area, and volume, too. It supports USB-C charging and stores up to 30 previous measurements. Sounds like a good upgrade to me if you’re always tinkering. You can save up to $700 on LG’s C6 series of OLED TVs when you buy directly from LG, with free installation and up to $200 in Uber Eats or DoorDash credits that you won’t get from other retailers. The biggest savings are currently on the larger models, like the $1,999.99 ($700 off) 65-inch model. If you want a smaller size, the $1,699.99 ($300 off) 55-inch model is discounted but includes just $100 in Uber Eats or DoorDash credit compared to $200 with larger sizes. All of the TVs in this series sport excellent OLED panels with rich contrast and deep blacks, along with support for 165Hz refresh rate, Nvidia G-Sync and AMD FreeSync Premium variable refresh rate, Dolby Atmos support, and more. Best Buy is throwing in a $30 gift card when you buy the Beats Powerbeats Pro 2 for $249.99. The workout-focused earbuds feature secure ear hooks, excellent active noise cancellation, and built-in heart rate monitoring that integrates with apps like Nike Run Club, Peloton, and more. If you’re an Apple Fitness Plus user, you can also view metrics like your heart rate and calories burned. Read our review.。该事件由 1 个来源报道，保留原文链接供继续阅读。",
+      "titleZh": "Netflix is turning into YouTube",
+      "summaryZh": "自动摘要：Netflix has shows and movies. And video games. And live sports. And podcasts. And also, apparently, YouTube videos? For a company that used to seem like the next big thing in TV, it all feels a little frenetic, and maybe a tad desperate. For a company that sees sleep as its primary competitor, it might all make perfect sense. On this episode of The Vergecast, David and Nilay try to figure out why Netflix continues to expand its content machine and whether the company's ongoing YouTube-ification makes any sense at all. Many have tried to compete with YouTube; none have succeeded. Does that mean Netflix might inch its way up the Go90 Scale of … Read the full story at The Verge.。该事件由 1 个来源报道，保留原文链接供继续阅读。",
       "category": "科技",
       "regions": [
         "Americas"
@@ -239,16 +238,16 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/963665/anker-prime-wireless-charging-station-lg-oled-c6-tv-deal-sale",
+          "url": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast",
           "language": "en",
-          "publishedAt": "2026-07-10T15:11:08.000Z"
+          "publishedAt": "2026-07-10T16:29:50.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
-      "summaryZh": "自动摘要：The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.。该事件由 1 个来源报道，保留原文链接供继续阅读。",
+      "titleZh": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
+      "summaryZh": "自动摘要：Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iPhone and the unrealistic limitations of an early 2000s relic.。该事件由 1 个来源报道，保留原文链接供继续阅读。",
       "category": "科技",
       "regions": [
         "Americas"
@@ -262,32 +261,32 @@
       "sources": [
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+          "url": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
           "language": "en",
-          "publishedAt": "2026-07-10T15:00:09.000Z"
+          "publishedAt": "2026-07-10T16:06:49.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "Netflix could be planning ‘always-on’ live TV channels",
-      "summaryZh": "自动摘要：Amid signs of slowing engagement, Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/7.。该事件由 1 个来源报道，保留原文链接供继续阅读。",
-      "category": "科技",
+      "titleZh": "US declassifies even more UFO videos",
+      "summaryZh": "自动摘要：The US government published a fourth instalment of unresolved cases, promising to release more files on a rolling basis.。该事件由 1 个来源报道，保留原文链接供继续阅读。",
+      "category": "国际",
       "regions": [
-        "Americas"
+        "Europe"
       ],
       "heat": {
-        "score": 60,
+        "score": 59,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-10T14:53:08.000Z"
+          "publishedAt": "2026-07-10T15:28:17.000Z"
         }
       ]
     }
