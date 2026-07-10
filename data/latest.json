@@ -1,303 +1,293 @@
 {
-  "generatedAt": "2026-07-10T12:36:19.960Z",
+  "generatedAt": "2026-07-10T15:31:10.828Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "sample",
   "events": [
     {
       "rank": 1,
-      "titleZh": "多国领导人就新一轮安全协议展开磋商",
-      "summaryZh": "过去 24 小时内，多家国际媒体报道了围绕地区安全协议的密集外交活动。报道显示，各方仍在关键条款上谈判，后续进展可能影响区域关系。",
-      "category": "政治",
+      "titleZh": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+      "summaryZh": "自动摘要：Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
+      "category": "国际",
       "regions": [
-        "欧洲",
-        "美国"
+        "Europe",
+        "Middle East"
       ],
       "heat": {
-        "score": 91,
-        "sourceCount": 5,
+        "score": 100,
+        "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-1",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-10T13:53:11.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-1",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/super-typhoon-as-wide-as-france-heads-to-east-asia?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T14:08:37.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-10T12:49:14.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "主要科技公司发布新一代人工智能治理承诺",
-      "summaryZh": "来自英语和欧洲媒体的报道显示，数家大型科技企业公布了新的 AI 安全测试与透明度承诺。监管机构和行业组织正在评估这些承诺的约束力。",
-      "category": "科技",
+      "titleZh": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+      "summaryZh": "自动摘要：Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
+      "category": "国际",
       "regions": [
-        "美国",
-        "欧洲"
+        "Europe"
       ],
       "heat": {
-        "score": 88,
-        "sourceCount": 5,
-        "regionCount": 2,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "score": 97,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-2",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-09T23:18:18.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-2",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c4gym0r7kj1o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-09T20:16:13.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/iran-war-former-supreme-leader-buried-amid-new-escalation/live-77899274?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-10T06:44:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "全球市场关注主要央行最新利率信号",
-      "summaryZh": "金融媒体集中报道了主要央行对通胀和利率路径的最新表态。投资者正在重新定价债券、股票和外汇市场风险。",
-      "category": "经济",
+      "titleZh": "FIFA World Cup 2026: Day 29",
+      "summaryZh": "自动摘要：FIFA World Cup 2026: Day 29。该事件由 2 个来源报道，保留原文链接供继续阅读。",
+      "category": "国际",
       "regions": [
-        "全球"
+        "Middle East",
+        "Europe"
       ],
       "heat": {
-        "score": 84,
-        "sourceCount": 5,
-        "regionCount": 1,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "score": 96,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-3",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/fifa-world-cup-2026-day-29?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-10T11:10:19.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-3",
+          "name": "DW",
+          "url": "https://www.dw.com/en/what-s-behind-germany-s-world-cup-woes/a-77886108?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T08:47:00.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "联合国机构警告多地人道援助压力上升",
-      "summaryZh": "多家媒体援引国际组织消息称，冲突、粮食价格和极端天气正在推高部分地区的人道援助需求。援助机构呼吁增加资金和通行保障。",
+      "titleZh": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+      "summaryZh": "自动摘要：Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
       "category": "国际",
       "regions": [
-        "非洲",
-        "中东"
+        "Europe",
+        "Middle East"
       ],
       "heat": {
-        "score": 82,
-        "sourceCount": 5,
+        "score": 95,
+        "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-4",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-09T20:47:41.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-4",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/10/ukrainian-court-detains-alleged-killers-of-monaco-bomb-attack-suspect?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T14:01:22.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "关键海域航运安全事件引发国际关注",
-      "summaryZh": "国际新闻源报道，近期航运安全事件影响了部分商业航线。航运企业和政府机构正在评估风险并调整通行安排。",
-      "category": "安全",
+      "titleZh": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "summaryZh": "自动摘要：Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
+      "category": "国际",
       "regions": [
-        "中东",
-        "欧洲"
+        "Europe"
       ],
       "heat": {
-        "score": 80,
-        "sourceCount": 4,
-        "regionCount": 2,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "score": 89,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-5",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-10T12:31:08.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-5",
+          "name": "DW",
+          "url": "https://www.dw.com/en/passenger-partly-sucked-from-ryanair-plane-during-flight/a-77909298?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T14:15:00.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "新一轮极端高温影响多个国家公共服务",
-      "summaryZh": "气象和公共媒体报道，多国在过去 24 小时内发布高温预警。电力、交通和医疗系统面临短期压力。",
-      "category": "气候",
+      "titleZh": "Instagram and Facebook will likely require a redesign after EU rules they&#8217;re &#8216;addictive&#8217;",
+      "summaryZh": "自动摘要：Meta is in breach of the EU's Digital Services Act (DSA), a preliminary investigation has found, over the \"addictive\" design of Instagram and Facebook. It's likely to be forced to redesign both apps and could face a fine of up to $12 billion. The European Commission said Meta \"did not adequately assess the risks of its addictive design on the physical and mental wellbeing of users, including minors and vulnerable adults.\" It singled out features like personalized recommendations, autoplay, and infinite scroll, arguing that they \"fuel the user's urge to keep scrolling and shift the brain into 'autopilot mode.'\" The report also criticizes th … Read the full story at The Verge.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
+      "category": "科技",
       "regions": [
-        "亚洲",
-        "欧洲"
+        "Americas"
       ],
       "heat": {
-        "score": 77,
-        "sourceCount": 4,
-        "regionCount": 2,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "score": 88,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-6",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/policy/963872/meta-eu-addictive-design-200b-fine-risk-digital-services-act-dsa",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-10T10:52:53.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-6",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T14:19:40.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "大型城市住房与生活成本议题升温",
-      "summaryZh": "多地媒体报道，住房负担和生活成本再次成为城市政策焦点。地方政府正在讨论租赁、补贴和供应侧措施。",
-      "category": "社会",
+      "titleZh": "China lands reusable rocket for first time, state media says",
+      "summaryZh": "自动摘要：It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.。该事件由 2 个来源报道，保留原文链接供继续阅读。",
+      "category": "国际",
       "regions": [
-        "北美",
-        "欧洲"
+        "Europe"
       ],
       "heat": {
-        "score": 73,
-        "sourceCount": 4,
-        "regionCount": 2,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "score": 87,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-7",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-10T06:44:21.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-7",
+          "name": "DW",
+          "url": "https://www.dw.com/en/china-retrieves-booster-in-reusable-rocket-breakthrough/a-77904960?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T11:26:00.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "国际赛事进入关键阶段，多支强队晋级",
-      "summaryZh": "体育媒体集中报道了重要国际赛事的淘汰赛结果。晋级队伍和明星选手表现成为社交媒体热点。",
-      "category": "体育",
+      "titleZh": "Anker&#8217;s 3-in-1 Qi2.2 charging station is $95 off",
+      "summaryZh": "自动摘要：Anker’s Prime Wireless Charging Station can deliver up to 25W of power to compatible iPhones. If you’re looking to declutter your nightstand and quickly charge up to three of your most-used gadgets, Anker’s Prime Wireless Charging Station is an easy way to do both. The station has spots for your MagSafe-ready iPhone, Apple Watch, and AirPods, and right now it’s down to a new all-time low of $134.99 ($95 off) in white at Amazon and directly from Anker with code WS7DV2LJ3JGU. You can also buy it in black from either retailer for $5 more. Anker Prime Wireless Charging Station (3-in-1, MagGo, AirCool, Dock Stand) Where to Buy: $229.99 $134.99 at Amazon $229.99 $134.99 at Anker (with code WS7DV2LJ3JGU) The Qi2.2-compatible charger supports up to 25W wireless charging for compatible iPhones (the iPhone 16 and up, excluding the 16E and 17E). Anker claims this charging station can bring an iPhone 17 Pro from 0 to 50 percent in about 22 minutes. It also includes dedicated 5W charging pads for an Apple Watch and AirPods (or another pair that includes a wireless charging case), allowing you to power all three devices simultaneously. You can switch between three charging modes depending on your priorities, whether that’s fast top-ups, cooler charging, or quiet, slower charging overnight. What makes this 3-in-1 charger stand out from the competition is its 1.65-inch touchscreen that displays each device’s charging status, power draw, or temperature. If you’d rather customize things, you can pair it with Anker’s app to adjust settings, switch charging modes, and tweak the display. The adjustable phone stand tilts up to 80 degrees, and Anker even includes a 65W USB-C power adapter and cable in the box, so you won’t need to buy those separately. A few more worthwhile deals You can buy the Fanttik A10 Pro digital tape measure for $49.99 ($40 off) with code AKJL8MH3 at Amazon, which marks a new low price. The tool functions as both a 165-foot laser distance meter and a 9.8-foot digital tape measure, making it useful for measuring rooms and hanging stuff on your wall. It also features a bright 1.47-inch color display, and supports measurements in six different units. The digital tape measure can calculate distance, area, and volume, too. It supports USB-C charging and stores up to 30 previous measurements. Sounds like a good upgrade to me if you’re always tinkering. You can save up to $700 on LG’s C6 series of OLED TVs when you buy directly from LG, with free installation and up to $200 in Uber Eats or DoorDash credits that you won’t get from other retailers. The biggest savings are currently on the larger models, like the $1,999.99 ($700 off) 65-inch model. If you want a smaller size, the $1,699.99 ($300 off) 55-inch model is discounted but includes just $100 in Uber Eats or DoorDash credit compared to $200 with larger sizes. All of the TVs in this series sport excellent OLED panels with rich contrast and deep blacks, along with support for 165Hz refresh rate, Nvidia G-Sync and AMD FreeSync Premium variable refresh rate, Dolby Atmos support, and more. Best Buy is throwing in a $30 gift card when you buy the Beats Powerbeats Pro 2 for $249.99. The workout-focused earbuds feature secure ear hooks, excellent active noise cancellation, and built-in heart rate monitoring that integrates with apps like Nike Run Club, Peloton, and more. If you’re an Apple Fitness Plus user, you can also view metrics like your heart rate and calories burned. Read our review.。该事件由 1 个来源报道，保留原文链接供继续阅读。",
+      "category": "科技",
       "regions": [
-        "全球"
+        "Americas"
       ],
       "heat": {
-        "score": 68,
-        "sourceCount": 4,
+        "score": 60,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-8",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/gadgets/963665/anker-prime-wireless-charging-station-lg-oled-c6-tv-deal-sale",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-8",
-          "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T15:11:08.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "全球影视奖项公布入围名单",
-      "summaryZh": "娱乐媒体报道，新一届影视奖项入围名单公布，流媒体作品和国际合拍项目受到关注。业内人士认为名单反映了内容市场的全球化趋势。",
-      "category": "娱乐",
+      "titleZh": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+      "summaryZh": "自动摘要：The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.。该事件由 1 个来源报道，保留原文链接供继续阅读。",
+      "category": "科技",
       "regions": [
-        "美国",
-        "亚洲"
+        "Americas"
       ],
       "heat": {
-        "score": 62,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-9",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-9",
-          "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T15:00:09.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "网络安全机构披露新的企业软件漏洞风险",
-      "summaryZh": "多家科技媒体报道，安全研究人员披露了影响企业软件的新漏洞。厂商已发布缓解建议，企业 IT 团队正在排查受影响系统。",
+      "titleZh": "Netflix could be planning ‘always-on’ live TV channels",
+      "summaryZh": "自动摘要：Amid signs of slowing engagement, Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/7.。该事件由 1 个来源报道，保留原文链接供继续阅读。",
       "category": "科技",
       "regions": [
-        "全球"
+        "Americas"
       ],
       "heat": {
         "score": 60,
-        "sourceCount": 3,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-10",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-10",
-          "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T14:53:08.000Z"
         }
       ]
     }
