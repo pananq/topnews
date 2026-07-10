@@ -1,5 +1,7 @@
 import type { NewsCategory } from "../shared/categories";
 
+export type SourceKind = "news_rss" | "hacker_news" | "reddit";
+
 export interface NewsSourceConfig {
   name: string;
   url: string;
@@ -26,6 +28,7 @@ export interface NormalizedArticle {
   sourceUrl: string;
   sourceWeight: number;
   sourceRegion: string;
+  sourceKind?: SourceKind;
   language: string;
   title: string;
   summary: string;
@@ -33,6 +36,8 @@ export interface NormalizedArticle {
   publishedAt: string;
   categoryHint: NewsCategory;
   keywords: string[];
+  socialScore?: number;
+  commentCount?: number;
 }
 
 export interface NewsCluster {

@@ -1,295 +1,303 @@
 {
-  "generatedAt": "2026-07-10T16:42:49.321Z",
+  "generatedAt": "2026-07-10T16:53:25.175Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "sample",
   "events": [
     {
       "rank": 1,
-      "titleZh": "东亚准备应对破坏性台风，菲律宾山体滑坡已致15人死亡",
-      "summaryZh": "超强台风“巴威”宽度约1000公里，预计将成为几十年来最强风暴之一，正向台湾和中国东南部移动。菲律宾因台风引发的山体滑坡已造成15人死亡。台湾、日本和中国的居民正在囤积物资。",
-      "category": "气候",
+      "titleZh": "多国领导人就新一轮安全协议展开磋商",
+      "summaryZh": "过去 24 小时内，多家国际媒体报道了围绕地区安全协议的密集外交活动。报道显示，各方仍在关键条款上谈判，后续进展可能影响区域关系。",
+      "category": "政治",
       "regions": [
-        "菲律宾",
-        "台湾",
-        "中国",
-        "日本"
+        "欧洲",
+        "美国"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
+        "score": 91,
+        "sourceCount": 5,
         "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/sample-1",
           "language": "en",
-          "publishedAt": "2026-07-10T13:53:11.000Z"
+          "publishedAt": "2026-07-08T18:00:00.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/super-typhoon-as-wide-as-france-heads-to-east-asia?traffic_source=rss",
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/sample-1",
           "language": "en",
-          "publishedAt": "2026-07-10T14:08:37.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-10T12:49:14.000Z"
+          "publishedAt": "2026-07-08T20:00:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "伊朗最高领袖哈梅内伊在马什哈德下葬，数万人送行",
-      "summaryZh": "阿里·哈梅内伊被安葬在伊朗最神圣的什叶派穆斯林圣地伊玛目礼萨圣陵，结束了为期六天的公众哀悼仪式。伊朗新领导层将如何应对国内外的多个问题备受关注。",
-      "category": "政治",
+      "titleZh": "主要科技公司发布新一代人工智能治理承诺",
+      "summaryZh": "来自英语和欧洲媒体的报道显示，数家大型科技企业公布了新的 AI 安全测试与透明度承诺。监管机构和行业组织正在评估这些承诺的约束力。",
+      "category": "科技",
       "regions": [
-        "伊朗"
+        "美国",
+        "欧洲"
       ],
       "heat": {
-        "score": 96,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 88,
+        "sourceCount": 5,
+        "regionCount": 2,
+        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/sample-2",
           "language": "en",
-          "publishedAt": "2026-07-09T23:18:18.000Z"
+          "publishedAt": "2026-07-08T18:00:00.000Z"
         },
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c4gym0r7kj1o?at_medium=RSS&at_campaign=rss",
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/sample-2",
           "language": "en",
-          "publishedAt": "2026-07-09T20:16:13.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/iran-war-former-supreme-leader-buried-amid-new-escalation/live-77899274?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-10T06:44:00.000Z"
+          "publishedAt": "2026-07-08T20:00:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "被指控谋杀摩纳哥爆炸案嫌疑人的乌克兰特工改变口供",
-      "summaryZh": "两名与乌克兰安全部门有关联的男子被指控杀害阿纳斯塔西娅·别列佐夫斯卡，并将尸体丢弃在树林中。作案动机仍不清楚，事件在两国引发关注。",
-      "category": "国际",
+      "titleZh": "全球市场关注主要央行最新利率信号",
+      "summaryZh": "金融媒体集中报道了主要央行对通胀和利率路径的最新表态。投资者正在重新定价债券、股票和外汇市场风险。",
+      "category": "经济",
       "regions": [
-        "乌克兰",
-        "摩纳哥"
+        "全球"
       ],
       "heat": {
-        "score": 94,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 84,
+        "sourceCount": 5,
+        "regionCount": 1,
+        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/sample-3",
           "language": "en",
-          "publishedAt": "2026-07-09T20:47:41.000Z"
+          "publishedAt": "2026-07-08T18:00:00.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/10/ukrainian-court-detains-alleged-killers-of-monaco-bomb-attack-suspect?traffic_source=rss",
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/sample-3",
           "language": "en",
-          "publishedAt": "2026-07-10T14:01:22.000Z"
+          "publishedAt": "2026-07-08T20:00:00.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "瑞安航空航班上男子险些被吸出窗外",
-      "summaryZh": "一架从希腊飞往德国的瑞安航空航班上，一名男子因窗户破裂险些被吸出舱外，他的妻子抓住他的双腿约五分钟才阻止其被吸出。事件正在调查中。",
-      "category": "社会",
+      "titleZh": "联合国机构警告多地人道援助压力上升",
+      "summaryZh": "多家媒体援引国际组织消息称，冲突、粮食价格和极端天气正在推高部分地区的人道援助需求。援助机构呼吁增加资金和通行保障。",
+      "category": "国际",
       "regions": [
-        "欧洲"
+        "非洲",
+        "中东"
       ],
       "heat": {
-        "score": 90,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 82,
+        "sourceCount": 5,
+        "regionCount": 2,
+        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/sample-4",
           "language": "en",
-          "publishedAt": "2026-07-10T16:42:24.000Z"
+          "publishedAt": "2026-07-08T18:00:00.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/passenger-partly-sucked-from-ryanair-plane-during-flight/a-77909298?maca=en-rss-en-all-1573-rdf",
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/sample-4",
           "language": "en",
-          "publishedAt": "2026-07-10T14:15:00.000Z"
+          "publishedAt": "2026-07-08T20:00:00.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "迪士尼+据报正在考虑推出免费流媒体层",
-      "summaryZh": "据商业内幕报道，迪士尼+首席产品和技术官亚当·史密斯在全公司会议中提到免费流媒体层计划。迪士尼希望通过免费内容更好地与YouTube和Tubi等免费服务竞争，但具体内容和推出时间尚不清楚。",
-      "category": "科技",
+      "titleZh": "关键海域航运安全事件引发国际关注",
+      "summaryZh": "国际新闻源报道，近期航运安全事件影响了部分商业航线。航运企业和政府机构正在评估风险并调整通行安排。",
+      "category": "安全",
       "regions": [
-        "美国"
+        "中东",
+        "欧洲"
       ],
       "heat": {
-        "score": 90,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 80,
+        "sourceCount": 4,
+        "regionCount": 2,
+        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/streaming/964056/disney-plus-free-tier-report",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/sample-5",
           "language": "en",
-          "publishedAt": "2026-07-10T15:33:58.000Z"
+          "publishedAt": "2026-07-08T18:00:00.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/sample-5",
           "language": "en",
-          "publishedAt": "2026-07-10T16:29:05.000Z"
+          "publishedAt": "2026-07-08T20:00:00.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "中国首次成功着陆可重复使用火箭",
-      "summaryZh": "中国首次实现可重复使用火箭的回收着陆，继美国SpaceX和蓝色起源之后加入该技术俱乐部。中国开发者采用了一种不同于现有玩家的替代着陆方案。",
-      "category": "科技",
+      "titleZh": "新一轮极端高温影响多个国家公共服务",
+      "summaryZh": "气象和公共媒体报道，多国在过去 24 小时内发布高温预警。电力、交通和医疗系统面临短期压力。",
+      "category": "气候",
       "regions": [
-        "中国"
+        "亚洲",
+        "欧洲"
       ],
       "heat": {
-        "score": 86,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 77,
+        "sourceCount": 4,
+        "regionCount": 2,
+        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/sample-6",
           "language": "en",
-          "publishedAt": "2026-07-10T06:44:21.000Z"
+          "publishedAt": "2026-07-08T18:00:00.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/china-retrieves-booster-in-reusable-rocket-breakthrough/a-77904960?maca=en-rss-en-all-1573-rdf",
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/sample-6",
           "language": "en",
-          "publishedAt": "2026-07-10T11:26:00.000Z"
+          "publishedAt": "2026-07-08T20:00:00.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "西班牙对阵比利时：2026年世界杯四分之一决赛直播",
-      "summaryZh": "西班牙与比利时在2026年世界杯四分之一决赛中交锋，胜者将在半决赛对阵法国。比赛正在进行中并提供文字直播。",
-      "category": "体育",
+      "titleZh": "大型城市住房与生活成本议题升温",
+      "summaryZh": "多地媒体报道，住房负担和生活成本再次成为城市政策焦点。地方政府正在讨论租赁、补贴和供应侧措施。",
+      "category": "社会",
       "regions": [
-        "西班牙",
-        "比利时"
+        "北美",
+        "欧洲"
       ],
       "heat": {
-        "score": 71,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 73,
+        "sourceCount": 4,
+        "regionCount": 2,
+        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/7/10/spain-vs-belgium-live-fifa-world-cup-2026-quarterfinal?traffic_source=rss",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/sample-7",
           "language": "en",
-          "publishedAt": "2026-07-10T15:34:18.000Z"
+          "publishedAt": "2026-07-08T18:00:00.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/fifa-world-cup-2026-day-29?traffic_source=rss",
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/sample-7",
           "language": "en",
-          "publishedAt": "2026-07-10T11:10:19.000Z"
+          "publishedAt": "2026-07-08T20:00:00.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "祖鲁国王对视频中辱骂妻子表示后悔",
-      "summaryZh": "一段在南非广泛传播的视频显示，祖鲁国王米苏祖鲁·卡兹韦利蒂尼威胁要殴打妻子并指责她出轨。事后国王发表声明表示后悔。",
-      "category": "社会",
+      "titleZh": "国际赛事进入关键阶段，多支强队晋级",
+      "summaryZh": "体育媒体集中报道了重要国际赛事的淘汰赛结果。晋级队伍和明星选手表现成为社交媒体热点。",
+      "category": "体育",
       "regions": [
-        "南非"
+        "全球"
       ],
       "heat": {
-        "score": 60,
-        "sourceCount": 1,
+        "score": 68,
+        "sourceCount": 4,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/sample-8",
           "language": "en",
-          "publishedAt": "2026-07-10T16:42:11.000Z"
+          "publishedAt": "2026-07-08T18:00:00.000Z"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/sample-8",
+          "language": "en",
+          "publishedAt": "2026-07-08T20:00:00.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "Netflix正在变成YouTube",
-      "summaryZh": "Netflix不断扩展其内容领域，包括电视剧、电影、游戏、直播体育和播客，如今似乎还要加入YouTube风格的视频。评论认为这家公司试图与YouTube竞争，但前路未知。",
-      "category": "科技",
+      "titleZh": "全球影视奖项公布入围名单",
+      "summaryZh": "娱乐媒体报道，新一届影视奖项入围名单公布，流媒体作品和国际合拍项目受到关注。业内人士认为名单反映了内容市场的全球化趋势。",
+      "category": "娱乐",
       "regions": [
-        "美国"
+        "美国",
+        "亚洲"
       ],
       "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 62,
+        "sourceCount": 3,
+        "regionCount": 2,
+        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/sample-9",
           "language": "en",
-          "publishedAt": "2026-07-10T16:29:50.000Z"
+          "publishedAt": "2026-07-08T18:00:00.000Z"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/sample-9",
+          "language": "en",
+          "publishedAt": "2026-07-08T20:00:00.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "Dumb Co挑战我用被破解的翻盖手机换iPhone",
-      "summaryZh": "Dumb Co销售可与智能手机同步的翻盖手机，旨在融合iPhone的无限连接与早期翻盖手机的有限功能。作者尝试了这种手机，体验独特。",
+      "titleZh": "网络安全机构披露新的企业软件漏洞风险",
+      "summaryZh": "多家科技媒体报道，安全研究人员披露了影响企业软件的新漏洞。厂商已发布缓解建议，企业 IT 团队正在排查受影响系统。",
       "category": "科技",
       "regions": [
-        "美国"
+        "全球"
       ],
       "heat": {
         "score": 60,
-        "sourceCount": 1,
+        "sourceCount": 3,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
       },
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/sample-10",
           "language": "en",
-          "publishedAt": "2026-07-10T16:06:49.000Z"
+          "publishedAt": "2026-07-08T18:00:00.000Z"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/sample-10",
+          "language": "en",
+          "publishedAt": "2026-07-08T20:00:00.000Z"
         }
       ]
     }

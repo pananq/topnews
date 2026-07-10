@@ -19,6 +19,21 @@ npm run validate:data
 
 默认 AI provider 是 DeepSeek。没有当前 provider 对应的 API Key 时，生成脚本会使用确定性的中文 fallback 摘要，并保留来源链接；这保证 GitHub Pages 和本地开发在没有密钥时仍可展示数据。
 
+## 数据源
+
+数据生成脚本会抓取两类信号：
+
+- 新闻 RSS：配置在 `src/pipeline/sources.ts`。
+- 社区热度：Hacker News top stories 和 Reddit 日榜，逻辑在 `src/pipeline/socialSources.ts`。
+
+Reddit 默认抓取这些 subreddit：
+
+```text
+worldnews, news, technology, science, business
+```
+
+如果要调整 Reddit 来源，修改 `src/pipeline/socialSources.ts` 里的 `DEFAULT_REDDIT_SUBREDDITS`。
+
 ## GitHub Pages
 
 1. 在仓库 Settings -> Pages 中选择 GitHub Actions。

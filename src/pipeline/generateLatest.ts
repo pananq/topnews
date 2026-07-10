@@ -5,6 +5,7 @@ import { clusterArticles } from "./cluster";
 import { normalizeArticle } from "./normalize";
 import { rankClusters } from "./rank";
 import { NEWS_SOURCES } from "./sources";
+import { fetchSocialArticles } from "./socialSources";
 import { isWithinWindow } from "./time";
 import type { NewsSourceConfig, NormalizedArticle, RawFeedItem } from "./types";
 import { summarizeClusters, type AiProvider } from "./aiSummaries";
@@ -53,7 +54,7 @@ export async function generateLatestNews(options: GenerateOptions = {}): Promise
 
 async function fetchRecentArticles(now: Date): Promise<NormalizedArticle[]> {
   const enabledSources = NEWS_SOURCES.filter((source) => source.enabled);
-  const settled = await Promise.allSettled(enabledSources.map((source) => fetchSource(source, now)));
+  const settled = await Promise.allSettled([...enabledSources.map((source) => fetchSource(source, now)), fetchSocialArticles(now)]);
 
   return settled.flatMap((result) => (result.status === "fulfilled" ? result.value : []));
 }
