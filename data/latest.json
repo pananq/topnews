@@ -1,303 +1,334 @@
 {
-  "generatedAt": "2026-07-10T16:53:25.175Z",
+  "generatedAt": "2026-07-10T16:55:04.338Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "sample",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "多国领导人就新一轮安全协议展开磋商",
-      "summaryZh": "过去 24 小时内，多家国际媒体报道了围绕地区安全协议的密集外交活动。报道显示，各方仍在关键条款上谈判，后续进展可能影响区域关系。",
-      "category": "政治",
+      "titleZh": "超级台风“巴威”袭击东亚，菲律宾山体滑坡致15人死亡",
+      "summaryZh": "宽达1000公里的超级台风“巴威”正在向台湾和中国东南部移动，预计将成为几十年来最强风暴之一。菲律宾因台风引发山体滑坡已造成15人死亡，台湾、日本和中国居民正在囤积物资。",
+      "category": "气候",
       "regions": [
-        "欧洲",
-        "美国"
+        "东亚",
+        "菲律宾",
+        "台湾",
+        "中国",
+        "日本"
       ],
       "heat": {
-        "score": 91,
-        "sourceCount": 5,
+        "score": 100,
+        "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-1",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-10T13:53:11.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-1",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/super-typhoon-as-wide-as-france-heads-to-east-asia?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T14:08:37.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-10T12:49:14.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "主要科技公司发布新一代人工智能治理承诺",
-      "summaryZh": "来自英语和欧洲媒体的报道显示，数家大型科技企业公布了新的 AI 安全测试与透明度承诺。监管机构和行业组织正在评估这些承诺的约束力。",
-      "category": "科技",
+      "titleZh": "瑞安航空航班上男子险些被吸出窗外",
+      "summaryZh": "在一架从希腊飞往德国的瑞安航空航班上，一名男子因窗户脱落险些被吸出机舱。他的妻子紧紧抓住他的腿约五分钟才使他脱险，官方已确认此事。",
+      "category": "社会",
       "regions": [
-        "美国",
-        "欧洲"
+        "欧洲",
+        "希腊",
+        "德国"
       ],
       "heat": {
-        "score": 88,
-        "sourceCount": 5,
+        "score": 100,
+        "sourceCount": 3,
         "regionCount": 2,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-2",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-10T16:42:24.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-2",
+          "name": "DW",
+          "url": "https://www.dw.com/en/passenger-partly-sucked-from-ryanair-plane-during-flight/a-77909298?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T14:15:00.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.rte.ie/news/2026/0710/1582735-world-ryanair/",
+          "language": "en",
+          "publishedAt": "2026-07-10T13:40:31.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "全球市场关注主要央行最新利率信号",
-      "summaryZh": "金融媒体集中报道了主要央行对通胀和利率路径的最新表态。投资者正在重新定价债券、股票和外汇市场风险。",
-      "category": "经济",
+      "titleZh": "中国首次成功回收可重复使用火箭",
+      "summaryZh": "中国国营航天公司首次成功回收了一枚轨道级火箭助推器，标志着中国成为少数具备此能力的航天大国之一。该技术类似于SpaceX和蓝色起源的回收方式，但采用了不同的着陆方法。",
+      "category": "科技",
       "regions": [
-        "全球"
+        "中国"
       ],
       "heat": {
-        "score": 84,
-        "sourceCount": 5,
-        "regionCount": 1,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 2,
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-3",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-10T06:44:21.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-3",
+          "name": "DW",
+          "url": "https://www.dw.com/en/china-retrieves-booster-in-reusable-rocket-breakthrough/a-77904960?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T11:26:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+          "language": "en",
+          "publishedAt": "2026-07-10T16:51:07.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "联合国机构警告多地人道援助压力上升",
-      "summaryZh": "多家媒体援引国际组织消息称，冲突、粮食价格和极端天气正在推高部分地区的人道援助需求。援助机构呼吁增加资金和通行保障。",
-      "category": "国际",
+      "titleZh": "Hacker News热议：青铜时代晚期崩溃",
+      "summaryZh": "Hacker News上关于青铜时代晚期崩溃的帖子获得201分和111条评论，引发广泛讨论。该话题涉及古代文明的衰落原因。",
+      "category": "社会",
       "regions": [
-        "非洲",
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 82,
-        "sourceCount": 5,
-        "regionCount": 2,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "score": 100,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-4",
+          "name": "Hacker News",
+          "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-10T11:59:55.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-4",
+          "name": "Hacker News",
+          "url": "https://lesleylai.info/en/flashcards/",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T15:30:44.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://elonlit.com/scrivings/the-annotated-jepa/",
+          "language": "en",
+          "publishedAt": "2026-07-10T13:45:05.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "关键海域航运安全事件引发国际关注",
-      "summaryZh": "国际新闻源报道，近期航运安全事件影响了部分商业航线。航运企业和政府机构正在评估风险并调整通行安排。",
-      "category": "安全",
+      "titleZh": "欧盟威胁因成瘾功能对Meta处以罚款",
+      "summaryZh": "欧盟委员会认定Meta旗下Facebook和Instagram的无限滚动、自动播放、推送通知及高度个性化推荐算法违反《数字服务法》，构成成瘾性设计，可能面临巨额罚款。",
+      "category": "科技",
       "regions": [
-        "中东",
-        "欧洲"
+        "欧盟"
       ],
       "heat": {
-        "score": 80,
-        "sourceCount": 4,
+        "score": 100,
+        "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-5",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-10T14:19:40.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-5",
+          "name": "Hacker News",
+          "url": "https://ec.europa.eu/commission/presscorner/home/en",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T11:00:15.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "新一轮极端高温影响多个国家公共服务",
-      "summaryZh": "气象和公共媒体报道，多国在过去 24 小时内发布高温预警。电力、交通和医疗系统面临短期压力。",
-      "category": "气候",
+      "titleZh": "伊朗已故最高领袖哈梅内伊安葬，数万人送别",
+      "summaryZh": "伊朗前最高领袖阿里·哈梅内伊被安葬在马什哈德的伊玛目礼萨圣陵，为期六天的全国哀悼结束。与此同时，伊朗面临新的局势升级，部分油轮仍在通过霍尔木兹海峡。",
+      "category": "国际",
       "regions": [
-        "亚洲",
-        "欧洲"
+        "伊朗",
+        "中东"
       ],
       "heat": {
-        "score": 77,
-        "sourceCount": 4,
-        "regionCount": 2,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "score": 96,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-6",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-09T23:18:18.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-6",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c4gym0r7kj1o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-09T20:16:13.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/iran-war-former-supreme-leader-buried-amid-new-escalation/live-77899274?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-10T06:44:00.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "大型城市住房与生活成本议题升温",
-      "summaryZh": "多地媒体报道，住房负担和生活成本再次成为城市政策焦点。地方政府正在讨论租赁、补贴和供应侧措施。",
-      "category": "社会",
+      "titleZh": "乌克兰特工涉嫌谋杀摩纳哥爆炸案嫌疑人并改口供",
+      "summaryZh": "两名与乌克兰安全部门有关联的男子被指控谋杀阿纳斯塔西娅·别列佐夫斯卡并抛尸树林。嫌疑人起初承认后又改口，动机尚不明确，案件引发两国关注。",
+      "category": "国际",
       "regions": [
-        "北美",
-        "欧洲"
+        "乌克兰",
+        "摩纳哥"
       ],
       "heat": {
-        "score": 73,
-        "sourceCount": 4,
+        "score": 94,
+        "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-7",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-09T20:47:41.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-7",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/10/ukrainian-court-detains-alleged-killers-of-monaco-bomb-attack-suspect?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T14:01:22.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "国际赛事进入关键阶段，多支强队晋级",
-      "summaryZh": "体育媒体集中报道了重要国际赛事的淘汰赛结果。晋级队伍和明星选手表现成为社交媒体热点。",
-      "category": "体育",
+      "titleZh": "迪士尼+考虑推出免费流媒体层级",
+      "summaryZh": "据报道，迪士尼+正在考虑推出免费流媒体服务，以与YouTube和Tubi等免费平台竞争。首席产品和技术官在内部会议中提及此计划，但具体内容和上线时间尚未确定。",
+      "category": "科技",
       "regions": [
-        "全球"
+        "美国"
       ],
       "heat": {
-        "score": 68,
-        "sourceCount": 4,
+        "score": 89,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-8",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/streaming/964056/disney-plus-free-tier-report",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-10T15:33:58.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-8",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T16:29:05.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "全球影视奖项公布入围名单",
-      "summaryZh": "娱乐媒体报道，新一届影视奖项入围名单公布，流媒体作品和国际合拍项目受到关注。业内人士认为名单反映了内容市场的全球化趋势。",
-      "category": "娱乐",
-      "regions": [
-        "美国",
-        "亚洲"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
-      },
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-9",
-          "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-9",
-          "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "网络安全机构披露新的企业软件漏洞风险",
-      "summaryZh": "多家科技媒体报道，安全研究人员披露了影响企业软件的新漏洞。厂商已发布缓解建议，企业 IT 团队正在排查受影响系统。",
+      "titleZh": "编程心得：写代码时要考虑人类维护",
+      "summaryZh": "Hacker News上关于“写代码要像人一样维护”的帖子获得209分和173条评论，强调了代码可读性和维护性的重要性。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 60,
-        "sourceCount": 3,
+        "score": 86,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "样例数据展示排名、来源数量和跨地区覆盖等热度信号。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/sample-10",
+          "name": "Hacker News",
+          "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
           "language": "en",
-          "publishedAt": "2026-07-08T18:00:00.000Z"
+          "publishedAt": "2026-07-10T13:33:00.000Z"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/sample-10",
+          "name": "Hacker News",
+          "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
           "language": "en",
-          "publishedAt": "2026-07-08T20:00:00.000Z"
+          "publishedAt": "2026-07-10T08:21:10.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "QuadRF设备可探测无人机并穿透墙壁识别WiFi信号",
+      "summaryZh": "Hacker News上关于QuadRF设备的讨论获得74分，该设备能够探测无人机并穿透墙壁识别WiFi信号，引发安全与隐私关注。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 85,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+          "language": "en",
+          "publishedAt": "2026-07-10T15:59:53.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://ianreppel.org/how-successful-companies-go-blind/",
+          "language": "en",
+          "publishedAt": "2026-07-10T13:31:08.000Z"
         }
       ]
     }
