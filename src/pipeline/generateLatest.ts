@@ -44,12 +44,33 @@ async function fetchRecentArticles(now: Date): Promise<NormalizedArticle[]> {
 
 async function fetchSource(source: NewsSourceConfig, now: Date): Promise<NormalizedArticle[]> {
   const parser = new Parser();
-  const feed = await parser.parseURL(source.url);
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 12_000);
 
-  return feed.items
-    .map((item) => normalizeArticle(item as RawFeedItem, source))
-    .filter((article): article is NormalizedArticle => Boolean(article))
-    .filter((article) => isWithinWindow(article.publishedAt, now, 24));
+  try {
+    const response = await fetch(source.url, {
+      signal: controller.signal,
+      headers: {
+        "User-Agent": "topnews-digest/0.1 (+https://github.com/pananq/topnews)",
+      },
+    });
+
+    if (!response.ok) {
+      throw new Error(`${source.name} returned HTTP ${response.status}`);
+    }
+
+    const feed = await parser.parseString(await response.text());
+
+    return feed.items
+      .map((item) => normalizeArticle(item as RawFeedItem, source))
+      .filter((article): article is NormalizedArticle => Boolean(article))
+      .filter((article) => isWithinWindow(article.publishedAt, now, 24));
+  } catch (error) {
+    console.warn(`Skipping ${source.name}: ${error instanceof Error ? error.message : String(error)}`);
+    return [];
+  } finally {
+    clearTimeout(timeout);
+  }
 }
 
 function ensureTenEvents(events: NewsEvent[]): NewsEvent[] {
