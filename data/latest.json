@@ -1,18 +1,63 @@
 {
-  "generatedAt": "2026-07-11T02:45:03.185Z",
+  "generatedAt": "2026-07-11T10:16:32.979Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "sample",
   "events": [
     {
       "rank": 1,
-      "titleZh": "苹果起诉OpenAI窃取商业机密",
-      "summaryZh": "苹果在诉讼中指控OpenAI及两名前员工窃取其硬件商业秘密，以推进OpenAI的硬件计划。苹果称发现OpenAI员工存在系统性地窃取商业秘密的行为。",
+      "titleZh": "第一条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "科技",
       "regions": [
-        "Europe",
-        "Middle East",
-        "Americas"
+        "欧洲",
+        "中东",
+        "美洲",
+        "全球"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 4,
+        "regionCount": 4,
+        "reasonZh": "共有 4 个来源、4 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-11T01:45:59.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/meta-backtracks-on-ai-image-feature-for-instagram-due-to-privacy-backlash?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-11T05:34:53.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+          "language": "en",
+          "publishedAt": "2026-07-10T23:55:07.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+          "language": "en",
+          "publishedAt": "2026-07-11T00:40:36.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "第二条财经要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "财经",
+      "regions": [
+        "欧洲",
+        "中东",
+        "美洲",
+        "全球"
       ],
       "heat": {
         "score": 100,
@@ -54,300 +99,192 @@
       ]
     },
     {
-      "rank": 2,
-      "titleZh": "Meta因强烈反对撤下Instagram新AI图像功能",
-      "summaryZh": "Meta本周推出允许用户基于公共Instagram账户内容生成AI图像的功能，但遭受广泛批评。该公司随后关闭该功能，并承认该功能“未能达到预期”。",
-      "category": "科技",
-      "regions": [
-        "Europe",
-        "Americas",
-        "Global"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 4,
-        "regionCount": 3,
-        "reasonZh": "共有 4 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-11T01:45:59.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-          "language": "en",
-          "publishedAt": "2026-07-10T23:49:50.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-          "language": "en",
-          "publishedAt": "2026-07-10T23:55:07.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-          "language": "en",
-          "publishedAt": "2026-07-11T00:40:36.000Z"
-        }
-      ]
-    },
-    {
       "rank": 3,
-      "titleZh": "欧盟认定Instagram和Facebook的“成瘾”功能违反规则",
-      "summaryZh": "欧盟委员会表示，Meta旗下平台的设计功能如无限滚动、自动播放等违反了《数字服务法案》，可能导致用户进入“自动驾驶模式”。Meta面临罚款威胁。",
+      "titleZh": "第三条国际要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "国际",
       "regions": [
-        "Middle East",
-        "Americas",
-        "Global"
+        "欧洲"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 3,
-        "reasonZh": "共有 3 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 70,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/10/eu-says-addictive-features-on-instagram-and-facebook-breach-its-rules?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-10T19:13:23.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260711-feu-en-espagne-12-morts-et-6-600-hectares-br%C3%BBl%C3%A9s-en-andalousie",
+          "language": "fr",
+          "publishedAt": "2026-07-11T08:45:59.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
-          "language": "en",
-          "publishedAt": "2026-07-10T14:19:40.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://ec.europa.eu/commission/presscorner/home/en",
-          "language": "en",
-          "publishedAt": "2026-07-10T11:00:15.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.cnbc.com/2026/07/10/meta-instagram-facebook-addictive-design-breach-eu-laws.html",
-          "language": "en",
-          "publishedAt": "2026-07-11T01:18:20.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260711-l-andalousie-d%C3%A9vor%C3%A9e-par-les-flammes-le-feu-le-plus-meurtrier-en-40-ans-en-espagne",
+          "language": "fr",
+          "publishedAt": "2026-07-11T08:39:15.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "中国首次成功着陆可重复使用火箭",
-      "summaryZh": "中国国有航天公司发射并回收了首枚轨道级火箭助推器，成为少数掌握该技术的国家之一。此举紧随美国SpaceX和蓝色起源的成功。",
-      "category": "科技",
+      "titleZh": "第四条政治要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "政治",
       "regions": [
-        "Europe",
-        "Americas"
+        "中东"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-10T06:44:21.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/china-retrieves-booster-in-reusable-rocket-breakthrough/a-77904960?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-10T11:26:00.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
-          "language": "en",
-          "publishedAt": "2026-07-10T16:51:07.000Z"
+          "publishedAt": "2026-07-11T08:04:57.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "古巴一周内第二次全岛停电，特朗普燃料封锁导致",
-      "summaryZh": "古巴电力系统因美国实施六个月的燃料封锁及基础设施老化而崩溃，一周内发生第二次全国性停电。",
-      "category": "政治",
+      "titleZh": "第五条体育要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "体育",
       "regions": [
-        "Middle East",
-        "Europe"
+        "中东"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/2026/7/11/video-world-cup-2026-highlights?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-10T23:18:08.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/cuba-suffers-second-nationwide-blackout-in-five-days/a-77913285?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-10T23:27:00.000Z"
+          "publishedAt": "2026-07-11T08:30:41.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "尼日利亚数十名被绑架学生和教师获救",
-      "summaryZh": "尼日利亚军方在西南部奥约州救出46名被绑架的儿童，这些儿童于两月前从三所学校被掳走。",
-      "category": "国际",
+      "titleZh": "第六条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
       "regions": [
-        "Middle East",
-        "Europe"
+        "全球"
       ],
       "heat": {
-        "score": 99,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
           "language": "en",
-          "publishedAt": "2026-07-10T21:01:27.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/nigerian-military-rescues-46-abducted-school-children/a-77912381?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-10T20:28:00.000Z"
+          "publishedAt": "2026-07-11T08:29:43.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "瑞安航空一乘客差点被吸出机舱窗外",
-      "summaryZh": "一名男子在瑞安航空从希腊飞往德国的航班上因窗户故障被部分吸出，其妻子抓住他的腿约五分钟才避免悲剧。",
-      "category": "国际",
+      "titleZh": "第七条政治要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "政治",
       "regions": [
-        "Europe"
+        "欧洲"
       ],
       "heat": {
-        "score": 86,
-        "sourceCount": 2,
+        "score": 62,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-10T16:42:24.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/passenger-partly-sucked-from-ryanair-plane-during-flight/a-77909298?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-10T14:15:00.000Z"
+          "publishedAt": "2026-07-11T04:56:33.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "迪士尼+据报考虑推出免费流媒体服务",
-      "summaryZh": "迪士尼首席产品和技术官在内部会议上提到免费流媒体层级，以与YouTube和Tubi等免费服务竞争。具体内容和推出时间尚未确定。",
-      "category": "科技",
+      "titleZh": "第八条政治要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "政治",
       "regions": [
-        "Americas"
+        "欧洲"
       ],
       "heat": {
-        "score": 83,
-        "sourceCount": 2,
+        "score": 62,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/streaming/964056/disney-plus-free-tier-report",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-10T15:33:58.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
-          "language": "en",
-          "publishedAt": "2026-07-10T16:29:05.000Z"
+          "publishedAt": "2026-07-11T04:47:37.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "QuadRF设备可探测无人机并透过墙壁看到WiFi信号",
-      "summaryZh": "据Hacker News报道，一种名为QuadRF的设备能够探测无人机并透过墙壁识别WiFi信号，引发技术社区广泛讨论。",
-      "category": "科技",
+      "titleZh": "第九条政治要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "政治",
       "regions": [
-        "Global"
+        "中东"
       ],
       "heat": {
-        "score": 83,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-10T15:59:53.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://ianreppel.org/how-successful-companies-go-blind/",
-          "language": "en",
-          "publishedAt": "2026-07-10T13:31:08.000Z"
+          "publishedAt": "2026-07-11T04:51:20.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "住宅代理和爬虫状况更新",
-      "summaryZh": "关于住宅代理和爬虫的更新在Hacker News上获得102分和89条评论，讨论了相关技术和现状。",
-      "category": "科技",
+      "titleZh": "第十条政治要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "政治",
       "regions": [
-        "Global"
+        "欧洲"
       ],
       "heat": {
-        "score": 83,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-          "language": "en",
-          "publishedAt": "2026-07-10T19:38:34.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://magik.net/freecad/",
-          "language": "en",
-          "publishedAt": "2026-07-11T00:44:00.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260711-s%C3%A9n%C3%A9gal-victoire-politique-pour-diomaye-faye-avec-l-invalidation-de-la-r%C3%A9forme-constitutionnelle",
+          "language": "fr",
+          "publishedAt": "2026-07-11T09:06:43.000Z"
         }
       ]
     }
