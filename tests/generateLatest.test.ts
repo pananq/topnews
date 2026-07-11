@@ -498,6 +498,7 @@ describe("generateLatestNews", () => {
     expect(prompt.clusters[0].clusterId).toBe("1");
     expect(prompt.clusters[0].category).toBe("科技");
     expect(prompt.instruction).toContain("不要输出分类字段");
+    expect(prompt.instruction).toContain("全部必须使用简体中文");
     expect(latest.status).toBe("partial");
     expect(latest.events[0].titleZh).toBe("美国参议院通过 AI 安全法案");
     expect(latest.events[0].category).toBe("科技");
@@ -588,6 +589,7 @@ describe("generateLatestNews", () => {
     expect(prompt.clusters[0].clusterId).toBe("1");
     expect(prompt.clusters[0].category).toBe("科技");
     expect(prompt.instruction).toContain("不要输出分类字段");
+    expect(prompt.instruction).toContain("全部必须使用简体中文");
     expect(latest.status).toBe("partial");
     expect(latest.events[0].category).toBe("科技");
   });

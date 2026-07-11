@@ -160,7 +160,8 @@ async function requestOpenAiSummaries(clusters: RankedCluster[], options: Summar
         {
           role: "user",
           content: JSON.stringify({
-            instruction: "为每个新闻事件生成中文标题、2-3 句中文摘要、影响地区和热度依据。每个输出事件必须原样包含输入的 clusterId。不要输出分类字段，不要根据内容改分类，不要编造事实。",
+            instruction:
+              "为每个新闻事件生成简体中文标题、2-3 句简体中文摘要、简体中文影响地区和简体中文热度依据。titleZh、summaryZh、regions、reasonZh 全部必须使用简体中文。每个输出事件必须原样包含输入的 clusterId。不要输出分类字段，不要根据内容改分类，不要编造事实。",
             clusters: clusters.map((cluster) => ({
               clusterId: cluster.id,
               representativeTitle: cluster.representativeTitle,
@@ -222,7 +223,7 @@ async function requestDeepSeekSummaries(clusters: RankedCluster[], options: Summ
           role: "user",
           content: JSON.stringify({
             instruction:
-              '请输出 json，格式为 {"events":[{"clusterId":"输入的 clusterId","titleZh":"...","summaryZh":"...","regions":["..."],"reasonZh":"..."}]}。为每个新闻事件生成中文标题、2-3 句中文摘要、影响地区和热度依据。每个输出事件必须原样包含输入的 clusterId。不要输出分类字段，不要根据内容改分类，不要编造事实。',
+              '请输出 json，格式为 {"events":[{"clusterId":"输入的 clusterId","titleZh":"...","summaryZh":"...","regions":["..."],"reasonZh":"..."}]}。为每个新闻事件生成简体中文标题、2-3 句简体中文摘要、简体中文影响地区和简体中文热度依据。titleZh、summaryZh、regions、reasonZh 全部必须使用简体中文。每个输出事件必须原样包含输入的 clusterId。不要输出分类字段，不要根据内容改分类，不要编造事实。',
             clusters: clusters.map((cluster) => ({
               clusterId: cluster.id,
               representativeTitle: cluster.representativeTitle,
