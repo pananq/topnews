@@ -20,15 +20,12 @@ const STOP_WORDS = new Set([
 ]);
 
 const CATEGORY_KEYWORDS: Record<NewsCategory, string[]> = {
-  "政治": ["election", "president", "minister", "senate", "parliament", "government", "diplomacy"],
   "科技": ["ai", "artificial", "technology", "software", "cyber", "chip", "space"],
-  "经济": ["market", "bank", "inflation", "rate", "trade", "stock", "economy"],
+  "财经": ["market", "stock", "stocks", "investor", "earnings", "shares", "bond", "crypto", "finance", "bank"],
+  "政治": ["election", "president", "minister", "senate", "parliament", "government", "diplomacy"],
+  "经济": ["inflation", "rate", "trade", "economy", "gdp", "tariff", "supply", "central"],
   "国际": ["global", "united", "nations", "world", "foreign", "border"],
-  "安全": ["war", "attack", "security", "military", "missile", "ship", "police"],
-  "气候": ["climate", "heat", "storm", "flood", "wildfire", "weather"],
-  "社会": ["housing", "school", "health", "cost", "city", "labor"],
   "体育": ["match", "tournament", "cup", "league", "final", "player"],
-  "娱乐": ["film", "music", "award", "streaming", "actor", "festival"],
 };
 
 const SYNONYMS = new Map([

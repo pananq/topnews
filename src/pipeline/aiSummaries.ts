@@ -1,4 +1,5 @@
 import type { NewsCategory } from "../shared/categories";
+import { CATEGORIES } from "../shared/categories";
 import type { NewsEvent } from "../shared/schema";
 import type { RankedCluster } from "./types";
 
@@ -35,7 +36,7 @@ const EVENT_SUMMARY_SCHEMA = {
         properties: {
           titleZh: { type: "string" },
           summaryZh: { type: "string" },
-          category: { enum: ["政治", "科技", "经济", "国际", "安全", "气候", "社会", "体育", "娱乐"] },
+          category: { enum: [...CATEGORIES] },
           regions: { type: "array", minItems: 1, items: { type: "string" } },
           reasonZh: { type: "string" },
         },
@@ -122,7 +123,7 @@ async function requestOpenAiSummaries(clusters: RankedCluster[], options: Summar
         {
           role: "user",
           content: JSON.stringify({
-            instruction: "为每个新闻事件生成中文标题、2-3 句中文摘要、一个主分类、影响地区和热度依据。",
+            instruction: `为每个新闻事件生成中文标题、2-3 句中文摘要、一个主分类、影响地区和热度依据。主分类只能从这些值中选择：${CATEGORIES.join("、")}。不要使用气候、安全、社会、娱乐等非目标分类。`,
             clusters: clusters.map((cluster) => ({
               representativeTitle: cluster.representativeTitle,
               heat: cluster.heat,
@@ -183,7 +184,7 @@ async function requestDeepSeekSummaries(clusters: RankedCluster[], options: Summ
           role: "user",
           content: JSON.stringify({
             instruction:
-              "请输出 json，格式为 {\"events\":[{\"titleZh\":\"...\",\"summaryZh\":\"...\",\"category\":\"政治|科技|经济|国际|安全|气候|社会|体育|娱乐\",\"regions\":[\"...\"],\"reasonZh\":\"...\"}]}。为每个新闻事件生成中文标题、2-3 句中文摘要、一个主分类、影响地区和热度依据。",
+              `请输出 json，格式为 {"events":[{"titleZh":"...","summaryZh":"...","category":"${CATEGORIES.join("|")}","regions":["..."],"reasonZh":"..."}]}。为每个新闻事件生成中文标题、2-3 句中文摘要、一个主分类、影响地区和热度依据。主分类只能从这些值中选择：${CATEGORIES.join("、")}。不要使用气候、安全、社会、娱乐等非目标分类。`,
             clusters: clusters.map((cluster) => ({
               representativeTitle: cluster.representativeTitle,
               heat: cluster.heat,

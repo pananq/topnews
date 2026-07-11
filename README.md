@@ -2,6 +2,8 @@
 
 一个部署在 GitHub Pages 上的静态新闻网站。页面每天北京时间早上 8 点展示过去 24 小时全球最热门的十大新闻事件，用中文标题和摘要呈现，并保留原文来源链接。
 
+当前重点分类为：科技、财经、政治、经济、国际、体育。
+
 ## 本地开发
 
 ```bash
@@ -29,7 +31,7 @@ npm run validate:data
 Reddit 默认抓取这些 subreddit：
 
 ```text
-worldnews, news, technology, science, business
+worldnews, news, technology, science, business, finance, economics, sports
 ```
 
 如果要调整 Reddit 来源，修改 `src/pipeline/socialSources.ts` 里的 `DEFAULT_REDDIT_SUBREDDITS`。

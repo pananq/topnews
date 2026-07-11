@@ -6,7 +6,7 @@ import type { NormalizedArticle } from "./types";
 const HN_TOP_STORIES_URL = "https://hacker-news.firebaseio.com/v0/topstories.json";
 const HN_ITEM_URL = "https://hacker-news.firebaseio.com/v0/item";
 const REDDIT_BASE_URL = "https://www.reddit.com/r";
-const DEFAULT_REDDIT_SUBREDDITS = ["worldnews", "news", "technology", "science", "business"] as const;
+const DEFAULT_REDDIT_SUBREDDITS = ["worldnews", "news", "technology", "science", "business", "finance", "economics", "sports"] as const;
 const REQUEST_TIMEOUT_MS = 12_000;
 
 interface HackerNewsItem {
@@ -174,8 +174,16 @@ function redditCategory(subreddit: string): NewsCategory {
     return "科技";
   }
 
-  if (["business", "economics", "finance"].includes(normalized)) {
+  if (["business", "finance"].includes(normalized)) {
+    return "财经";
+  }
+
+  if (["economics"].includes(normalized)) {
     return "经济";
+  }
+
+  if (["sports"].includes(normalized)) {
+    return "体育";
   }
 
   return "国际";
