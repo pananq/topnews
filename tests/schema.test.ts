@@ -5,7 +5,7 @@ import latest from "../data/latest.json";
 
 describe("latest news schema", () => {
   it("uses the preferred focus categories only", () => {
-    expect(CATEGORIES).toEqual(["科技", "财经", "政治", "经济", "国际", "体育"]);
+    expect(CATEGORIES).toEqual(["科技", "财经", "政治", "国际", "体育"]);
   });
 
   it("accepts the bundled sample latest.json with ten ranked events", () => {

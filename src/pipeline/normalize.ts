@@ -21,9 +21,27 @@ const STOP_WORDS = new Set([
 
 const CATEGORY_KEYWORDS: Record<NewsCategory, string[]> = {
   "科技": ["ai", "artificial", "technology", "software", "cyber", "chip", "space"],
-  "财经": ["market", "stock", "stocks", "investor", "earnings", "shares", "bond", "crypto", "finance", "bank"],
+  "财经": [
+    "market",
+    "stock",
+    "stocks",
+    "investor",
+    "earnings",
+    "shares",
+    "bond",
+    "crypto",
+    "finance",
+    "bank",
+    "inflation",
+    "rate",
+    "trade",
+    "economy",
+    "gdp",
+    "tariff",
+    "supply",
+    "central",
+  ],
   "政治": ["election", "president", "minister", "senate", "parliament", "government", "diplomacy"],
-  "经济": ["inflation", "rate", "trade", "economy", "gdp", "tariff", "supply", "central"],
   "国际": ["global", "united", "nations", "world", "foreign", "border"],
   "体育": ["match", "tournament", "cup", "league", "final", "player"],
 };
@@ -53,7 +71,14 @@ export function normalizeArticle(raw: RawFeedItem, source: NewsSourceConfig): No
   }
 
   const summary = cleanText(raw.contentSnippet ?? raw.content ?? "");
-  const keywords = extractKeywords(`${title} ${summary}`);
+  const text = `${title} ${summary}`;
+  const categoryHint = source.categoryHint ?? inferCategory(text);
+
+  if (!categoryHint) {
+    return null;
+  }
+
+  const keywords = extractKeywords(text);
 
   return {
     id: `${source.name}:${url}`,
@@ -66,7 +91,7 @@ export function normalizeArticle(raw: RawFeedItem, source: NewsSourceConfig): No
     summary,
     url,
     publishedAt: new Date(publishedAt).toISOString(),
-    categoryHint: source.categoryHint ?? inferCategory(`${title} ${summary}`),
+    categoryHint,
     keywords,
   };
 }
@@ -83,9 +108,9 @@ export function extractKeywords(text: string): string[] {
   return [...new Set(tokens)].slice(0, 18);
 }
 
-export function inferCategory(text: string): NewsCategory {
+export function inferCategory(text: string): NewsCategory | null {
   const words = new Set(extractKeywords(text));
-  let bestCategory: NewsCategory = "国际";
+  let bestCategory: NewsCategory | null = null;
   let bestScore = 0;
 
   for (const category of CATEGORIES) {

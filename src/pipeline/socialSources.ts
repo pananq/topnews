@@ -174,12 +174,8 @@ function redditCategory(subreddit: string): NewsCategory {
     return "科技";
   }
 
-  if (["business", "finance"].includes(normalized)) {
+  if (["business", "finance", "economics"].includes(normalized)) {
     return "财经";
-  }
-
-  if (["economics"].includes(normalized)) {
-    return "经济";
   }
 
   if (["sports"].includes(normalized)) {

@@ -1,5 +1,6 @@
 import { describe, expect, it } from "vitest";
 import { clusterArticles } from "../src/pipeline/cluster";
+import { inferCategory, normalizeArticle } from "../src/pipeline/normalize";
 import { rankClusters } from "../src/pipeline/rank";
 import { isWithinWindow } from "../src/pipeline/time";
 import type { NormalizedArticle } from "../src/pipeline/types";
@@ -7,6 +8,31 @@ import type { NormalizedArticle } from "../src/pipeline/types";
 const now = new Date("2026-07-09T00:00:00.000Z");
 
 describe("news pipeline", () => {
+  it("merges economic reporting into finance", () => {
+    expect(inferCategory("Central bank cuts interest rates as inflation slows")).toBe("财经");
+  });
+
+  it("rejects articles outside the focus categories before ranking", () => {
+    const result = normalizeArticle(
+      {
+        title: "Local weather service forecasts a rainy weekend",
+        link: "https://example.com/weather",
+        isoDate: "2026-07-08T18:00:00.000Z",
+      },
+      {
+        name: "Broad Feed",
+        url: "https://example.com/rss",
+        homepage: "https://example.com",
+        language: "en",
+        region: "Americas",
+        weight: 1,
+        enabled: true,
+      },
+    );
+
+    expect(result).toBeNull();
+  });
+
   it("filters articles to the past 24 hours", () => {
     expect(isWithinWindow("2026-07-08T12:00:00.000Z", now, 24)).toBe(true);
     expect(isWithinWindow("2026-07-07T23:59:59.000Z", now, 24)).toBe(false);

@@ -8,7 +8,6 @@ export const NEWS_SOURCES: NewsSourceConfig[] = [
     language: "en",
     region: "Global",
     weight: 1.4,
-    categoryHint: "国际",
     enabled: true,
   },
   {
@@ -18,7 +17,6 @@ export const NEWS_SOURCES: NewsSourceConfig[] = [
     language: "en",
     region: "Europe",
     weight: 1.3,
-    categoryHint: "国际",
     enabled: true,
   },
   {
@@ -28,7 +26,6 @@ export const NEWS_SOURCES: NewsSourceConfig[] = [
     language: "en",
     region: "Middle East",
     weight: 1.2,
-    categoryHint: "国际",
     enabled: true,
   },
   {
@@ -38,7 +35,6 @@ export const NEWS_SOURCES: NewsSourceConfig[] = [
     language: "en",
     region: "Europe",
     weight: 1.1,
-    categoryHint: "国际",
     enabled: true,
   },
   {
