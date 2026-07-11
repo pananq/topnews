@@ -36,4 +36,16 @@ describe("front-end helpers", () => {
     expect(html).toContain('href="https://example.com/?q=&quot; onclick=&quot;alert(1)"');
     expect(html).not.toContain('href="https://example.com/?q=" onclick="alert(1)"');
   });
+
+  it("escapes AI-provided regions before rendering", () => {
+    const event = {
+      ...LatestNewsSchema.parse(latest).events[0],
+      regions: ['中国<img src=x onerror="alert(1)">'],
+    };
+
+    const html = renderEvent(event);
+
+    expect(html).toContain("中国&lt;img src=x onerror=&quot;alert(1)&quot;&gt;");
+    expect(html).not.toContain('<img src=x onerror="alert(1)">');
+  });
 });

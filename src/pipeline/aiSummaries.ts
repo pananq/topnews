@@ -290,7 +290,7 @@ function orderSummariesByCluster(aiSummaries: AiEventSummary[], clusters: Ranked
 }
 
 function isChineseFacingSummary(summary: AiEventSummary): boolean {
-  return [summary.titleZh, summary.summaryZh, summary.reasonZh].every(isChineseFacingText);
+  return [summary.titleZh, summary.summaryZh, summary.reasonZh].every(isChineseFacingText) && summary.regions.every(isSafeChineseRegion);
 }
 
 function isChineseFacingText(value: string): boolean {
@@ -299,6 +299,10 @@ function isChineseFacingText(value: string): boolean {
   const denominator = cjkCount + latinCount;
 
   return cjkCount >= 4 && (denominator === 0 || cjkCount / denominator >= 0.35);
+}
+
+function isSafeChineseRegion(value: string): boolean {
+  return !/[<>]/.test(value) && /[\u4e00-\u9fff]/.test(value);
 }
 
 function unique(values: string[]): string[] {

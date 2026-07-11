@@ -114,7 +114,7 @@ export function renderEvent(event: NewsEvent): string {
       <div class="event-body">
         <div class="event-meta">
           <span class="category">${event.category}</span>
-          <span>${event.regions.join(" / ")}</span>
+          <span>${event.regions.map(escapeHtml).join(" / ")}</span>
           <span>热度 ${event.heat.score}</span>
         </div>
         <h2>${escapeHtml(event.titleZh)}</h2>

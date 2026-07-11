@@ -328,6 +328,42 @@ describe("generateLatestNews", () => {
     expect(latest.events[0].summaryZh).toContain("自动摘要");
   });
 
+  it("falls back when DeepSeek returns non-Chinese or markup-bearing regions", async () => {
+    const latest = await generateLatestNews({
+      now: new Date("2026-07-09T00:00:00.000Z"),
+      articles: [testArticle()],
+      fetchFeeds: false,
+      aiProvider: "deepseek",
+      deepseekApiKey: "test-deepseek-key",
+      fetchImpl: async () =>
+        new Response(
+          JSON.stringify({
+            choices: [
+              {
+                message: {
+                  content: JSON.stringify({
+                    events: [
+                      {
+                        clusterId: "1",
+                        titleZh: "美国参议院通过人工智能安全法案",
+                        summaryZh: "美国参议院通过人工智能安全法案。法案将建立新的监管要求。",
+                        regions: ['United States<img src=x onerror="alert(1)">'],
+                        reasonZh: "多家来源集中报道这项人工智能立法。",
+                      },
+                    ],
+                  }),
+                },
+              },
+            ],
+          }),
+          { status: 200, headers: { "Content-Type": "application/json" } },
+        ),
+    });
+
+    expect(latest.status).toBe("sample");
+    expect(latest.events[0].regions).toEqual(["Americas"]);
+  });
+
   it("binds DeepSeek summaries to clusters by stable id when the provider reorders events", async () => {
     const calls: Array<{ body: any }> = [];
     const articles = [
