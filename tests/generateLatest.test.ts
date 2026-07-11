@@ -28,6 +28,7 @@ describe("generateLatestNews", () => {
     expect(latest.events[0].titleZh).not.toMatch(/[A-Za-z0-9]/);
     expect(latest.events[0].summaryZh).not.toMatch(/[A-Za-z0-9]/);
     expect(latest.events[0].summaryZh).toContain("自动摘要");
+    expect(latest.events[0].regions).toEqual(["美洲"]);
     expect(latest.events[0].sources[0].url).toBe("https://reuters.com/ai-bill");
   });
 
@@ -44,6 +45,7 @@ describe("generateLatestNews", () => {
     expect(latest.status).toBe("sample");
     expect(latest.events[0].titleZh).not.toMatch(/[A-Za-z0-9]/);
     expect(latest.events[0].summaryZh).not.toMatch(/[A-Za-z0-9]/);
+    expect(latest.events[0].regions).toEqual(["美洲"]);
     expect(latest.events[0].sources[0].url).toBe("https://reuters.com/ai-bill");
   });
 
@@ -361,7 +363,7 @@ describe("generateLatestNews", () => {
     });
 
     expect(latest.status).toBe("sample");
-    expect(latest.events[0].regions).toEqual(["Americas"]);
+    expect(latest.events[0].regions).toEqual(["美洲"]);
   });
 
   it("binds DeepSeek summaries to clusters by stable id when the provider reorders events", async () => {

@@ -14,6 +14,13 @@ interface SummaryOptions {
 export type AiProvider = "deepseek" | "openai";
 
 const CHINESE_ORDINALS = ["一", "二", "三", "四", "五", "六", "七", "八", "九", "十"] as const;
+const REGION_LABELS_ZH: Record<string, string> = {
+  "Global": "全球",
+  "Europe": "欧洲",
+  "Middle East": "中东",
+  "Asia": "亚洲",
+  "Americas": "美洲",
+};
 
 interface AiEventSummary {
   clusterId: string;
@@ -96,7 +103,7 @@ function fallbackSummaries(clusters: RankedCluster[]): NewsEvent[] {
 }
 
 function fallbackSummary(cluster: RankedCluster, index: number): AiEventSummary {
-  const regions = unique(cluster.articles.map((article) => article.sourceRegion));
+  const regions = unique(cluster.articles.map((article) => localizeRegion(article.sourceRegion)));
 
   return {
     clusterId: cluster.id,
@@ -105,6 +112,10 @@ function fallbackSummary(cluster: RankedCluster, index: number): AiEventSummary 
     regions: regions.length > 0 ? regions : ["全球"],
     reasonZh: cluster.heat.reasonZh,
   };
+}
+
+function localizeRegion(region: string): string {
+  return REGION_LABELS_ZH[region] ?? region;
 }
 
 function buildEvent(cluster: RankedCluster, rank: number, summary: AiEventSummary): NewsEvent {
