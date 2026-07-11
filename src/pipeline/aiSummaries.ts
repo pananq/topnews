@@ -1,3 +1,4 @@
+import { z } from "zod";
 import type { NewsCategory } from "../shared/categories";
 import { CATEGORIES } from "../shared/categories";
 import type { NewsEvent } from "../shared/schema";
@@ -17,6 +18,7 @@ export type AiProvider = "deepseek" | "openai";
 const CHINESE_ORDINALS = ["一", "二", "三", "四", "五", "六", "七", "八", "九", "十"] as const;
 
 interface AiEventSummary {
+  clusterId: string;
   titleZh: string;
   summaryZh: string;
   category: NewsCategory;
@@ -41,18 +43,36 @@ const EVENT_SUMMARY_SCHEMA = {
         type: "object",
         additionalProperties: false,
         properties: {
+          clusterId: { type: "string" },
           titleZh: { type: "string" },
           summaryZh: { type: "string" },
           category: { enum: [...CATEGORIES] },
           regions: { type: "array", minItems: 1, items: { type: "string" } },
           reasonZh: { type: "string" },
         },
-        required: ["titleZh", "summaryZh", "category", "regions", "reasonZh"],
+        required: ["clusterId", "titleZh", "summaryZh", "category", "regions", "reasonZh"],
       },
     },
   },
   required: ["events"],
 };
+
+const AiEventSummarySchema = z
+  .object({
+    clusterId: z.string().min(1),
+    titleZh: z.string().min(1),
+    summaryZh: z.string().min(1),
+    category: z.enum(CATEGORIES),
+    regions: z.array(z.string().min(1)).min(1),
+    reasonZh: z.string(),
+  })
+  .strict();
+
+const AiSummaryResponseSchema = z
+  .object({
+    events: z.array(AiEventSummarySchema).min(1).max(10),
+  })
+  .strict();
 
 export async function summarizeClusters(clusters: RankedCluster[], options: SummaryOptions = {}): Promise<SummaryResult> {
   const provider = options.provider ?? "deepseek";
@@ -64,13 +84,10 @@ export async function summarizeClusters(clusters: RankedCluster[], options: Summ
 
   try {
     const aiSummaries = provider === "deepseek" ? await requestDeepSeekSummaries(clusters, options) : await requestOpenAiSummaries(clusters, options);
-
-    if (!Array.isArray(aiSummaries) || aiSummaries.length !== clusters.length) {
-      throw new Error(`AI returned ${Array.isArray(aiSummaries) ? aiSummaries.length : 0} events for ${clusters.length} clusters`);
-    }
+    const orderedSummaries = orderSummariesByCluster(aiSummaries, clusters);
 
     return {
-      events: clusters.map((cluster, index) => buildEvent(cluster, index + 1, aiSummaries[index])),
+      events: clusters.map((cluster, index) => buildEvent(cluster, index + 1, orderedSummaries[index])),
       status: "fresh",
     };
   } catch (error) {
@@ -87,6 +104,7 @@ function fallbackSummary(cluster: RankedCluster, index: number): AiEventSummary 
   const regions = unique(cluster.articles.map((article) => article.sourceRegion));
 
   return {
+    clusterId: cluster.id,
     titleZh: `第${CHINESE_ORDINALS[index] ?? "十"}条${cluster.category}要闻`,
     summaryZh: "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
     category: cluster.category,
@@ -137,8 +155,9 @@ async function requestOpenAiSummaries(clusters: RankedCluster[], options: Summar
         {
           role: "user",
           content: JSON.stringify({
-            instruction: `为每个新闻事件生成中文标题、2-3 句中文摘要、一个主分类、影响地区和热度依据。主分类只能从这些值中选择：${CATEGORIES.join("、")}。必须保留输入的预分类，不得根据内容改分类。不要使用气候、安全、社会、娱乐等非目标分类。`,
+            instruction: `为每个新闻事件生成中文标题、2-3 句中文摘要、一个主分类、影响地区和热度依据。每个输出事件必须原样包含输入的 clusterId。主分类只能从这些值中选择：${CATEGORIES.join("、")}。必须保留输入的预分类，不得根据内容改分类。不要使用气候、安全、社会、娱乐等非目标分类。`,
             clusters: clusters.map((cluster) => ({
+              clusterId: cluster.id,
               representativeTitle: cluster.representativeTitle,
               category: cluster.category,
               heat: cluster.heat,
@@ -176,8 +195,7 @@ async function requestOpenAiSummaries(clusters: RankedCluster[], options: Summar
     throw new Error("OpenAI response did not include output text");
   }
 
-  const parsed = JSON.parse(text) as { events: AiEventSummary[] };
-  return parsed.events;
+  return parseAiSummaryResponse(JSON.parse(text)).events;
 }
 
 async function requestDeepSeekSummaries(clusters: RankedCluster[], options: SummaryOptions): Promise<AiEventSummary[]> {
@@ -199,8 +217,9 @@ async function requestDeepSeekSummaries(clusters: RankedCluster[], options: Summ
           role: "user",
           content: JSON.stringify({
             instruction:
-              `请输出 json，格式为 {"events":[{"titleZh":"...","summaryZh":"...","category":"${CATEGORIES.join("|")}","regions":["..."],"reasonZh":"..."}]}。为每个新闻事件生成中文标题、2-3 句中文摘要、一个主分类、影响地区和热度依据。主分类只能从这些值中选择：${CATEGORIES.join("、")}。必须保留输入的预分类，不得根据内容改分类。不要使用气候、安全、社会、娱乐等非目标分类。`,
+              `请输出 json，格式为 {"events":[{"clusterId":"输入的 clusterId","titleZh":"...","summaryZh":"...","category":"${CATEGORIES.join("|")}","regions":["..."],"reasonZh":"..."}]}。为每个新闻事件生成中文标题、2-3 句中文摘要、一个主分类、影响地区和热度依据。每个输出事件必须原样包含输入的 clusterId。主分类只能从这些值中选择：${CATEGORIES.join("、")}。必须保留输入的预分类，不得根据内容改分类。不要使用气候、安全、社会、娱乐等非目标分类。`,
             clusters: clusters.map((cluster) => ({
+              clusterId: cluster.id,
               representativeTitle: cluster.representativeTitle,
               category: cluster.category,
               heat: cluster.heat,
@@ -234,8 +253,42 @@ async function requestDeepSeekSummaries(clusters: RankedCluster[], options: Summ
     throw new Error("DeepSeek response did not include message content");
   }
 
-  const parsed = JSON.parse(text) as { events: AiEventSummary[] };
-  return parsed.events;
+  return parseAiSummaryResponse(JSON.parse(text)).events;
+}
+
+function parseAiSummaryResponse(value: unknown): { events: AiEventSummary[] } {
+  return AiSummaryResponseSchema.parse(value);
+}
+
+function orderSummariesByCluster(aiSummaries: AiEventSummary[], clusters: RankedCluster[]): AiEventSummary[] {
+  if (aiSummaries.length !== clusters.length) {
+    throw new Error(`AI returned ${aiSummaries.length} events for ${clusters.length} clusters`);
+  }
+
+  const expectedIds = new Set(clusters.map((cluster) => cluster.id));
+  const byClusterId = new Map<string, AiEventSummary>();
+
+  for (const summary of aiSummaries) {
+    if (!expectedIds.has(summary.clusterId)) {
+      throw new Error(`AI returned unknown clusterId: ${summary.clusterId}`);
+    }
+
+    if (byClusterId.has(summary.clusterId)) {
+      throw new Error(`AI returned duplicate clusterId: ${summary.clusterId}`);
+    }
+
+    byClusterId.set(summary.clusterId, summary);
+  }
+
+  return clusters.map((cluster) => {
+    const summary = byClusterId.get(cluster.id);
+
+    if (!summary) {
+      throw new Error(`AI did not return clusterId: ${cluster.id}`);
+    }
+
+    return summary;
+  });
 }
 
 function unique(values: string[]): string[] {

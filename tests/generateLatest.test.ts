@@ -102,6 +102,7 @@ describe("generateLatestNews", () => {
       },
     ];
     const returnedSummaries = Array.from({ length: summaryCount }, (_, index) => ({
+      clusterId: String(index + 1),
       titleZh: `供应商摘要${index}`,
       summaryZh: `供应商返回的第${index}条摘要。`,
       category: "科技",
@@ -128,6 +129,171 @@ describe("generateLatestNews", () => {
     expect(new Set(latest.events.slice(0, 2).flatMap((event) => event.sources.map((source) => source.url)))).toEqual(
       new Set(["https://reuters.com/ai-bill", "https://finance.example.com/rates"]),
     );
+  });
+
+  it("falls back the entire batch when DeepSeek returns a correct-count malformed summary", async () => {
+    const latest = await generateLatestNews({
+      now: new Date("2026-07-09T00:00:00.000Z"),
+      articles: [testArticle()],
+      fetchFeeds: false,
+      aiProvider: "deepseek",
+      deepseekApiKey: "test-deepseek-key",
+      fetchImpl: async () =>
+        new Response(
+          JSON.stringify({
+            choices: [
+              {
+                message: {
+                  content: JSON.stringify({
+                    events: [
+                      {
+                        clusterId: "1",
+                        titleZh: 42,
+                        summaryZh: "供应商返回了类型错误的标题。",
+                        category: "科技",
+                        regions: ["美国"],
+                        reasonZh: "供应商热度说明。",
+                      },
+                    ],
+                  }),
+                },
+              },
+            ],
+          }),
+          { status: 200, headers: { "Content-Type": "application/json" } },
+        ),
+    });
+
+    expect(latest.status).toBe("sample");
+    expect(latest.events[0].summaryZh).toContain("自动摘要");
+    expect(latest.events[0].sources[0].url).toBe("https://reuters.com/ai-bill");
+  });
+
+  it.each([
+    ["duplicate", ["1", "1"]],
+    ["unknown", ["1", "unknown-cluster"]],
+  ])("falls back the entire batch when DeepSeek returns %s cluster ids", async (_caseName, clusterIds) => {
+    const articles = [
+      testArticle(),
+      {
+        ...testArticle(),
+        id: "2",
+        sourceName: "Finance Wire",
+        sourceUrl: "https://finance.example.com",
+        sourceRegion: "Europe",
+        title: "Central bank cuts rates as inflation slows",
+        summary: "Policymakers reduced interest rates after inflation eased.",
+        url: "https://finance.example.com/rates",
+        categoryHint: "财经" as const,
+      },
+    ];
+    const latest = await generateLatestNews({
+      now: new Date("2026-07-09T00:00:00.000Z"),
+      articles,
+      fetchFeeds: false,
+      aiProvider: "deepseek",
+      deepseekApiKey: "test-deepseek-key",
+      fetchImpl: async () =>
+        new Response(
+          JSON.stringify({
+            choices: [
+              {
+                message: {
+                  content: JSON.stringify({
+                    events: clusterIds.map((clusterId, index) => ({
+                      clusterId,
+                      titleZh: `供应商摘要${index}`,
+                      summaryZh: `供应商返回的第${index}条摘要。`,
+                      category: index === 0 ? "科技" : "财经",
+                      regions: ["全球"],
+                      reasonZh: "供应商热度说明。",
+                    })),
+                  }),
+                },
+              },
+            ],
+          }),
+          { status: 200, headers: { "Content-Type": "application/json" } },
+        ),
+    });
+
+    expect(latest.status).toBe("sample");
+    expect(latest.events.slice(0, 2).every((event) => event.summaryZh.includes("自动摘要"))).toBe(true);
+  });
+
+  it("binds DeepSeek summaries to clusters by stable id when the provider reorders events", async () => {
+    const calls: Array<{ body: any }> = [];
+    const articles = [
+      {
+        ...testArticle(),
+        sourceWeight: 2,
+      },
+      {
+        ...testArticle(),
+        id: "2",
+        sourceName: "Finance Wire",
+        sourceUrl: "https://finance.example.com",
+        sourceWeight: 1,
+        sourceRegion: "Europe",
+        title: "Central bank cuts rates as inflation slows",
+        summary: "Policymakers reduced interest rates after inflation eased.",
+        url: "https://finance.example.com/rates",
+        categoryHint: "财经" as const,
+      },
+    ];
+
+    const latest = await generateLatestNews({
+      now: new Date("2026-07-09T00:00:00.000Z"),
+      articles,
+      fetchFeeds: false,
+      aiProvider: "deepseek",
+      deepseekApiKey: "test-deepseek-key",
+      fetchImpl: async (_url, init) => {
+        const body = JSON.parse(String(init?.body));
+        calls.push({ body });
+        const prompt = JSON.parse(body.messages[1].content);
+
+        return new Response(
+          JSON.stringify({
+            choices: [
+              {
+                message: {
+                  content: JSON.stringify({
+                    events: [
+                      {
+                        clusterId: prompt.clusters[1].clusterId,
+                        titleZh: "央行降息推动市场关注",
+                        summaryZh: "央行在通胀放缓后降息。投资者关注后续政策路径。",
+                        category: "财经",
+                        regions: ["欧洲"],
+                        reasonZh: "财经来源报道了降息事件。",
+                      },
+                      {
+                        clusterId: prompt.clusters[0].clusterId,
+                        titleZh: "美国参议院通过人工智能安全法案",
+                        summaryZh: "美国参议院通过人工智能安全法案。法案将建立新的监管要求。",
+                        category: "科技",
+                        regions: ["美国"],
+                        reasonZh: "多家来源集中报道。",
+                      },
+                    ],
+                  }),
+                },
+              },
+            ],
+          }),
+          { status: 200, headers: { "Content-Type": "application/json" } },
+        );
+      },
+    });
+
+    const prompt = JSON.parse(calls[0].body.messages[1].content);
+    expect(prompt.clusters.map((cluster: { clusterId?: string }) => cluster.clusterId)).toEqual(["1", "2"]);
+    expect(latest.status).toBe("fresh");
+    expect(latest.events[0].titleZh).toBe("美国参议院通过人工智能安全法案");
+    expect(latest.events[0].sources[0].url).toBe("https://reuters.com/ai-bill");
+    expect(latest.events[1].titleZh).toBe("央行降息推动市场关注");
+    expect(latest.events[1].sources[0].url).toBe("https://finance.example.com/rates");
   });
 
   it("uses DeepSeek chat completions when configured as the AI provider", async () => {
@@ -165,6 +331,7 @@ describe("generateLatestNews", () => {
                   content: JSON.stringify({
                     events: [
                       {
+                        clusterId: "1",
                         titleZh: "美国参议院通过 AI 安全法案",
                         summaryZh: "美国参议院通过一项人工智能安全法案。该法案为人工智能系统建立新的监管要求。",
                         category: "财经",
@@ -186,6 +353,7 @@ describe("generateLatestNews", () => {
     expect(calls[0].body.model).toBe("deepseek-v4-flash");
     expect(calls[0].body.response_format).toEqual({ type: "json_object" });
     const prompt = JSON.parse(calls[0].body.messages[1].content);
+    expect(prompt.clusters[0].clusterId).toBe("1");
     expect(prompt.clusters[0].category).toBe("科技");
     expect(prompt.instruction).toContain("必须保留输入的预分类");
     expect(latest.status).toBe("fresh");
@@ -216,6 +384,7 @@ describe("generateLatestNews", () => {
                     text: JSON.stringify({
                       events: [
                         {
+                          clusterId: "1",
                           titleZh: "美国参议院通过人工智能安全法案",
                           summaryZh: "美国参议院通过人工智能安全法案。法案将建立新的监管要求。",
                           category: "财经",
@@ -238,6 +407,7 @@ describe("generateLatestNews", () => {
     expect(calls[0].url).toBe("https://api.openai.com/v1/responses");
     expect(calls[0].body.model).toBe("gpt-test-model");
     const prompt = JSON.parse(calls[0].body.input[1].content);
+    expect(prompt.clusters[0].clusterId).toBe("1");
     expect(prompt.clusters[0].category).toBe("科技");
     expect(prompt.instruction).toContain("必须保留输入的预分类");
     expect(latest.status).toBe("fresh");
