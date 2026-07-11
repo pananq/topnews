@@ -107,7 +107,7 @@ function renderFilter(category: CategoryFilter): string {
   return `<button class="filter ${selected ? "is-active" : ""}" data-category="${category}" aria-pressed="${selected}">${category}</button>`;
 }
 
-function renderEvent(event: NewsEvent): string {
+export function renderEvent(event: NewsEvent): string {
   return `
     <article class="event">
       <div class="rank">${event.rank.toString().padStart(2, "0")}</div>
@@ -123,7 +123,7 @@ function renderEvent(event: NewsEvent): string {
           <span>${escapeHtml(event.heat.reasonZh)}</span>
         </div>
         <div class="sources">
-          ${event.sources.map((source) => `<a href="${source.url}" target="_blank" rel="noreferrer">${escapeHtml(source.name)}</a>`).join("")}
+          ${event.sources.map((source) => `<a href="${escapeHtml(source.url)}" target="_blank" rel="noreferrer">${escapeHtml(source.name)}</a>`).join("")}
         </div>
       </div>
     </article>

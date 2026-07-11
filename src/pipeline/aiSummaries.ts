@@ -290,7 +290,15 @@ function orderSummariesByCluster(aiSummaries: AiEventSummary[], clusters: Ranked
 }
 
 function isChineseFacingSummary(summary: AiEventSummary): boolean {
-  return [summary.titleZh, summary.summaryZh, summary.reasonZh].every((value) => /[\u4e00-\u9fff]/.test(value));
+  return [summary.titleZh, summary.summaryZh, summary.reasonZh].every(isChineseFacingText);
+}
+
+function isChineseFacingText(value: string): boolean {
+  const cjkCount = [...value.matchAll(/[\u4e00-\u9fff]/g)].length;
+  const latinCount = [...value.matchAll(/[A-Za-z]/g)].length;
+  const denominator = cjkCount + latinCount;
+
+  return cjkCount >= 4 && (denominator === 0 || cjkCount / denominator >= 0.35);
 }
 
 function unique(values: string[]): string[] {

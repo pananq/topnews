@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import { CATEGORIES } from "../src/shared/categories";
-import { LatestNewsSchema } from "../src/shared/schema";
+import { SourceSchema, LatestNewsSchema } from "../src/shared/schema";
 import latest from "../data/latest.json";
 
 describe("latest news schema", () => {
@@ -23,5 +23,25 @@ describe("latest news schema", () => {
     for (const event of parsed.events) {
       expect(CATEGORIES).toContain(event.category);
     }
+  });
+
+  it("rejects source URLs outside http and https", () => {
+    expect(() =>
+      SourceSchema.parse({
+        name: "Bad Source",
+        url: "javascript:alert(1)",
+        language: "en",
+        publishedAt: "2026-07-08T18:00:00.000Z",
+      }),
+    ).toThrow();
+
+    expect(() =>
+      SourceSchema.parse({
+        name: "Good Source",
+        url: "https://example.com/news",
+        language: "en",
+        publishedAt: "2026-07-08T18:00:00.000Z",
+      }),
+    ).not.toThrow();
   });
 });

@@ -1,4 +1,5 @@
 import { CATEGORIES, type NewsCategory } from "../shared/categories";
+import { isHttpUrl } from "../shared/url";
 import type { NewsSourceConfig, NormalizedArticle, RawFeedItem } from "./types";
 
 const STOP_WORDS = new Set([
@@ -187,7 +188,7 @@ export function normalizeArticle(raw: RawFeedItem, source: NewsSourceConfig): No
   const url = raw.link?.trim();
   const publishedAt = raw.isoDate ?? raw.pubDate;
 
-  if (!title || !url || !publishedAt) {
+  if (!title || !url || !publishedAt || !isHttpUrl(url)) {
     return null;
   }
 

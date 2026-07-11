@@ -1,4 +1,5 @@
 import { extractKeywords, inferCategory } from "./normalize";
+import { isHttpUrl } from "../shared/url";
 import { isWithinWindow } from "./time";
 import type { NormalizedArticle } from "./types";
 
@@ -87,6 +88,10 @@ function normalizeHackerNewsItem(item: HackerNewsItem): NormalizedArticle | null
   const score = item.score ?? 0;
   const comments = item.descendants ?? 0;
   const url = item.url ?? `https://news.ycombinator.com/item?id=${item.id}`;
+  if (!isHttpUrl(url)) {
+    return null;
+  }
+
   const summary = `${score} points, ${comments} comments on Hacker News. ${item.by ? `Posted by ${item.by}.` : ""}`.trim();
   const categoryHint = inferCategory(item.title);
 
@@ -122,6 +127,10 @@ function normalizeRedditPost(post: RedditPost | undefined): NormalizedArticle | 
   const score = post.score ?? 0;
   const comments = post.num_comments ?? 0;
   const url = post.url ?? `https://www.reddit.com${post.permalink ?? ""}`;
+  if (!isHttpUrl(url)) {
+    return null;
+  }
+
   const summaryText = post.selftext?.trim();
   const summary = `${score} upvotes, ${comments} comments on r/${subreddit}. ${summaryText ? summaryText.slice(0, 260) : ""}`.trim();
   const categoryHint = inferCategory(`${post.title} ${summaryText ?? ""}`);

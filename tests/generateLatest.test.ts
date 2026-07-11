@@ -292,6 +292,42 @@ describe("generateLatestNews", () => {
     expect(latest.events[0].summaryZh).toContain("自动摘要");
   });
 
+  it("falls back when DeepSeek returns mostly English fields with only token Chinese", async () => {
+    const latest = await generateLatestNews({
+      now: new Date("2026-07-09T00:00:00.000Z"),
+      articles: [testArticle()],
+      fetchFeeds: false,
+      aiProvider: "deepseek",
+      deepseekApiKey: "test-deepseek-key",
+      fetchImpl: async () =>
+        new Response(
+          JSON.stringify({
+            choices: [
+              {
+                message: {
+                  content: JSON.stringify({
+                    events: [
+                      {
+                        clusterId: "1",
+                        titleZh: "US Senate passes AI safety bill 法案",
+                        summaryZh: "The US Senate passed an AI safety bill 法案 with new regulatory requirements.",
+                        regions: ["美国"],
+                        reasonZh: "Multiple sources reported the legislation 热点.",
+                      },
+                    ],
+                  }),
+                },
+              },
+            ],
+          }),
+          { status: 200, headers: { "Content-Type": "application/json" } },
+        ),
+    });
+
+    expect(latest.status).toBe("sample");
+    expect(latest.events[0].summaryZh).toContain("自动摘要");
+  });
+
   it("binds DeepSeek summaries to clusters by stable id when the provider reorders events", async () => {
     const calls: Array<{ body: any }> = [];
     const articles = [

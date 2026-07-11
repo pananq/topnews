@@ -80,6 +80,27 @@ describe("social sources", () => {
     expect(articles).toEqual([]);
   });
 
+  it("rejects Hacker News stories with non-http URLs", async () => {
+    const articles = await fetchHackerNewsArticles(now, async (url) => {
+      if (String(url).endsWith("/topstories.json")) {
+        return jsonResponse([1004]);
+      }
+
+      return jsonResponse({
+        id: 1004,
+        type: "story",
+        by: "hn-user",
+        time: Math.floor(Date.parse("2026-07-08T20:00:00.000Z") / 1000),
+        title: "Open source AI database reaches major milestone",
+        url: "javascript:alert(1)",
+        score: 420,
+        descendants: 86,
+      });
+    });
+
+    expect(articles).toEqual([]);
+  });
+
   it("normalizes Reddit daily top posts into pipeline articles", async () => {
     const articles = await fetchRedditArticles(now, async () =>
       jsonResponse({
@@ -115,6 +136,36 @@ describe("social sources", () => {
     });
     expect(articles[0].sourceWeight).toBeGreaterThan(1);
     expect(articles[0].summary).toContain("12000 upvotes");
+  });
+
+  it("rejects Reddit posts with non-http URLs", async () => {
+    const articles = await fetchRedditArticles(
+      now,
+      async () =>
+        jsonResponse({
+          data: {
+            children: [
+              {
+                data: {
+                  id: "bad-url",
+                  subreddit: "technology",
+                  title: "Researchers publish new technology breakthrough",
+                  selftext: "A software team announced a widely discussed result.",
+                  url: "data:text/html,<script>alert(1)</script>",
+                  permalink: "/r/technology/comments/bad-url/researchers_publish_new_technology_breakthrough/",
+                  created_utc: Math.floor(Date.parse("2026-07-08T19:00:00.000Z") / 1000),
+                  score: 12000,
+                  num_comments: 1400,
+                  over_18: false,
+                },
+              },
+            ],
+          },
+        }),
+      ["technology"],
+    );
+
+    expect(articles).toEqual([]);
   });
 
   it("filters out-of-focus posts from broad Reddit news feeds", async () => {

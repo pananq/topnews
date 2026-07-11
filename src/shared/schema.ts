@@ -1,9 +1,10 @@
 import { z } from "zod";
 import { CATEGORIES } from "./categories";
+import { isHttpUrl } from "./url";
 
 export const SourceSchema = z.object({
   name: z.string().min(1),
-  url: z.string().url(),
+  url: z.string().url().refine(isHttpUrl, "Source URL must use http or https"),
   language: z.string().min(2),
   publishedAt: z.string().datetime(),
 });
