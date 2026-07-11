@@ -124,6 +124,9 @@ describe("generateLatestNews", () => {
     expect(calls[0].url).toBe("https://api.deepseek.com/chat/completions");
     expect(calls[0].body.model).toBe("deepseek-v4-flash");
     expect(calls[0].body.response_format).toEqual({ type: "json_object" });
+    const prompt = JSON.parse(calls[0].body.messages[1].content);
+    expect(prompt.clusters[0].category).toBe("科技");
+    expect(prompt.instruction).toContain("必须保留输入的预分类");
     expect(latest.status).toBe("fresh");
     expect(latest.events[0].titleZh).toBe("美国参议院通过 AI 安全法案");
     expect(latest.events[0].category).toBe("科技");

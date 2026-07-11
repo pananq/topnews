@@ -123,9 +123,10 @@ async function requestOpenAiSummaries(clusters: RankedCluster[], options: Summar
         {
           role: "user",
           content: JSON.stringify({
-            instruction: `为每个新闻事件生成中文标题、2-3 句中文摘要、一个主分类、影响地区和热度依据。主分类只能从这些值中选择：${CATEGORIES.join("、")}。不要使用气候、安全、社会、娱乐等非目标分类。`,
+            instruction: `为每个新闻事件生成中文标题、2-3 句中文摘要、一个主分类、影响地区和热度依据。主分类只能从这些值中选择：${CATEGORIES.join("、")}。必须保留输入的预分类，不得根据内容改分类。不要使用气候、安全、社会、娱乐等非目标分类。`,
             clusters: clusters.map((cluster) => ({
               representativeTitle: cluster.representativeTitle,
+              category: cluster.category,
               heat: cluster.heat,
               articles: cluster.articles.slice(0, 5).map((article) => ({
                 sourceName: article.sourceName,
@@ -184,9 +185,10 @@ async function requestDeepSeekSummaries(clusters: RankedCluster[], options: Summ
           role: "user",
           content: JSON.stringify({
             instruction:
-              `请输出 json，格式为 {"events":[{"titleZh":"...","summaryZh":"...","category":"${CATEGORIES.join("|")}","regions":["..."],"reasonZh":"..."}]}。为每个新闻事件生成中文标题、2-3 句中文摘要、一个主分类、影响地区和热度依据。主分类只能从这些值中选择：${CATEGORIES.join("、")}。不要使用气候、安全、社会、娱乐等非目标分类。`,
+              `请输出 json，格式为 {"events":[{"titleZh":"...","summaryZh":"...","category":"${CATEGORIES.join("|")}","regions":["..."],"reasonZh":"..."}]}。为每个新闻事件生成中文标题、2-3 句中文摘要、一个主分类、影响地区和热度依据。主分类只能从这些值中选择：${CATEGORIES.join("、")}。必须保留输入的预分类，不得根据内容改分类。不要使用气候、安全、社会、娱乐等非目标分类。`,
             clusters: clusters.map((cluster) => ({
               representativeTitle: cluster.representativeTitle,
+              category: cluster.category,
               heat: cluster.heat,
               articles: cluster.articles.slice(0, 5).map((article) => ({
                 sourceName: article.sourceName,
