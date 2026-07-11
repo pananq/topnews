@@ -75,7 +75,7 @@ function fallbackSummary(cluster: RankedCluster): AiEventSummary {
   return {
     titleZh: first.title,
     summaryZh: `自动摘要：${first.summary || first.title}。该事件由 ${cluster.heat.sourceCount} 个来源报道，保留原文链接供继续阅读。`,
-    category: first.categoryHint,
+    category: cluster.category,
     regions: regions.length > 0 ? regions : ["全球"],
     reasonZh: cluster.heat.reasonZh,
   };
@@ -95,7 +95,7 @@ function buildEvent(cluster: RankedCluster, rank: number, summary: AiEventSummar
     rank,
     titleZh: summary.titleZh,
     summaryZh: summary.summaryZh,
-    category: summary.category,
+    category: cluster.category,
     regions: summary.regions.length > 0 ? summary.regions : ["全球"],
     heat: {
       ...cluster.heat,

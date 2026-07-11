@@ -3,7 +3,7 @@ import { clusterArticles } from "../src/pipeline/cluster";
 import { inferCategory, normalizeArticle } from "../src/pipeline/normalize";
 import { rankClusters } from "../src/pipeline/rank";
 import { isWithinWindow } from "../src/pipeline/time";
-import type { NormalizedArticle } from "../src/pipeline/types";
+import type { NewsCluster, NormalizedArticle } from "../src/pipeline/types";
 
 const now = new Date("2026-07-09T00:00:00.000Z");
 
@@ -60,6 +60,16 @@ describe("news pipeline", () => {
     expect(clusters[1].articles).toHaveLength(1);
   });
 
+  it("resolves a merged cluster category from the highest source weight", () => {
+    const clusters = clusterArticles([
+      article("Tech Wire", "en", "Global market reacts to policy signal", "Investors follow the market reaction.", "Global", 0.2, "科技"),
+      article("Finance Desk", "en", "Global market reacts to policy signal", "Investors follow the market reaction.", "Global", 1.5, "财经"),
+    ]);
+
+    expect(clusters).toHaveLength(1);
+    expect(clusters[0].category).toBe("财经");
+  });
+
   it("ranks multi-source cross-region clusters above single-source clusters", () => {
     const clusters = clusterArticles([
       article("Reuters", "en", "Global markets rally after central bank signal", "Investors reacted to rate cut signals.", "Americas"),
@@ -72,6 +82,20 @@ describe("news pipeline", () => {
     expect(ranked[0].articles.length).toBe(2);
     expect(ranked[0].heat.score).toBeGreaterThan(ranked[1].heat.score);
   });
+
+  it("uses the resolved cluster category for the importance bonus", () => {
+    const firstArticle = article("Wire", "en", "AI market update", "Market update.", "Global", 1, "科技");
+    const clusters: NewsCluster[] = [
+      cluster("finance", "财经", firstArticle),
+      cluster("tech", "科技", firstArticle),
+    ];
+
+    const ranked = rankClusters(clusters, now);
+
+    expect(ranked.find((item) => item.id === "finance")?.heat.score).toBeGreaterThan(
+      ranked.find((item) => item.id === "tech")?.heat.score ?? 0,
+    );
+  });
 });
 
 function article(
@@ -81,6 +105,7 @@ function article(
   summary: string,
   region = "Global",
   weight = 1,
+  categoryHint: NormalizedArticle["categoryHint"] = "国际",
 ): NormalizedArticle {
   return {
     id: `${sourceName}-${title}`,
@@ -93,7 +118,17 @@ function article(
     summary,
     url: `https://example.com/${encodeURIComponent(title)}`,
     publishedAt: "2026-07-08T18:00:00.000Z",
-    categoryHint: "国际",
+    categoryHint,
     keywords: [],
+  };
+}
+
+function cluster(id: string, category: NewsCluster["category"], firstArticle: NormalizedArticle): NewsCluster {
+  return {
+    id,
+    category,
+    articles: [firstArticle],
+    keywords: firstArticle.keywords,
+    representativeTitle: firstArticle.title,
   };
 }
