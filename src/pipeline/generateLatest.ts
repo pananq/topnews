@@ -4,6 +4,7 @@ import { LatestNewsSchema, type LatestNews, type NewsEvent } from "../shared/sch
 import { clusterArticles } from "./cluster";
 import { normalizeArticle } from "./normalize";
 import { rankClusters } from "./rank";
+import { selectTopClusters } from "./selectTopClusters";
 import { NEWS_SOURCES } from "./sources";
 import { fetchSocialArticles } from "./socialSources";
 import { isWithinWindow } from "./time";
@@ -26,7 +27,7 @@ export async function generateLatestNews(options: GenerateOptions = {}): Promise
   const now = options.now ?? new Date();
   const articles = options.articles ?? (options.fetchFeeds === false ? [] : await fetchRecentArticles(now));
   const clusters = clusterArticles(articles);
-  const ranked = rankClusters(clusters, now).slice(0, 10);
+  const ranked = selectTopClusters(rankClusters(clusters, now), 10);
   const provider = options.aiProvider ?? "deepseek";
   const hasConfiguredKey = provider === "deepseek" ? Boolean(options.deepseekApiKey) : Boolean(options.openaiApiKey);
   const generatedEvents =

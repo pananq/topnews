@@ -42,6 +42,7 @@ export interface NormalizedArticle {
 
 export interface NewsCluster {
   id: string;
+  category: NewsCategory;
   articles: NormalizedArticle[];
   keywords: string[];
   representativeTitle: string;

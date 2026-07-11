@@ -1,4 +1,5 @@
 import { extractKeywords } from "./normalize";
+import type { NewsCategory } from "../shared/categories";
 import type { NewsCluster, NormalizedArticle } from "./types";
 
 export function clusterArticles(articles: NormalizedArticle[]): NewsCluster[] {
@@ -11,11 +12,13 @@ export function clusterArticles(articles: NormalizedArticle[]): NewsCluster[] {
     if (candidate) {
       candidate.articles.push({ ...article, keywords });
       candidate.keywords = mergeKeywords(candidate.keywords, keywords);
+      candidate.category = resolveClusterCategory(candidate.articles);
       continue;
     }
 
     clusters.push({
       id: article.id,
+      category: article.categoryHint,
       articles: [{ ...article, keywords }],
       keywords,
       representativeTitle: article.title,
@@ -23,6 +26,16 @@ export function clusterArticles(articles: NormalizedArticle[]): NewsCluster[] {
   }
 
   return clusters.sort((left, right) => right.articles.length - left.articles.length);
+}
+
+function resolveClusterCategory(articles: NormalizedArticle[]): NewsCategory {
+  const weights = new Map<NewsCategory, number>();
+
+  for (const article of articles) {
+    weights.set(article.categoryHint, (weights.get(article.categoryHint) ?? 0) + article.sourceWeight);
+  }
+
+  return [...weights.entries()].sort((left, right) => right[1] - left[1])[0][0];
 }
 
 function articleSimilarity(keywords: string[], article: NormalizedArticle, cluster: NewsCluster): number {
