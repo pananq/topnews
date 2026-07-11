@@ -42,11 +42,12 @@ export async function generateLatestNews(options: GenerateOptions = {}): Promise
       : { events: [], status: "sample" as const };
   const generatedEvents = summaryResult.events;
   const events = ensureTenEvents(generatedEvents);
+  const status = summaryResult.status === "fresh" && generatedEvents.length < events.length ? "partial" : summaryResult.status;
   const latest: LatestNews = {
     generatedAt: now.toISOString(),
     windowHours: 24,
     timezone: "Asia/Shanghai",
-    status: summaryResult.status,
+    status,
     events,
   };
 

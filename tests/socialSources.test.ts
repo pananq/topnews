@@ -38,6 +38,27 @@ describe("social sources", () => {
     expect(articles[0].summary).toContain("420 points");
   });
 
+  it("filters out high-score Hacker News stories that fail the category eligibility gate", async () => {
+    const articles = await fetchHackerNewsArticles(now, async (url) => {
+      if (String(url).endsWith("/topstories.json")) {
+        return jsonResponse([1002]);
+      }
+
+      return jsonResponse({
+        id: 1002,
+        type: "story",
+        by: "hn-user",
+        time: Math.floor(Date.parse("2026-07-08T20:00:00.000Z") / 1000),
+        title: "World's oldest dog celebrates birthday",
+        url: "https://example.com/oldest-dog",
+        score: 9_000_000,
+        descendants: 800_000,
+      });
+    });
+
+    expect(articles).toEqual([]);
+  });
+
   it("normalizes Reddit daily top posts into pipeline articles", async () => {
     const articles = await fetchRedditArticles(now, async () =>
       jsonResponse({

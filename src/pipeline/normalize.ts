@@ -26,7 +26,24 @@ interface CategoryEvidence {
 
 const CATEGORY_EVIDENCE: Record<NewsCategory, CategoryEvidence> = {
   "科技": {
-    strongWords: ["ai", "technology", "software", "cyber", "chip", "semiconductor"],
+    strongWords: [
+      "ai",
+      "technology",
+      "software",
+      "cyber",
+      "chip",
+      "semiconductor",
+      "technologie",
+      "tecnologia",
+      "kunstliche",
+      "intelligenz",
+      "人工智能",
+      "半导体",
+      "半導体",
+      "科技",
+      "技術",
+      "技术",
+    ],
     combinations: [["artificial", "intelligence"]],
   },
   "财经": {
@@ -48,23 +65,75 @@ const CATEGORY_EVIDENCE: Record<NewsCategory, CategoryEvidence> = {
       "banking",
       "gdp",
       "tariff",
+      "banque",
+      "taux",
+      "economie",
+      "marche",
+      "mercado",
+      "banco",
+      "zentralbank",
+      "wirtschaft",
+      "央行",
+      "降息",
+      "股市",
+      "经济",
+      "經濟",
+      "市場",
+      "銀行",
     ],
     combinations: [
       ["central", "bank"],
+      ["banque", "centrale"],
+      ["banco", "central"],
       ["interest", "rate"],
       ["interest", "rates"],
       ["supply", "chain"],
     ],
   },
   "政治": {
-    strongWords: ["election", "president", "senate", "parliament", "government", "diplomacy", "diplomatic"],
+    strongWords: [
+      "election",
+      "president",
+      "senate",
+      "parliament",
+      "government",
+      "diplomacy",
+      "diplomatic",
+      "gouvernement",
+      "eleccion",
+      "gobierno",
+      "bundestag",
+      "regierung",
+      "政府",
+      "总统",
+      "總統",
+      "首相",
+      "选举",
+      "選舉",
+    ],
     combinations: [
       ["prime", "minister"],
       ["foreign", "minister"],
     ],
   },
   "国际": {
-    strongWords: ["geopolitical", "ceasefire", "invasion", "refugee", "embassy"],
+    strongWords: [
+      "geopolitical",
+      "ceasefire",
+      "invasion",
+      "refugee",
+      "embassy",
+      "cessez",
+      "feu",
+      "onu",
+      "fluchtling",
+      "联合国",
+      "聯合國",
+      "外交",
+      "停火",
+      "難民",
+      "难民",
+    ],
     combinations: [
       ["united", "nations"],
       ["security", "council"],
@@ -74,7 +143,23 @@ const CATEGORY_EVIDENCE: Record<NewsCategory, CategoryEvidence> = {
     ],
   },
   "体育": {
-    strongWords: ["match", "tournament", "league", "championship", "olympic", "olympics"],
+    strongWords: [
+      "match",
+      "tournament",
+      "league",
+      "championship",
+      "olympic",
+      "olympics",
+      "sport",
+      "football",
+      "futbol",
+      "bundesliga",
+      "奥运",
+      "奧運",
+      "世界杯",
+      "联赛",
+      "聯賽",
+    ],
     combinations: [
       ["world", "cup"],
       ["cup", "final"],
@@ -139,12 +224,13 @@ export function extractKeywords(text: string): string[] {
 export function inferCategory(text: string): NewsCategory | null {
   const tokens = classificationTokens(text);
   const words = new Set(tokens);
+  const normalizedText = normalizeForSearch(text);
   let bestCategory: NewsCategory | null = null;
   let bestScore = 0;
 
   for (const category of CATEGORIES) {
     const evidence = CATEGORY_EVIDENCE[category];
-    const strongWordScore = evidence.strongWords.filter((word) => words.has(word)).length;
+    const strongWordScore = evidence.strongWords.filter((word) => words.has(word) || containsCjkEvidence(normalizedText, word)).length;
     const combinationScore = evidence.combinations.filter((combination) => containsAdjacentPhrase(tokens, combination)).length;
     const score = strongWordScore + combinationScore;
 
@@ -176,12 +262,22 @@ function clusteringTokens(text: string): string[] {
 }
 
 function rawTokens(text: string): string[] {
-  return text
-    .toLowerCase()
+  return normalizeForSearch(text)
     .replace(/&amp;/g, " ")
     .replace(/[^a-z0-9\u4e00-\u9fff]+/g, " ")
     .split(/\s+/)
     .filter(Boolean);
+}
+
+function normalizeForSearch(text: string): string {
+  return text
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
+
+function containsCjkEvidence(text: string, evidence: string): boolean {
+  return /[\u4e00-\u9fff]/.test(evidence) && text.includes(evidence);
 }
 
 function containsAdjacentPhrase(tokens: readonly string[], phrase: readonly string[]): boolean {

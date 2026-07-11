@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 import { clusterArticles } from "../src/pipeline/cluster";
 import { inferCategory, normalizeArticle } from "../src/pipeline/normalize";
 import { rankClusters } from "../src/pipeline/rank";
+import { NEWS_SOURCES } from "../src/pipeline/sources";
 import { isWithinWindow } from "../src/pipeline/time";
 import type { NewsCluster, NormalizedArticle } from "../src/pipeline/types";
 
@@ -10,6 +11,10 @@ const now = new Date("2026-07-09T00:00:00.000Z");
 describe("news pipeline", () => {
   it("merges economic reporting into finance", () => {
     expect(inferCategory("Central bank cuts interest rates as inflation slows")).toBe("财经");
+  });
+
+  it("includes enabled non-English RSS sources", () => {
+    expect(NEWS_SOURCES.some((source) => source.enabled && source.language !== "en")).toBe(true);
   });
 
   it.each([
@@ -22,6 +27,9 @@ describe("news pipeline", () => {
 
   it.each([
     ["Central bank cuts interest rates as inflation slows", "财经"],
+    ["La banque centrale baisse les taux alors que l'economie ralentit", "财经"],
+    ["中国央行降息推动股市上涨", "财经"],
+    ["政府が半導体投資計画を発表", "科技"],
     ["United Nations Security Council calls emergency ceasefire meeting", "国际"],
     ["Olympic champion wins swimming tournament", "体育"],
     ["Semiconductor company unveils advanced chip architecture", "科技"],

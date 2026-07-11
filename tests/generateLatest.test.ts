@@ -289,7 +289,7 @@ describe("generateLatestNews", () => {
 
     const prompt = JSON.parse(calls[0].body.messages[1].content);
     expect(prompt.clusters.map((cluster: { clusterId?: string }) => cluster.clusterId)).toEqual(["1", "2"]);
-    expect(latest.status).toBe("fresh");
+    expect(latest.status).toBe("partial");
     expect(latest.events[0].titleZh).toBe("美国参议院通过人工智能安全法案");
     expect(latest.events[0].sources[0].url).toBe("https://reuters.com/ai-bill");
     expect(latest.events[1].titleZh).toBe("央行降息推动市场关注");
@@ -356,9 +356,47 @@ describe("generateLatestNews", () => {
     expect(prompt.clusters[0].clusterId).toBe("1");
     expect(prompt.clusters[0].category).toBe("科技");
     expect(prompt.instruction).toContain("必须保留输入的预分类");
-    expect(latest.status).toBe("fresh");
+    expect(latest.status).toBe("partial");
     expect(latest.events[0].titleZh).toBe("美国参议院通过 AI 安全法案");
     expect(latest.events[0].category).toBe("科技");
+  });
+
+  it("marks successful generation as partial when sample filler is needed", async () => {
+    const latest = await generateLatestNews({
+      now: new Date("2026-07-09T00:00:00.000Z"),
+      articles: [testArticle()],
+      fetchFeeds: false,
+      aiProvider: "deepseek",
+      deepseekApiKey: "test-deepseek-key",
+      fetchImpl: async () =>
+        new Response(
+          JSON.stringify({
+            choices: [
+              {
+                message: {
+                  content: JSON.stringify({
+                    events: [
+                      {
+                        clusterId: "1",
+                        titleZh: "美国参议院通过人工智能安全法案",
+                        summaryZh: "美国参议院通过人工智能安全法案。法案将建立新的监管要求。",
+                        category: "科技",
+                        regions: ["美国"],
+                        reasonZh: "多家来源集中报道。",
+                      },
+                    ],
+                  }),
+                },
+              },
+            ],
+          }),
+          { status: 200, headers: { "Content-Type": "application/json" } },
+        ),
+    });
+
+    expect(latest.events).toHaveLength(10);
+    expect(latest.events[0].sources[0].url).toBe("https://reuters.com/ai-bill");
+    expect(latest.status).toBe("partial");
   });
 
   it("uses the OpenAI Responses API contract and preserves the preclassified category", async () => {
@@ -410,7 +448,7 @@ describe("generateLatestNews", () => {
     expect(prompt.clusters[0].clusterId).toBe("1");
     expect(prompt.clusters[0].category).toBe("科技");
     expect(prompt.instruction).toContain("必须保留输入的预分类");
-    expect(latest.status).toBe("fresh");
+    expect(latest.status).toBe("partial");
     expect(latest.events[0].category).toBe("科技");
   });
 });

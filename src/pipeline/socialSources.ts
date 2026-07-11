@@ -89,6 +89,11 @@ function normalizeHackerNewsItem(item: HackerNewsItem): NormalizedArticle | null
   const comments = item.descendants ?? 0;
   const url = item.url ?? `https://news.ycombinator.com/item?id=${item.id}`;
   const summary = `${score} points, ${comments} comments on Hacker News. ${item.by ? `Posted by ${item.by}.` : ""}`.trim();
+  const categoryHint = inferCategory(`${item.title} ${summary}`);
+
+  if (!categoryHint) {
+    return null;
+  }
 
   return {
     id: `hn:${item.id}`,
@@ -102,7 +107,7 @@ function normalizeHackerNewsItem(item: HackerNewsItem): NormalizedArticle | null
     summary,
     url,
     publishedAt: new Date(item.time * 1000).toISOString(),
-    categoryHint: "科技",
+    categoryHint,
     keywords: extractKeywords(`${item.title} ${summary}`),
     socialScore: score,
     commentCount: comments,
