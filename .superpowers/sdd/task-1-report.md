@@ -56,3 +56,51 @@ Result: failed on existing out-of-scope references to `经济` in `src/pipeline/
 ## Self-Review
 
 The task-owned implementation is complete and scoped: only category eligibility, relevant source hints, and the specified tests changed. `git diff --check` passed. Repository integration remains incomplete until the generated latest-data fixture plus the rank and sample-data category references are migrated from `经济` to `财经`; those files were outside this task's explicit ownership list and were left untouched to avoid overwriting concurrent work.
+
+## Review Follow-Up
+
+### Status
+
+DONE
+
+### Root Cause and Changes
+
+- Added the required `economic`, `macroeconomic`, and `banking` finance keywords and isolated regression coverage for each term.
+- Changed Reddit `worldnews` and `news` from a forced `国际` fallback to `inferCategory(title + summary)`; unmatched broad-feed posts now return `null`. Narrow subreddit mappings remain unchanged.
+- Removed the obsolete `经济` rank bonus and migrated the two category values in both `src/shared/sampleData.ts` and `data/latest.json` to `财经`.
+
+### RED
+
+```bash
+npm test -- tests/pipeline.test.ts tests/socialSources.test.ts
+```
+
+Result: failed as expected with four failures: each of the isolated `economic`, `macroeconomic`, and `banking` headlines returned `null`, and weather posts from both `worldnews` and `news` were incorrectly emitted as `国际` articles.
+
+### GREEN and Integration Verification
+
+```bash
+npm test -- tests/schema.test.ts tests/pipeline.test.ts tests/socialSources.test.ts
+```
+
+Result: passed, 3 test files and 14 tests.
+
+```bash
+npm run validate:data
+```
+
+Result: passed; validated 10 events in `data/latest.json`.
+
+```bash
+npm run build
+```
+
+Result: passed; TypeScript, Vite production build, and latest-data copy all completed successfully.
+
+### Commit
+
+- `813674365358d265eca9b647565ab32d230a7ffa` - `fix: enforce category eligibility for broad Reddit feeds`
+
+### Self-Review
+
+`git diff --check` passed. A targeted search found no remaining `经济` category values in `data/latest.json`, `src/shared/sampleData.ts`, or `src/pipeline/rank.ts`. The requested test, data-validation, and build commands all passed.
