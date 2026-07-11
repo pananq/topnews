@@ -1,5 +1,5 @@
 import type { NewsCategory } from "../shared/categories";
-import { extractKeywords } from "./normalize";
+import { extractKeywords, inferCategory } from "./normalize";
 import { isWithinWindow } from "./time";
 import type { NormalizedArticle } from "./types";
 
@@ -120,6 +120,11 @@ function normalizeRedditPost(post: RedditPost | undefined): NormalizedArticle | 
   const url = post.url ?? `https://www.reddit.com${post.permalink ?? ""}`;
   const summaryText = post.selftext?.trim();
   const summary = `${score} upvotes, ${comments} comments on r/${subreddit}. ${summaryText ? summaryText.slice(0, 260) : ""}`.trim();
+  const categoryHint = ["worldnews", "news"].includes(subreddit.toLowerCase()) ? inferCategory(`${post.title} ${summary}`) : redditCategory(subreddit);
+
+  if (!categoryHint) {
+    return null;
+  }
 
   return {
     id: `reddit:${subreddit}:${post.id}`,
@@ -133,7 +138,7 @@ function normalizeRedditPost(post: RedditPost | undefined): NormalizedArticle | 
     summary,
     url,
     publishedAt: new Date(post.created_utc * 1000).toISOString(),
-    categoryHint: redditCategory(subreddit),
+    categoryHint,
     keywords: extractKeywords(`${post.title} ${summary}`),
     socialScore: score,
     commentCount: comments,

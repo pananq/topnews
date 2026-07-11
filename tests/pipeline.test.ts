@@ -12,6 +12,14 @@ describe("news pipeline", () => {
     expect(inferCategory("Central bank cuts interest rates as inflation slows")).toBe("财经");
   });
 
+  it.each([
+    "Economic report released",
+    "Macroeconomic report released",
+    "Banking report released",
+  ])("classifies finance reporting with %s", (headline) => {
+    expect(inferCategory(headline)).toBe("财经");
+  });
+
   it("rejects articles outside the focus categories before ranking", () => {
     const result = normalizeArticle(
       {

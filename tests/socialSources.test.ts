@@ -74,6 +74,39 @@ describe("social sources", () => {
     expect(articles[0].sourceWeight).toBeGreaterThan(1);
     expect(articles[0].summary).toContain("12000 upvotes");
   });
+
+  it("filters out-of-focus posts from broad Reddit news feeds", async () => {
+    const articles = await fetchRedditArticles(
+      now,
+      async (url) => {
+        const subreddit = String(url).includes("/worldnews/") ? "worldnews" : "news";
+
+        return jsonResponse({
+          data: {
+            children: [
+              {
+                data: {
+                  id: `${subreddit}-weather`,
+                  subreddit,
+                  title: "Local weather service forecasts a rainy weekend",
+                  selftext: "Residents should bring umbrellas to community events.",
+                  url: "https://example.com/weather",
+                  permalink: `/r/${subreddit}/comments/weather/local_weather/`,
+                  created_utc: Math.floor(Date.parse("2026-07-08T19:00:00.000Z") / 1000),
+                  score: 50,
+                  num_comments: 8,
+                  over_18: false,
+                },
+              },
+            ],
+          },
+        });
+      },
+      ["worldnews", "news"],
+    );
+
+    expect(articles).toEqual([]);
+  });
 });
 
 function jsonResponse(value: unknown): Response {

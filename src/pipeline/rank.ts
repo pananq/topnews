@@ -5,7 +5,6 @@ const IMPORTANT_CATEGORY_BONUS: Partial<Record<NewsCategory, number>> = {
   "科技": 4,
   "财经": 5,
   "政治": 6,
-  "经济": 4,
   "国际": 3,
   "体育": 2,
 };
