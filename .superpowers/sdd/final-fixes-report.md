@@ -71,3 +71,58 @@
 ## Concerns
 
 - 无阻塞 concern。确定性 fallback 为通用中文占位摘要，不尝试翻译英文事实，这是满足纯中文与不编造内容之间的保守选择。
+
+---
+
+## 最终复审第二轮追加
+
+### Important / Minor 修复
+
+1. **有序相邻分类证据**
+   - 分类 token 改为保留顺序与所有词位的序列，组合证据通过滑动窗口匹配有序相邻 n-gram。
+   - 不再使用 `Set` 共现判断组合；`security ... council`、`world ... cup`、`interest ... rate` 三个指定反例均返回无分类。
+   - `extractKeywords` 使用独立的 `clusteringTokens`，继续负责同义词归一、停用词过滤、去重和 18-token 上限；分类与聚类职责保持分离。
+
+2. **AI 分类 token**
+   - 分类阶段保留 `artificial` 与 `intelligence` 原 token，并显式匹配相邻短语 `artificial intelligence`。
+   - 字面量 `AI` 归一为两字符 `ai`，作为科技高信号词，不经过聚类的长度过滤门槛。
+   - 三个指定标题均稳定分类为科技。
+
+3. **provider 事件数量契约**
+   - provider 解析结果必须是数组，且事件数与 clusters 数完全相等，才允许返回 `fresh`。
+   - 0、少返回和多返回全部抛入统一 fallback 路径，整批事件使用确定性摘要并标记 `sample`。
+   - 两个真实 cluster 的来源链接在整批 fallback 后仍分别对应输入来源。
+
+4. **国际危机唯一分类**
+   - `Israel strikes Iran nuclear facilities amid diplomatic crisis` 固定断言为政治。
+   - 相邻 `nuclear facilities` 与高信号 `diplomatic` 各贡献一项证据，平分时按既有 `CATEGORIES` 固定顺序选择政治，结果稳定且不依赖全文匹配。
+
+### 第二轮 RED / GREEN
+
+- RED：`npm test -- tests/pipeline.test.ts tests/generateLatest.test.ts`
+  - 退出码 1；41 tests 中 9 failed、32 passed。
+  - 三个非相邻组合误收、三个 AI 标题漏收，以及 provider 返回 0/1/3 条时仍为 `fresh` 均按预期失败。
+- 唯一分类 RED：`npm test -- tests/pipeline.test.ts -t "accepts a high-signal international political crisis"`
+  - 退出码 1；旧实现返回国际，唯一预期政治断言失败。
+- GREEN：`npm test -- tests/pipeline.test.ts tests/generateLatest.test.ts tests/socialSources.test.ts`
+  - 退出码 0；3 files、45/45 tests passed。
+
+### 第二轮全量验证
+
+- `npm test`：退出码 0；7 files、53/53 tests passed。
+- `npm run validate:data`：退出码 0；验证 10 个事件。
+- `npm run build`：退出码 0；`tsc --noEmit` 与 Vite production build 成功。
+- `git diff --check`：退出码 0。
+
+### 第二轮 Commit
+
+- 提交主题：`fix: tighten category evidence and AI batches`
+- 分支：`codex/global-news-digest`
+- 仅包含本轮直接相关源码、测试与本报告追加内容。
+
+### 第二轮自审与 Concerns
+
+- 所有新增行为均有先失败后通过的直接测试；空数组、少返回、多返回均明确覆盖。
+- 分类组合只读取 token 序列，不做全文 substring；停用词仍占据分类序列位置，不会制造虚假的跨词相邻。
+- provider 数量不一致不会混用部分 AI 输出，避免页面出现 `fresh` 与 fallback 内容混杂。
+- 无阻塞 concern；数量不一致采用整批回退是刻意的原子性策略。

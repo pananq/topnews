@@ -30,7 +30,23 @@ describe("news pipeline", () => {
   });
 
   it("accepts a high-signal international political crisis", () => {
-    expect(["国际", "政治"]).toContain(inferCategory("Israel strikes Iran nuclear facilities amid diplomatic crisis"));
+    expect(inferCategory("Israel strikes Iran nuclear facilities amid diplomatic crisis")).toBe("政治");
+  });
+
+  it.each([
+    "Security experts brief city council on school safety",
+    "World leaders debate reusable coffee cup ban",
+    "Community interest grows as recycling rate rises",
+  ])("requires category phrase evidence to be ordered and adjacent in: %s", (headline) => {
+    expect(inferCategory(headline)).toBeNull();
+  });
+
+  it.each([
+    "Artificial intelligence startup launches new model",
+    "AI startup launches new model",
+    "Artificial intelligence transforms medicine",
+  ])("recognizes explicit artificial intelligence evidence in: %s", (headline) => {
+    expect(inferCategory(headline)).toBe("科技");
   });
 
   it.each([

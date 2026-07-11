@@ -64,8 +64,13 @@ export async function summarizeClusters(clusters: RankedCluster[], options: Summ
 
   try {
     const aiSummaries = provider === "deepseek" ? await requestDeepSeekSummaries(clusters, options) : await requestOpenAiSummaries(clusters, options);
+
+    if (!Array.isArray(aiSummaries) || aiSummaries.length !== clusters.length) {
+      throw new Error(`AI returned ${Array.isArray(aiSummaries) ? aiSummaries.length : 0} events for ${clusters.length} clusters`);
+    }
+
     return {
-      events: clusters.map((cluster, index) => buildEvent(cluster, index + 1, aiSummaries[index] ?? fallbackSummary(cluster, index))),
+      events: clusters.map((cluster, index) => buildEvent(cluster, index + 1, aiSummaries[index])),
       status: "fresh",
     };
   } catch (error) {

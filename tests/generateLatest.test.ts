@@ -86,6 +86,50 @@ describe("generateLatestNews", () => {
     expect(latest.events[0].category).toBe("财经");
   });
 
+  it.each([0, 1, 3])("falls back the entire batch when DeepSeek returns %s summaries for two clusters", async (summaryCount) => {
+    const articles = [
+      testArticle(),
+      {
+        ...testArticle(),
+        id: "2",
+        sourceName: "Finance Wire",
+        sourceUrl: "https://finance.example.com",
+        sourceRegion: "Europe",
+        title: "Central bank cuts rates as inflation slows",
+        summary: "Policymakers reduced interest rates after inflation eased.",
+        url: "https://finance.example.com/rates",
+        categoryHint: "财经" as const,
+      },
+    ];
+    const returnedSummaries = Array.from({ length: summaryCount }, (_, index) => ({
+      titleZh: `供应商摘要${index}`,
+      summaryZh: `供应商返回的第${index}条摘要。`,
+      category: "科技",
+      regions: ["全球"],
+      reasonZh: "供应商热度说明。",
+    }));
+    const latest = await generateLatestNews({
+      now: new Date("2026-07-09T00:00:00.000Z"),
+      articles,
+      fetchFeeds: false,
+      aiProvider: "deepseek",
+      deepseekApiKey: "test-deepseek-key",
+      fetchImpl: async () =>
+        new Response(
+          JSON.stringify({
+            choices: [{ message: { content: JSON.stringify({ events: returnedSummaries }) } }],
+          }),
+          { status: 200, headers: { "Content-Type": "application/json" } },
+        ),
+    });
+
+    expect(latest.status).toBe("sample");
+    expect(latest.events.slice(0, 2).every((event) => event.summaryZh.includes("自动摘要"))).toBe(true);
+    expect(new Set(latest.events.slice(0, 2).flatMap((event) => event.sources.map((source) => source.url)))).toEqual(
+      new Set(["https://reuters.com/ai-bill", "https://finance.example.com/rates"]),
+    );
+  });
+
   it("uses DeepSeek chat completions when configured as the AI provider", async () => {
     const calls: Array<{ url: string; body: any }> = [];
     const latest = await generateLatestNews({

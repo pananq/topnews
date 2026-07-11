@@ -27,7 +27,7 @@ interface CategoryEvidence {
 const CATEGORY_EVIDENCE: Record<NewsCategory, CategoryEvidence> = {
   "科技": {
     strongWords: ["ai", "technology", "software", "cyber", "chip", "semiconductor"],
-    combinations: [],
+    combinations: [["artificial", "intelligence"]],
   },
   "财经": {
     strongWords: [
@@ -133,18 +133,19 @@ export function normalizeArticle(raw: RawFeedItem, source: NewsSourceConfig): No
 }
 
 export function extractKeywords(text: string): string[] {
-  return classificationTokens(text).slice(0, 18);
+  return clusteringTokens(text).slice(0, 18);
 }
 
 export function inferCategory(text: string): NewsCategory | null {
-  const words = new Set(classificationTokens(text));
+  const tokens = classificationTokens(text);
+  const words = new Set(tokens);
   let bestCategory: NewsCategory | null = null;
   let bestScore = 0;
 
   for (const category of CATEGORIES) {
     const evidence = CATEGORY_EVIDENCE[category];
     const strongWordScore = evidence.strongWords.filter((word) => words.has(word)).length;
-    const combinationScore = evidence.combinations.filter((combination) => combination.every((word) => words.has(word))).length;
+    const combinationScore = evidence.combinations.filter((combination) => containsAdjacentPhrase(tokens, combination)).length;
     const score = strongWordScore + combinationScore;
 
     if (score > bestScore) {
@@ -157,15 +158,34 @@ export function inferCategory(text: string): NewsCategory | null {
 }
 
 function classificationTokens(text: string): string[] {
-  const tokens = text
-    .toLowerCase()
-    .replace(/&amp;/g, " ")
-    .replace(/[^a-z0-9\u4e00-\u9fff]+/g, " ")
-    .split(/\s+/)
+  return rawTokens(text).map((token) => {
+    if (token === "artificial" || token === "intelligence") {
+      return token;
+    }
+
+    return SYNONYMS.get(token) ?? token;
+  });
+}
+
+function clusteringTokens(text: string): string[] {
+  const tokens = rawTokens(text)
     .map((token) => SYNONYMS.get(token) ?? token)
     .filter((token) => token.length > 2 && !STOP_WORDS.has(token));
 
   return [...new Set(tokens)];
+}
+
+function rawTokens(text: string): string[] {
+  return text
+    .toLowerCase()
+    .replace(/&amp;/g, " ")
+    .replace(/[^a-z0-9\u4e00-\u9fff]+/g, " ")
+    .split(/\s+/)
+    .filter(Boolean);
+}
+
+function containsAdjacentPhrase(tokens: readonly string[], phrase: readonly string[]): boolean {
+  return tokens.some((_, start) => phrase.every((word, offset) => tokens[start + offset] === word));
 }
 
 function cleanText(value: string | undefined): string {
