@@ -267,6 +267,10 @@ function orderSummariesByCluster(aiSummaries: AiEventSummary[], clusters: Ranked
       throw new Error(`AI returned unknown clusterId: ${summary.clusterId}`);
     }
 
+    if (!isChineseFacingSummary(summary)) {
+      throw new Error(`AI returned non-Chinese summary for clusterId: ${summary.clusterId}`);
+    }
+
     if (byClusterId.has(summary.clusterId)) {
       throw new Error(`AI returned duplicate clusterId: ${summary.clusterId}`);
     }
@@ -283,6 +287,10 @@ function orderSummariesByCluster(aiSummaries: AiEventSummary[], clusters: Ranked
 
     return summary;
   });
+}
+
+function isChineseFacingSummary(summary: AiEventSummary): boolean {
+  return [summary.titleZh, summary.summaryZh, summary.reasonZh].every((value) => /[\u4e00-\u9fff]/.test(value));
 }
 
 function unique(values: string[]): string[] {

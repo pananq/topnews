@@ -59,6 +59,27 @@ describe("social sources", () => {
     expect(articles).toEqual([]);
   });
 
+  it("does not use Hacker News byline metadata as category evidence", async () => {
+    const articles = await fetchHackerNewsArticles(now, async (url) => {
+      if (String(url).endsWith("/topstories.json")) {
+        return jsonResponse([1003]);
+      }
+
+      return jsonResponse({
+        id: 1003,
+        type: "story",
+        by: "ai",
+        time: Math.floor(Date.parse("2026-07-08T20:00:00.000Z") / 1000),
+        title: "Neighborhood bakery opens weekend pop-up",
+        url: "https://example.com/bakery",
+        score: 9000,
+        descendants: 700,
+      });
+    });
+
+    expect(articles).toEqual([]);
+  });
+
   it("normalizes Reddit daily top posts into pipeline articles", async () => {
     const articles = await fetchRedditArticles(now, async () =>
       jsonResponse({
