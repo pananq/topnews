@@ -1,92 +1,152 @@
 {
-  "generatedAt": "2026-07-10T16:55:04.338Z",
+  "generatedAt": "2026-07-11T02:35:12.816Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "超级台风“巴威”袭击东亚，菲律宾山体滑坡致15人死亡",
-      "summaryZh": "宽达1000公里的超级台风“巴威”正在向台湾和中国东南部移动，预计将成为几十年来最强风暴之一。菲律宾因台风引发山体滑坡已造成15人死亡，台湾、日本和中国居民正在囤积物资。",
-      "category": "气候",
+      "titleZh": "苹果起诉OpenAI及其员工窃取商业机密",
+      "summaryZh": "苹果在周五的诉讼中称OpenAI的硬件业务“烂到骨子里”。指控两名前苹果员工与OpenAI合谋窃取机密信息，以推动OpenAI进军消费硬件领域。",
+      "category": "科技",
       "regions": [
-        "东亚",
-        "菲律宾",
-        "台湾",
-        "中国",
-        "日本"
+        "欧洲",
+        "中东",
+        "美洲"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "sourceCount": 6,
+        "regionCount": 4,
+        "reasonZh": "共有 6 个来源、4 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-10T13:53:11.000Z"
+          "publishedAt": "2026-07-10T22:54:16.000Z"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/super-typhoon-as-wide-as-france-heads-to-east-asia?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-10T14:08:37.000Z"
+          "publishedAt": "2026-07-10T23:00:11.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/apple-sues-openai-over-stealing-trade-secrets/a-77912767?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-10T12:49:14.000Z"
+          "publishedAt": "2026-07-10T21:09:00.000Z"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+          "language": "en",
+          "publishedAt": "2026-07-10T21:36:51.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+          "language": "en",
+          "publishedAt": "2026-07-10T21:00:29.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "瑞安航空航班上男子险些被吸出窗外",
-      "summaryZh": "在一架从希腊飞往德国的瑞安航空航班上，一名男子因窗户脱落险些被吸出机舱。他的妻子紧紧抓住他的腿约五分钟才使他脱险，官方已确认此事。",
-      "category": "社会",
+      "titleZh": "Meta因强烈反对撤回新AI图像功能",
+      "summaryZh": "Meta本周推出的AI功能允许用户通过@提及公开Instagram账户来生成AI图像，引发强烈批评。Meta已关闭该功能，称其“未达到预期”。",
+      "category": "科技",
       "regions": [
         "欧洲",
-        "希腊",
-        "德国"
+        "美洲",
+        "全球"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "sourceCount": 4,
+        "regionCount": 3,
+        "reasonZh": "共有 4 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-10T16:42:24.000Z"
+          "publishedAt": "2026-07-11T01:45:59.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/passenger-partly-sucked-from-ryanair-plane-during-flight/a-77909298?maca=en-rss-en-all-1573-rdf",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
           "language": "en",
-          "publishedAt": "2026-07-10T14:15:00.000Z"
+          "publishedAt": "2026-07-10T23:49:50.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+          "language": "en",
+          "publishedAt": "2026-07-10T23:55:07.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://www.rte.ie/news/2026/0710/1582735-world-ryanair/",
+          "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
           "language": "en",
-          "publishedAt": "2026-07-10T13:40:31.000Z"
+          "publishedAt": "2026-07-11T00:40:36.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "中国首次成功回收可重复使用火箭",
-      "summaryZh": "中国国营航天公司首次成功回收了一枚轨道级火箭助推器，标志着中国成为少数具备此能力的航天大国之一。该技术类似于SpaceX和蓝色起源的回收方式，但采用了不同的着陆方法。",
+      "titleZh": "欧盟称Instagram和Facebook的“成瘾性”功能违反规则",
+      "summaryZh": "欧盟表示Meta平台的某些设计功能如无限滚动、自动播放、推送通知和高度个性化推荐算法违反《数字服务法》。Meta可能面临罚款。",
       "category": "科技",
       "regions": [
-        "中国"
+        "中东",
+        "美洲",
+        "全球"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 3,
+        "reasonZh": "共有 3 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/10/eu-says-addictive-features-on-instagram-and-facebook-breach-its-rules?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-10T19:13:23.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+          "language": "en",
+          "publishedAt": "2026-07-10T14:19:40.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://ec.europa.eu/commission/presscorner/home/en",
+          "language": "en",
+          "publishedAt": "2026-07-10T11:00:15.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.cnbc.com/2026/07/10/meta-instagram-facebook-addictive-design-breach-eu-laws.html",
+          "language": "en",
+          "publishedAt": "2026-07-11T01:18:20.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "中国首次成功回收可重复使用火箭",
+      "summaryZh": "中国国有航天公司成功回收了首个轨道级火箭助推器，标志着中国加入了少数能够回收火箭的国家行列，类似SpaceX和蓝色起源。",
+      "category": "科技",
+      "regions": [
+        "欧洲",
+        "美洲"
       ],
       "heat": {
         "score": 100,
@@ -116,113 +176,73 @@
       ]
     },
     {
-      "rank": 4,
-      "titleZh": "Hacker News热议：青铜时代晚期崩溃",
-      "summaryZh": "Hacker News上关于青铜时代晚期崩溃的帖子获得201分和111条评论，引发广泛讨论。该话题涉及古代文明的衰落原因。",
-      "category": "社会",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-          "language": "en",
-          "publishedAt": "2026-07-10T11:59:55.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://lesleylai.info/en/flashcards/",
-          "language": "en",
-          "publishedAt": "2026-07-10T15:30:44.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://elonlit.com/scrivings/the-annotated-jepa/",
-          "language": "en",
-          "publishedAt": "2026-07-10T13:45:05.000Z"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "titleZh": "欧盟威胁因成瘾功能对Meta处以罚款",
-      "summaryZh": "欧盟委员会认定Meta旗下Facebook和Instagram的无限滚动、自动播放、推送通知及高度个性化推荐算法违反《数字服务法》，构成成瘾性设计，可能面临巨额罚款。",
-      "category": "科技",
+      "titleZh": "古巴一周内第二次全岛停电，特朗普燃料封锁加剧危机",
+      "summaryZh": "古巴电网因美国事实上的石油封锁和年久失修的基础设施再次崩溃，一周内发生第二次全岛停电。",
+      "category": "国际",
       "regions": [
-        "欧盟"
+        "中东",
+        "欧洲"
       ],
       "heat": {
-        "score": 100,
+        "score": 97,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-10T14:19:40.000Z"
+          "publishedAt": "2026-07-10T23:18:08.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://ec.europa.eu/commission/presscorner/home/en",
+          "name": "DW",
+          "url": "https://www.dw.com/en/cuba-suffers-second-nationwide-blackout-in-five-days/a-77913285?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-10T11:00:15.000Z"
+          "publishedAt": "2026-07-10T23:27:00.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "伊朗已故最高领袖哈梅内伊安葬，数万人送别",
-      "summaryZh": "伊朗前最高领袖阿里·哈梅内伊被安葬在马什哈德的伊玛目礼萨圣陵，为期六天的全国哀悼结束。与此同时，伊朗面临新的局势升级，部分油轮仍在通过霍尔木兹海峡。",
-      "category": "国际",
+      "titleZh": "尼日利亚解救数十名被绑架学生和教师",
+      "summaryZh": "这些人员在五月从奥约州三所学校被绑架，现已被尼日利亚军方解救。",
+      "category": "安全",
       "regions": [
-        "伊朗",
-        "中东"
+        "中东",
+        "欧洲"
       ],
       "heat": {
         "score": 96,
         "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-09T23:18:18.000Z"
-        },
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c4gym0r7kj1o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-09T20:16:13.000Z"
+          "publishedAt": "2026-07-10T21:01:27.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/iran-war-former-supreme-leader-buried-amid-new-escalation/live-77899274?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/nigerian-military-rescues-46-abducted-school-children/a-77912381?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-10T06:44:00.000Z"
+          "publishedAt": "2026-07-10T20:28:00.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "乌克兰特工涉嫌谋杀摩纳哥爆炸案嫌疑人并改口供",
-      "summaryZh": "两名与乌克兰安全部门有关联的男子被指控谋杀阿纳斯塔西娅·别列佐夫斯卡并抛尸树林。嫌疑人起初承认后又改口，动机尚不明确，案件引发两国关注。",
-      "category": "国际",
+      "titleZh": "英国警方逮捕涉嫌谋杀前议员安·威德库姆的男子",
+      "summaryZh": "78岁的改革党政治家威德库姆周四被发现死于家中，身上有重伤。警方逮捕了一名26岁男子，初步调查不认为是恐怖主义或政治动机。",
+      "category": "社会",
       "regions": [
-        "乌克兰",
-        "摩纳哥"
+        "中东",
+        "欧洲"
       ],
       "heat": {
         "score": 94,
@@ -232,29 +252,58 @@
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/10/uk-police-arrest-man-suspected-of-murdering-former-mp-ann-widdecombe?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-09T20:47:41.000Z"
+          "publishedAt": "2026-07-10T18:18:39.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/10/ukrainian-court-detains-alleged-killers-of-monaco-bomb-attack-suspect?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/uk-police-arrest-murder-suspect-in-ann-widdecombe-s-death/a-77910345?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-10T14:01:22.000Z"
+          "publishedAt": "2026-07-10T17:18:00.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "迪士尼+考虑推出免费流媒体层级",
-      "summaryZh": "据报道，迪士尼+正在考虑推出免费流媒体服务，以与YouTube和Tubi等免费平台竞争。首席产品和技术官在内部会议中提及此计划，但具体内容和上线时间尚未确定。",
-      "category": "科技",
+      "titleZh": "瑞安航空航班上男子险些被吸出窗外",
+      "summaryZh": "一名乘客在从希腊飞往德国的瑞安航空航班上，机身突然出现巨响，男子被吸向破裂的窗户，其妻子抓住他的腿约5分钟才避免被吸出。",
+      "category": "社会",
       "regions": [
-        "美国"
+        "欧洲"
       ],
       "heat": {
-        "score": 89,
+        "score": 83,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-10T16:42:24.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/passenger-partly-sucked-from-ryanair-plane-during-flight/a-77909298?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-10T14:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "迪士尼+据报考虑推出免费流媒体服务",
+      "summaryZh": "迪士尼首席产品和技术官在公司全体会议上提及免费流媒体层级，旨在与YouTube和Tubi等免费服务竞争，细节尚不明确。",
+      "category": "科技",
+      "regions": [
+        "美洲"
+      ],
+      "heat": {
+        "score": 83,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -275,44 +324,15 @@
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "编程心得：写代码时要考虑人类维护",
-      "summaryZh": "Hacker News上关于“写代码要像人一样维护”的帖子获得209分和173条评论，强调了代码可读性和维护性的重要性。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 86,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-          "language": "en",
-          "publishedAt": "2026-07-10T13:33:00.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-          "language": "en",
-          "publishedAt": "2026-07-10T08:21:10.000Z"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "titleZh": "QuadRF设备可探测无人机并穿透墙壁识别WiFi信号",
-      "summaryZh": "Hacker News上关于QuadRF设备的讨论获得74分，该设备能够探测无人机并穿透墙壁识别WiFi信号，引发安全与隐私关注。",
+      "titleZh": "QuadRF技术可探测无人机并透视墙壁上的WiFi信号",
+      "summaryZh": "Hacker News上热门讨论，该技术能发现无人机并穿透墙壁看到WiFi信号。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 85,
+        "score": 83,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
