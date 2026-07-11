@@ -19,34 +19,67 @@ const STOP_WORDS = new Set([
   "latest",
 ]);
 
-const CATEGORY_KEYWORDS: Record<NewsCategory, string[]> = {
-  "科技": ["ai", "artificial", "technology", "software", "cyber", "chip", "space"],
-  "财经": [
-    "market",
-    "stock",
-    "stocks",
-    "investor",
-    "earnings",
-    "shares",
-    "bond",
-    "crypto",
-    "finance",
-    "bank",
-    "inflation",
-    "rate",
-    "trade",
-    "economy",
-    "economic",
-    "macroeconomic",
-    "banking",
-    "gdp",
-    "tariff",
-    "supply",
-    "central",
-  ],
-  "政治": ["election", "president", "minister", "senate", "parliament", "government", "diplomacy"],
-  "国际": ["global", "united", "nations", "world", "foreign", "border"],
-  "体育": ["match", "tournament", "cup", "league", "final", "player"],
+interface CategoryEvidence {
+  strongWords: readonly string[];
+  combinations: readonly (readonly string[])[];
+}
+
+const CATEGORY_EVIDENCE: Record<NewsCategory, CategoryEvidence> = {
+  "科技": {
+    strongWords: ["ai", "technology", "software", "cyber", "chip", "semiconductor"],
+    combinations: [],
+  },
+  "财经": {
+    strongWords: [
+      "market",
+      "stock",
+      "stocks",
+      "investor",
+      "earnings",
+      "shares",
+      "bond",
+      "crypto",
+      "finance",
+      "inflation",
+      "trade",
+      "economy",
+      "economic",
+      "macroeconomic",
+      "banking",
+      "gdp",
+      "tariff",
+    ],
+    combinations: [
+      ["central", "bank"],
+      ["interest", "rate"],
+      ["interest", "rates"],
+      ["supply", "chain"],
+    ],
+  },
+  "政治": {
+    strongWords: ["election", "president", "senate", "parliament", "government", "diplomacy", "diplomatic"],
+    combinations: [
+      ["prime", "minister"],
+      ["foreign", "minister"],
+    ],
+  },
+  "国际": {
+    strongWords: ["geopolitical", "ceasefire", "invasion", "refugee", "embassy"],
+    combinations: [
+      ["united", "nations"],
+      ["security", "council"],
+      ["border", "conflict"],
+      ["israel", "iran"],
+      ["nuclear", "facilities"],
+    ],
+  },
+  "体育": {
+    strongWords: ["match", "tournament", "league", "championship", "olympic", "olympics"],
+    combinations: [
+      ["world", "cup"],
+      ["cup", "final"],
+    ],
+  },
 };
 
 const SYNONYMS = new Map([
@@ -100,6 +133,30 @@ export function normalizeArticle(raw: RawFeedItem, source: NewsSourceConfig): No
 }
 
 export function extractKeywords(text: string): string[] {
+  return classificationTokens(text).slice(0, 18);
+}
+
+export function inferCategory(text: string): NewsCategory | null {
+  const words = new Set(classificationTokens(text));
+  let bestCategory: NewsCategory | null = null;
+  let bestScore = 0;
+
+  for (const category of CATEGORIES) {
+    const evidence = CATEGORY_EVIDENCE[category];
+    const strongWordScore = evidence.strongWords.filter((word) => words.has(word)).length;
+    const combinationScore = evidence.combinations.filter((combination) => combination.every((word) => words.has(word))).length;
+    const score = strongWordScore + combinationScore;
+
+    if (score > bestScore) {
+      bestCategory = category;
+      bestScore = score;
+    }
+  }
+
+  return bestCategory;
+}
+
+function classificationTokens(text: string): string[] {
   const tokens = text
     .toLowerCase()
     .replace(/&amp;/g, " ")
@@ -108,23 +165,7 @@ export function extractKeywords(text: string): string[] {
     .map((token) => SYNONYMS.get(token) ?? token)
     .filter((token) => token.length > 2 && !STOP_WORDS.has(token));
 
-  return [...new Set(tokens)].slice(0, 18);
-}
-
-export function inferCategory(text: string): NewsCategory | null {
-  const words = new Set(extractKeywords(text));
-  let bestCategory: NewsCategory | null = null;
-  let bestScore = 0;
-
-  for (const category of CATEGORIES) {
-    const score = CATEGORY_KEYWORDS[category].filter((word) => words.has(word)).length;
-    if (score > bestScore) {
-      bestCategory = category;
-      bestScore = score;
-    }
-  }
-
-  return bestCategory;
+  return [...new Set(tokens)];
 }
 
 function cleanText(value: string | undefined): string {

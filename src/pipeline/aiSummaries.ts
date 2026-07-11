@@ -14,12 +14,19 @@ interface SummaryOptions {
 
 export type AiProvider = "deepseek" | "openai";
 
+const CHINESE_ORDINALS = ["一", "二", "三", "四", "五", "六", "七", "八", "九", "十"] as const;
+
 interface AiEventSummary {
   titleZh: string;
   summaryZh: string;
   category: NewsCategory;
   regions: string[];
   reasonZh: string;
+}
+
+export interface SummaryResult {
+  events: NewsEvent[];
+  status: "fresh" | "sample";
 }
 
 const EVENT_SUMMARY_SCHEMA = {
@@ -47,34 +54,36 @@ const EVENT_SUMMARY_SCHEMA = {
   required: ["events"],
 };
 
-export async function summarizeClusters(clusters: RankedCluster[], options: SummaryOptions = {}): Promise<NewsEvent[]> {
+export async function summarizeClusters(clusters: RankedCluster[], options: SummaryOptions = {}): Promise<SummaryResult> {
   const provider = options.provider ?? "deepseek";
   const apiKey = provider === "deepseek" ? options.deepseekApiKey : options.openaiApiKey;
 
   if (!apiKey) {
-    return fallbackSummaries(clusters);
+    return { events: fallbackSummaries(clusters), status: "sample" };
   }
 
   try {
     const aiSummaries = provider === "deepseek" ? await requestDeepSeekSummaries(clusters, options) : await requestOpenAiSummaries(clusters, options);
-    return clusters.map((cluster, index) => buildEvent(cluster, index + 1, aiSummaries[index] ?? fallbackSummary(cluster)));
+    return {
+      events: clusters.map((cluster, index) => buildEvent(cluster, index + 1, aiSummaries[index] ?? fallbackSummary(cluster, index))),
+      status: "fresh",
+    };
   } catch (error) {
     console.warn(`AI summary failed, using deterministic fallback: ${error instanceof Error ? error.message : String(error)}`);
-    return fallbackSummaries(clusters);
+    return { events: fallbackSummaries(clusters), status: "sample" };
   }
 }
 
 function fallbackSummaries(clusters: RankedCluster[]): NewsEvent[] {
-  return clusters.map((cluster, index) => buildEvent(cluster, index + 1, fallbackSummary(cluster)));
+  return clusters.map((cluster, index) => buildEvent(cluster, index + 1, fallbackSummary(cluster, index)));
 }
 
-function fallbackSummary(cluster: RankedCluster): AiEventSummary {
-  const first = cluster.articles[0];
+function fallbackSummary(cluster: RankedCluster, index: number): AiEventSummary {
   const regions = unique(cluster.articles.map((article) => article.sourceRegion));
 
   return {
-    titleZh: first.title,
-    summaryZh: `自动摘要：${first.summary || first.title}。该事件由 ${cluster.heat.sourceCount} 个来源报道，保留原文链接供继续阅读。`,
+    titleZh: `第${CHINESE_ORDINALS[index] ?? "十"}条${cluster.category}要闻`,
+    summaryZh: "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
     category: cluster.category,
     regions: regions.length > 0 ? regions : ["全球"],
     reasonZh: cluster.heat.reasonZh,

@@ -107,6 +107,36 @@ describe("social sources", () => {
 
     expect(articles).toEqual([]);
   });
+
+  it("rejects extremely popular Reddit posts that fail the category eligibility gate", async () => {
+    const articles = await fetchRedditArticles(
+      now,
+      async () =>
+        jsonResponse({
+          data: {
+            children: [
+              {
+                data: {
+                  id: "popular-dog",
+                  subreddit: "worldnews",
+                  title: "World's oldest dog celebrates birthday",
+                  selftext: "Millions shared photos from the birthday celebration.",
+                  url: "https://example.com/oldest-dog",
+                  permalink: "/r/worldnews/comments/popular-dog/oldest_dog/",
+                  created_utc: Math.floor(Date.parse("2026-07-08T19:00:00.000Z") / 1000),
+                  score: 9_000_000,
+                  num_comments: 800_000,
+                  over_18: false,
+                },
+              },
+            ],
+          },
+        }),
+      ["worldnews"],
+    );
+
+    expect(articles).toEqual([]);
+  });
 });
 
 function jsonResponse(value: unknown): Response {

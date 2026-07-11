@@ -20,6 +20,35 @@ describe("news pipeline", () => {
     expect(inferCategory(headline)).toBe("财经");
   });
 
+  it.each([
+    ["Central bank cuts interest rates as inflation slows", "财经"],
+    ["United Nations Security Council calls emergency ceasefire meeting", "国际"],
+    ["Olympic champion wins swimming tournament", "体育"],
+    ["Semiconductor company unveils advanced chip architecture", "科技"],
+  ] as const)("accepts focus-category evidence in: %s", (headline, category) => {
+    expect(inferCategory(headline)).toBe(category);
+  });
+
+  it("accepts a high-signal international political crisis", () => {
+    expect(["国际", "政治"]).toContain(inferCategory("Israel strikes Iran nuclear facilities amid diplomatic crisis"));
+  });
+
+  it.each([
+    "World's oldest dog celebrates birthday",
+    "Global community celebrates annual garden festival",
+    "United family opens neighborhood bakery",
+    "Central library extends weekend opening hours",
+    "Local player reaches final rehearsal for school play",
+  ])("rejects isolated low-signal qualifier words in: %s", (headline) => {
+    expect(inferCategory(headline)).toBeNull();
+  });
+
+  it("classifies from evidence beyond the clustering keyword limit", () => {
+    const filler = Array.from({ length: 20 }, (_, index) => `ordinaryword${index}`).join(" ");
+
+    expect(inferCategory(`${filler} inflation accelerates as bond yields rise`)).toBe("财经");
+  });
+
   it("rejects articles outside the focus categories before ranking", () => {
     const result = normalizeArticle(
       {
@@ -68,6 +97,47 @@ describe("news pipeline", () => {
 
     expect(clusters).toHaveLength(1);
     expect(clusters[0].category).toBe("财经");
+  });
+
+  it.each([false, true])("breaks equal total category weight by highest single source weight regardless of input order: reverse=%s", (reverse) => {
+    const articles = [
+      article("Politics Wire", "en", "Shared policy event", "Same event details.", "Global", 1.5, "政治"),
+      article("Politics Daily", "en", "Shared policy event", "Same event details.", "Global", 0.5, "政治"),
+      article("Finance Wire", "en", "Shared policy event", "Same event details.", "Global", 1, "财经"),
+      article("Finance Daily", "en", "Shared policy event", "Same event details.", "Global", 1, "财经"),
+    ];
+
+    const clusters = clusterArticles(reverse ? [...articles].reverse() : articles);
+
+    expect(clusters).toHaveLength(1);
+    expect(clusters[0].category).toBe("政治");
+  });
+
+  it.each([false, true])("breaks equal total category weight by article count regardless of input order: reverse=%s", (reverse) => {
+    const articles = [
+      article("Politics Wire", "en", "Shared policy briefing", "Same event details.", "Global", 2, "政治"),
+      article("Finance Wire", "en", "Shared policy briefing", "Same event details.", "Global", 1, "财经"),
+      article("Finance Daily", "en", "Shared policy briefing", "Same event details.", "Global", 1, "财经"),
+    ];
+
+    const clusters = clusterArticles(reverse ? [...articles].reverse() : articles);
+
+    expect(clusters).toHaveLength(1);
+    expect(clusters[0].category).toBe("财经");
+  });
+
+  it.each([false, true])("uses fixed category order after all cluster category tie-breakers regardless of input order: reverse=%s", (reverse) => {
+    const articles = [
+      article("Tech Wire", "en", "Shared industry event", "Same event details.", "Global", 1, "科技"),
+      article("Tech Daily", "en", "Shared industry event", "Same event details.", "Global", 1, "科技"),
+      article("Finance Wire", "en", "Shared industry event", "Same event details.", "Global", 1, "财经"),
+      article("Finance Daily", "en", "Shared industry event", "Same event details.", "Global", 1, "财经"),
+    ];
+
+    const clusters = clusterArticles(reverse ? [...articles].reverse() : articles);
+
+    expect(clusters).toHaveLength(1);
+    expect(clusters[0].category).toBe("科技");
   });
 
   it("ranks multi-source cross-region clusters above single-source clusters", () => {

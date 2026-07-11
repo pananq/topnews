@@ -1,5 +1,5 @@
 import { extractKeywords } from "./normalize";
-import type { NewsCategory } from "../shared/categories";
+import { CATEGORIES, type NewsCategory } from "../shared/categories";
 import type { NewsCluster, NormalizedArticle } from "./types";
 
 export function clusterArticles(articles: NormalizedArticle[]): NewsCluster[] {
@@ -29,13 +29,25 @@ export function clusterArticles(articles: NormalizedArticle[]): NewsCluster[] {
 }
 
 function resolveClusterCategory(articles: NormalizedArticle[]): NewsCategory {
-  const weights = new Map<NewsCategory, number>();
+  const evidence = new Map<NewsCategory, { totalWeight: number; articleCount: number; highestWeight: number }>();
 
   for (const article of articles) {
-    weights.set(article.categoryHint, (weights.get(article.categoryHint) ?? 0) + article.sourceWeight);
+    const current = evidence.get(article.categoryHint) ?? { totalWeight: 0, articleCount: 0, highestWeight: 0 };
+    evidence.set(article.categoryHint, {
+      totalWeight: current.totalWeight + article.sourceWeight,
+      articleCount: current.articleCount + 1,
+      highestWeight: Math.max(current.highestWeight, article.sourceWeight),
+    });
   }
 
-  return [...weights.entries()].sort((left, right) => right[1] - left[1])[0][0];
+  return [...evidence.entries()].sort(([leftCategory, left], [rightCategory, right]) => {
+    return (
+      right.totalWeight - left.totalWeight ||
+      right.articleCount - left.articleCount ||
+      right.highestWeight - left.highestWeight ||
+      CATEGORIES.indexOf(leftCategory) - CATEGORIES.indexOf(rightCategory)
+    );
+  })[0][0];
 }
 
 function articleSimilarity(keywords: string[], article: NormalizedArticle, cluster: NewsCluster): number {

@@ -25,8 +25,25 @@ describe("generateLatestNews", () => {
     });
 
     expect(latest.status).toBe("sample");
-    expect(latest.events[0].titleZh).toContain("US Senate passes");
+    expect(latest.events[0].titleZh).not.toMatch(/[A-Za-z0-9]/);
+    expect(latest.events[0].summaryZh).not.toMatch(/[A-Za-z0-9]/);
     expect(latest.events[0].summaryZh).toContain("自动摘要");
+    expect(latest.events[0].sources[0].url).toBe("https://reuters.com/ai-bill");
+  });
+
+  it("marks provider failures as sample and uses deterministic Chinese fallback fields", async () => {
+    const latest = await generateLatestNews({
+      now: new Date("2026-07-09T00:00:00.000Z"),
+      articles: [testArticle()],
+      fetchFeeds: false,
+      aiProvider: "openai",
+      openaiApiKey: "test-openai-key",
+      fetchImpl: async () => new Response("provider unavailable", { status: 500 }),
+    });
+
+    expect(latest.status).toBe("sample");
+    expect(latest.events[0].titleZh).not.toMatch(/[A-Za-z0-9]/);
+    expect(latest.events[0].summaryZh).not.toMatch(/[A-Za-z0-9]/);
     expect(latest.events[0].sources[0].url).toBe("https://reuters.com/ai-bill");
   });
 
@@ -131,4 +148,72 @@ describe("generateLatestNews", () => {
     expect(latest.events[0].titleZh).toBe("美国参议院通过 AI 安全法案");
     expect(latest.events[0].category).toBe("科技");
   });
+
+  it("uses the OpenAI Responses API contract and preserves the preclassified category", async () => {
+    const calls: Array<{ url: string; body: any }> = [];
+    const latest = await generateLatestNews({
+      now: new Date("2026-07-09T00:00:00.000Z"),
+      articles: [testArticle()],
+      fetchFeeds: false,
+      aiProvider: "openai",
+      openaiApiKey: "test-openai-key",
+      openaiModel: "gpt-test-model",
+      fetchImpl: async (url, init) => {
+        calls.push({ url: String(url), body: JSON.parse(String(init?.body)) });
+
+        return new Response(
+          JSON.stringify({
+            output: [
+              {
+                type: "message",
+                content: [
+                  {
+                    type: "output_text",
+                    text: JSON.stringify({
+                      events: [
+                        {
+                          titleZh: "美国参议院通过人工智能安全法案",
+                          summaryZh: "美国参议院通过人工智能安全法案。法案将建立新的监管要求。",
+                          category: "财经",
+                          regions: ["美国"],
+                          reasonZh: "多家来源集中报道。",
+                        },
+                      ],
+                    }),
+                  },
+                ],
+              },
+            ],
+          }),
+          { status: 200, headers: { "Content-Type": "application/json" } },
+        );
+      },
+    });
+
+    expect(calls).toHaveLength(1);
+    expect(calls[0].url).toBe("https://api.openai.com/v1/responses");
+    expect(calls[0].body.model).toBe("gpt-test-model");
+    const prompt = JSON.parse(calls[0].body.input[1].content);
+    expect(prompt.clusters[0].category).toBe("科技");
+    expect(prompt.instruction).toContain("必须保留输入的预分类");
+    expect(latest.status).toBe("fresh");
+    expect(latest.events[0].category).toBe("科技");
+  });
 });
+
+function testArticle() {
+  return {
+    id: "1",
+    sourceName: "Reuters",
+    sourceUrl: "https://reuters.com",
+    sourceWeight: 1.3,
+    sourceRegion: "Americas",
+    language: "en",
+    title: "US Senate passes landmark AI safety bill",
+    summary: "Lawmakers passed a major artificial intelligence safety bill.",
+    url: "https://reuters.com/ai-bill",
+    publishedAt: "2026-07-08T18:00:00.000Z",
+    categoryHint: "科技" as const,
+    keywords: [],
+  };
+}

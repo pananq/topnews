@@ -29,8 +29,7 @@ export async function generateLatestNews(options: GenerateOptions = {}): Promise
   const clusters = clusterArticles(articles);
   const ranked = selectTopClusters(rankClusters(clusters, now), 10);
   const provider = options.aiProvider ?? "deepseek";
-  const hasConfiguredKey = provider === "deepseek" ? Boolean(options.deepseekApiKey) : Boolean(options.openaiApiKey);
-  const generatedEvents =
+  const summaryResult =
     ranked.length > 0
       ? await summarizeClusters(ranked, {
           provider,
@@ -40,13 +39,14 @@ export async function generateLatestNews(options: GenerateOptions = {}): Promise
           openaiModel: options.openaiModel,
           fetchImpl: options.fetchImpl,
         })
-      : [];
+      : { events: [], status: "sample" as const };
+  const generatedEvents = summaryResult.events;
   const events = ensureTenEvents(generatedEvents);
   const latest: LatestNews = {
     generatedAt: now.toISOString(),
     windowHours: 24,
     timezone: "Asia/Shanghai",
-    status: hasConfiguredKey && generatedEvents.length > 0 ? "fresh" : "sample",
+    status: summaryResult.status,
     events,
   };
 
