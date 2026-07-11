@@ -1,4 +1,3 @@
-import type { NewsCategory } from "../shared/categories";
 import { extractKeywords, inferCategory } from "./normalize";
 import { isWithinWindow } from "./time";
 import type { NormalizedArticle } from "./types";
@@ -125,7 +124,7 @@ function normalizeRedditPost(post: RedditPost | undefined): NormalizedArticle | 
   const url = post.url ?? `https://www.reddit.com${post.permalink ?? ""}`;
   const summaryText = post.selftext?.trim();
   const summary = `${score} upvotes, ${comments} comments on r/${subreddit}. ${summaryText ? summaryText.slice(0, 260) : ""}`.trim();
-  const categoryHint = ["worldnews", "news"].includes(subreddit.toLowerCase()) ? inferCategory(`${post.title} ${summary}`) : redditCategory(subreddit);
+  const categoryHint = inferCategory(`${post.title} ${summaryText ?? ""}`);
 
   if (!categoryHint) {
     return null;
@@ -175,22 +174,4 @@ async function fetchJson<T>(url: string, fetchImpl: typeof fetch): Promise<T> {
 
 function socialWeight(score: number, comments: number, base: number): number {
   return Math.min(2.4, base + Math.log10(Math.max(1, score) + Math.max(0, comments) * 2) / 3);
-}
-
-function redditCategory(subreddit: string): NewsCategory {
-  const normalized = subreddit.toLowerCase();
-
-  if (["technology", "science", "artificial"].includes(normalized)) {
-    return "科技";
-  }
-
-  if (["business", "finance", "economics"].includes(normalized)) {
-    return "财经";
-  }
-
-  if (["sports"].includes(normalized)) {
-    return "体育";
-  }
-
-  return "国际";
 }

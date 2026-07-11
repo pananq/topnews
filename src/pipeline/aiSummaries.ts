@@ -1,6 +1,4 @@
 import { z } from "zod";
-import type { NewsCategory } from "../shared/categories";
-import { CATEGORIES } from "../shared/categories";
 import type { NewsEvent } from "../shared/schema";
 import type { RankedCluster } from "./types";
 
@@ -21,7 +19,6 @@ interface AiEventSummary {
   clusterId: string;
   titleZh: string;
   summaryZh: string;
-  category: NewsCategory;
   regions: string[];
   reasonZh: string;
 }
@@ -46,11 +43,10 @@ const EVENT_SUMMARY_SCHEMA = {
           clusterId: { type: "string" },
           titleZh: { type: "string" },
           summaryZh: { type: "string" },
-          category: { enum: [...CATEGORIES] },
           regions: { type: "array", minItems: 1, items: { type: "string" } },
           reasonZh: { type: "string" },
         },
-        required: ["clusterId", "titleZh", "summaryZh", "category", "regions", "reasonZh"],
+        required: ["clusterId", "titleZh", "summaryZh", "regions", "reasonZh"],
       },
     },
   },
@@ -62,7 +58,6 @@ const AiEventSummarySchema = z
     clusterId: z.string().min(1),
     titleZh: z.string().min(1),
     summaryZh: z.string().min(1),
-    category: z.enum(CATEGORIES),
     regions: z.array(z.string().min(1)).min(1),
     reasonZh: z.string(),
   })
@@ -107,7 +102,6 @@ function fallbackSummary(cluster: RankedCluster, index: number): AiEventSummary 
     clusterId: cluster.id,
     titleZh: `第${CHINESE_ORDINALS[index] ?? "十"}条${cluster.category}要闻`,
     summaryZh: "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-    category: cluster.category,
     regions: regions.length > 0 ? regions : ["全球"],
     reasonZh: cluster.heat.reasonZh,
   };
@@ -155,7 +149,7 @@ async function requestOpenAiSummaries(clusters: RankedCluster[], options: Summar
         {
           role: "user",
           content: JSON.stringify({
-            instruction: `为每个新闻事件生成中文标题、2-3 句中文摘要、一个主分类、影响地区和热度依据。每个输出事件必须原样包含输入的 clusterId。主分类只能从这些值中选择：${CATEGORIES.join("、")}。必须保留输入的预分类，不得根据内容改分类。不要使用气候、安全、社会、娱乐等非目标分类。`,
+            instruction: "为每个新闻事件生成中文标题、2-3 句中文摘要、影响地区和热度依据。每个输出事件必须原样包含输入的 clusterId。不要输出分类字段，不要根据内容改分类，不要编造事实。",
             clusters: clusters.map((cluster) => ({
               clusterId: cluster.id,
               representativeTitle: cluster.representativeTitle,
@@ -217,7 +211,7 @@ async function requestDeepSeekSummaries(clusters: RankedCluster[], options: Summ
           role: "user",
           content: JSON.stringify({
             instruction:
-              `请输出 json，格式为 {"events":[{"clusterId":"输入的 clusterId","titleZh":"...","summaryZh":"...","category":"${CATEGORIES.join("|")}","regions":["..."],"reasonZh":"..."}]}。为每个新闻事件生成中文标题、2-3 句中文摘要、一个主分类、影响地区和热度依据。每个输出事件必须原样包含输入的 clusterId。主分类只能从这些值中选择：${CATEGORIES.join("、")}。必须保留输入的预分类，不得根据内容改分类。不要使用气候、安全、社会、娱乐等非目标分类。`,
+              '请输出 json，格式为 {"events":[{"clusterId":"输入的 clusterId","titleZh":"...","summaryZh":"...","regions":["..."],"reasonZh":"..."}]}。为每个新闻事件生成中文标题、2-3 句中文摘要、影响地区和热度依据。每个输出事件必须原样包含输入的 clusterId。不要输出分类字段，不要根据内容改分类，不要编造事实。',
             clusters: clusters.map((cluster) => ({
               clusterId: cluster.id,
               representativeTitle: cluster.representativeTitle,

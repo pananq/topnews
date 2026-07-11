@@ -105,7 +105,6 @@ describe("generateLatestNews", () => {
       clusterId: String(index + 1),
       titleZh: `供应商摘要${index}`,
       summaryZh: `供应商返回的第${index}条摘要。`,
-      category: "科技",
       regions: ["全球"],
       reasonZh: "供应商热度说明。",
     }));
@@ -150,7 +149,6 @@ describe("generateLatestNews", () => {
                         clusterId: "1",
                         titleZh: 42,
                         summaryZh: "供应商返回了类型错误的标题。",
-                        category: "科技",
                         regions: ["美国"],
                         reasonZh: "供应商热度说明。",
                       },
@@ -204,7 +202,6 @@ describe("generateLatestNews", () => {
                       clusterId,
                       titleZh: `供应商摘要${index}`,
                       summaryZh: `供应商返回的第${index}条摘要。`,
-                      category: index === 0 ? "科技" : "财经",
                       regions: ["全球"],
                       reasonZh: "供应商热度说明。",
                     })),
@@ -219,6 +216,44 @@ describe("generateLatestNews", () => {
 
     expect(latest.status).toBe("sample");
     expect(latest.events.slice(0, 2).every((event) => event.summaryZh.includes("自动摘要"))).toBe(true);
+  });
+
+  it("falls back when DeepSeek returns a category field instead of summarizing only", async () => {
+    const latest = await generateLatestNews({
+      now: new Date("2026-07-09T00:00:00.000Z"),
+      articles: [testArticle()],
+      fetchFeeds: false,
+      aiProvider: "deepseek",
+      deepseekApiKey: "test-deepseek-key",
+      fetchImpl: async () =>
+        new Response(
+          JSON.stringify({
+            choices: [
+              {
+                message: {
+                  content: JSON.stringify({
+                    events: [
+                      {
+                        clusterId: "1",
+                        titleZh: "美国参议院通过人工智能安全法案",
+                        summaryZh: "美国参议院通过人工智能安全法案。法案将建立新的监管要求。",
+                        category: "财经",
+                        regions: ["美国"],
+                        reasonZh: "多家来源集中报道。",
+                      },
+                    ],
+                  }),
+                },
+              },
+            ],
+          }),
+          { status: 200, headers: { "Content-Type": "application/json" } },
+        ),
+    });
+
+    expect(latest.status).toBe("sample");
+    expect(latest.events[0].category).toBe("科技");
+    expect(latest.events[0].summaryZh).toContain("自动摘要");
   });
 
   it("binds DeepSeek summaries to clusters by stable id when the provider reorders events", async () => {
@@ -264,7 +299,6 @@ describe("generateLatestNews", () => {
                         clusterId: prompt.clusters[1].clusterId,
                         titleZh: "央行降息推动市场关注",
                         summaryZh: "央行在通胀放缓后降息。投资者关注后续政策路径。",
-                        category: "财经",
                         regions: ["欧洲"],
                         reasonZh: "财经来源报道了降息事件。",
                       },
@@ -272,7 +306,6 @@ describe("generateLatestNews", () => {
                         clusterId: prompt.clusters[0].clusterId,
                         titleZh: "美国参议院通过人工智能安全法案",
                         summaryZh: "美国参议院通过人工智能安全法案。法案将建立新的监管要求。",
-                        category: "科技",
                         regions: ["美国"],
                         reasonZh: "多家来源集中报道。",
                       },
@@ -334,7 +367,6 @@ describe("generateLatestNews", () => {
                         clusterId: "1",
                         titleZh: "美国参议院通过 AI 安全法案",
                         summaryZh: "美国参议院通过一项人工智能安全法案。该法案为人工智能系统建立新的监管要求。",
-                        category: "财经",
                         regions: ["美国"],
                         reasonZh: "多家来源报道了这项 AI 安全立法。",
                       },
@@ -355,7 +387,7 @@ describe("generateLatestNews", () => {
     const prompt = JSON.parse(calls[0].body.messages[1].content);
     expect(prompt.clusters[0].clusterId).toBe("1");
     expect(prompt.clusters[0].category).toBe("科技");
-    expect(prompt.instruction).toContain("必须保留输入的预分类");
+    expect(prompt.instruction).toContain("不要输出分类字段");
     expect(latest.status).toBe("partial");
     expect(latest.events[0].titleZh).toBe("美国参议院通过 AI 安全法案");
     expect(latest.events[0].category).toBe("科技");
@@ -380,7 +412,6 @@ describe("generateLatestNews", () => {
                         clusterId: "1",
                         titleZh: "美国参议院通过人工智能安全法案",
                         summaryZh: "美国参议院通过人工智能安全法案。法案将建立新的监管要求。",
-                        category: "科技",
                         regions: ["美国"],
                         reasonZh: "多家来源集中报道。",
                       },
@@ -425,7 +456,6 @@ describe("generateLatestNews", () => {
                           clusterId: "1",
                           titleZh: "美国参议院通过人工智能安全法案",
                           summaryZh: "美国参议院通过人工智能安全法案。法案将建立新的监管要求。",
-                          category: "财经",
                           regions: ["美国"],
                           reasonZh: "多家来源集中报道。",
                         },
@@ -447,7 +477,7 @@ describe("generateLatestNews", () => {
     const prompt = JSON.parse(calls[0].body.input[1].content);
     expect(prompt.clusters[0].clusterId).toBe("1");
     expect(prompt.clusters[0].category).toBe("科技");
-    expect(prompt.instruction).toContain("必须保留输入的预分类");
+    expect(prompt.instruction).toContain("不要输出分类字段");
     expect(latest.status).toBe("partial");
     expect(latest.events[0].category).toBe("科技");
   });

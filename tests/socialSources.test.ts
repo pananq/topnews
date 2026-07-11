@@ -68,8 +68,8 @@ describe("social sources", () => {
               data: {
                 id: "abc123",
                 subreddit: "technology",
-                title: "Researchers publish new battery breakthrough",
-                selftext: "A research team announced a battery result discussed widely online.",
+                title: "Researchers publish new technology breakthrough",
+                selftext: "A research team announced a software result discussed widely online.",
                 url: "https://example.com/battery",
                 permalink: "/r/technology/comments/abc123/researchers_publish_new_battery_breakthrough/",
                 created_utc: Math.floor(Date.parse("2026-07-08T19:00:00.000Z") / 1000),
@@ -89,7 +89,7 @@ describe("social sources", () => {
       sourceName: "Reddit r/technology",
       sourceKind: "reddit",
       categoryHint: "科技",
-      title: "Researchers publish new battery breakthrough",
+      title: "Researchers publish new technology breakthrough",
       url: "https://example.com/battery",
     });
     expect(articles[0].sourceWeight).toBeGreaterThan(1);
@@ -158,6 +158,39 @@ describe("social sources", () => {
 
     expect(articles).toEqual([]);
   });
+
+  it.each(["technology", "science", "unknownsubreddit"])(
+    "filters off-topic Reddit posts from r/%s even when the subreddit looks category-specific",
+    async (subreddit) => {
+      const articles = await fetchRedditArticles(
+        now,
+        async () =>
+          jsonResponse({
+            data: {
+              children: [
+                {
+                  data: {
+                    id: `${subreddit}-dog`,
+                    subreddit,
+                    title: "World's oldest dog celebrates birthday",
+                    selftext: "Millions shared photos from the birthday celebration.",
+                    url: "https://example.com/oldest-dog",
+                    permalink: `/r/${subreddit}/comments/popular-dog/oldest_dog/`,
+                    created_utc: Math.floor(Date.parse("2026-07-08T19:00:00.000Z") / 1000),
+                    score: 9_000_000,
+                    num_comments: 800_000,
+                    over_18: false,
+                  },
+                },
+              ],
+            },
+          }),
+        [subreddit],
+      );
+
+      expect(articles).toEqual([]);
+    },
+  );
 });
 
 function jsonResponse(value: unknown): Response {
