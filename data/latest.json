@@ -1,129 +1,72 @@
 {
-  "generatedAt": "2026-07-11T16:11:30.893Z",
+  "generatedAt": "2026-07-12T05:48:36.956Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "Meta 在持续数日的抵制后撤下新 AI 图像功能",
-      "summaryZh": "Meta 本周发布的一项允许用户修改 Instagram 内容的 AI 功能迅速引发强烈反对。公司表示该功能“未达到预期”，现已下架。",
-      "category": "科技",
+      "titleZh": "南非世界杯中场球员亚当斯去世，年仅25岁",
+      "summaryZh": "南非国家队和马梅洛迪日落队中场球员杰登·亚当斯去世，年仅25岁。他刚刚代表南非参加了2026年世界杯，球队进入了32强。他的离世令人震惊。",
+      "category": "体育",
       "regions": [
         "欧洲",
-        "中东",
-        "美洲"
+        "中东"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 3,
-        "reasonZh": "共有 3 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-11T01:45:59.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/meta-backtracks-on-ai-image-feature-for-instagram-due-to-privacy-backlash?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-11T05:34:53.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-          "language": "en",
-          "publishedAt": "2026-07-10T23:55:07.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "苹果起诉 OpenAI 及其员工窃取商业机密",
-      "summaryZh": "苹果在周五的诉讼中指控 OpenAI 的硬件业务“烂到了核心”。苹果称 OpenAI 及其两名前员工盗用其商业机密，以帮助 OpenAI 进军消费硬件。",
-      "category": "财经",
-      "regions": [
-        "欧洲",
-        "美洲",
-        "全球"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 4,
-        "regionCount": 3,
-        "reasonZh": "共有 4 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-10T22:54:16.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/apple-sues-openai-over-stealing-trade-secrets/a-77912767?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-10T21:09:00.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-          "language": "en",
-          "publishedAt": "2026-07-10T21:00:29.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-          "language": "en",
-          "publishedAt": "2026-07-10T20:47:09.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "越南南部快艇事故致 15 名印度游客死亡",
-      "summaryZh": "一艘载有 32 名印度游客的快艇在越南富国岛附近倾覆，至少 15 人死亡。印度使馆已设立控制室以响应家属需求。",
-      "category": "国际",
-      "regions": [
-        "中东",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 100,
+        "score": 95,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/11/speedboat-accident-in-southern-vietnam-kills-15-indian-tourists?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-11T11:34:45.000Z"
+          "publishedAt": "2026-07-11T14:47:47.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/vietnam-indian-tourists-killed-in-boat-capsize/a-77916717?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-11T13:49:00.000Z"
+          "publishedAt": "2026-07-11T18:38:50.000Z"
         }
       ]
     },
     {
-      "rank": 4,
-      "titleZh": "特朗普政府传唤《纽约时报》记者，涉及空军一号报道",
-      "summaryZh": "《纽约时报》记者收到传票，此前他们报道了总统新飞机（由卡塔尔赠送）的安全问题。",
+      "rank": 2,
+      "titleZh": "Mesh LLM：基于iroh的分布式AI计算",
+      "summaryZh": "Mesh LLM 是一种基于 iroh 的分布式 AI 计算技术，在 Hacker News 上获得 175 分和 40 条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "language": "en",
+          "publishedAt": "2026-07-11T22:38:57.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "特朗普政府传唤《纽约时报》记者，涉空军一号报道",
+      "summaryZh": "特朗普政府传唤《纽约时报》记者，因其报道总统新空军一号飞机存在安全问题。记者收到了法律传票。",
       "category": "政治",
       "regions": [
         "欧洲"
       ],
       "heat": {
-        "score": 65,
+        "score": 57,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -133,14 +76,89 @@
           "name": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-11T15:40:23.000Z"
+          "publishedAt": "2026-07-11T16:11:33.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "越南船只倾覆致印度游客15人死亡",
+      "summaryZh": "一艘载有32名印度游客的船只在越南富国岛附近倾覆，至少15人死亡。印度大使馆公布了遇难者名单。",
+      "category": "国际",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 50,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/indian-tourists-killed-when-boat-capsizes-in-vietnam/a-77916717?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-11T13:49:00.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "南非世界杯中场球员亚当斯去世，年仅 25 岁",
-      "summaryZh": "南非和马梅洛迪日落俱乐部中场球员杰登·亚当斯去世，年仅 25 岁。他几周前还代表国家队参加了世界杯。",
+      "titleZh": "阿根廷击败瑞士，世界杯半决赛将战英格兰",
+      "summaryZh": "阿根廷在世界杯四分之一决赛中加时赛3-1击败瑞士，晋级半决赛将对阵英格兰。",
+      "category": "体育",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 71,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/12/argentina-defeat-switzerland-to-set-up-england-semifinal-at-world-cup-2026?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-12T03:50:27.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-11T21:31:40.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "AI 2040 与智能崇拜",
+      "summaryZh": "文章《AI 2040 与智能崇拜》在 Hacker News 上获得 195 分和 228 条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "language": "en",
+          "publishedAt": "2026-07-11T18:04:01.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "Aldi以4美元杏仁黄油进军美国市场",
+      "summaryZh": "德国超市Aldi以4美元杏仁黄油在美国市场发起挑战，计划在纽约曼哈顿等城市扩张，与沃尔玛等巨头竞争。",
       "category": "体育",
       "regions": [
         "欧洲"
@@ -154,74 +172,22 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-11T14:47:47.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "执法部门推定正当防卫：人权联盟谴责“杀人许可证”",
-      "summaryZh": "法国一项法律赋予警察和宪兵使用武器时推定正当防卫的原则引发争议。人权联盟主席谴责该法律是“杀人许可证”，已有近 60 万人签署请愿书反对。",
-      "category": "国际",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 70,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20260711-pr%C3%A9somption-de-l%C3%A9gitime-d%C3%A9fense-pour-les-forces-de-l-ordre-la-ldh-d%C3%A9nonce-un-permis-de-tuer",
-          "language": "fr",
-          "publishedAt": "2026-07-11T15:32:42.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260711-france-le-projet-de-loi-sur-l-usage-des-armes-%C3%A0-feu-par-les-forces-de-l-ordre-divise",
-          "language": "fr",
-          "publishedAt": "2026-07-11T12:47:56.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "具有里程碑意义的美国住房法案在特朗普反对下成为法律",
-      "summaryZh": "尽管特朗普总统反对，一项旨在降低住房成本、增加供应的住房法案正式成为法律。特朗普曾希望在住房法案通过前先通过选民身份证法案。",
-      "category": "政治",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-11T13:35:09.000Z"
+          "publishedAt": "2026-07-12T05:00:15.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "阿尔及利亚与马里修复外交关系，结束长达一年的裂痕",
-      "summaryZh": "两国关系开始解冻，双方恢复互派大使，并重新开放自 2025 年 4 月以来相互关闭的领空。",
-      "category": "政治",
+      "titleZh": "阿根廷对瑞士比赛中的误判红牌事件",
+      "summaryZh": "在阿根廷与瑞士的比赛中，瑞士球员布雷尔·恩博洛因VAR回放被出示红牌，成为世界杯四分之一决赛中首位因此被罚下的球员。但这是一次误判。",
+      "category": "体育",
       "regions": [
         "中东"
       ],
       "heat": {
-        "score": 64,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -229,22 +195,45 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/11/algeria-and-mali-restore-diplomatic-ties-following-yearlong-rift?traffic_source=rss",
+          "url": "https://www.aljazeera.com/sports/2026/7/12/what-was-the-mistaken-identity-red-card-shown-in-argentina-vs-switzerland?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-11T15:29:32.000Z"
+          "publishedAt": "2026-07-12T04:44:34.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "Ghost Font：人类可读但 AI 无法识别的字体",
-      "summaryZh": "一种名为 Ghost Font 的字体被设计出来，人类可以正常阅读，但 AI 模型无法识别。该字体在 Hacker News 上引发讨论。",
+      "titleZh": "2026世界杯半决赛球队及赛程公布",
+      "summaryZh": "介绍了2026年世界杯半决赛的参赛球队、比赛场地、开球时间、关键球员以及观赛方式。",
+      "category": "体育",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/12/which-teams-are-in-the-world-cup-semifinals-and-whats-the-match-schedule?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-12T04:43:50.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "高收入AI从业者推高旧金山房价",
+      "summaryZh": "高收入人工智能从业者涌入旧金山，推高了当地房价。Hacker News 上有28分和23条评论讨论此现象。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -252,32 +241,9 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.mixfont.com/ghost-font",
+          "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
           "language": "en",
-          "publishedAt": "2026-07-11T09:36:53.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "英国警方释放前议员安·威德科姆谋杀案嫌疑人",
-      "summaryZh": "前政府部长安·威德科姆遇害，据悉她在尸体被发现前一整天就遭到了攻击。警方目前已释放一名嫌疑人。",
-      "category": "政治",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/11/uk-police-free-suspect-in-ex-mp-ann-widdecombe-murder-investigation?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-11T14:25:14.000Z"
+          "publishedAt": "2026-07-11T20:06:38.000Z"
         }
       ]
     }
