@@ -32,7 +32,7 @@ interface AiEventSummary {
 
 export interface SummaryResult {
   events: NewsEvent[];
-  status: "fresh" | "sample";
+  status: "fresh" | "partial" | "sample";
 }
 
 const EVENT_SUMMARY_SCHEMA = {
@@ -87,10 +87,11 @@ export async function summarizeClusters(clusters: RankedCluster[], options: Summ
   try {
     const aiSummaries = provider === "deepseek" ? await requestDeepSeekSummaries(clusters, options) : await requestOpenAiSummaries(clusters, options);
     const orderedSummaries = orderSummariesByCluster(aiSummaries, clusters);
+    const validSummaryCount = orderedSummaries.filter(Boolean).length;
 
     return {
-      events: clusters.map((cluster, index) => buildEvent(cluster, index + 1, orderedSummaries[index])),
-      status: "fresh",
+      events: clusters.map((cluster, index) => buildEvent(cluster, index + 1, orderedSummaries[index] ?? fallbackSummary(cluster, index))),
+      status: validSummaryCount === clusters.length ? "fresh" : validSummaryCount > 0 ? "partial" : "sample",
     };
   } catch (error) {
     console.warn(`AI summary failed, using deterministic fallback: ${error instanceof Error ? error.message : String(error)}`);
@@ -266,7 +267,7 @@ function parseAiSummaryResponse(value: unknown): { events: AiEventSummary[] } {
   return AiSummaryResponseSchema.parse(value);
 }
 
-function orderSummariesByCluster(aiSummaries: AiEventSummary[], clusters: RankedCluster[]): AiEventSummary[] {
+function orderSummariesByCluster(aiSummaries: AiEventSummary[], clusters: RankedCluster[]): Array<AiEventSummary | undefined> {
   if (aiSummaries.length !== clusters.length) {
     throw new Error(`AI returned ${aiSummaries.length} events for ${clusters.length} clusters`);
   }
@@ -279,26 +280,19 @@ function orderSummariesByCluster(aiSummaries: AiEventSummary[], clusters: Ranked
       throw new Error(`AI returned unknown clusterId: ${summary.clusterId}`);
     }
 
-    if (!isChineseFacingSummary(summary)) {
-      throw new Error(`AI returned non-Chinese summary for clusterId: ${summary.clusterId}`);
-    }
-
     if (byClusterId.has(summary.clusterId)) {
       throw new Error(`AI returned duplicate clusterId: ${summary.clusterId}`);
+    }
+
+    if (!isChineseFacingSummary(summary)) {
+      console.warn(`Ignoring non-Chinese AI summary for clusterId: ${summary.clusterId}`);
+      continue;
     }
 
     byClusterId.set(summary.clusterId, summary);
   }
 
-  return clusters.map((cluster) => {
-    const summary = byClusterId.get(cluster.id);
-
-    if (!summary) {
-      throw new Error(`AI did not return clusterId: ${cluster.id}`);
-    }
-
-    return summary;
-  });
+  return clusters.map((cluster) => byClusterId.get(cluster.id));
 }
 
 function isChineseFacingSummary(summary: AiEventSummary): boolean {

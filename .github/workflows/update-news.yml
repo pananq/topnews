@@ -48,6 +48,8 @@ jobs:
 
       - name: Validate data
         run: npm run validate:data
+        env:
+          REJECT_SAMPLE_DATA: "true"
 
       - name: Commit updated digest
         uses: stefanzweifel/git-auto-commit-action@v5

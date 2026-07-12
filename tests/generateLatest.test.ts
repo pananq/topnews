@@ -294,6 +294,71 @@ describe("generateLatestNews", () => {
     expect(latest.events[0].summaryZh).toContain("自动摘要");
   });
 
+  it("keeps valid AI summaries when another returned summary is non-Chinese", async () => {
+    const articles = [
+      testArticle(),
+      {
+        ...testArticle(),
+        id: "2",
+        sourceName: "Finance Wire",
+        sourceUrl: "https://finance.example.com",
+        sourceRegion: "Europe",
+        title: "Central bank cuts rates as inflation slows",
+        summary: "Policymakers reduced interest rates after inflation eased.",
+        url: "https://finance.example.com/rates",
+        categoryHint: "财经" as const,
+      },
+    ];
+
+    const latest = await generateLatestNews({
+      now: new Date("2026-07-09T00:00:00.000Z"),
+      articles,
+      fetchFeeds: false,
+      aiProvider: "deepseek",
+      deepseekApiKey: "test-deepseek-key",
+      fetchImpl: async (_url, init) => {
+        const body = JSON.parse(String(init?.body));
+        const prompt = JSON.parse(body.messages[1].content);
+
+        return new Response(
+          JSON.stringify({
+            choices: [
+              {
+                message: {
+                  content: JSON.stringify({
+                    events: [
+                      {
+                        clusterId: prompt.clusters[0].clusterId,
+                        titleZh: "首条新闻保留人工智能摘要",
+                        summaryZh: "首条新闻的人工智能摘要通过中文校验。页面应该保留这条摘要。",
+                        regions: ["美国"],
+                        reasonZh: "多家来源集中报道。",
+                      },
+                      {
+                        clusterId: prompt.clusters[1].clusterId,
+                        titleZh: "Central bank cuts rates",
+                        summaryZh: "The central bank cut interest rates after inflation slowed.",
+                        regions: ["Europe"],
+                        reasonZh: "Financial outlets reported the decision.",
+                      },
+                    ],
+                  }),
+                },
+              },
+            ],
+          }),
+          { status: 200, headers: { "Content-Type": "application/json" } },
+        );
+      },
+    });
+
+    expect(latest.status).toBe("partial");
+    expect(latest.events[0].titleZh).toBe("首条新闻保留人工智能摘要");
+    expect(latest.events[0].summaryZh).not.toContain("自动摘要");
+    expect(latest.events[1].titleZh).toContain("要闻");
+    expect(latest.events[1].summaryZh).toContain("自动摘要");
+  });
+
   it("falls back when DeepSeek returns mostly English fields with only token Chinese", async () => {
     const latest = await generateLatestNews({
       now: new Date("2026-07-09T00:00:00.000Z"),

@@ -8,6 +8,7 @@ describe("GitHub Actions workflow", () => {
     expect(workflow).toContain("18 0 * * *");
     expect(workflow).toContain("npm run generate");
     expect(workflow).toContain("npm run build");
+    expect(workflow).toContain("REJECT_SAMPLE_DATA: \"true\"");
     expect(workflow).toContain("OPENAI_API_KEY");
     expect(workflow).toContain("actions/deploy-pages");
   });
