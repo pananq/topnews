@@ -5,8 +5,8 @@ on:
     branches:
       - main
   schedule:
-    # Beijing 08:00 is UTC 00:00.
-    - cron: "0 0 * * *"
+    # Beijing 08:18 is UTC 00:18.
+    - cron: "18 0 * * *"
   workflow_dispatch:
 
 permissions:
