@@ -1,155 +1,23 @@
 {
-  "generatedAt": "2026-07-11T16:11:30.893Z",
+  "generatedAt": "2026-07-12T01:58:14.750Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "sample",
   "events": [
     {
       "rank": 1,
-      "titleZh": "Meta 在持续数日的抵制后撤下新 AI 图像功能",
-      "summaryZh": "Meta 本周发布的一项允许用户修改 Instagram 内容的 AI 功能迅速引发强烈反对。公司表示该功能“未达到预期”，现已下架。",
-      "category": "科技",
+      "titleZh": "第一条体育要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "体育",
       "regions": [
         "欧洲",
-        "中东",
-        "美洲"
+        "中东"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 3,
-        "reasonZh": "共有 3 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-11T01:45:59.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/meta-backtracks-on-ai-image-feature-for-instagram-due-to-privacy-backlash?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-11T05:34:53.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-          "language": "en",
-          "publishedAt": "2026-07-10T23:55:07.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "苹果起诉 OpenAI 及其员工窃取商业机密",
-      "summaryZh": "苹果在周五的诉讼中指控 OpenAI 的硬件业务“烂到了核心”。苹果称 OpenAI 及其两名前员工盗用其商业机密，以帮助 OpenAI 进军消费硬件。",
-      "category": "财经",
-      "regions": [
-        "欧洲",
-        "美洲",
-        "全球"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 4,
-        "regionCount": 3,
-        "reasonZh": "共有 4 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-10T22:54:16.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/apple-sues-openai-over-stealing-trade-secrets/a-77912767?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-10T21:09:00.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-          "language": "en",
-          "publishedAt": "2026-07-10T21:00:29.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-          "language": "en",
-          "publishedAt": "2026-07-10T20:47:09.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "越南南部快艇事故致 15 名印度游客死亡",
-      "summaryZh": "一艘载有 32 名印度游客的快艇在越南富国岛附近倾覆，至少 15 人死亡。印度使馆已设立控制室以响应家属需求。",
-      "category": "国际",
-      "regions": [
-        "中东",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 100,
+        "score": 98,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/11/speedboat-accident-in-southern-vietnam-kills-15-indian-tourists?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-11T11:34:45.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/vietnam-indian-tourists-killed-in-boat-capsize/a-77916717?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-11T13:49:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "特朗普政府传唤《纽约时报》记者，涉及空军一号报道",
-      "summaryZh": "《纽约时报》记者收到传票，此前他们报道了总统新飞机（由卡塔尔赠送）的安全问题。",
-      "category": "政治",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-11T15:40:23.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "南非世界杯中场球员亚当斯去世，年仅 25 岁",
-      "summaryZh": "南非和马梅洛迪日落俱乐部中场球员杰登·亚当斯去世，年仅 25 岁。他几周前还代表国家队参加了世界杯。",
-      "category": "体育",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
@@ -157,19 +25,54 @@
           "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
           "language": "en",
           "publishedAt": "2026-07-11T14:47:47.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-11T18:38:50.000Z"
         }
       ]
     },
     {
-      "rank": 6,
-      "titleZh": "执法部门推定正当防卫：人权联盟谴责“杀人许可证”",
-      "summaryZh": "法国一项法律赋予警察和宪兵使用武器时推定正当防卫的原则引发争议。人权联盟主席谴责该法律是“杀人许可证”，已有近 60 万人签署请愿书反对。",
+      "rank": 2,
+      "titleZh": "第二条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 86,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "language": "en",
+          "publishedAt": "2026-07-11T22:38:57.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "language": "en",
+          "publishedAt": "2026-07-11T18:04:01.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "第三条国际要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "国际",
       "regions": [
         "欧洲"
       ],
       "heat": {
-        "score": 70,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -190,15 +93,15 @@
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "具有里程碑意义的美国住房法案在特朗普反对下成为法律",
-      "summaryZh": "尽管特朗普总统反对，一项旨在降低住房成本、增加供应的住房法案正式成为法律。特朗普曾希望在住房法案通过前先通过选民身份证法案。",
+      "rank": 4,
+      "titleZh": "第四条政治要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "政治",
       "regions": [
         "欧洲"
       ],
       "heat": {
-        "score": 64,
+        "score": 59,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -206,22 +109,22 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-11T13:35:09.000Z"
+          "publishedAt": "2026-07-11T16:11:33.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "阿尔及利亚与马里修复外交关系，结束长达一年的裂痕",
-      "summaryZh": "两国关系开始解冻，双方恢复互派大使，并重新开放自 2025 年 4 月以来相互关闭的领空。",
-      "category": "政治",
+      "rank": 5,
+      "titleZh": "第五条财经要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "财经",
       "regions": [
         "中东"
       ],
       "heat": {
-        "score": 64,
+        "score": 57,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -229,22 +132,51 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/11/algeria-and-mali-restore-diplomatic-ties-following-yearlong-rift?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-11T15:29:32.000Z"
+          "publishedAt": "2026-07-11T15:54:25.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "Ghost Font：人类可读但 AI 无法识别的字体",
-      "summaryZh": "一种名为 Ghost Font 的字体被设计出来，人类可以正常阅读，但 AI 模型无法识别。该字体在 Hacker News 上引发讨论。",
+      "rank": 6,
+      "titleZh": "第六条体育要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "体育",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 71,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-11T21:31:40.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/7/11/england-vs-norway-live-fifa-world-cup-2026-quarterfinal?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-11T17:31:07.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "第七条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -252,22 +184,22 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.mixfont.com/ghost-font",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
           "language": "en",
-          "publishedAt": "2026-07-11T09:36:53.000Z"
+          "publishedAt": "2026-07-11T17:23:52.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "英国警方释放前议员安·威德科姆谋杀案嫌疑人",
-      "summaryZh": "前政府部长安·威德科姆遇害，据悉她在尸体被发现前一整天就遭到了攻击。警方目前已释放一名嫌疑人。",
-      "category": "政治",
+      "rank": 8,
+      "titleZh": "第八条体育要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "体育",
       "regions": [
         "中东"
       ],
       "heat": {
-        "score": 63,
+        "score": 59,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -275,9 +207,55 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/11/uk-police-free-suspect-in-ex-mp-ann-widdecombe-murder-investigation?traffic_source=rss",
+          "url": "https://www.aljazeera.com/sports/2026/7/12/bellingham-scores-twice-as-england-beat-norway-2-1-to-reach-world-cup-semis?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-11T14:25:14.000Z"
+          "publishedAt": "2026-07-12T00:11:57.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "第九条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "美洲"
+      ],
+      "heat": {
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+          "language": "en",
+          "publishedAt": "2026-07-12T00:16:06.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "第十条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://github.com/sqlsure/sqlsure",
+          "language": "en",
+          "publishedAt": "2026-07-11T20:03:42.000Z"
         }
       ]
     }
