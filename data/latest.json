@@ -1,49 +1,50 @@
 {
-  "generatedAt": "2026-07-12T05:48:36.956Z",
+  "generatedAt": "2026-07-13T04:04:04.336Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "南非世界杯中场球员亚当斯去世，年仅25岁",
-      "summaryZh": "南非国家队和马梅洛迪日落队中场球员杰登·亚当斯去世，年仅25岁。他刚刚代表南非参加了2026年世界杯，球队进入了32强。他的离世令人震惊。",
-      "category": "体育",
+      "titleZh": "曼谷知名酒吧火灾致27死63伤",
+      "summaryZh": "泰国首都曼谷一家热门酒吧发生火灾，造成至少27人死亡，63人受伤，其中多人重伤。泰国总理阿努廷向当地媒体证实了这一消息。",
+      "category": "财经",
       "regions": [
-        "欧洲",
-        "中东"
+        "泰国",
+        "中东",
+        "欧洲"
       ],
       "heat": {
-        "score": 95,
+        "score": 100,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-11T14:47:47.000Z"
+          "publishedAt": "2026-07-13T01:27:30.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/thailand-bangkok-bar-fire-leaves-dozens-dead/a-77926451?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-11T18:38:50.000Z"
+          "publishedAt": "2026-07-12T22:03:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "Mesh LLM：基于iroh的分布式AI计算",
-      "summaryZh": "Mesh LLM 是一种基于 iroh 的分布式 AI 计算技术，在 Hacker News 上获得 175 分和 40 条评论。",
+      "titleZh": "Hacker News呼吁为AI生成文章添加标记",
+      "summaryZh": "Hacker News上的一篇帖子获得183个赞和127条评论，提议为AI生成的文章添加标志，以区分人工创作内容。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 68,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -51,22 +52,22 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "url": "https://news.ycombinator.com/item?id=48886741",
           "language": "en",
-          "publishedAt": "2026-07-11T22:38:57.000Z"
+          "publishedAt": "2026-07-13T01:24:20.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "特朗普政府传唤《纽约时报》记者，涉空军一号报道",
-      "summaryZh": "特朗普政府传唤《纽约时报》记者，因其报道总统新空军一号飞机存在安全问题。记者收到了法律传票。",
+      "titleZh": "《宝可梦Go》十周年：仍有数百万人沉迷捕捉",
+      "summaryZh": "《宝可梦Go》迎来十周年，其开发商Scopely副总裁迈克尔·斯特兰卡表示，这款游戏始终致力于将人们聚集在一起。",
       "category": "政治",
       "regions": [
         "欧洲"
       ],
       "heat": {
-        "score": 57,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -74,45 +75,46 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-11T16:11:33.000Z"
+          "publishedAt": "2026-07-13T00:07:00.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "越南船只倾覆致印度游客15人死亡",
-      "summaryZh": "一艘载有32名印度游客的船只在越南富国岛附近倾覆，至少15人死亡。印度大使馆公布了遇难者名单。",
+      "titleZh": "美国对伊朗发动新一轮打击，旨在削弱其军事力量",
+      "summaryZh": "美国对伊朗发动新一轮打击，旨在削弱其军事能力。此前双方已连续三天互相攻击，导致六月达成的停火协议岌岌可危。",
       "category": "国际",
       "regions": [
-        "欧洲"
+        "中东"
       ],
       "heat": {
-        "score": 50,
+        "score": 58,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/indian-tourists-killed-when-boat-capsizes-in-vietnam/a-77916717?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-11T13:49:00.000Z"
+          "publishedAt": "2026-07-12T23:03:32.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "阿根廷击败瑞士，世界杯半决赛将战英格兰",
-      "summaryZh": "阿根廷在世界杯四分之一决赛中加时赛3-1击败瑞士，晋级半决赛将对阵英格兰。",
+      "titleZh": "西班牙前首相因对法国世界杯球队发表“仇外”言论遭批评",
+      "summaryZh": "西班牙前首相马里亚诺·拉霍伊因在西班牙网站El Debate上发表的评论文章而受到批评，该文章被指针对法国世界杯球队发表仇外言论。",
       "category": "体育",
       "regions": [
-        "中东"
+        "中东",
+        "欧洲"
       ],
       "heat": {
-        "score": 71,
+        "score": 55,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -120,25 +122,42 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/12/argentina-defeat-switzerland-to-set-up-england-semifinal-at-world-cup-2026?traffic_source=rss",
+          "url": "https://www.aljazeera.com/sports/2026/7/12/spain-ex-pm-criticised-for-xenophobic-remark-on-french-world-cup-team?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-12T03:50:27.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-11T21:31:40.000Z"
+          "publishedAt": "2026-07-12T20:09:58.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "AI 2040 与智能崇拜",
-      "summaryZh": "文章《AI 2040 与智能崇拜》在 Hacker News 上获得 195 分和 228 条评论。",
-      "category": "科技",
+      "titleZh": "美伊在霍尔木兹海峡互相攻击，油价飙升",
+      "summaryZh": "由于华盛顿和德黑兰在霍尔木兹海峡控制权上发生冲突，布伦特原油价格上涨超过4%。",
+      "category": "财经",
       "regions": [
-        "全球"
+        "中东"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-13T02:58:05.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "直布罗陀与西班牙边界管控解除，迎来新时代",
+      "summaryZh": "直布罗陀与西班牙之间长达118年的边界管控被取消，预计自由流动将给英国海外领土和西班牙带来经济提振。",
+      "category": "财经",
+      "regions": [
+        "欧洲"
       ],
       "heat": {
         "score": 62,
@@ -148,20 +167,44 @@
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-11T18:04:01.000Z"
+          "publishedAt": "2026-07-12T23:29:06.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "Aldi以4美元杏仁黄油进军美国市场",
-      "summaryZh": "德国超市Aldi以4美元杏仁黄油在美国市场发起挑战，计划在纽约曼哈顿等城市扩张，与沃尔玛等巨头竞争。",
-      "category": "体育",
+      "rank": 8,
+      "titleZh": "日本宠物护理业蓬勃发展，“毛孩子”数量超过婴儿",
+      "summaryZh": "由于日本出生率持续下降，婴儿产品制造商将注意力转向宠物市场，宠物护理行业迎来繁荣。",
+      "category": "财经",
       "regions": [
-        "欧洲"
+        "中东",
+        "日本"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/7/13/japans-pet-care-industry-booms-as-fur-babies-outnumber-infants?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-13T01:20:33.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "生产级AI代理迁移至GPT-5.6：速度快2.2倍，成本低27%",
+      "summaryZh": "Hacker News上的一篇帖子获得154个赞和55条评论，介绍了将生产级AI代理迁移至GPT-5.6后，速度提升2.2倍，成本降低27%。",
+      "category": "科技",
+      "regions": [
+        "全球"
       ],
       "heat": {
         "score": 61,
@@ -171,66 +214,20 @@
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
           "language": "en",
-          "publishedAt": "2026-07-12T05:00:15.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "阿根廷对瑞士比赛中的误判红牌事件",
-      "summaryZh": "在阿根廷与瑞士的比赛中，瑞士球员布雷尔·恩博洛因VAR回放被出示红牌，成为世界杯四分之一决赛中首位因此被罚下的球员。但这是一次误判。",
-      "category": "体育",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/12/what-was-the-mistaken-identity-red-card-shown-in-argentina-vs-switzerland?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-12T04:44:34.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "2026世界杯半决赛球队及赛程公布",
-      "summaryZh": "介绍了2026年世界杯半决赛的参赛球队、比赛场地、开球时间、关键球员以及观赛方式。",
-      "category": "体育",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/12/which-teams-are-in-the-world-cup-semifinals-and-whats-the-match-schedule?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-12T04:43:50.000Z"
+          "publishedAt": "2026-07-12T17:13:07.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "高收入AI从业者推高旧金山房价",
-      "summaryZh": "高收入人工智能从业者涌入旧金山，推高了当地房价。Hacker News 上有28分和23条评论讨论此现象。",
-      "category": "科技",
+      "titleZh": "以色列议会宣布将于10月27日举行全国大选",
+      "summaryZh": "以色列议会宣布将于10月27日举行全国选举，该国任职时间最长的总理内塔尼亚胡已确认将再次参选。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "中东"
       ],
       "heat": {
         "score": 60,
@@ -240,10 +237,10 @@
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-11T20:06:38.000Z"
+          "publishedAt": "2026-07-12T21:26:28.000Z"
         }
       ]
     }
