@@ -1,21 +1,56 @@
 {
-  "generatedAt": "2026-07-13T04:04:04.336Z",
+  "generatedAt": "2026-07-14T03:38:55.786Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "曼谷知名酒吧火灾致27死63伤",
-      "summaryZh": "泰国首都曼谷一家热门酒吧发生火灾，造成至少27人死亡，63人受伤，其中多人重伤。泰国总理阿努廷向当地媒体证实了这一消息。",
-      "category": "财经",
+      "titleZh": "匈牙利议会投票罢免总统",
+      "summaryZh": "匈牙利议会通过修法罢免总统苏廖克·塔马什，他被视为前总理欧尔班的盟友。此举是匈牙利试图摆脱欧尔班时代的最新举措。",
+      "category": "政治",
       "regions": [
-        "泰国",
-        "中东",
-        "欧洲"
+        "欧洲",
+        "中东"
       ],
       "heat": {
         "score": 100,
+        "sourceCount": 3,
+        "regionCount": 2,
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-13T20:39:14.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/14/hungarys-parliament-votes-to-oust-president-in-latest-anti-orban-move?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-14T02:03:38.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/hungary-lawmakers-pass-law-to-oust-orban-ally-president/a-77941734?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-13T19:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "美国科技行业如何监管？",
+      "summaryZh": "苹果公司对OpenAI提起诉讼，指控其窃取商业机密。诉讼内容包括员工开玩笑称未经授权访问苹果系统，以及求职者被要求携带苹果硬件参加面试等。",
+      "category": "财经",
+      "regions": [
+        "中东",
+        "美洲"
+      ],
+      "heat": {
+        "score": 98,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
@@ -23,191 +58,28 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/7/13/how-is-the-us-tech-industry-regulated?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-13T01:27:30.000Z"
+          "publishedAt": "2026-07-13T21:03:57.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/thailand-bangkok-bar-fire-leaves-dozens-dead/a-77926451?maca=en-rss-en-all-1573-rdf",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
           "language": "en",
-          "publishedAt": "2026-07-12T22:03:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "Hacker News呼吁为AI生成文章添加标记",
-      "summaryZh": "Hacker News上的一篇帖子获得183个赞和127条评论，提议为AI生成的文章添加标志，以区分人工创作内容。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 68,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=48886741",
-          "language": "en",
-          "publishedAt": "2026-07-13T01:24:20.000Z"
+          "publishedAt": "2026-07-13T18:22:10.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "《宝可梦Go》十周年：仍有数百万人沉迷捕捉",
-      "summaryZh": "《宝可梦Go》迎来十周年，其开发商Scopely副总裁迈克尔·斯特兰卡表示，这款游戏始终致力于将人们聚集在一起。",
-      "category": "政治",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-13T00:07:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "美国对伊朗发动新一轮打击，旨在削弱其军事力量",
-      "summaryZh": "美国对伊朗发动新一轮打击，旨在削弱其军事能力。此前双方已连续三天互相攻击，导致六月达成的停火协议岌岌可危。",
-      "category": "国际",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 58,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-12T23:03:32.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "西班牙前首相因对法国世界杯球队发表“仇外”言论遭批评",
-      "summaryZh": "西班牙前首相马里亚诺·拉霍伊因在西班牙网站El Debate上发表的评论文章而受到批评，该文章被指针对法国世界杯球队发表仇外言论。",
-      "category": "体育",
-      "regions": [
-        "中东",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 55,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/12/spain-ex-pm-criticised-for-xenophobic-remark-on-french-world-cup-team?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-12T20:09:58.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "美伊在霍尔木兹海峡互相攻击，油价飙升",
-      "summaryZh": "由于华盛顿和德黑兰在霍尔木兹海峡控制权上发生冲突，布伦特原油价格上涨超过4%。",
-      "category": "财经",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-13T02:58:05.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "直布罗陀与西班牙边界管控解除，迎来新时代",
-      "summaryZh": "直布罗陀与西班牙之间长达118年的边界管控被取消，预计自由流动将给英国海外领土和西班牙带来经济提振。",
-      "category": "财经",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-12T23:29:06.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "日本宠物护理业蓬勃发展，“毛孩子”数量超过婴儿",
-      "summaryZh": "由于日本出生率持续下降，婴儿产品制造商将注意力转向宠物市场，宠物护理行业迎来繁荣。",
-      "category": "财经",
-      "regions": [
-        "中东",
-        "日本"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/13/japans-pet-care-industry-booms-as-fur-babies-outnumber-infants?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-13T01:20:33.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "生产级AI代理迁移至GPT-5.6：速度快2.2倍，成本低27%",
-      "summaryZh": "Hacker News上的一篇帖子获得154个赞和55条评论，介绍了将生产级AI代理迁移至GPT-5.6后，速度提升2.2倍，成本降低27%。",
+      "titleZh": "Show HN: Sx 2.0 – 通过Dropbox文件夹与团队共享AI技能",
+      "summaryZh": "Hacker News上发布的新项目，允许用户通过Dropbox文件夹共享AI技能。获得22分和24条评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 61,
+        "score": 78,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -215,22 +87,28 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+          "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
           "language": "en",
-          "publishedAt": "2026-07-12T17:13:07.000Z"
+          "publishedAt": "2026-07-13T23:26:52.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.contextvault.dev/",
+          "language": "en",
+          "publishedAt": "2026-07-13T23:22:18.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "以色列议会宣布将于10月27日举行全国大选",
-      "summaryZh": "以色列议会宣布将于10月27日举行全国选举，该国任职时间最长的总理内塔尼亚胡已确认将再次参选。",
-      "category": "政治",
+      "rank": 4,
+      "titleZh": "挪威在皇宫举行划船表演迎接世界杯英雄归来",
+      "summaryZh": "超过10万人聚集庆祝挪威国家足球队世界杯出局后的归来。球队在奥斯陆受到英雄般欢迎，包括敞篷巴士游行和王室接待。",
+      "category": "体育",
       "regions": [
         "中东"
       ],
       "heat": {
-        "score": 60,
+        "score": 71,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -238,9 +116,159 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_norway-rows-at-the-royal-palace-world-cup-heroes-130726?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-12T21:26:28.000Z"
+          "publishedAt": "2026-07-13T23:25:49.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/13/haalands-norway-receive-heroes-welcome-in-oslo-after-world-cup-exit?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-13T21:38:51.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "以色列袭击加沙造成三名巴勒斯坦人死亡，十五人受伤",
+      "summaryZh": "尽管已达成停火协议，以色列仍继续对加沙地带发动攻击。最新袭击造成三人死亡、十五人受伤。",
+      "category": "国际",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-13T23:41:32.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "2026世界杯：塞内加尔足协解释帕普·蒂奥离职原因",
+      "summaryZh": "塞内加尔足球协会因国家队在2026年世界杯表现不佳而解雇主教练帕普·蒂奥。协会在新闻发布会上解释了体育方面的原因。",
+      "category": "体育",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260713-mondial-2026-la-f%C3%A9d%C3%A9ration-s%C3%A9n%C3%A9galaise-explique-les-raisons-du-d%C3%A9part-de-pape-thiaw",
+          "language": "fr",
+          "publishedAt": "2026-07-13T21:11:48.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260713-s%C3%A9n%C3%A9gal-pape-thiaw-limog%C3%A9-par-la-fsf-apr%C3%A8s-l-%C3%A9limination-des-lions-au-mondial",
+          "language": "fr",
+          "publishedAt": "2026-07-13T15:37:09.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "三星健康应用威胁用户若选择退出AI训练将删除数据",
+      "summaryZh": "三星健康应用在更新中警告用户，如果选择不让数据用于AI训练，应用将删除其健康数据。引发隐私担忧。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://neow.in/cWsyMTV3",
+          "language": "en",
+          "publishedAt": "2026-07-13T20:01:43.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "特朗普要求海湾国家付费以保护其免受伊朗攻击",
+      "summaryZh": "美国总统特朗普表示，美国应该从富有的产油海湾国家获得报酬，以确保霍尔木兹海峡的安全。",
+      "category": "政治",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-14T01:37:48.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "Meta正大量投放智能眼镜市场，隐私倡导者表示反对",
+      "summaryZh": "Meta公司正在大规模推广其智能眼镜产品，但隐私倡导者对此表示担忧，认为可能侵犯用户隐私。",
+      "category": "财经",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.wsj.com/tech/ai/meta-is-flooding-the-market-with-smartglasses-privacy-advocates-are-up-in-arms-8fb71539",
+          "language": "en",
+          "publishedAt": "2026-07-14T02:23:03.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "印尼监禁Gojek创始人引发投资者信心担忧",
+      "summaryZh": "印尼当局监禁了Gojek创始人纳迪姆·马卡里姆，指控其滥用职权偏袒谷歌，在学校笔记本电脑采购中违规。此事引发对投资者信心的担忧。",
+      "category": "财经",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/7/14/indonesias-jailing-of-gojek-founder-raises-fears-for-investor-confidence?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-14T00:53:51.000Z"
         }
       ]
     }
