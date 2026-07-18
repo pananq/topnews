@@ -1,45 +1,46 @@
 {
-  "generatedAt": "2026-07-15T03:39:49.936Z",
+  "generatedAt": "2026-07-18T03:37:04.191Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "发布HN：Agnost AI (YC S26) – 从AI对话中提取用户反馈",
-      "summaryZh": "Agnost AI在Hacker News上发布，旨在从AI代理对话中提取用户反馈。该帖子获得47分和34条评论，热度较高。",
-      "category": "科技",
+      "titleZh": "特朗普媒体公司向华尔街交易员提供付费即时访问其社交帖子",
+      "summaryZh": "特朗普媒体公司推出付费服务，让华尔街交易员即时获取其最具影响力的社交媒体帖子。此举引发争议，外界质疑特朗普可能再次利用政府影响力谋取不当经济利益。",
+      "category": "财经",
       "regions": [
-        "全球"
+        "欧洲",
+        "中东"
       ],
       "heat": {
-        "score": 76,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 99,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://agnost.ai",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-14T16:06:18.000Z"
+          "publishedAt": "2026-07-17T07:25:31.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/18/trump-media-reportedly-mulling-fee-for-first-access-to-social-media-posts?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-14T23:51:57.000Z"
+          "publishedAt": "2026-07-18T00:32:34.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "特朗普欢迎伊拉克总理到访白宫，承诺‘大量交易’",
-      "summaryZh": "美国总统特朗普在白宫会晤伊拉克总理阿里·扎伊迪，承诺深化经济合作。特朗普表示将达成大量交易，加强双边关系。",
-      "category": "财经",
+      "titleZh": "VulnHunter：第一资本银行推出的智能AI代码安全工具",
+      "summaryZh": "第一资本银行开发了名为VulnHunter的智能AI代码安全工具。该工具旨在利用人工智能自动化检测代码漏洞。相关讨论在Hacker News上引发热议，有63票和29条评论。",
+      "category": "科技",
       "regions": [
-        "中东"
+        "全球"
       ],
       "heat": {
         "score": 75,
@@ -49,199 +50,55 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/aje-onl-nf_trump-welcomes-iraqi-pm-to-white-house-140726?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
           "language": "en",
-          "publishedAt": "2026-07-15T02:46:31.000Z"
+          "publishedAt": "2026-07-17T12:42:12.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-meets-with-fan-of-america-iraqi-pm-ali-al-zaidi?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://thenewstack.io/ai-code-bottleneck-myth/",
           "language": "en",
-          "publishedAt": "2026-07-14T19:43:26.000Z"
+          "publishedAt": "2026-07-18T01:20:44.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "阿根廷主教练斯卡洛尼：球队很高兴进入世界杯半决赛",
-      "summaryZh": "阿根廷队主教练斯卡洛尼表示球队状态良好，对晋级半决赛感到满意。世界冠军阿根廷队正瞄准再次闯入决赛，对阵英格兰队。",
-      "category": "体育",
+      "titleZh": "前塞内加尔总统萨勒寻求现任总统法耶支持其联合国秘书长候选人资格",
+      "summaryZh": "前塞内加尔总统马基·萨勒于近日返回达喀尔，与现任总统巴西鲁·迪奥马耶·法耶会晤，寻求对其竞选联合国秘书长职务的支持。此次闪电访问正值塞内加尔政局紧张之际。",
+      "category": "政治",
       "regions": [
-        "中东"
+        "欧洲"
       ],
       "heat": {
-        "score": 72,
+        "score": 71,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-happy-to-be-in-world-cup-semifinal-coach-scaloni-says?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-15T02:45:05.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260717-macky-sall-%C3%A0-dakar-en-qu%C3%AAte-du-soutien-de-diomaye-faye-pour-sa-candidature-%C3%A0-l-onu",
+          "language": "fr",
+          "publishedAt": "2026-07-17T22:54:44.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-key-players-to-watch-as-england-and-argentina-clash-in-semifinal?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-14T21:10:42.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260717-visite-%C3%A9clair-pour-macky-sall-qui-sollicite-l-appui-du-s%C3%A9n%C3%A9gal-pour-sa-candidature-%C3%A0-l-onu",
+          "language": "fr",
+          "publishedAt": "2026-07-17T22:02:15.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "特朗普在霍尔木兹海峡通行费问题上退缩，表明他难以结束伊朗战争",
-      "summaryZh": "美国总统特朗普在霍尔木兹海峡通行费问题上突然转变立场，这标志着已持续四个多月的冲突出现最新转折，暗示其结束伊朗战争的努力面临困难。",
-      "category": "政治",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-14T23:17:27.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "霍尔木兹海峡‘断层线’暴露美伊协议的脆弱",
-      "summaryZh": "随着停火协议陷入困境，对霍尔木兹海峡的控制成为美伊之间的关键争议点，暴露了美伊协议的脆弱性。该水道的控制权问题凸显了当前协议的弱点。",
-      "category": "国际",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 57,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-14T19:13:49.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "西班牙队闯入世界杯决赛，球迷沸腾",
-      "summaryZh": "西班牙在半决赛中以2-0击败法国队，球迷们沸腾庆祝，球队晋级决赛。西班牙队将等待阿根廷与英格兰之间的胜者，争夺世界杯冠军。",
+      "titleZh": "纽约“小巴勒斯坦”社区球迷在世界杯决赛中为西班牙队助威",
+      "summaryZh": "在纽约布鲁克林区的阿拉伯裔美国人社区，球迷们在世界杯决赛期间为西班牙队加油。这场赛事展现了社区的团结与凝聚力。",
       "category": "体育",
       "regions": [
         "中东"
-      ],
-      "heat": {
-        "score": 72,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-fans-erupt-as-team-reaches-world-cup-final?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-15T00:14:35.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/14/spain-deliver-masterclass-to-beat-france-2-0-and-reach-world-cup-final?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-14T21:39:16.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "为AI热潮融资：从现金流到债务",
-      "summaryZh": "Hacker News上发布了一份PDF，探讨AI热潮的融资方式，从现金流转向债务。该帖子获得110分和60条评论，引发热议。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.bis.org/publ/bisbull120.pdf",
-          "language": "en",
-          "publishedAt": "2026-07-14T21:58:36.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "我们是否将太多思考外包给了AI？",
-      "summaryZh": "Hacker News上用户讨论过度依赖AI的风险，担心人们将大量思考过程外包给AI。该帖子获得399分和393条评论，引发广泛关注。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-          "language": "en",
-          "publishedAt": "2026-07-14T15:18:13.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "从温网毛巾到苏格兰威士忌：印英贸易协定对消费者意味着什么",
-      "summaryZh": "世界第五和第六大经济体之间的自由贸易协定已生效，分析其对消费者的潜在影响。从温网毛巾到苏格兰威士忌，印英贸易协定可能带来商品价格和选择的变化。",
-      "category": "财经",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-14T22:17:43.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "特朗普：对伊朗的打击将持续到‘我说够了为止’",
-      "summaryZh": "美国总统特朗普表示华盛顿已与伊朗进行会谈，并敦促德黑兰达成协议。他警告称，除非谈判取得成果，否则美国将升级打击并瞄准关键基础设施。",
-      "category": "政治",
-      "regions": [
-        "欧洲"
       ],
       "heat": {
         "score": 60,
@@ -251,10 +108,148 @@
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/trump-strikes-on-iran-to-continue-until-i-say-it-s-enough/live-77960667?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/18/in-new-yorks-little-palestine-fans-cheer-for-spain-in-world-cup-final?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-14T23:24:00.000Z"
+          "publishedAt": "2026-07-18T02:43:45.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "凯撒医疗机构护士表示人工智能和工作场所监控使工作和护理恶化",
+      "summaryZh": "凯撒医疗机构的护士们投诉称，人工智能和工作场所监控技术正在降低护理质量并恶化工作条件。该话题在Hacker News上获得351票和239条评论，引发广泛讨论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 67,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+          "language": "en",
+          "publishedAt": "2026-07-17T22:26:30.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "分析人士质疑特朗普再次聚焦美国选举诚信的动机",
+      "summaryZh": "分析人士埃里克·哈姆指出，特朗普总统近期加强选举安全言论实际上是试图扩大联邦权力。此举引发外界对其真实意图的质疑。",
+      "category": "政治",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/analyst-questions-trumps-renewed-focus-on-us-election-integrity?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-18T00:49:51.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "英国补选创纪录有34名候选人，法拉奇寻求重返议会",
+      "summaryZh": "英国一场补选出现创纪录的34名候选人，改革英国党党魁奈杰尔·法拉奇试图在因礼物争议辞职后重新赢回议席。",
+      "category": "政治",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/18/uk-by-election-sees-record-34-candidates-as-farage-seeks-return?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-18T00:23:40.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "国土安全部长穆林重申特朗普对选举的威胁",
+      "summaryZh": "国土安全部长穆林承诺将特朗普的选举安全要求变为“强制性”，并实施“极限施压”策略。此举进一步加剧了选举争议。",
+      "category": "政治",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/18/homeland-security-secretary-mullin-reiterates-trump-threats-about-elections?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-18T00:07:38.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "开源人工智能现状探讨",
+      "summaryZh": "关于开源人工智能现状的讨论在Hacker News上引发热烈反响，获得389票和287条评论。帖子探讨了开源AI的发展状况与挑战。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://stateofopensource.ai/",
+          "language": "en",
+          "publishedAt": "2026-07-17T14:31:10.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "微软CEO纳德拉抨击人工智能行业的双重标准",
+      "summaryZh": "微软首席执行官萨提亚·纳德拉批评人工智能行业存在双重标准。该言论在Hacker News上获得16票和4条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
+          "language": "en",
+          "publishedAt": "2026-07-18T00:28:46.000Z"
         }
       ]
     }
