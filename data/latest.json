@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-07-18T03:37:04.191Z",
+  "generatedAt": "2026-07-19T03:58:56.293Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普媒体公司向华尔街交易员提供付费即时访问其社交帖子",
-      "summaryZh": "特朗普媒体公司推出付费服务，让华尔街交易员即时获取其最具影响力的社交媒体帖子。此举引发争议，外界质疑特朗普可能再次利用政府影响力谋取不当经济利益。",
-      "category": "财经",
+      "titleZh": "基利安·姆巴佩以第22球打破世界杯历史进球纪录",
+      "summaryZh": "姆巴佩在世界杯三四名决赛中打入第22球，超越梅西成为世界杯历史最佳射手。英格兰队以6-4赢得比赛，姆巴佩有望卫冕金靴奖。",
+      "category": "体育",
       "regions": [
-        "欧洲",
-        "中东"
+        "中东",
+        "欧洲"
       ],
       "heat": {
-        "score": 99,
+        "score": 98,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/18/kylian-mbappe-breaks-all-time-world-cup-scoring-record-with-22nd-goal?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-17T07:25:31.000Z"
+          "publishedAt": "2026-07-18T23:20:31.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/18/trump-media-reportedly-mulling-fee-for-first-access-to-social-media-posts?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/france-s-mbappe-sets-world-cup-scoring-record-with-22-goals/a-78022308?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-18T00:32:34.000Z"
+          "publishedAt": "2026-07-18T23:15:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "VulnHunter：第一资本银行推出的智能AI代码安全工具",
-      "summaryZh": "第一资本银行开发了名为VulnHunter的智能AI代码安全工具。该工具旨在利用人工智能自动化检测代码漏洞。相关讨论在Hacker News上引发热议，有63票和29条评论。",
+      "titleZh": "市长曼丹迪称房东不能使用AI图像做广告",
+      "summaryZh": "据Hacker News报道，某市长曼丹迪表示房东不得使用AI生成的图像进行房产广告宣传。该帖子获得313分和155条评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 75,
+        "score": 66,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -51,51 +51,154 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
           "language": "en",
-          "publishedAt": "2026-07-17T12:42:12.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://thenewstack.io/ai-code-bottleneck-myth/",
-          "language": "en",
-          "publishedAt": "2026-07-18T01:20:44.000Z"
+          "publishedAt": "2026-07-18T22:13:39.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "前塞内加尔总统萨勒寻求现任总统法耶支持其联合国秘书长候选人资格",
-      "summaryZh": "前塞内加尔总统马基·萨勒于近日返回达喀尔，与现任总统巴西鲁·迪奥马耶·法耶会晤，寻求对其竞选联合国秘书长职务的支持。此次闪电访问正值塞内加尔政局紧张之际。",
-      "category": "政治",
+      "titleZh": "俄罗斯人转向使用现金，给放缓的战时经济带来更多压力",
+      "summaryZh": "俄罗斯人因移动互联网中断和更多企业试图避税而转向使用现金，这给与乌克兰战争超过四年后放缓的经济带来进一步压力。",
+      "category": "财经",
       "regions": [
         "欧洲"
       ],
       "heat": {
-        "score": 71,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260717-macky-sall-%C3%A0-dakar-en-qu%C3%AAte-du-soutien-de-diomaye-faye-pour-sa-candidature-%C3%A0-l-onu",
-          "language": "fr",
-          "publishedAt": "2026-07-17T22:54:44.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260717-visite-%C3%A9clair-pour-macky-sall-qui-sollicite-l-appui-du-s%C3%A9n%C3%A9gal-pour-sa-candidature-%C3%A0-l-onu",
-          "language": "fr",
-          "publishedAt": "2026-07-17T22:02:15.000Z"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-18T23:59:26.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "纽约“小巴勒斯坦”社区球迷在世界杯决赛中为西班牙队助威",
-      "summaryZh": "在纽约布鲁克林区的阿拉伯裔美国人社区，球迷们在世界杯决赛期间为西班牙队加油。这场赛事展现了社区的团结与凝聚力。",
+      "titleZh": "伊朗战争实时：美国发动新袭击；特朗普哀悼阵亡士兵",
+      "summaryZh": "美国总统特朗普称在约旦阵亡的士兵是'令人悲伤的事情'，美军连续第八晚对伊朗发动袭击。",
+      "category": "政治",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-19T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "为何加沙的'停火'未能阻止以色列的袭击？",
+      "summaryZh": "加沙停火协议未能阻止以色列的攻击，巴勒斯坦人仍遭受以色列的种族灭绝战争。",
+      "category": "国际",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 56,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-18T19:55:16.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "AI热潮正在摧毁全球决策",
+      "summaryZh": "Hacker News上的一篇文章指出，对AI的狂热正在破坏全球决策能力。该帖子获得55分和12条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+          "language": "en",
+          "publishedAt": "2026-07-19T01:29:19.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "匈牙利总统在议会支持罢免后同意辞职",
+      "summaryZh": "被视为欧尔班忠诚者的匈牙利总统舒尤克·塔马什同意在周六晚之前结束任期，此前议会投票支持罢免他。",
+      "category": "政治",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-18T19:34:16.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "为何世界杯中场秀可能预示未来趋势",
+      "summaryZh": "2026年世界杯的表演引发了关于音乐在体育中地位的讨论，并可能影响其他赛事。",
+      "category": "体育",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-19T01:11:23.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "2026年世界杯禁区外进球大幅增加",
+      "summaryZh": "克林斯曼表示，由于球队防守深度后撤，前锋更多尝试禁区外射门，导致禁区外进球数量显著增加。",
       "category": "体育",
       "regions": [
         "中东"
@@ -109,147 +212,32 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/18/in-new-yorks-little-palestine-fans-cheer-for-spain-in-world-cup-final?traffic_source=rss",
+          "url": "https://www.aljazeera.com/sports/2026/7/19/fifa-world-cup-2026-sees-major-increase-in-goals-from-outside-the-box?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-18T02:43:45.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "凯撒医疗机构护士表示人工智能和工作场所监控使工作和护理恶化",
-      "summaryZh": "凯撒医疗机构的护士们投诉称，人工智能和工作场所监控技术正在降低护理质量并恶化工作条件。该话题在Hacker News上获得351票和239条评论，引发广泛讨论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 67,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-          "language": "en",
-          "publishedAt": "2026-07-17T22:26:30.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "分析人士质疑特朗普再次聚焦美国选举诚信的动机",
-      "summaryZh": "分析人士埃里克·哈姆指出，特朗普总统近期加强选举安全言论实际上是试图扩大联邦权力。此举引发外界对其真实意图的质疑。",
-      "category": "政治",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/analyst-questions-trumps-renewed-focus-on-us-election-integrity?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-18T00:49:51.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "英国补选创纪录有34名候选人，法拉奇寻求重返议会",
-      "summaryZh": "英国一场补选出现创纪录的34名候选人，改革英国党党魁奈杰尔·法拉奇试图在因礼物争议辞职后重新赢回议席。",
-      "category": "政治",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/18/uk-by-election-sees-record-34-candidates-as-farage-seeks-return?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-18T00:23:40.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "国土安全部长穆林重申特朗普对选举的威胁",
-      "summaryZh": "国土安全部长穆林承诺将特朗普的选举安全要求变为“强制性”，并实施“极限施压”策略。此举进一步加剧了选举争议。",
-      "category": "政治",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/18/homeland-security-secretary-mullin-reiterates-trump-threats-about-elections?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-18T00:07:38.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "开源人工智能现状探讨",
-      "summaryZh": "关于开源人工智能现状的讨论在Hacker News上引发热烈反响，获得389票和287条评论。帖子探讨了开源AI的发展状况与挑战。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://stateofopensource.ai/",
-          "language": "en",
-          "publishedAt": "2026-07-17T14:31:10.000Z"
+          "publishedAt": "2026-07-19T03:34:40.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "微软CEO纳德拉抨击人工智能行业的双重标准",
-      "summaryZh": "微软首席执行官萨提亚·纳德拉批评人工智能行业存在双重标准。该言论在Hacker News上获得16票和4条评论。",
-      "category": "科技",
+      "titleZh": "'西班牙风格'在决赛前赢得纽约铁杆世界杯球迷的心",
+      "summaryZh": "西班牙队的世界杯成功在纽约市建立了一批忠实的新球迷，包括长期粉丝和新近转化的西班牙支持者。",
+      "category": "体育",
       "regions": [
-        "全球"
+        "中东"
       ],
       "heat": {
-        "score": 62,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/19/spanish-style-wins-over-new-yorks-die-hard-world-cup-fans-ahead-of-final?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-18T00:28:46.000Z"
+          "publishedAt": "2026-07-19T03:02:22.000Z"
         }
       ]
     }
