@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-07-19T03:58:56.293Z",
+  "generatedAt": "2026-07-20T04:07:47.949Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "基利安·姆巴佩以第22球打破世界杯历史进球纪录",
-      "summaryZh": "姆巴佩在世界杯三四名决赛中打入第22球，超越梅西成为世界杯历史最佳射手。英格兰队以6-4赢得比赛，姆巴佩有望卫冕金靴奖。",
+      "titleZh": "巴勒斯坦人庆祝西班牙世界杯夺冠",
+      "summaryZh": "加沙和约旦河西岸的巴勒斯坦人庆祝西班牙世界杯胜利。西班牙以1-0击败阿根廷，时隔16年再次夺得男子世界杯冠军。",
       "category": "体育",
       "regions": [
         "中东",
         "欧洲"
       ],
       "heat": {
-        "score": 98,
+        "score": 100,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
@@ -22,74 +22,28 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/18/kylian-mbappe-breaks-all-time-world-cup-scoring-record-with-22nd-goal?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-18T23:20:31.000Z"
+          "publishedAt": "2026-07-20T02:23:45.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/france-s-mbappe-sets-world-cup-scoring-record-with-22-goals/a-78022308?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/spain-win-world-cup-for-second-time-after-beating-argentina-1-0/a-78029285?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-18T23:15:00.000Z"
+          "publishedAt": "2026-07-19T23:49:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "市长曼丹迪称房东不能使用AI图像做广告",
-      "summaryZh": "据Hacker News报道，某市长曼丹迪表示房东不得使用AI生成的图像进行房产广告宣传。该帖子获得313分和155条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 66,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-          "language": "en",
-          "publishedAt": "2026-07-18T22:13:39.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "俄罗斯人转向使用现金，给放缓的战时经济带来更多压力",
-      "summaryZh": "俄罗斯人因移动互联网中断和更多企业试图避税而转向使用现金，这给与乌克兰战争超过四年后放缓的经济带来进一步压力。",
-      "category": "财经",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-18T23:59:26.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "伊朗战争实时：美国发动新袭击；特朗普哀悼阵亡士兵",
-      "summaryZh": "美国总统特朗普称在约旦阵亡的士兵是'令人悲伤的事情'，美军连续第八晚对伊朗发动袭击。",
+      "titleZh": "安迪·伯纳姆将于周一成为英国首相：接下来会发生什么？",
+      "summaryZh": "安迪·伯纳姆将成为英国首相。权力过渡将如何展开。他面临巨大挑战和机遇。",
       "category": "政治",
       "regions": [
         "中东"
       ],
       "heat": {
-        "score": 62,
+        "score": 76,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -97,39 +51,22 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-to-become-uks-pm-on-monday-what-happens-next?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-19T00:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "为何加沙的'停火'未能阻止以色列的袭击？",
-      "summaryZh": "加沙停火协议未能阻止以色列的攻击，巴勒斯坦人仍遭受以色列的种族灭绝战争。",
-      "category": "国际",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 56,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
+          "publishedAt": "2026-07-20T03:20:48.000Z"
+        },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/7/19/andy-burnhams-in-tray-the-challenges-facing-the-new-uk-pm?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-18T19:55:16.000Z"
+          "publishedAt": "2026-07-19T20:12:26.000Z"
         }
       ]
     },
     {
-      "rank": 6,
-      "titleZh": "AI热潮正在摧毁全球决策",
-      "summaryZh": "Hacker News上的一篇文章指出，对AI的狂热正在破坏全球决策能力。该帖子获得55分和12条评论。",
+      "rank": 3,
+      "titleZh": "研究显示AI建议让人们更不准确但更自信",
+      "summaryZh": "一项研究显示，AI建议降低了人们的准确性但增加了自信。该话题在Hacker News上获得300分和168条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -143,101 +80,194 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
           "language": "en",
-          "publishedAt": "2026-07-19T01:29:19.000Z"
+          "publishedAt": "2026-07-19T21:18:10.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "法国干旱：瓦尔省和科西嘉岛发生多起火灾",
+      "summaryZh": "周日法国瓦尔省和上科西嘉省发生多起火灾，数百名消防员出动。最严重的火灾在瓦尔省烧毁近200公顷，在科西嘉岛烧毁326公顷。",
+      "category": "国际",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/france/20260720-secheresse-feu-foret-pompiers-france-plusieurs-incendies-ravagent-var-corse",
+          "language": "fr",
+          "publishedAt": "2026-07-20T03:10:41.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "第五条财经要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "财经",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 54,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://github.com/amalshehu/pexels-skill",
+          "language": "en",
+          "publishedAt": "2026-07-19T12:55:11.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "马德里球迷疯狂庆祝西班牙击败阿根廷赢得第二次世界杯",
+      "summaryZh": "马德里球迷在西班牙1-0击败阿根廷赢得世界杯决赛后爆发庆祝。费兰·托雷斯打入制胜球。",
+      "category": "体育",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 85,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-19T23:05:40.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/19/spain-battle-past-10-man-argentina-1-0-in-extra-time-to-win-2026-world-cup?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-19T22:32:30.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-light-up-nycs-little-argentina-ahead-of-spain-world-cup-final-clash?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-19T19:18:59.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "匈牙利总统在议会支持罢免后同意辞职",
-      "summaryZh": "被视为欧尔班忠诚者的匈牙利总统舒尤克·塔马什同意在周六晚之前结束任期，此前议会投票支持罢免他。",
-      "category": "政治",
+      "titleZh": "特朗普乘直升机抵达世界杯决赛的鸟瞰视角",
+      "summaryZh": "特朗普乘坐海军一号抵达2026年世界杯决赛现场。他的访问导致安检延误，记者排队入场时间延长。",
+      "category": "体育",
       "regions": [
-        "欧洲"
+        "中东"
       ],
       "heat": {
-        "score": 60,
+        "score": 70,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/aje-onl-nf_trump-arrives-in-helicopter-for-the-world-cup-final-190726?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-18T19:34:16.000Z"
+          "publishedAt": "2026-07-19T23:11:39.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/19/trump-visit-causes-logistical-delays-at-world-cup-final?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-19T19:05:41.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "为何世界杯中场秀可能预示未来趋势",
-      "summaryZh": "2026年世界杯的表演引发了关于音乐在体育中地位的讨论，并可能影响其他赛事。",
+      "titleZh": "西班牙何时何地如何击败阿根廷赢得世界杯决赛",
+      "summaryZh": "西班牙通过费兰·托雷斯在加时赛的进球，第二次成为世界冠军。比赛在新泽西举行。",
       "category": "体育",
       "regions": [
-        "欧洲"
+        "中东"
       ],
       "heat": {
-        "score": 60,
+        "score": 70,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/19/when-where-and-how-spain-won-the-world-cup-final-against-argentina?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-19T01:11:23.000Z"
+          "publishedAt": "2026-07-19T22:24:07.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/19/what-happened-in-the-first-half-of-the-spain-vs-argentina-world-cup-final?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-19T20:19:26.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "2026年世界杯禁区外进球大幅增加",
-      "summaryZh": "克林斯曼表示，由于球队防守深度后撤，前锋更多尝试禁区外射门，导致禁区外进球数量显著增加。",
-      "category": "体育",
+      "titleZh": "第九条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
       "regions": [
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 60,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/19/fifa-world-cup-2026-sees-major-increase-in-goals-from-outside-the-box?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=48972858",
           "language": "en",
-          "publishedAt": "2026-07-19T03:34:40.000Z"
+          "publishedAt": "2026-07-19T23:58:12.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "'西班牙风格'在决赛前赢得纽约铁杆世界杯球迷的心",
-      "summaryZh": "西班牙队的世界杯成功在纽约市建立了一批忠实的新球迷，包括长期粉丝和新近转化的西班牙支持者。",
-      "category": "体育",
+      "titleZh": "印度新闻：'蟑螂'党向议会进军对抗莫迪",
+      "summaryZh": "警方尚未批准印度蟑螂人民党运动组织的议会游行，但该组织似乎准备开始抗议步行。",
+      "category": "政治",
       "regions": [
-        "中东"
+        "欧洲"
       ],
       "heat": {
-        "score": 60,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/19/spanish-style-wins-over-new-yorks-die-hard-world-cup-fans-ahead-of-final?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/india-news-cockroaches-take-on-modi-with-parliament-march/live-78030856?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-19T03:02:22.000Z"
+          "publishedAt": "2026-07-20T03:32:00.000Z"
         }
       ]
     }
