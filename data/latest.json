@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-20T04:07:47.949Z",
+  "generatedAt": "2026-07-21T03:50:06.792Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "巴勒斯坦人庆祝西班牙世界杯夺冠",
-      "summaryZh": "加沙和约旦河西岸的巴勒斯坦人庆祝西班牙世界杯胜利。西班牙以1-0击败阿根廷，时隔16年再次夺得男子世界杯冠军。",
-      "category": "体育",
+      "titleZh": "美国对部分加拿大商品加征50%关税",
+      "summaryZh": "美国以歧视性为由，对加拿大葡萄酒、冰球棒、水泥等商品加征50%关税。此举引发贸易紧张局势升级的担忧，不包括能源和鱼类产品。",
+      "category": "财经",
       "regions": [
-        "中东",
-        "欧洲"
+        "美国",
+        "加拿大"
       ],
       "heat": {
         "score": 100,
@@ -22,77 +22,131 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-20T02:23:45.000Z"
+          "publishedAt": "2026-07-21T00:08:50.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/spain-win-world-cup-for-second-time-after-beating-argentina-1-0/a-78029285?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/us-imposes-new-50-tariff-on-many-canadian-goods/a-78042667?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-19T23:49:00.000Z"
+          "publishedAt": "2026-07-20T23:45:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "安迪·伯纳姆将于周一成为英国首相：接下来会发生什么？",
-      "summaryZh": "安迪·伯纳姆将成为英国首相。权力过渡将如何展开。他面临巨大挑战和机遇。",
+      "titleZh": "警方阻挡数千名‘蟑螂’抗议者向印度议会游行",
+      "summaryZh": "数千名要求教育改革的抗议者试图向印度议会游行，遭警方阻拦并爆发冲突，部分抗议者受伤。讽刺性的‘蟑螂党’在社交媒体上引发关注。",
       "category": "政治",
       "regions": [
-        "中东"
+        "印度"
       ],
       "heat": {
-        "score": 76,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-to-become-uks-pm-on-monday-what-happens-next?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-20T03:20:48.000Z"
+          "publishedAt": "2026-07-20T16:26:40.000Z"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/19/andy-burnhams-in-tray-the-challenges-facing-the-new-uk-pm?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_chaos-in-india-as-cockroach-march-on-parliament-200726?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-19T20:12:26.000Z"
+          "publishedAt": "2026-07-20T22:40:31.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "研究显示AI建议让人们更不准确但更自信",
-      "summaryZh": "一项研究显示，AI建议降低了人们的准确性但增加了自信。该话题在Hacker News上获得300分和168条评论。",
-      "category": "科技",
+      "titleZh": "13岁男孩在西班牙世界杯庆祝活动中死亡",
+      "summaryZh": "西班牙赢得世界杯后，萨拉曼卡一处喷泉部分倒塌，导致一名13岁男孩死亡，另有两名年轻人受伤。马德里数百万民众欢迎球队凯旋。",
+      "category": "体育",
       "regions": [
-        "全球"
+        "西班牙"
       ],
       "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 2,
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-19T21:18:10.000Z"
+          "publishedAt": "2026-07-20T10:02:44.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-21T03:16:56.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/20/fifa-investigating-on-pitch-brawl-after-spain-vs-argentina-world-cup-final?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-20T21:12:22.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/king-of-spain-celebrates-world-cup-winners-in-madrid?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-20T21:01:01.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/spain-won-the-world-cup-but-donald-trump-cast-a-shadow/a-78037668?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-20T13:33:00.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "法国干旱：瓦尔省和科西嘉岛发生多起火灾",
-      "summaryZh": "周日法国瓦尔省和上科西嘉省发生多起火灾，数百名消防员出动。最严重的火灾在瓦尔省烧毁近200公顷，在科西嘉岛烧毁326公顷。",
+      "titleZh": "法官暂停派拉蒙收购华纳兄弟探索公司",
+      "summaryZh": "美国一名法官部分批准了12个州总检察长的请求，暂时搁置派拉蒙与华纳兄弟探索公司价值1100亿美元的合并。法官认为该合并可能违反反垄断法，并可能导致不可挽回的损害。",
+      "category": "科技",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 83,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro",
+          "language": "en",
+          "publishedAt": "2026-07-20T17:37:53.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
+          "language": "en",
+          "publishedAt": "2026-07-20T17:58:50.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "伊朗战争：谅解备忘录30天后战事再起",
+      "summaryZh": "美国与伊朗的谅解备忘录签署30天后，数月来最激烈的战斗爆发，可能破坏停火协议。",
       "category": "国际",
       "regions": [
-        "欧洲"
+        "伊朗",
+        "美国"
       ],
       "heat": {
         "score": 58,
@@ -102,23 +156,52 @@
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/france/20260720-secheresse-feu-foret-pompiers-france-plusieurs-incendies-ravagent-var-corse",
-          "language": "fr",
-          "publishedAt": "2026-07-20T03:10:41.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-20T22:26:49.000Z"
         }
       ]
     },
     {
-      "rank": 5,
-      "titleZh": "第五条财经要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "财经",
+      "rank": 6,
+      "titleZh": "英国新任首相面临哪些最大挑战",
+      "summaryZh": "安迪·伯纳姆就任英国首相，前曼彻斯特市长必须团结分裂的国家。他已成为工党主要人物和英国最受欢迎的政治家之一。",
+      "category": "政治",
+      "regions": [
+        "英国"
+      ],
+      "heat": {
+        "score": 99,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-are-the-new-british-prime-ministers-biggest-challenges?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-20T22:54:06.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-prime-minister/a-77664543?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-20T11:37:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "Bloomy：AI驱动的K-12精熟学习平台（YC S26）",
+      "summaryZh": "Hacker News上发布，Bloomy是一个面向K-12的AI精熟学习平台，获67分和76条评论。",
+      "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 54,
+        "score": 78,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -126,112 +209,54 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://github.com/amalshehu/pexels-skill",
+          "url": "https://news.ycombinator.com/item?id=48981136",
           "language": "en",
-          "publishedAt": "2026-07-19T12:55:11.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "马德里球迷疯狂庆祝西班牙击败阿根廷赢得第二次世界杯",
-      "summaryZh": "马德里球迷在西班牙1-0击败阿根廷赢得世界杯决赛后爆发庆祝。费兰·托雷斯打入制胜球。",
-      "category": "体育",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 85,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-19T23:05:40.000Z"
+          "publishedAt": "2026-07-20T16:32:10.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/19/spain-battle-past-10-man-argentina-1-0-in-extra-time-to-win-2026-world-cup?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://rosipov.com/blog/ai-vim-and-the-illusion-of-flow/",
           "language": "en",
-          "publishedAt": "2026-07-19T22:32:30.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-light-up-nycs-little-argentina-ahead-of-spain-world-cup-final-clash?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-19T19:18:59.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "特朗普乘直升机抵达世界杯决赛的鸟瞰视角",
-      "summaryZh": "特朗普乘坐海军一号抵达2026年世界杯决赛现场。他的访问导致安检延误，记者排队入场时间延长。",
-      "category": "体育",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 70,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/aje-onl-nf_trump-arrives-in-helicopter-for-the-world-cup-final-190726?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-19T23:11:39.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/19/trump-visit-causes-logistical-delays-at-world-cup-final?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-19T19:05:41.000Z"
+          "publishedAt": "2026-07-20T17:59:42.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "西班牙何时何地如何击败阿根廷赢得世界杯决赛",
-      "summaryZh": "西班牙通过费兰·托雷斯在加时赛的进球，第二次成为世界冠军。比赛在新泽西举行。",
-      "category": "体育",
+      "titleZh": "Show HN：用AI将普通照片变成专业头像",
+      "summaryZh": "Hacker News上展示了一款AI工具，可将普通照片转换为专业头像，获6分。",
+      "category": "科技",
       "regions": [
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 70,
+        "score": 75,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/19/when-where-and-how-spain-won-the-world-cup-final-against-argentina?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://portraify.app",
           "language": "en",
-          "publishedAt": "2026-07-19T22:24:07.000Z"
+          "publishedAt": "2026-07-21T03:13:17.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/19/what-happened-in-the-first-half-of-the-spain-vs-argentina-world-cup-final?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://deepmind.google/models/gemma/gemmaverse/cue-ai/",
           "language": "en",
-          "publishedAt": "2026-07-19T20:19:26.000Z"
+          "publishedAt": "2026-07-20T19:41:44.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "第九条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "科技",
+      "titleZh": "圭亚那海域渡轮倾覆致至少27死83失踪",
+      "summaryZh": "一艘客轮在圭亚那附近海域倾覆，造成至少27人死亡、83人失踪。总理表示已展开调查，希望找到更多幸存者。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "圭亚那"
       ],
       "heat": {
         "score": 64,
@@ -241,33 +266,34 @@
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=48972858",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-19T23:58:12.000Z"
+          "publishedAt": "2026-07-21T02:07:48.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "印度新闻：'蟑螂'党向议会进军对抗莫迪",
-      "summaryZh": "警方尚未批准印度蟑螂人民党运动组织的议会游行，但该组织似乎准备开始抗议步行。",
+      "titleZh": "黎巴嫩民众返回以色列从未占领的‘试点区’村庄",
+      "summaryZh": "根据美国斡旋的计划，以色列将向黎巴嫩政府移交其在黎巴嫩占领的部分地区。黎巴嫩民众返回这些村庄，称以色列从未实际占领。",
       "category": "政治",
       "regions": [
-        "欧洲"
+        "黎巴嫩",
+        "以色列"
       ],
       "heat": {
-        "score": 63,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/india-news-cockroaches-take-on-modi-with-parliament-march/live-78030856?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/21/lebanese-return-to-pilot-zone-villages-they-say-israel-never-occupied?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-20T03:32:00.000Z"
+          "publishedAt": "2026-07-21T03:29:37.000Z"
         }
       ]
     }
