@@ -1,125 +1,19 @@
 {
-  "generatedAt": "2026-07-21T03:50:06.792Z",
+  "generatedAt": "2026-07-23T03:48:32.977Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "美国对部分加拿大商品加征50%关税",
-      "summaryZh": "美国以歧视性为由，对加拿大葡萄酒、冰球棒、水泥等商品加征50%关税。此举引发贸易紧张局势升级的担忧，不包括能源和鱼类产品。",
-      "category": "财经",
-      "regions": [
-        "美国",
-        "加拿大"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-21T00:08:50.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-imposes-new-50-tariff-on-many-canadian-goods/a-78042667?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-20T23:45:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "警方阻挡数千名‘蟑螂’抗议者向印度议会游行",
-      "summaryZh": "数千名要求教育改革的抗议者试图向印度议会游行，遭警方阻拦并爆发冲突，部分抗议者受伤。讽刺性的‘蟑螂党’在社交媒体上引发关注。",
-      "category": "政治",
-      "regions": [
-        "印度"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-20T16:26:40.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_chaos-in-india-as-cockroach-march-on-parliament-200726?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-20T22:40:31.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "13岁男孩在西班牙世界杯庆祝活动中死亡",
-      "summaryZh": "西班牙赢得世界杯后，萨拉曼卡一处喷泉部分倒塌，导致一名13岁男孩死亡，另有两名年轻人受伤。马德里数百万民众欢迎球队凯旋。",
-      "category": "体育",
-      "regions": [
-        "西班牙"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-20T10:02:44.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-21T03:16:56.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/20/fifa-investigating-on-pitch-brawl-after-spain-vs-argentina-world-cup-final?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-20T21:12:22.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/king-of-spain-celebrates-world-cup-winners-in-madrid?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-20T21:01:01.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/spain-won-the-world-cup-but-donald-trump-cast-a-shadow/a-78037668?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-20T13:33:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "法官暂停派拉蒙收购华纳兄弟探索公司",
-      "summaryZh": "美国一名法官部分批准了12个州总检察长的请求，暂时搁置派拉蒙与华纳兄弟探索公司价值1100亿美元的合并。法官认为该合并可能违反反垄断法，并可能导致不可挽回的损害。",
+      "titleZh": "Meta无需面对下一次社交媒体成瘾诉讼",
+      "summaryZh": "原告R.K.C.自愿撤销了对Meta的诉讼，使得Meta无需面对原定下周开庭的社交媒体成瘾案。此前TikTok、Snap和YouTube已就类似指控达成和解。",
       "category": "科技",
       "regions": [
-        "美国"
+        "美洲"
       ],
       "heat": {
-        "score": 83,
+        "score": 86,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -127,139 +21,28 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro",
+          "url": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
           "language": "en",
-          "publishedAt": "2026-07-20T17:37:53.000Z"
+          "publishedAt": "2026-07-22T22:03:53.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
+          "url": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
           "language": "en",
-          "publishedAt": "2026-07-20T17:58:50.000Z"
+          "publishedAt": "2026-07-22T20:36:41.000Z"
         }
       ]
     },
     {
-      "rank": 5,
-      "titleZh": "伊朗战争：谅解备忘录30天后战事再起",
-      "summaryZh": "美国与伊朗的谅解备忘录签署30天后，数月来最激烈的战斗爆发，可能破坏停火协议。",
-      "category": "国际",
+      "rank": 2,
+      "titleZh": "加拿大'强大'的乳制品行业成为特朗普贸易目标",
+      "summaryZh": "加拿大乳制品供应管理体系被美国总统特朗普单独列为三大令人不满的贸易问题之一，并以此为由征收新关税。",
+      "category": "财经",
       "regions": [
-        "伊朗",
-        "美国"
+        "美洲"
       ],
       "heat": {
-        "score": 58,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-20T22:26:49.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "英国新任首相面临哪些最大挑战",
-      "summaryZh": "安迪·伯纳姆就任英国首相，前曼彻斯特市长必须团结分裂的国家。他已成为工党主要人物和英国最受欢迎的政治家之一。",
-      "category": "政治",
-      "regions": [
-        "英国"
-      ],
-      "heat": {
-        "score": 99,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-are-the-new-british-prime-ministers-biggest-challenges?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-20T22:54:06.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-prime-minister/a-77664543?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-20T11:37:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "Bloomy：AI驱动的K-12精熟学习平台（YC S26）",
-      "summaryZh": "Hacker News上发布，Bloomy是一个面向K-12的AI精熟学习平台，获67分和76条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 78,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=48981136",
-          "language": "en",
-          "publishedAt": "2026-07-20T16:32:10.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://rosipov.com/blog/ai-vim-and-the-illusion-of-flow/",
-          "language": "en",
-          "publishedAt": "2026-07-20T17:59:42.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "Show HN：用AI将普通照片变成专业头像",
-      "summaryZh": "Hacker News上展示了一款AI工具，可将普通照片转换为专业头像，获6分。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 75,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://portraify.app",
-          "language": "en",
-          "publishedAt": "2026-07-21T03:13:17.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://deepmind.google/models/gemma/gemmaverse/cue-ai/",
-          "language": "en",
-          "publishedAt": "2026-07-20T19:41:44.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "圭亚那海域渡轮倾覆致至少27死83失踪",
-      "summaryZh": "一艘客轮在圭亚那附近海域倾覆，造成至少27人死亡、83人失踪。总理表示已展开调查，希望找到更多幸存者。",
-      "category": "政治",
-      "regions": [
-        "圭亚那"
-      ],
-      "heat": {
-        "score": 64,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -267,20 +50,118 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-21T02:07:48.000Z"
+          "publishedAt": "2026-07-23T00:15:12.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "黎巴嫩民众返回以色列从未占领的‘试点区’村庄",
-      "summaryZh": "根据美国斡旋的计划，以色列将向黎巴嫩政府移交其在黎巴嫩占领的部分地区。黎巴嫩民众返回这些村庄，称以色列从未实际占领。",
+      "rank": 3,
+      "titleZh": "美国众议院通过1.15万亿美元军事法案，扩大与以色列合作",
+      "summaryZh": "该法案旨在为对伊朗战争和特朗普的部分优先事项提供资金，基本按党派划线通过，在参议院面临不确定性。",
       "category": "政治",
       "regions": [
-        "黎巴嫩",
-        "以色列"
+        "美洲",
+        "中东"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-23T00:29:52.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "谁将成为下一任联合国秘书长？",
+      "summaryZh": "联合国即将选出新的秘书长，这是十年来首次。本文介绍了六位候选人及其立场，以及联合国面临的挑战。",
+      "category": "国际",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 54,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/who-could-be-the-next-un-secretary-general/a-78052763?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-22T17:52:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "女教练呼吁在非洲足球中获得更多代表",
+      "summaryZh": "在非洲女足国家杯上，女性主教练仍很罕见，但已有一些积极迹象表明情况正在改善。",
+      "category": "体育",
+      "regions": [
+        "非洲"
+      ],
+      "heat": {
+        "score": 50,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/female-coaches-want-more-representation-in-african-football/a-77951103?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-22T14:17:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "优质非虚构书籍是AI垃圾内容的对立面",
+      "summaryZh": "Hacker News上热门讨论，认为高质量的非虚构书籍与AI生成的低质量内容形成鲜明对比。同时另一相关讨论题为'AI实验室是否在追求写作质量？'",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 83,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+          "language": "en",
+          "publishedAt": "2026-07-22T14:18:05.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+          "language": "en",
+          "publishedAt": "2026-07-22T17:17:54.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "Safari技术预览版248发布",
+      "summaryZh": "苹果发布了Safari Technology Preview 248版本，为开发者提供了最新Web技术的测试功能。",
+      "category": "科技",
+      "regions": [
+        "全球"
       ],
       "heat": {
         "score": 64,
@@ -290,10 +171,79 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/21/lebanese-return-to-pilot-zone-villages-they-say-israel-never-occupied?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
           "language": "en",
-          "publishedAt": "2026-07-21T03:29:37.000Z"
+          "publishedAt": "2026-07-22T21:00:26.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "美国关税在即将到来的选举中'增强'卢拉对抗博索纳罗之子的实力",
+      "summaryZh": "卢拉在民调中领先，美国关税挤压巴西经济，博索纳罗家族的对美策略正在失效。",
+      "category": "财经",
+      "regions": [
+        "南美洲"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-23T01:20:37.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "胡塞武装攻击沙特油轮，引发战事扩大担忧",
+      "summaryZh": "也门胡塞武装宣布攻击了两艘沙特石油油轮，声称打破了红海封锁。美国总统特朗普此前警告将对胡塞武装采取行动，战事扩大风险加剧。",
+      "category": "政治",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "NHK News",
+          "url": "http://www3.nhk.or.jp/news/html/20260723/k10015183301000.html",
+          "language": "ja",
+          "publishedAt": "2026-07-23T03:14:25.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "自民党小林政调会长劝首相高市多休息",
+      "summaryZh": "针对高市首相自曝睡眠时间常为零至三小时，自民党政务调查会长小林表示理解工作方式因人而异，但同时透露曾当面劝其多睡觉。",
+      "category": "政治",
+      "regions": [
+        "亚洲"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "NHK News",
+          "url": "http://www3.nhk.or.jp/news/html/20260723/k10015183781000.html",
+          "language": "ja",
+          "publishedAt": "2026-07-23T03:17:03.000Z"
         }
       ]
     }
