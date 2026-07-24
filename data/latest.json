@@ -1,19 +1,55 @@
 {
-  "generatedAt": "2026-07-23T03:48:32.977Z",
+  "generatedAt": "2026-07-24T03:47:36.075Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "Meta无需面对下一次社交媒体成瘾诉讼",
-      "summaryZh": "原告R.K.C.自愿撤销了对Meta的诉讼，使得Meta无需面对原定下周开庭的社交媒体成瘾案。此前TikTok、Snap和YouTube已就类似指控达成和解。",
+      "titleZh": "特朗普称沙特须承认以色列才能达成核协议",
+      "summaryZh": "美国总统特朗普表示，帮助沙特发展核能的标志性协议取决于沙特加入《亚伯拉罕协议》。他称这是沙特承认以色列的条件。",
+      "category": "政治",
+      "regions": [
+        "欧洲",
+        "中东"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-23T17:58:02.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/what-are-the-abraham-accords-3?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-24T03:08:49.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-23T21:41:25.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "第二条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "科技",
       "regions": [
         "美洲"
       ],
       "heat": {
-        "score": 86,
+        "score": 84,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -21,28 +57,28 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
           "language": "en",
-          "publishedAt": "2026-07-22T22:03:53.000Z"
+          "publishedAt": "2026-07-23T19:00:00.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
+          "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
           "language": "en",
-          "publishedAt": "2026-07-22T20:36:41.000Z"
+          "publishedAt": "2026-07-23T19:00:00.000Z"
         }
       ]
     },
     {
-      "rank": 2,
-      "titleZh": "加拿大'强大'的乳制品行业成为特朗普贸易目标",
-      "summaryZh": "加拿大乳制品供应管理体系被美国总统特朗普单独列为三大令人不满的贸易问题之一，并以此为由征收新关税。",
+      "rank": 3,
+      "titleZh": "美国以“强迫劳动”为由对数十个贸易伙伴加征关税",
+      "summaryZh": "美国对大约60个贸易伙伴加征关税，指责它们未能有效阻止强迫劳动。这些关税针对进口商品。",
       "category": "财经",
       "regions": [
-        "美洲"
+        "欧洲"
       ],
       "heat": {
-        "score": 62,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -50,23 +86,22 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-23T00:15:12.000Z"
+          "publishedAt": "2026-07-24T02:10:00.000Z"
         }
       ]
     },
     {
-      "rank": 3,
-      "titleZh": "美国众议院通过1.15万亿美元军事法案，扩大与以色列合作",
-      "summaryZh": "该法案旨在为对伊朗战争和特朗普的部分优先事项提供资金，基本按党派划线通过，在参议院面临不确定性。",
-      "category": "政治",
+      "rank": 4,
+      "titleZh": "以色列下达撤离令后轰炸加沙，致两名巴勒斯坦人丧生",
+      "summaryZh": "以色列在发布撤离令后对加沙地带进行轰炸，造成两名巴勒斯坦人死亡。联合国官员称加沙人道主义局势“绝望”，以色列违反“停火”的行为加剧。",
+      "category": "国际",
       "regions": [
-        "美洲",
         "中东"
       ],
       "heat": {
-        "score": 62,
+        "score": 59,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -74,68 +109,132 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-23T00:29:52.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "谁将成为下一任联合国秘书长？",
-      "summaryZh": "联合国即将选出新的秘书长，这是十年来首次。本文介绍了六位候选人及其立场，以及联合国面临的挑战。",
-      "category": "国际",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 54,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/who-could-be-the-next-un-secretary-general/a-78052763?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-22T17:52:00.000Z"
+          "publishedAt": "2026-07-24T00:29:08.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "女教练呼吁在非洲足球中获得更多代表",
-      "summaryZh": "在非洲女足国家杯上，女性主教练仍很罕见，但已有一些积极迹象表明情况正在改善。",
+      "titleZh": "构建64场世界杯比赛的可视化数字孪生",
+      "summaryZh": "该项目旨在构建64场世界杯比赛的可观看数字孪生体，已在Hacker News上获得16分和4条评论。由rogerdickey发布。",
       "category": "体育",
       "regions": [
-        "非洲"
+        "全球"
       ],
       "heat": {
-        "score": 50,
+        "score": 59,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/female-coaches-want-more-representation-in-african-football/a-77951103?maca=en-rss-en-all-1573-rdf",
+          "name": "Hacker News",
+          "url": "https://rogerdickey.com/building-watchable-digital-twins-of-64-world-cup-games/",
           "language": "en",
-          "publishedAt": "2026-07-22T14:17:00.000Z"
+          "publishedAt": "2026-07-23T22:30:08.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "优质非虚构书籍是AI垃圾内容的对立面",
-      "summaryZh": "Hacker News上热门讨论，认为高质量的非虚构书籍与AI生成的低质量内容形成鲜明对比。同时另一相关讨论题为'AI实验室是否在追求写作质量？'",
+      "titleZh": "第六条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "美洲"
+      ],
+      "heat": {
+        "score": 84,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+          "language": "en",
+          "publishedAt": "2026-07-23T18:20:30.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+          "language": "en",
+          "publishedAt": "2026-07-23T20:30:07.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "特斯拉的无人驾驶出租车承诺与现实冲突",
+      "summaryZh": "尽管特斯拉CEO马斯克在财报电话会议上描绘了无人驾驶出租车的积极前景，但数据显示第二季度付费里程数下降了36%，尽管扩展了新城市。马斯克试图缓和预期。",
+      "category": "科技",
+      "regions": [
+        "美洲"
+      ],
+      "heat": {
+        "score": 83,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
+          "language": "en",
+          "publishedAt": "2026-07-23T17:09:31.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
+          "language": "en",
+          "publishedAt": "2026-07-23T16:29:59.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "OpenAI向所有美国用户推出ChatGPT Health，并做出重大宣称",
+      "summaryZh": "OpenAI周四向所有美国用户推出ChatGPT Health，允许连接医疗记录和健康追踪信息。公司声称其模型推理能力超过临床医生水平，但随后有高管缓和了这一说法。",
+      "category": "科技",
+      "regions": [
+        "美洲"
+      ],
+      "heat": {
+        "score": 83,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+          "language": "en",
+          "publishedAt": "2026-07-23T17:00:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+          "language": "en",
+          "publishedAt": "2026-07-23T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "Palmier Pro：为AI构建的开源macOS视频编辑器",
+      "summaryZh": "Palmier Pro是一款开源的macOS视频编辑器，专为AI设计。在Hacker News上获得131分和20条评论，由harrisontin发布。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 83,
+        "score": 82,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -143,22 +242,22 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+          "url": "https://github.com/palmier-io/palmier-pro",
           "language": "en",
-          "publishedAt": "2026-07-22T14:18:05.000Z"
+          "publishedAt": "2026-07-23T15:11:37.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+          "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
           "language": "en",
-          "publishedAt": "2026-07-22T17:17:54.000Z"
+          "publishedAt": "2026-07-23T16:49:57.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "Safari技术预览版248发布",
-      "summaryZh": "苹果发布了Safari Technology Preview 248版本，为开发者提供了最新Web技术的测试功能。",
+      "rank": 10,
+      "titleZh": "创业公司创始人力促美国政府不要切断中国开源AI",
+      "summaryZh": "创业公司创始人呼吁美国政府不要阻止中国的开放权重AI。该话题在Hacker News上获得775分和686条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -172,78 +271,9 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
           "language": "en",
-          "publishedAt": "2026-07-22T21:00:26.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "美国关税在即将到来的选举中'增强'卢拉对抗博索纳罗之子的实力",
-      "summaryZh": "卢拉在民调中领先，美国关税挤压巴西经济，博索纳罗家族的对美策略正在失效。",
-      "category": "财经",
-      "regions": [
-        "南美洲"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-23T01:20:37.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "胡塞武装攻击沙特油轮，引发战事扩大担忧",
-      "summaryZh": "也门胡塞武装宣布攻击了两艘沙特石油油轮，声称打破了红海封锁。美国总统特朗普此前警告将对胡塞武装采取行动，战事扩大风险加剧。",
-      "category": "政治",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "NHK News",
-          "url": "http://www3.nhk.or.jp/news/html/20260723/k10015183301000.html",
-          "language": "ja",
-          "publishedAt": "2026-07-23T03:14:25.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "自民党小林政调会长劝首相高市多休息",
-      "summaryZh": "针对高市首相自曝睡眠时间常为零至三小时，自民党政务调查会长小林表示理解工作方式因人而异，但同时透露曾当面劝其多睡觉。",
-      "category": "政治",
-      "regions": [
-        "亚洲"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "NHK News",
-          "url": "http://www3.nhk.or.jp/news/html/20260723/k10015183781000.html",
-          "language": "ja",
-          "publishedAt": "2026-07-23T03:17:03.000Z"
+          "publishedAt": "2026-07-23T15:18:40.000Z"
         }
       ]
     }
