@@ -1,17 +1,16 @@
 {
-  "generatedAt": "2026-07-24T03:47:36.075Z",
+  "generatedAt": "2026-07-25T03:42:00.257Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普称沙特须承认以色列才能达成核协议",
-      "summaryZh": "美国总统特朗普表示，帮助沙特发展核能的标志性协议取决于沙特加入《亚伯拉罕协议》。他称这是沙特承认以色列的条件。",
+      "titleZh": "“演出必须继续”：特朗普重返重新安排的白宫记者晚宴",
+      "summaryZh": "美国总统特朗普在因四月枪击事件而推迟的记者晚宴上发表讲话，开玩笑并嘲讽对手。这是他作为总统首次出席这一年度盛会。",
       "category": "政治",
       "regions": [
-        "欧洲",
-        "中东"
+        "美国"
       ],
       "heat": {
         "score": 100,
@@ -21,22 +20,16 @@
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-23T17:58:02.000Z"
+          "publishedAt": "2026-07-25T02:59:04.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/what-are-the-abraham-accords-3?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/trump-addresses-rescheduled-white-house-correspondents-dinner/a-78107209?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-24T03:08:49.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-23T21:41:25.000Z"
+          "publishedAt": "2026-07-25T03:29:00.000Z"
         }
       ]
     },
@@ -49,7 +42,7 @@
         "美洲"
       ],
       "heat": {
-        "score": 84,
+        "score": 83,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -57,48 +50,26 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
           "language": "en",
-          "publishedAt": "2026-07-23T19:00:00.000Z"
+          "publishedAt": "2026-07-24T19:06:58.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+          "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
           "language": "en",
-          "publishedAt": "2026-07-23T19:00:00.000Z"
+          "publishedAt": "2026-07-24T15:09:55.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "美国以“强迫劳动”为由对数十个贸易伙伴加征关税",
-      "summaryZh": "美国对大约60个贸易伙伴加征关税，指责它们未能有效阻止强迫劳动。这些关税针对进口商品。",
+      "titleZh": "贸易战加深，加拿大单独举行戈迪·豪大桥开通仪式",
+      "summaryZh": "加拿大取消了原定与美国共同举行的跨境剪彩仪式，仅由加方人员庆祝大桥开通。此举反映了两国贸易冲突的加剧。",
       "category": "财经",
       "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-24T02:10:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "以色列下达撤离令后轰炸加沙，致两名巴勒斯坦人丧生",
-      "summaryZh": "以色列在发布撤离令后对加沙地带进行轰炸，造成两名巴勒斯坦人死亡。联合国官员称加沙人道主义局势“绝望”，以色列违反“停火”的行为加剧。",
-      "category": "国际",
-      "regions": [
-        "中东"
+        "加拿大",
+        "美国"
       ],
       "heat": {
         "score": 59,
@@ -109,73 +80,97 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/7/24/canada-marks-gordie-howe-bridge-opening-without-us-after-trade-war-deepens?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-24T00:29:08.000Z"
+          "publishedAt": "2026-07-24T20:22:04.000Z"
         }
       ]
     },
     {
-      "rank": 5,
-      "titleZh": "构建64场世界杯比赛的可视化数字孪生",
-      "summaryZh": "该项目旨在构建64场世界杯比赛的可观看数字孪生体，已在Hacker News上获得16分和4条评论。由rogerdickey发布。",
+      "rank": 4,
+      "titleZh": "世界杯后足球迷可以关注哪些比赛和赛事？",
+      "summaryZh": "半岛电视台指南推荐了欧冠、英超、西甲、欧洲超级杯等赛事，帮助球迷填补世界杯后的空白期。",
       "category": "体育",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 59,
+        "score": 58,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://rogerdickey.com/building-watchable-digital-twins-of-64-world-cup-games/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/24/what-do-football-fans-have-in-store-to-beat-post-world-cup-blues?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-23T22:30:08.000Z"
+          "publishedAt": "2026-07-24T23:25:15.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "钟楼起火？关于一座被废弃教堂火灾的谣言与虚假信息",
+      "summaryZh": "社交网络上传播的视频声称法国一座教堂被烧，实际上是7月16日因雷击引发火灾的一座已被改为焊接车间的旧教堂。极右翼账号借机散播关于移民的虚假信息。",
+      "category": "国际",
+      "regions": [
+        "法国"
+      ],
+      "heat": {
+        "score": 52,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/france/20260724-clocher-en-feu-rumeurs-et-intox-incendie-%C3%A9glise-d%C3%A9sacralis%C3%A9e",
+          "language": "fr",
+          "publishedAt": "2026-07-24T16:29:23.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "第六条科技要闻",
+      "titleZh": "特朗普誓言调查欧盟对美国科技公司的罚款",
+      "summaryZh": "美国总统特朗普表示将启动关税调查，以回应欧盟对美国科技巨头（如谷歌、苹果、Meta、亚马逊）的罚款，称这些罚款应被“完全撤销”。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "欧盟"
+      ],
+      "heat": {
+        "score": 91,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-24T20:23:58.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-24T18:46:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "第七条科技要闻",
       "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "科技",
       "regions": [
         "美洲"
       ],
       "heat": {
-        "score": 84,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
-          "language": "en",
-          "publishedAt": "2026-07-23T18:20:30.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
-          "language": "en",
-          "publishedAt": "2026-07-23T20:30:07.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "特斯拉的无人驾驶出租车承诺与现实冲突",
-      "summaryZh": "尽管特斯拉CEO马斯克在财报电话会议上描绘了无人驾驶出租车的积极前景，但数据显示第二季度付费里程数下降了36%，尽管扩展了新城市。马斯克试图缓和预期。",
-      "category": "科技",
-      "regions": [
-        "美洲"
-      ],
-      "heat": {
         "score": 83,
         "sourceCount": 2,
         "regionCount": 1,
@@ -184,81 +179,52 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
           "language": "en",
-          "publishedAt": "2026-07-23T17:09:31.000Z"
+          "publishedAt": "2026-07-24T17:00:00.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
+          "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
           "language": "en",
-          "publishedAt": "2026-07-23T16:29:59.000Z"
+          "publishedAt": "2026-07-24T17:00:00.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "OpenAI向所有美国用户推出ChatGPT Health，并做出重大宣称",
-      "summaryZh": "OpenAI周四向所有美国用户推出ChatGPT Health，允许连接医疗记录和健康追踪信息。公司声称其模型推理能力超过临床医生水平，但随后有高管缓和了这一说法。",
+      "titleZh": "遭强烈反对后，Meta暂停对智能眼镜进行“速率限制”的计划",
+      "summaryZh": "Meta原计划对智能眼镜的Conversation Focus功能收取每月20美元订阅费，但引发公众批评后暂停。公司仍计划推行订阅模式，但该功能现免费保留。同时，Meta智能眼镜因隐私问题被称“变态眼镜”。",
       "category": "科技",
       "regions": [
-        "美洲"
+        "美国"
       ],
       "heat": {
-        "score": 83,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-          "language": "en",
-          "publishedAt": "2026-07-23T17:00:00.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-          "language": "en",
-          "publishedAt": "2026-07-23T17:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "Palmier Pro：为AI构建的开源macOS视频编辑器",
-      "summaryZh": "Palmier Pro是一款开源的macOS视频编辑器，专为AI设计。在Hacker News上获得131分和20条评论，由harrisontin发布。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 82,
+        "score": 67,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://github.com/palmier-io/palmier-pro",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
           "language": "en",
-          "publishedAt": "2026-07-23T15:11:37.000Z"
+          "publishedAt": "2026-07-24T22:27:46.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
           "language": "en",
-          "publishedAt": "2026-07-23T16:49:57.000Z"
+          "publishedAt": "2026-07-24T19:23:44.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "创业公司创始人力促美国政府不要切断中国开源AI",
-      "summaryZh": "创业公司创始人呼吁美国政府不要阻止中国的开放权重AI。该话题在Hacker News上获得775分和686条评论。",
-      "category": "科技",
+      "rank": 9,
+      "titleZh": "政府命令GitHub移除基于蓝牙的聊天应用Bitchat",
+      "summaryZh": "据Jack Dorsey称，政府要求GitHub下架蓝牙聊天应用Bitchat。该消息在Hacker News上获得402票和294条评论。",
+      "category": "政治",
       "regions": [
         "全球"
       ],
@@ -271,9 +237,33 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+          "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
           "language": "en",
-          "publishedAt": "2026-07-23T15:18:40.000Z"
+          "publishedAt": "2026-07-24T14:41:59.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "伊朗战争实时更新：特朗普称美国在寻求与伊朗谈判时“全副武装”",
+      "summaryZh": "美国总统特朗普表示，华盛顿在与德黑兰进行外交接触的同时，仍保持“全副武装”的军事准备状态。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "伊朗"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-25T00:00:00.000Z"
         }
       ]
     }
