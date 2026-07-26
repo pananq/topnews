@@ -1,16 +1,17 @@
 {
-  "generatedAt": "2026-07-25T03:42:00.257Z",
+  "generatedAt": "2026-07-26T03:59:25.806Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "“演出必须继续”：特朗普重返重新安排的白宫记者晚宴",
-      "summaryZh": "美国总统特朗普在因四月枪击事件而推迟的记者晚宴上发表讲话，开玩笑并嘲讽对手。这是他作为总统首次出席这一年度盛会。",
+      "titleZh": "印度“蟑螂”抗议者动摇莫迪政府",
+      "summaryZh": "印度教育部长在“蟑螂党”领导的连续36天抗议后辞职。抗议者宣布胜利，这是近年来对莫迪政府最明显的公众愤怒表达。",
       "category": "政治",
       "regions": [
-        "美国"
+        "中东",
+        "全球"
       ],
       "heat": {
         "score": 100,
@@ -21,22 +22,22 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-25T02:59:04.000Z"
+          "publishedAt": "2026-07-25T20:57:45.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/trump-addresses-rescheduled-white-house-correspondents-dinner/a-78107209?maca=en-rss-en-all-1573-rdf",
+          "name": "Hacker News",
+          "url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
           "language": "en",
-          "publishedAt": "2026-07-25T03:29:00.000Z"
+          "publishedAt": "2026-07-26T02:51:53.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "第二条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "titleZh": "华纳兄弟起诉亚马逊挖角员工",
+      "summaryZh": "华纳兄弟发现指控亚马逊非法挖角员工，包括前高级营销副总裁Pia Barlow。华纳称亚马逊进行“无法无天的员工抢购”，Barlow将于8月3日入职亚马逊。",
       "category": "科技",
       "regions": [
         "美洲"
@@ -50,75 +51,28 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+          "url": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
           "language": "en",
-          "publishedAt": "2026-07-24T19:06:58.000Z"
+          "publishedAt": "2026-07-25T14:05:12.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+          "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
           "language": "en",
-          "publishedAt": "2026-07-24T15:09:55.000Z"
+          "publishedAt": "2026-07-25T20:55:11.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "贸易战加深，加拿大单独举行戈迪·豪大桥开通仪式",
-      "summaryZh": "加拿大取消了原定与美国共同举行的跨境剪彩仪式，仅由加方人员庆祝大桥开通。此举反映了两国贸易冲突的加剧。",
+      "titleZh": "柏林骄傲游行：车辆冲撞人群致1死16伤",
+      "summaryZh": "一辆货车在柏林骄傲游行中冲撞人群，造成1人死亡、16人受伤，其中11人重伤。警方称嫌疑人可能与伊斯兰极端主义有关，目前尚未抓获。",
       "category": "财经",
       "regions": [
-        "加拿大",
-        "美国"
+        "欧洲"
       ],
       "heat": {
-        "score": 59,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/24/canada-marks-gordie-howe-bridge-opening-without-us-after-trade-war-deepens?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-24T20:22:04.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "世界杯后足球迷可以关注哪些比赛和赛事？",
-      "summaryZh": "半岛电视台指南推荐了欧冠、英超、西甲、欧洲超级杯等赛事，帮助球迷填补世界杯后的空白期。",
-      "category": "体育",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 58,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/24/what-do-football-fans-have-in-store-to-beat-post-world-cup-blues?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-24T23:25:15.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "钟楼起火？关于一座被废弃教堂火灾的谣言与虚假信息",
-      "summaryZh": "社交网络上传播的视频声称法国一座教堂被烧，实际上是7月16日因雷击引发火灾的一座已被改为焊接车间的旧教堂。极右翼账号借机散播关于移民的虚假信息。",
-      "category": "国际",
-      "regions": [
-        "法国"
-      ],
-      "heat": {
-        "score": 52,
+        "score": 70,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -126,23 +80,68 @@
       "sources": [
         {
           "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/france/20260724-clocher-en-feu-rumeurs-et-intox-incendie-%C3%A9glise-d%C3%A9sacralis%C3%A9e",
+          "url": "https://www.france24.com/fr/europe/20260725-marche-des-fiert%C3%A9s-%C3%A0-berlin-un-v%C3%A9hicule-percute-la-foule-un-mort-et-une-quinzaine-de-bless%C3%A9s",
           "language": "fr",
-          "publishedAt": "2026-07-24T16:29:23.000Z"
+          "publishedAt": "2026-07-25T23:23:31.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "法国吉伦特省火灾：局势危急，波尔多附近新增疏散",
+      "summaryZh": "吉伦特省火灾持续，火势复燃导致数万人疏散，全国疏散人数已超20万。省长下令立即疏散包括Cestas在内的多个城镇。",
+      "category": "国际",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 56,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/france/20260725-en-direct-incendies-feux-france-espagne-gironde-evacuations-bordeaux-pompiers",
+          "language": "fr",
+          "publishedAt": "2026-07-25T22:45:11.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "2026年非洲女足国家杯：你需要知道的一切",
+      "summaryZh": "2026年非洲女足国家杯终于即将开幕，尽管比原计划推迟数月，且参赛队伍增加。东道主希望首次夺冠，而一支黑马球队拥有其最佳球员之一。",
+      "category": "体育",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 54,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/wafcon-2026-what-you-need-to-know/a-77956787?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-25T19:37:00.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "特朗普誓言调查欧盟对美国科技公司的罚款",
-      "summaryZh": "美国总统特朗普表示将启动关税调查，以回应欧盟对美国科技巨头（如谷歌、苹果、Meta、亚马逊）的罚款，称这些罚款应被“完全撤销”。",
+      "titleZh": "印度“蟑螂”抗议在教育部长辞职后宣告结束",
+      "summaryZh": "CJP抗议是近年来对莫迪政府最明显的公众愤怒表现。抗议者在与政府谈判后结束抗议，此前教育部长Dharmendra Pradhan宣布辞职。",
       "category": "政治",
       "regions": [
-        "美国",
-        "欧盟"
+        "欧洲"
       ],
       "heat": {
-        "score": 91,
+        "score": 86,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -150,86 +149,28 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-24T20:23:58.000Z"
+          "publishedAt": "2026-07-25T17:44:46.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/india-news-cockroaches-end-protest-after-education-minister-dharmendra-pradhan-resigns/live-78108089?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-24T18:46:00.000Z"
+          "publishedAt": "2026-07-25T06:21:00.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "第七条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "titleZh": "Cloudflare为客户推出新的AI流量选项",
+      "summaryZh": "Cloudflare推出了针对客户的新AI流量选项，该新闻在Hacker News上获得61分和40条评论。",
       "category": "科技",
-      "regions": [
-        "美洲"
-      ],
-      "heat": {
-        "score": 83,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-          "language": "en",
-          "publishedAt": "2026-07-24T17:00:00.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-          "language": "en",
-          "publishedAt": "2026-07-24T17:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "遭强烈反对后，Meta暂停对智能眼镜进行“速率限制”的计划",
-      "summaryZh": "Meta原计划对智能眼镜的Conversation Focus功能收取每月20美元订阅费，但引发公众批评后暂停。公司仍计划推行订阅模式，但该功能现免费保留。同时，Meta智能眼镜因隐私问题被称“变态眼镜”。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 67,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
-          "language": "en",
-          "publishedAt": "2026-07-24T22:27:46.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
-          "language": "en",
-          "publishedAt": "2026-07-24T19:23:44.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "政府命令GitHub移除基于蓝牙的聊天应用Bitchat",
-      "summaryZh": "据Jack Dorsey称，政府要求GitHub下架蓝牙聊天应用Bitchat。该消息在Hacker News上获得402票和294条评论。",
-      "category": "政治",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 78,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -237,23 +178,80 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+          "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
           "language": "en",
-          "publishedAt": "2026-07-24T14:41:59.000Z"
+          "publishedAt": "2026-07-25T22:50:49.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://axtary.com",
+          "language": "en",
+          "publishedAt": "2026-07-26T01:02:04.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "集体智能：AI的下一个前沿",
+      "summaryZh": "关于集体智能作为AI下一个前沿的讨论，Hacker News上获得5分和1条评论。附有另一篇文章《AI生产力幻觉》。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 74,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://github.com/ailinone/collective-intelligence",
+          "language": "en",
+          "publishedAt": "2026-07-26T00:49:55.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion",
+          "language": "en",
+          "publishedAt": "2026-07-25T13:43:33.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "工作发生了什么？区分AI炒作与现实",
+      "summaryZh": "一篇关于AI对就业影响的文章，在Hacker News上获得59分和67条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+          "language": "en",
+          "publishedAt": "2026-07-25T22:51:10.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "伊朗战争实时更新：特朗普称美国在寻求与伊朗谈判时“全副武装”",
-      "summaryZh": "美国总统特朗普表示，华盛顿在与德黑兰进行外交接触的同时，仍保持“全副武装”的军事准备状态。",
+      "titleZh": "弗拉维奥·博索纳罗启动巴西总统竞选 获米莱支持",
+      "summaryZh": "前巴西总统雅伊尔·博索纳罗的儿子弗拉维奥启动竞选，挑战现任总统卢拉。阿根廷总统米莱表示支持。",
       "category": "政治",
       "regions": [
-        "美国",
-        "伊朗"
+        "中东"
       ],
       "heat": {
-        "score": 62,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -261,9 +259,9 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/flavio-bolsonaro-launches-brazil-presidential-bid-with-milei-support?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-25T00:00:00.000Z"
+          "publishedAt": "2026-07-26T02:19:58.000Z"
         }
       ]
     }
