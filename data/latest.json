@@ -1,49 +1,19 @@
 {
-  "generatedAt": "2026-07-26T03:59:25.806Z",
+  "generatedAt": "2026-07-27T04:05:55.013Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "印度“蟑螂”抗议者动摇莫迪政府",
-      "summaryZh": "印度教育部长在“蟑螂党”领导的连续36天抗议后辞职。抗议者宣布胜利，这是近年来对莫迪政府最明显的公众愤怒表达。",
-      "category": "政治",
-      "regions": [
-        "中东",
-        "全球"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-25T20:57:45.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
-          "language": "en",
-          "publishedAt": "2026-07-26T02:51:53.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "华纳兄弟起诉亚马逊挖角员工",
-      "summaryZh": "华纳兄弟发现指控亚马逊非法挖角员工，包括前高级营销副总裁Pia Barlow。华纳称亚马逊进行“无法无天的员工抢购”，Barlow将于8月3日入职亚马逊。",
+      "titleZh": "苹果靠隐私功能区分智能眼镜",
+      "summaryZh": "据马克·古尔曼透露，苹果计划在明年WWDC发布首款智能眼镜，预计2027年底上市。隐私功能是重点，因为Meta的智能眼镜引发隐私争议。苹果需谨慎处理隐私信息以维护声誉。",
       "category": "科技",
       "regions": [
         "美洲"
       ],
       "heat": {
-        "score": 83,
+        "score": 85,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -51,28 +21,28 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
+          "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
           "language": "en",
-          "publishedAt": "2026-07-25T14:05:12.000Z"
+          "publishedAt": "2026-07-26T19:36:38.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+          "url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
           "language": "en",
-          "publishedAt": "2026-07-25T20:55:11.000Z"
+          "publishedAt": "2026-07-26T21:06:44.000Z"
         }
       ]
     },
     {
-      "rank": 3,
-      "titleZh": "柏林骄傲游行：车辆冲撞人群致1死16伤",
-      "summaryZh": "一辆货车在柏林骄傲游行中冲撞人群，造成1人死亡、16人受伤，其中11人重伤。警方称嫌疑人可能与伊斯兰极端主义有关，目前尚未抓获。",
+      "rank": 2,
+      "titleZh": "柏林骄傲游行遭袭击",
+      "summaryZh": "柏林骄傲游行遭袭致1死29伤。主要嫌疑人此前因多次犯罪和伊斯兰极端化引起当局注意。袭击引发德国对类似事件的回忆。",
       "category": "财经",
       "regions": [
         "欧洲"
       ],
       "heat": {
-        "score": 70,
+        "score": 69,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -80,91 +50,91 @@
       "sources": [
         {
           "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/europe/20260725-marche-des-fiert%C3%A9s-%C3%A0-berlin-un-v%C3%A9hicule-percute-la-foule-un-mort-et-une-quinzaine-de-bless%C3%A9s",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260727-berlin-sous-le-choc-apr%C3%A8s-l-attaque-%C3%A0-la-pride",
           "language": "fr",
-          "publishedAt": "2026-07-25T23:23:31.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "法国吉伦特省火灾：局势危急，波尔多附近新增疏散",
-      "summaryZh": "吉伦特省火灾持续，火势复燃导致数万人疏散，全国疏散人数已超20万。省长下令立即疏散包括Cestas在内的多个城镇。",
-      "category": "国际",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 56,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
+          "publishedAt": "2026-07-27T03:04:44.000Z"
+        },
         {
           "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/france/20260725-en-direct-incendies-feux-france-espagne-gironde-evacuations-bordeaux-pompiers",
+          "url": "https://www.france24.com/fr/europe/20260726-gay-pride-%C3%A0-berlin-le-suspect-de-l-attentat-terroriste-islamiste-toujours-en-fuite",
           "language": "fr",
-          "publishedAt": "2026-07-25T22:45:11.000Z"
+          "publishedAt": "2026-07-26T17:46:47.000Z"
         }
       ]
     },
     {
-      "rank": 5,
-      "titleZh": "2026年非洲女足国家杯：你需要知道的一切",
-      "summaryZh": "2026年非洲女足国家杯终于即将开幕，尽管比原计划推迟数月，且参赛队伍增加。东道主希望首次夺冠，而一支黑马球队拥有其最佳球员之一。",
-      "category": "体育",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 54,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/wafcon-2026-what-you-need-to-know/a-77956787?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-25T19:37:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "印度“蟑螂”抗议在教育部长辞职后宣告结束",
-      "summaryZh": "CJP抗议是近年来对莫迪政府最明显的公众愤怒表现。抗议者在与政府谈判后结束抗议，此前教育部长Dharmendra Pradhan宣布辞职。",
+      "rank": 3,
+      "titleZh": "阿根廷领导人称巴西总统为“小偷”和“罪犯”",
+      "summaryZh": "哈维尔·米莱在巴西参加右翼总统候选人弗拉维奥·博索纳罗的竞选集会时，称巴西总统为“小偷”和“罪犯”。",
       "category": "政治",
       "regions": [
         "欧洲"
       ],
       "heat": {
-        "score": 86,
-        "sourceCount": 2,
+        "score": 64,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-25T17:44:46.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/india-news-cockroaches-end-protest-after-education-minister-dharmendra-pradhan-resigns/live-78108089?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-25T06:21:00.000Z"
+          "publishedAt": "2026-07-27T01:35:51.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "Cloudflare为客户推出新的AI流量选项",
-      "summaryZh": "Cloudflare推出了针对客户的新AI流量选项，该新闻在Hacker News上获得61分和40条评论。",
+      "rank": 4,
+      "titleZh": "吉伦特省大火威胁战略要地",
+      "summaryZh": "大火逼近波尔多约15公里，消防员集中保护航天、航空及国防领域敏感战略点，如科学研究中心、火药厂和导弹工厂。已挖掘防火隔离带以保护这些设施。",
+      "category": "国际",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260727-gironde-l-incendie-menace-des-sites-strat%C3%A9giques",
+          "language": "fr",
+          "publishedAt": "2026-07-27T03:01:13.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "2026年非洲女足国家杯：尼日利亚能否卫冕对抗摩洛哥？",
+      "summaryZh": "非洲女足国家杯在摩洛哥开幕，16支球队参赛。卫冕冠军尼日利亚拥有10次冠军头衔，而摩洛哥希望主场首夺桂冠。本届赛事也是2027年女足世界杯预选赛，且奖金创新高。",
+      "category": "体育",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 53,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260726-can-f%C3%A9minine-2026-le-nigeria-peut-il-conserver-son-titre-face-au-maroc",
+          "language": "fr",
+          "publishedAt": "2026-07-26T20:23:01.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "新的AI超级力量：专注与执行力",
+      "summaryZh": "Hacker News上热帖，讨论了AI领域的新趋势，强调专注和执行力是AI成功的超级力量。",
       "category": "科技",
       "regions": [
         "全球"
@@ -178,75 +148,23 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
           "language": "en",
-          "publishedAt": "2026-07-25T22:50:49.000Z"
+          "publishedAt": "2026-07-26T13:13:03.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://axtary.com",
+          "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
           "language": "en",
-          "publishedAt": "2026-07-26T01:02:04.000Z"
+          "publishedAt": "2026-07-26T20:49:43.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "集体智能：AI的下一个前沿",
-      "summaryZh": "关于集体智能作为AI下一个前沿的讨论，Hacker News上获得5分和1条评论。附有另一篇文章《AI生产力幻觉》。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 74,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://github.com/ailinone/collective-intelligence",
-          "language": "en",
-          "publishedAt": "2026-07-26T00:49:55.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion",
-          "language": "en",
-          "publishedAt": "2026-07-25T13:43:33.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "工作发生了什么？区分AI炒作与现实",
-      "summaryZh": "一篇关于AI对就业影响的文章，在Hacker News上获得59分和67条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-          "language": "en",
-          "publishedAt": "2026-07-25T22:51:10.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "弗拉维奥·博索纳罗启动巴西总统竞选 获米莱支持",
-      "summaryZh": "前巴西总统雅伊尔·博索纳罗的儿子弗拉维奥启动竞选，挑战现任总统卢拉。阿根廷总统米莱表示支持。",
-      "category": "政治",
+      "rank": 7,
+      "titleZh": "俄乌互袭致10人死亡，包括切尔尼戈夫一名儿童",
+      "summaryZh": "基辅称俄方袭击导致6人死亡，包括一名在超市的儿童；莫斯科称乌方袭击致4人死亡。",
+      "category": "财经",
       "regions": [
         "中东"
       ],
@@ -259,9 +177,78 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/flavio-bolsonaro-launches-brazil-presidential-bid-with-milei-support?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-26T02:19:58.000Z"
+          "publishedAt": "2026-07-27T03:34:06.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "巴西因米莱言论召回驻阿根廷大使",
+      "summaryZh": "阿根廷总统米莱在巴西支持极右翼总统候选人博索纳罗时，称巴西总统为“罪犯”和“小偷”，导致巴西召回大使。",
+      "category": "政治",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/brazil-recalls-ambassador-to-argentina-over-milei-s-remarks/a-78123444?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-27T03:38:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "助长代币转售和欺诈的中继市场",
+      "summaryZh": "Hacker News上热帖，讨论了中继市场如何为代币转售和欺诈行为提供支持。",
+      "category": "财经",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://vectoral.com/blog/token-relay-market",
+          "language": "en",
+          "publishedAt": "2026-07-26T15:17:06.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "英国首相承诺继续支持乌克兰，迎接泽连斯基访问",
+      "summaryZh": "乌克兰总统泽连斯基将成为英国首位国际访客，英国首相伯纳姆承诺继续支持乌克兰。",
+      "category": "政治",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-26T21:30:20.000Z"
         }
       ]
     }
