@@ -1,97 +1,98 @@
 {
-  "generatedAt": "2026-07-27T04:05:55.013Z",
+  "generatedAt": "2026-07-28T03:40:54.391Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "苹果靠隐私功能区分智能眼镜",
-      "summaryZh": "据马克·古尔曼透露，苹果计划在明年WWDC发布首款智能眼镜，预计2027年底上市。隐私功能是重点，因为Meta的智能眼镜引发隐私争议。苹果需谨慎处理隐私信息以维护声誉。",
-      "category": "科技",
+      "titleZh": "特朗普称在军事打击暂停期间与伊朗进行战争谈判",
+      "summaryZh": "美国总统特朗普表示，在美国军事打击暂停期间，与伊朗方面正在进行战争谈判，并称“很有可能达成某种结果”。伊朗否认存在直接谈判。",
+      "category": "政治",
       "regions": [
-        "美洲"
+        "欧洲",
+        "中东"
       ],
       "heat": {
-        "score": 85,
+        "score": 100,
         "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-26T19:36:38.000Z"
+          "publishedAt": "2026-07-27T21:10:56.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-26T21:06:44.000Z"
+          "publishedAt": "2026-07-28T02:47:55.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "柏林骄傲游行遭袭击",
-      "summaryZh": "柏林骄傲游行遭袭致1死29伤。主要嫌疑人此前因多次犯罪和伊斯兰极端化引起当局注意。袭击引发德国对类似事件的回忆。",
-      "category": "财经",
+      "titleZh": "第二条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
       "regions": [
-        "欧洲"
+        "全球"
       ],
       "heat": {
-        "score": 69,
+        "score": 77,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260727-berlin-sous-le-choc-apr%C3%A8s-l-attaque-%C3%A0-la-pride",
-          "language": "fr",
-          "publishedAt": "2026-07-27T03:04:44.000Z"
+          "name": "Hacker News",
+          "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+          "language": "en",
+          "publishedAt": "2026-07-27T16:52:22.000Z"
         },
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/europe/20260726-gay-pride-%C3%A0-berlin-le-suspect-de-l-attentat-terroriste-islamiste-toujours-en-fuite",
-          "language": "fr",
-          "publishedAt": "2026-07-26T17:46:47.000Z"
+          "name": "Hacker News",
+          "url": "https://markets.basicswapdex.com/plain/",
+          "language": "en",
+          "publishedAt": "2026-07-27T21:41:03.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "阿根廷领导人称巴西总统为“小偷”和“罪犯”",
-      "summaryZh": "哈维尔·米莱在巴西参加右翼总统候选人弗拉维奥·博索纳罗的竞选集会时，称巴西总统为“小偷”和“罪犯”。",
-      "category": "政治",
+      "titleZh": "特朗普在密歇根州发表经济演讲，支持率持续下滑",
+      "summaryZh": "美国总统特朗普前往密歇根州宣传经济政策，但该州因贸易政策成为其支持率下滑的“重灾区”。",
+      "category": "财经",
       "regions": [
-        "欧洲"
+        "中东"
       ],
       "heat": {
-        "score": 64,
+        "score": 59,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/27/trump-takes-economic-message-to-michigan-amid-dwindling-popularity?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-27T01:35:51.000Z"
+          "publishedAt": "2026-07-27T20:23:12.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "吉伦特省大火威胁战略要地",
-      "summaryZh": "大火逼近波尔多约15公里，消防员集中保护航天、航空及国防领域敏感战略点，如科学研究中心、火药厂和导弹工厂。已挖掘防火隔离带以保护这些设施。",
+      "titleZh": "美国外交官在法国于联合国安理会发言时离场",
+      "summaryZh": "在联合国安理会会议上，当法国代表发言时，美国外交官集体离场，抗议人权事务主管的重新任命。",
       "category": "国际",
       "regions": [
-        "欧洲"
+        "中东"
       ],
       "heat": {
         "score": 58,
@@ -101,70 +102,71 @@
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260727-gironde-l-incendie-menace-des-sites-strat%C3%A9giques",
-          "language": "fr",
-          "publishedAt": "2026-07-27T03:01:13.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-27T23:07:55.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "2026年非洲女足国家杯：尼日利亚能否卫冕对抗摩洛哥？",
-      "summaryZh": "非洲女足国家杯在摩洛哥开幕，16支球队参赛。卫冕冠军尼日利亚拥有10次冠军头衔，而摩洛哥希望主场首夺桂冠。本届赛事也是2027年女足世界杯预选赛，且奖金创新高。",
+      "titleZh": "皮尔洛因俄罗斯博彩公司争议退出意大利足协主席竞选",
+      "summaryZh": "意大利传奇球星皮尔洛因与俄罗斯博彩公司的关联引发强烈反对，被迫退出意大利足协主席竞选。意大利连续第三次无缘世界杯，足协陷入混乱。",
       "category": "体育",
       "regions": [
         "欧洲"
       ],
       "heat": {
-        "score": 53,
+        "score": 56,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260726-can-f%C3%A9minine-2026-le-nigeria-peut-il-conserver-son-titre-face-au-maroc",
-          "language": "fr",
-          "publishedAt": "2026-07-26T20:23:01.000Z"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-27T20:01:03.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "新的AI超级力量：专注与执行力",
-      "summaryZh": "Hacker News上热帖，讨论了AI领域的新趋势，强调专注和执行力是AI成功的超级力量。",
-      "category": "科技",
+      "titleZh": "泽连斯基计划与特朗普会晤，伊朗和乌克兰局势交织",
+      "summaryZh": "乌克兰总统泽连斯基将与美国前总统特朗普会面。与此同时，美国参议院即将就俄罗斯制裁进行投票，乌克兰近日在里海袭击了一艘伊朗船只。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "中东",
+        "欧洲"
       ],
       "heat": {
-        "score": 78,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-26T13:13:03.000Z"
+          "publishedAt": "2026-07-28T03:16:30.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+          "name": "DW",
+          "url": "https://www.dw.com/en/ukraine-s-zelenskyy-in-uk-to-meet-new-pm-burnham/a-78136104?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-26T20:49:43.000Z"
+          "publishedAt": "2026-07-27T18:10:00.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "俄乌互袭致10人死亡，包括切尔尼戈夫一名儿童",
-      "summaryZh": "基辅称俄方袭击导致6人死亡，包括一名在超市的儿童；莫斯科称乌方袭击致4人死亡。",
-      "category": "财经",
+      "titleZh": "也门外长警告胡塞武装试图效仿伊朗控制红海",
+      "summaryZh": "也门国际承认政府外长在利雅得表示，胡塞武装企图模仿伊朗在霍尔木兹海峡的做法，控制红海航道。全球的松懈态度助长了胡塞武装的气焰。",
+      "category": "政治",
       "regions": [
         "中东"
       ],
@@ -177,42 +179,19 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-27T03:34:06.000Z"
+          "publishedAt": "2026-07-28T00:51:50.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "巴西因米莱言论召回驻阿根廷大使",
-      "summaryZh": "阿根廷总统米莱在巴西支持极右翼总统候选人博索纳罗时，称巴西总统为“罪犯”和“小偷”，导致巴西召回大使。",
+      "titleZh": "特朗普就埃尔多安、内塔尼亚胡及向土耳其出售战斗机发表评论",
+      "summaryZh": "美国总统特朗普称土耳其是“伟大的盟友”，并就向安卡拉出售F-35战斗机一事发表了看法。",
       "category": "政治",
       "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/brazil-recalls-ambassador-to-argentina-over-milei-s-remarks/a-78123444?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-27T03:38:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "助长代币转售和欺诈的中继市场",
-      "summaryZh": "Hacker News上热帖，讨论了中继市场如何为代币转售和欺诈行为提供支持。",
-      "category": "财经",
-      "regions": [
-        "全球"
+        "中东"
       ],
       "heat": {
         "score": 62,
@@ -222,33 +201,56 @@
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://vectoral.com/blog/token-relay-market",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-on-erdogan-netanyahu-and-selling-fighter-jets-to-turkiye?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-26T15:17:06.000Z"
+          "publishedAt": "2026-07-28T00:00:42.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "英国首相承诺继续支持乌克兰，迎接泽连斯基访问",
-      "summaryZh": "乌克兰总统泽连斯基将成为英国首位国际访客，英国首相伯纳姆承诺继续支持乌克兰。",
+      "rank": 9,
+      "titleZh": "日本政府拟对跟踪骚扰加害者佩戴GPS设备",
+      "summaryZh": "鉴于跟踪骚扰导致的重大事件频发，日本政府决定尽快研究新措施，对危险性高的加害者佩戴GPS设备以掌握其行踪，保护受害者。",
       "category": "政治",
       "regions": [
-        "欧洲"
+        "亚洲"
       ],
       "heat": {
-        "score": 61,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-26T21:30:20.000Z"
+          "name": "NHK News",
+          "url": "http://www3.nhk.or.jp/news/html/20260728/k10015187881000.html",
+          "language": "ja",
+          "publishedAt": "2026-07-28T03:10:26.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "日本农水省将根据新米收成决定是否回购储备米",
+      "summaryZh": "民间大米库存创历史新高，要求政府回购储备米的呼声强烈。农林水产省表示将在下月下旬新米收成情况公布后，综合供需动向再作判断。",
+      "category": "政治",
+      "regions": [
+        "亚洲"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "NHK News",
+          "url": "http://www3.nhk.or.jp/news/html/20260728/k10015187861000.html",
+          "language": "ja",
+          "publishedAt": "2026-07-28T03:13:01.000Z"
         }
       ]
     }
