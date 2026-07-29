@@ -1,141 +1,13 @@
 {
-  "generatedAt": "2026-07-28T03:40:54.391Z",
+  "generatedAt": "2026-07-29T03:44:23.221Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普称在军事打击暂停期间与伊朗进行战争谈判",
-      "summaryZh": "美国总统特朗普表示，在美国军事打击暂停期间，与伊朗方面正在进行战争谈判，并称“很有可能达成某种结果”。伊朗否认存在直接谈判。",
-      "category": "政治",
-      "regions": [
-        "欧洲",
-        "中东"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-27T21:10:56.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-28T02:47:55.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "第二条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 77,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-          "language": "en",
-          "publishedAt": "2026-07-27T16:52:22.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://markets.basicswapdex.com/plain/",
-          "language": "en",
-          "publishedAt": "2026-07-27T21:41:03.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "特朗普在密歇根州发表经济演讲，支持率持续下滑",
-      "summaryZh": "美国总统特朗普前往密歇根州宣传经济政策，但该州因贸易政策成为其支持率下滑的“重灾区”。",
-      "category": "财经",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 59,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/27/trump-takes-economic-message-to-michigan-amid-dwindling-popularity?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-27T20:23:12.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "美国外交官在法国于联合国安理会发言时离场",
-      "summaryZh": "在联合国安理会会议上，当法国代表发言时，美国外交官集体离场，抗议人权事务主管的重新任命。",
-      "category": "国际",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 58,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-27T23:07:55.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "皮尔洛因俄罗斯博彩公司争议退出意大利足协主席竞选",
-      "summaryZh": "意大利传奇球星皮尔洛因与俄罗斯博彩公司的关联引发强烈反对，被迫退出意大利足协主席竞选。意大利连续第三次无缘世界杯，足协陷入混乱。",
-      "category": "体育",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 56,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-27T20:01:03.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "泽连斯基计划与特朗普会晤，伊朗和乌克兰局势交织",
-      "summaryZh": "乌克兰总统泽连斯基将与美国前总统特朗普会面。与此同时，美国参议院即将就俄罗斯制裁进行投票，乌克兰近日在里海袭击了一艘伊朗船只。",
+      "titleZh": "利马抗议藤森庆子宣誓就任秘鲁总统",
+      "summaryZh": "藤森庆子在抗议声中宣誓就任秘鲁总统，承诺严厉打击犯罪。批评者担忧其可能重蹈父亲独裁统治的覆辙。她上任后还需在中美地缘政治竞争中为秘鲁寻找空间。",
       "category": "政治",
       "regions": [
         "中东",
@@ -150,22 +22,173 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protests-in-lima-as-keiko-fujimori-sworn-in-as-peru-president?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-28T03:16:30.000Z"
+          "publishedAt": "2026-07-29T01:03:49.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-28T20:14:09.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/ukraine-s-zelenskyy-in-uk-to-meet-new-pm-burnham/a-78136104?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/fujimori-takes-charge-in-peru-amid-china-us-balancing-act/a-78110410?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-07-27T18:10:00.000Z"
+          "publishedAt": "2026-07-28T19:22:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "LearnVector – 吴恩达的AI公司打造一对一学习体验",
+      "summaryZh": "Andrew Ng（吴恩达）的AI公司LearnVector正在构建一对一学习体验。该消息在Hacker News上获得63分和30条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 66,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://learnvector.ai/",
+          "language": "en",
+          "publishedAt": "2026-07-29T01:49:19.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "伊朗与美国互相发动袭击，短暂平静被打破",
+      "summaryZh": "美国中央司令部称拦截了伊朗发射的“多枚”弹道导弹。伊朗和美国相互发动袭击，打破了此前短暂的平静。",
+      "category": "财经",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-29T02:47:28.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "吉伦特省大火“已控制”，但新一波热浪即将来临",
+      "summaryZh": "法国吉伦特省森林大火已烧毁42000公顷，火势虽已稳定不再蔓延，但14处复燃迫使数千游客预防性疏散。该省及朗德省即将迎来新一波高温热浪。",
+      "category": "国际",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 55,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/france/20260728-france-incendies-feux-megafeu-gironde-stabilise-pic-chaleur-canicule-pompiers-evacuations-landes",
+          "language": "fr",
+          "publishedAt": "2026-07-28T21:49:30.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "欧足联与英国首相批评因凡蒂诺的世界杯计划",
+      "summaryZh": "欧足联和英国首相安迪·伯纳姆批评国际足联主席因凡蒂诺提出的向私人投资者出售世界杯等赛事股份的计划。国际足联计划出售最高20%的股份，引发欧足联不满。",
+      "category": "政治",
+      "regions": [
+        "欧洲",
+        "中东"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-28T15:36:29.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/29/fifa-proposes-plan-to-sell-stakes-in-the-world-cup-angering-uefa?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-29T00:25:29.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "芯片股在美亚下跌，AI焦虑动摇投资者信心",
+      "summaryZh": "芯片股在美国和亚洲市场下滑，投资者对人工智能领域的担忧加剧。该消息在Hacker News上获得29分和16条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+          "language": "en",
+          "publishedAt": "2026-07-29T01:56:00.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "也门外长警告胡塞武装试图效仿伊朗控制红海",
-      "summaryZh": "也门国际承认政府外长在利雅得表示，胡塞武装企图模仿伊朗在霍尔木兹海峡的做法，控制红海航道。全球的松懈态度助长了胡塞武装的气焰。",
+      "titleZh": "特朗普政府禁止新型中国类人机器人",
+      "summaryZh": "美国特朗普政府宣布禁止进口新型中国类人机器人。美中两国在机器人和人工智能领域的竞争日趋白热化。",
+      "category": "科技",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-29T02:30:50.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "特朗普与内塔尼亚胡在白宫会谈，媒体未受邀",
+      "summaryZh": "美国总统特朗普与以色列总理内塔尼亚胡在白宫举行会谈，媒体未获邀请。",
       "category": "政治",
       "regions": [
         "中东"
@@ -179,62 +202,39 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-28T00:51:50.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "特朗普就埃尔多安、内塔尼亚胡及向土耳其出售战斗机发表评论",
-      "summaryZh": "美国总统特朗普称土耳其是“伟大的盟友”，并就向安卡拉出售F-35战斗机一事发表了看法。",
-      "category": "政治",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-on-erdogan-netanyahu-and-selling-fighter-jets-to-turkiye?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-28T00:00:42.000Z"
+          "publishedAt": "2026-07-29T01:19:55.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "日本政府拟对跟踪骚扰加害者佩戴GPS设备",
-      "summaryZh": "鉴于跟踪骚扰导致的重大事件频发，日本政府决定尽快研究新措施，对危险性高的加害者佩戴GPS设备以掌握其行踪，保护受害者。",
+      "titleZh": "美国参议院确认特朗普的情报总监人选杰伊·克莱顿",
+      "summaryZh": "美国参议院确认杰伊·克莱顿出任国家情报总监。特朗普近期重提2020年选举舞弊的不实指控，引发外界对政府处理情报机构方式的关注。",
       "category": "政治",
       "regions": [
-        "亚洲"
+        "欧洲"
       ],
       "heat": {
-        "score": 62,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "NHK News",
-          "url": "http://www3.nhk.or.jp/news/html/20260728/k10015187881000.html",
-          "language": "ja",
-          "publishedAt": "2026-07-28T03:10:26.000Z"
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-trump-s-intelligence-chief-pick-jay-clayton-confirmed-by-senate/a-78152450?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-29T02:54:00.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "日本农水省将根据新米收成决定是否回购储备米",
-      "summaryZh": "民间大米库存创历史新高，要求政府回购储备米的呼声强烈。农林水产省表示将在下月下旬新米收成情况公布后，综合供需动向再作判断。",
+      "titleZh": "高市首相表示熊本地震相关死亡人数达13人",
+      "summaryZh": "日本首相高市早苗表示，在观测到震度7的熊本地震中，包括正在调查与灾害关联性的死者在内，死亡人数已达13人。她主持召开第二次“非常灾害对策本部”会议，加速推进救援和灾民支援工作。",
       "category": "政治",
       "regions": [
         "亚洲"
@@ -248,9 +248,9 @@
       "sources": [
         {
           "name": "NHK News",
-          "url": "http://www3.nhk.or.jp/news/html/20260728/k10015187861000.html",
+          "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189461000.html",
           "language": "ja",
-          "publishedAt": "2026-07-28T03:13:01.000Z"
+          "publishedAt": "2026-07-29T03:03:08.000Z"
         }
       ]
     }
