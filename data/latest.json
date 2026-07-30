@@ -1,49 +1,152 @@
 {
-  "generatedAt": "2026-07-29T03:44:23.221Z",
+  "generatedAt": "2026-07-30T03:33:22.201Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "利马抗议藤森庆子宣誓就任秘鲁总统",
-      "summaryZh": "藤森庆子在抗议声中宣誓就任秘鲁总统，承诺严厉打击犯罪。批评者担忧其可能重蹈父亲独裁统治的覆辙。她上任后还需在中美地缘政治竞争中为秘鲁寻找空间。",
-      "category": "政治",
+      "titleZh": "马克·扎克伯格计划大力推广个人AI代理",
+      "summaryZh": "Meta首席执行官扎克伯格在2026年第二季度财报电话会议上透露，公司即将推出能代表用户全天候工作的个人AI代理，涵盖健康、财务等领域。他指出编程领域已率先应用此类代理。",
+      "category": "科技",
       "regions": [
-        "中东",
-        "欧洲"
+        "美洲"
       ],
       "heat": {
-        "score": 100,
+        "score": 87,
         "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protests-in-lima-as-keiko-fujimori-sworn-in-as-peru-president?traffic_source=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
           "language": "en",
-          "publishedAt": "2026-07-29T01:03:49.000Z"
+          "publishedAt": "2026-07-29T21:48:07.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
           "language": "en",
-          "publishedAt": "2026-07-28T20:14:09.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/fujimori-takes-charge-in-peru-amid-china-us-balancing-act/a-78110410?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-28T19:22:00.000Z"
+          "publishedAt": "2026-07-29T23:00:11.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "LearnVector – 吴恩达的AI公司打造一对一学习体验",
-      "summaryZh": "Andrew Ng（吴恩达）的AI公司LearnVector正在构建一对一学习体验。该消息在Hacker News上获得63分和30条评论。",
+      "titleZh": "佛蒙特州一家药店连锁引入AI提升效率",
+      "summaryZh": "佛蒙特州一家药店连锁实施AI技术以提高运营效率。该新闻在Hacker News上引发讨论，获得30分和41条评论。",
+      "category": "财经",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 82,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
+          "language": "en",
+          "publishedAt": "2026-07-30T01:35:10.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+          "language": "en",
+          "publishedAt": "2026-07-29T12:11:18.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "吉伦特省火灾：消防员仍在努力扑灭复燃火点",
+      "summaryZh": "法国西南部吉伦特省的特大火灾在7月29日仍处于稳定状态，但消防员需要应对7次复燃火点，借助空中力量并依赖农民和公共工程志愿者的帮助来控制火势。",
+      "category": "国际",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 77,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260729-incendie-en-gironde-les-pompiers-luttent-toujours-contre-les-reprises-de-feu",
+          "language": "fr",
+          "publishedAt": "2026-07-29T22:41:23.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260729-m%C3%A9gafeu-en-gironde-les-pompiers-face-aux-reprises-de-feu-l-incendie-stabilis%C3%A9",
+          "language": "fr",
+          "publishedAt": "2026-07-29T17:27:57.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260729-incendie-en-gironde-comment-les-pompiers-g%C3%A8rent-ils-les-reprises-de-feu",
+          "language": "fr",
+          "publishedAt": "2026-07-29T14:54:59.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "安东尼·福奇在美国参议院新冠起源听证会上拒绝回答问题",
+      "summaryZh": "前美国顶级卫生官员福奇在紧张的参议院听证会上拒绝回答关于新冠起源的问题，他担心共和党人可能利用他的证词来以伪证罪起诉他。",
+      "category": "政治",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-30T00:14:56.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "国际足联是否在向私人投资者出售世界杯部分权益？",
+      "summaryZh": "国际足联本周宣布计划成立一家新的子公司来运营世界杯的部分业务，并出售20%的股份，引发广泛关注。",
+      "category": "体育",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 57,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-29T21:46:22.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "顶级AI初创公司几乎不发表研究成果",
+      "summaryZh": "Hacker News上讨论指出，顶尖AI初创公司很少公开发表研究成果，引发对行业透明度的担忧。该帖子获得270分和151条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -57,45 +160,22 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://learnvector.ai/",
+          "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
           "language": "en",
-          "publishedAt": "2026-07-29T01:49:19.000Z"
+          "publishedAt": "2026-07-29T21:25:40.000Z"
         }
       ]
     },
     {
-      "rank": 3,
-      "titleZh": "伊朗与美国互相发动袭击，短暂平静被打破",
-      "summaryZh": "美国中央司令部称拦截了伊朗发射的“多枚”弹道导弹。伊朗和美国相互发动袭击，打破了此前短暂的平静。",
-      "category": "财经",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-29T02:47:28.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "吉伦特省大火“已控制”，但新一波热浪即将来临",
-      "summaryZh": "法国吉伦特省森林大火已烧毁42000公顷，火势虽已稳定不再蔓延，但14处复燃迫使数千游客预防性疏散。该省及朗德省即将迎来新一波高温热浪。",
+      "rank": 7,
+      "titleZh": "国际足联因私人投资计划招致批评",
+      "summaryZh": "在FIFA宣布向私人投资者开放世界杯业务后，欧洲足球联合会（UEFA）于7月29日召开紧急会议进行讨论。法国体育部长称该项目可能深刻改变足球运动平衡。",
       "category": "国际",
       "regions": [
         "欧洲"
       ],
       "heat": {
-        "score": 55,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -103,92 +183,22 @@
       "sources": [
         {
           "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/france/20260728-france-incendies-feux-megafeu-gironde-stabilise-pic-chaleur-canicule-pompiers-evacuations-landes",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260729-la-fifa-sous-le-feu-des-critiques-suite-au-projet-d-investissements-priv%C3%A9s",
           "language": "fr",
-          "publishedAt": "2026-07-28T21:49:30.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "欧足联与英国首相批评因凡蒂诺的世界杯计划",
-      "summaryZh": "欧足联和英国首相安迪·伯纳姆批评国际足联主席因凡蒂诺提出的向私人投资者出售世界杯等赛事股份的计划。国际足联计划出售最高20%的股份，引发欧足联不满。",
-      "category": "政治",
-      "regions": [
-        "欧洲",
-        "中东"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-28T15:36:29.000Z"
+          "publishedAt": "2026-07-29T17:09:37.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/29/fifa-proposes-plan-to-sell-stakes-in-the-world-cup-angering-uefa?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-29T00:25:29.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "芯片股在美亚下跌，AI焦虑动摇投资者信心",
-      "summaryZh": "芯片股在美国和亚洲市场下滑，投资者对人工智能领域的担忧加剧。该消息在Hacker News上获得29分和16条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.bbc.com/news/articles/cly8zng43npo",
-          "language": "en",
-          "publishedAt": "2026-07-29T01:56:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "特朗普政府禁止新型中国类人机器人",
-      "summaryZh": "美国特朗普政府宣布禁止进口新型中国类人机器人。美中两国在机器人和人工智能领域的竞争日趋白热化。",
-      "category": "科技",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-29T02:30:50.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/sports/20260729-projet-de-la-fifa-une-r%C3%A9union-d-urgence-convoqu%C3%A9e-par-les-instances-europ%C3%A9ennes",
+          "language": "fr",
+          "publishedAt": "2026-07-29T13:19:25.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "特朗普与内塔尼亚胡在白宫会谈，媒体未受邀",
-      "summaryZh": "美国总统特朗普与以色列总理内塔尼亚胡在白宫举行会谈，媒体未获邀请。",
+      "titleZh": "特朗普不顾以色列反对推动向土耳其出售战斗机",
+      "summaryZh": "美国总统特朗普再次释放信号，支持向土耳其出售F-35战斗机，尽管遭到以色列的反对。",
       "category": "政治",
       "regions": [
         "中东"
@@ -202,39 +212,39 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-pushes-fighter-jet-sale-to-turkiye-despite-israeli-opposition?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-29T01:19:55.000Z"
+          "publishedAt": "2026-07-30T01:04:42.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "美国参议院确认特朗普的情报总监人选杰伊·克莱顿",
-      "summaryZh": "美国参议院确认杰伊·克莱顿出任国家情报总监。特朗普近期重提2020年选举舞弊的不实指控，引发外界对政府处理情报机构方式的关注。",
-      "category": "政治",
+      "titleZh": "特朗普考虑在OpenAI遭黑客攻击后对AI实施管控",
+      "summaryZh": "在OpenAI发生黑客攻击事件后，美国总统特朗普考虑对人工智能实施管控。这标志着其政府对待AI技术态度的转变，此前一直采取不干预方式。",
+      "category": "科技",
       "regions": [
         "欧洲"
       ],
       "heat": {
-        "score": 63,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-trump-s-intelligence-chief-pick-jay-clayton-confirmed-by-senate/a-78152450?maca=en-rss-en-all-1573-rdf",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-29T02:54:00.000Z"
+          "publishedAt": "2026-07-30T00:41:28.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "高市首相表示熊本地震相关死亡人数达13人",
-      "summaryZh": "日本首相高市早苗表示，在观测到震度7的熊本地震中，包括正在调查与灾害关联性的死者在内，死亡人数已达13人。她主持召开第二次“非常灾害对策本部”会议，加速推进救援和灾民支援工作。",
+      "titleZh": "日本首相高市早苗宣布明年4月起食品消费税降至1%为期两年",
+      "summaryZh": "关于食品消费税减税问题，日本首相高市早苗在自民党临时干部会议上表示，将从明年4月起两年内将税率降至1%，同时向中低收入者发放补贴以实现实质零税率。她指示党内协调意见。",
       "category": "政治",
       "regions": [
         "亚洲"
@@ -248,9 +258,9 @@
       "sources": [
         {
           "name": "NHK News",
-          "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189461000.html",
+          "url": "http://www3.nhk.or.jp/news/html/20260730/k10015190631000.html",
           "language": "ja",
-          "publishedAt": "2026-07-29T03:03:08.000Z"
+          "publishedAt": "2026-07-30T03:11:53.000Z"
         }
       ]
     }
