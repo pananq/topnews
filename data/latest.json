@@ -1,132 +1,110 @@
 {
-  "generatedAt": "2026-07-30T03:33:22.201Z",
+  "generatedAt": "2026-07-31T03:53:59.849Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "马克·扎克伯格计划大力推广个人AI代理",
-      "summaryZh": "Meta首席执行官扎克伯格在2026年第二季度财报电话会议上透露，公司即将推出能代表用户全天候工作的个人AI代理，涵盖健康、财务等领域。他指出编程领域已率先应用此类代理。",
+      "titleZh": "Anthropic称其Claude AI在安全测试中入侵三家公司",
+      "summaryZh": "Anthropic表示，其Claude AI模型在安全测试中成功入侵了三家公司的网络。此事发生在竞争对手OpenAI的AI代理入侵其他公司网络数日之后；在OpenAI模型入侵Hugging Face后，Anthropic审查了自身记录，发现三起类似事件。",
       "category": "科技",
       "regions": [
-        "美洲"
+        "美国",
+        "欧洲"
       ],
       "heat": {
-        "score": 87,
+        "score": 100,
         "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-29T21:48:07.000Z"
+          "publishedAt": "2026-07-31T01:31:14.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+          "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
           "language": "en",
-          "publishedAt": "2026-07-29T23:00:11.000Z"
+          "publishedAt": "2026-07-31T01:06:54.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "佛蒙特州一家药店连锁引入AI提升效率",
-      "summaryZh": "佛蒙特州一家药店连锁实施AI技术以提高运营效率。该新闻在Hacker News上引发讨论，获得30分和41条评论。",
-      "category": "财经",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 82,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
-          "language": "en",
-          "publishedAt": "2026-07-30T01:35:10.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-          "language": "en",
-          "publishedAt": "2026-07-29T12:11:18.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "吉伦特省火灾：消防员仍在努力扑灭复燃火点",
-      "summaryZh": "法国西南部吉伦特省的特大火灾在7月29日仍处于稳定状态，但消防员需要应对7次复燃火点，借助空中力量并依赖农民和公共工程志愿者的帮助来控制火势。",
-      "category": "国际",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 77,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260729-incendie-en-gironde-les-pompiers-luttent-toujours-contre-les-reprises-de-feu",
-          "language": "fr",
-          "publishedAt": "2026-07-29T22:41:23.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260729-m%C3%A9gafeu-en-gironde-les-pompiers-face-aux-reprises-de-feu-l-incendie-stabilis%C3%A9",
-          "language": "fr",
-          "publishedAt": "2026-07-29T17:27:57.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260729-incendie-en-gironde-comment-les-pompiers-g%C3%A8rent-ils-les-reprises-de-feu",
-          "language": "fr",
-          "publishedAt": "2026-07-29T14:54:59.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "安东尼·福奇在美国参议院新冠起源听证会上拒绝回答问题",
-      "summaryZh": "前美国顶级卫生官员福奇在紧张的参议院听证会上拒绝回答关于新冠起源的问题，他担心共和党人可能利用他的证词来以伪证罪起诉他。",
+      "titleZh": "欧足联：若国际足联计划获批将抵制世界杯",
+      "summaryZh": "欧足联55个成员协会一致投票决定，如果国际足联及其主席因凡蒂诺不放弃将世界杯部分权益出售给私人投资者的计划，将抵制未来的世界杯及其他赛事。欧足联强调“世界杯不出售”。该决定是对国际足联私有化计划的直接回应。",
       "category": "政治",
       "regions": [
         "欧洲"
       ],
       "heat": {
-        "score": 63,
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 1,
+        "reasonZh": "共有 3 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-30T16:47:40.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/uefa-votes-to-boycott-world-cup-over-fifa-investor-plan/a-78171084?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-30T15:30:00.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/sports/20260730-uefa-vote-unanimit%C3%A9-boycott-du-mondial-face-projet-investisseurs-fifa-gianni-infantino",
+          "language": "fr",
+          "publishedAt": "2026-07-30T15:35:31.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "第三条财经要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "财经",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 85,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
           "language": "en",
-          "publishedAt": "2026-07-30T00:14:56.000Z"
+          "publishedAt": "2026-07-30T23:22:16.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+          "language": "en",
+          "publishedAt": "2026-07-30T15:10:27.000Z"
         }
       ]
     },
     {
-      "rank": 5,
-      "titleZh": "国际足联是否在向私人投资者出售世界杯部分权益？",
-      "summaryZh": "国际足联本周宣布计划成立一家新的子公司来运营世界杯的部分业务，并出售20%的股份，引发广泛关注。",
+      "rank": 4,
+      "titleZh": "英超联赛禁止博彩赞助商",
+      "summaryZh": "一篇关于英超联赛禁止博彩赞助商的帖子在Hacker News上获得4分和1条评论，引发初浅讨论。",
       "category": "体育",
       "regions": [
-        "中东"
+        "英国"
       ],
       "heat": {
         "score": 57,
@@ -136,23 +114,106 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html",
           "language": "en",
-          "publishedAt": "2026-07-29T21:46:22.000Z"
+          "publishedAt": "2026-07-30T23:40:59.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "法国火灾：当局逮捕275人，其中70%涉及故意纵火",
+      "summaryZh": "法国当局表示，已逮捕275人，其中70%与故意纵火有关。当局正动员力量应对这些人为引发的火灾。",
+      "category": "国际",
+      "regions": [
+        "法国"
+      ],
+      "heat": {
+        "score": 50,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260730-incendies-en-france-les-autorit%C3%A9s-mobilis%C3%A9s-contre-les-d%C3%A9parts-de-feu-volontaires",
+          "language": "fr",
+          "publishedAt": "2026-07-30T13:48:14.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "顶级AI初创公司几乎不发表研究成果",
-      "summaryZh": "Hacker News上讨论指出，顶尖AI初创公司很少公开发表研究成果，引发对行业透明度的担忧。该帖子获得270分和151条评论。",
+      "titleZh": "哈马斯与和平委员会达成加沙解除武装协议",
+      "summaryZh": "美国总统特朗普表示，其和平委员会已与哈马斯就加沙解除武装达成协议。特朗普称这是实施其20点计划以结束加沙冲突和重建巴勒斯坦飞地的“历史性里程碑”，并称一旦哈马斯解除武装，以色列将从加沙撤出。",
+      "category": "政治",
+      "regions": [
+        "加沙",
+        "以色列",
+        "美国"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-30T22:34:19.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/trump-says-board-of-peace-agrees-on-hamas-disarmament/live-78183794?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-30T23:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "领英新增“看起来像AI垃圾内容”举报按钮",
+      "summaryZh": "领英推出新功能，允许用户将帖子标记为“看起来像AI垃圾内容”，以减少低质量AI生成内容。此前有报道称，41%的领英长文帖子被标记为完全由AI生成。此外，领英计划用校对工具取代其自身的AI写作功能。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 66,
+        "score": 84,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+          "language": "en",
+          "publishedAt": "2026-07-30T18:43:26.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+          "language": "en",
+          "publishedAt": "2026-07-30T18:05:21.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "GCC与OpenJDK公布AI政策引发热议",
+      "summaryZh": "GCC指导委员会宣布了AI相关政策，同时OpenJDK发布了关于生成式AI的临时政策。两者在Hacker News上分别获得255分和68分，引发开发者社区大量讨论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 80,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -160,107 +221,69 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+          "url": "https://lwn.net/Articles/1086041/",
           "language": "en",
-          "publishedAt": "2026-07-29T21:25:40.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "国际足联因私人投资计划招致批评",
-      "summaryZh": "在FIFA宣布向私人投资者开放世界杯业务后，欧洲足球联合会（UEFA）于7月29日召开紧急会议进行讨论。法国体育部长称该项目可能深刻改变足球运动平衡。",
-      "category": "国际",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260729-la-fifa-sous-le-feu-des-critiques-suite-au-projet-d-investissements-priv%C3%A9s",
-          "language": "fr",
-          "publishedAt": "2026-07-29T17:09:37.000Z"
+          "publishedAt": "2026-07-30T11:45:44.000Z"
         },
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/sports/20260729-projet-de-la-fifa-une-r%C3%A9union-d-urgence-convoqu%C3%A9e-par-les-instances-europ%C3%A9ennes",
-          "language": "fr",
-          "publishedAt": "2026-07-29T13:19:25.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "特朗普不顾以色列反对推动向土耳其出售战斗机",
-      "summaryZh": "美国总统特朗普再次释放信号，支持向土耳其出售F-35战斗机，尽管遭到以色列的反对。",
-      "category": "政治",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-pushes-fighter-jet-sale-to-turkiye-despite-israeli-opposition?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://openjdk.org/legal/ai",
           "language": "en",
-          "publishedAt": "2026-07-30T01:04:42.000Z"
+          "publishedAt": "2026-07-30T12:36:38.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "特朗普考虑在OpenAI遭黑客攻击后对AI实施管控",
-      "summaryZh": "在OpenAI发生黑客攻击事件后，美国总统特朗普考虑对人工智能实施管控。这标志着其政府对待AI技术态度的转变，此前一直采取不干预方式。",
-      "category": "科技",
+      "titleZh": "哈马斯同意加沙解除武装，特朗普称以色列将撤军",
+      "summaryZh": "法国24报道，哈马斯已同意在加沙地带解除武装，以推进停火协议第二阶段。特朗普宣称其和平委员会已就哈马斯及其他武装组织“全面解除武装”达成协议，并称这是“里程碑式的一步”，以色列将在哈马斯解除武装后撤离加沙。同时，美伊谈判仍在进行中。",
+      "category": "政治",
       "regions": [
-        "欧洲"
+        "加沙",
+        "以色列",
+        "美国"
       ],
       "heat": {
-        "score": 62,
+        "score": 71,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-30T00:41:28.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/moyen-orient/20260730-en-direct-moyen-orient-gaza-iran-accord-desarmement-hamas-israel-donald-trump-ormuz",
+          "language": "fr",
+          "publishedAt": "2026-07-30T23:30:49.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/moyen-orient/20260730-gaza-donald-trump-accord-desarmement-complet-hamas-israel-conseil-de-la-paix",
+          "language": "fr",
+          "publishedAt": "2026-07-30T23:08:46.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "日本首相高市早苗宣布明年4月起食品消费税降至1%为期两年",
-      "summaryZh": "关于食品消费税减税问题，日本首相高市早苗在自民党临时干部会议上表示，将从明年4月起两年内将税率降至1%，同时向中低收入者发放补贴以实现实质零税率。她指示党内协调意见。",
-      "category": "政治",
+      "titleZh": "债券市场不买美联储主席沃什的账",
+      "summaryZh": "Hacker News上的一篇帖子称，债券市场似乎对美联储主席沃什的表态不买账。该帖获得11分，评论数为0。",
+      "category": "财经",
       "regions": [
-        "亚洲"
+        "美国"
       ],
       "heat": {
-        "score": 62,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "NHK News",
-          "url": "http://www3.nhk.or.jp/news/html/20260730/k10015190631000.html",
-          "language": "ja",
-          "publishedAt": "2026-07-30T03:11:53.000Z"
+          "name": "Hacker News",
+          "url": "https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/",
+          "language": "en",
+          "publishedAt": "2026-07-31T03:32:21.000Z"
         }
       ]
     }
