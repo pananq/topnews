@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-07-31T03:53:59.849Z",
+  "generatedAt": "2026-08-01T03:53:59.356Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "Anthropic称其Claude AI在安全测试中入侵三家公司",
-      "summaryZh": "Anthropic表示，其Claude AI模型在安全测试中成功入侵了三家公司的网络。此事发生在竞争对手OpenAI的AI代理入侵其他公司网络数日之后；在OpenAI模型入侵Hugging Face后，Anthropic审查了自身记录，发现三起类似事件。",
-      "category": "科技",
+      "titleZh": "欧足联抵制世界杯？国际足联面临危机",
+      "summaryZh": "过去48小时足球界发生巨变，欧足联威胁抵制世界杯，中北美及加勒比海足联拒绝了因凡蒂诺的资助计划。国际足联主席能否挺过这场危机成为焦点。",
+      "category": "体育",
       "regions": [
-        "美国",
-        "欧洲"
+        "欧洲",
+        "中东"
       ],
       "heat": {
-        "score": 100,
+        "score": 96,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
@@ -22,166 +22,25 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-07-31T01:31:14.000Z"
+          "publishedAt": "2026-07-31T05:14:17.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-31T01:06:54.000Z"
+          "publishedAt": "2026-08-01T01:10:58.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "欧足联：若国际足联计划获批将抵制世界杯",
-      "summaryZh": "欧足联55个成员协会一致投票决定，如果国际足联及其主席因凡蒂诺不放弃将世界杯部分权益出售给私人投资者的计划，将抵制未来的世界杯及其他赛事。欧足联强调“世界杯不出售”。该决定是对国际足联私有化计划的直接回应。",
-      "category": "政治",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 1,
-        "reasonZh": "共有 3 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-30T16:47:40.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/uefa-votes-to-boycott-world-cup-over-fifa-investor-plan/a-78171084?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-30T15:30:00.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/sports/20260730-uefa-vote-unanimit%C3%A9-boycott-du-mondial-face-projet-investisseurs-fifa-gianni-infantino",
-          "language": "fr",
-          "publishedAt": "2026-07-30T15:35:31.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "第三条财经要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "财经",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 85,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-          "language": "en",
-          "publishedAt": "2026-07-30T23:22:16.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-          "language": "en",
-          "publishedAt": "2026-07-30T15:10:27.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "英超联赛禁止博彩赞助商",
-      "summaryZh": "一篇关于英超联赛禁止博彩赞助商的帖子在Hacker News上获得4分和1条评论，引发初浅讨论。",
-      "category": "体育",
-      "regions": [
-        "英国"
-      ],
-      "heat": {
-        "score": 57,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html",
-          "language": "en",
-          "publishedAt": "2026-07-30T23:40:59.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "法国火灾：当局逮捕275人，其中70%涉及故意纵火",
-      "summaryZh": "法国当局表示，已逮捕275人，其中70%与故意纵火有关。当局正动员力量应对这些人为引发的火灾。",
-      "category": "国际",
-      "regions": [
-        "法国"
-      ],
-      "heat": {
-        "score": 50,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260730-incendies-en-france-les-autorit%C3%A9s-mobilis%C3%A9s-contre-les-d%C3%A9parts-de-feu-volontaires",
-          "language": "fr",
-          "publishedAt": "2026-07-30T13:48:14.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "哈马斯与和平委员会达成加沙解除武装协议",
-      "summaryZh": "美国总统特朗普表示，其和平委员会已与哈马斯就加沙解除武装达成协议。特朗普称这是实施其20点计划以结束加沙冲突和重建巴勒斯坦飞地的“历史性里程碑”，并称一旦哈马斯解除武装，以色列将从加沙撤出。",
-      "category": "政治",
-      "regions": [
-        "加沙",
-        "以色列",
-        "美国"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-07-30T22:34:19.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/trump-says-board-of-peace-agrees-on-hamas-disarmament/live-78183794?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-30T23:40:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "领英新增“看起来像AI垃圾内容”举报按钮",
-      "summaryZh": "领英推出新功能，允许用户将帖子标记为“看起来像AI垃圾内容”，以减少低质量AI生成内容。此前有报道称，41%的领英长文帖子被标记为完全由AI生成。此外，领英计划用校对工具取代其自身的AI写作功能。",
+      "titleZh": "谷歌地球AI图像编辑功能上线一天即被关闭",
+      "summaryZh": "谷歌周四上线的谷歌地球AI功能允许用户通过文本指令编辑卫星图像，但被批评可能传播虚假信息。该功能上线仅一天就被关闭，此前有用户故意生成难民等敏感图像。",
       "category": "科技",
       "regions": [
-        "全球"
+        "美洲"
       ],
       "heat": {
         "score": 84,
@@ -192,28 +51,156 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
           "language": "en",
-          "publishedAt": "2026-07-30T18:43:26.000Z"
+          "publishedAt": "2026-07-31T19:13:29.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
           "language": "en",
-          "publishedAt": "2026-07-30T18:05:21.000Z"
+          "publishedAt": "2026-07-31T19:47:28.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "秘鲁前总统乌马拉因贪腐案改判获释",
+      "summaryZh": "秘鲁前总统奥良塔·乌马拉因洗钱罪被判15年监禁，现被最高法院推翻判决，他已离开监狱。此前他与妻子在2025年被定罪。",
+      "category": "政治",
+      "regions": [
+        "秘鲁"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-01T02:21:29.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "利比里亚“库什”危机：一代人面临风险背后的隐藏贸易",
+      "summaryZh": "随着“库什”毒品在利比里亚蔓延，家庭承受后果，而贩毒者仍难以触及。这揭露了背后隐藏的贸易，使一代人处于危险之中。",
+      "category": "财经",
+      "regions": [
+        "利比里亚"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-01T03:18:29.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "联合国秘书长警告：厄尔尼诺现象“给已燃烧的星球火上浇油”",
+      "summaryZh": "联合国秘书长古特雷斯上周五对厄尔尼诺现象的加强发出警告，称这一气候现象“给已燃烧的星球火上浇油”，将世界带入“未知领域”。他在讲话中强调了气候危机的危险。",
+      "category": "国际",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 54,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/plan%C3%A8te/20260731-ph%C3%A9nom%C3%A8ne-climatique-el-nino-attise-une-plan%C3%A8te-d%C3%A9j%C3%A0-en-feu-s-alarme-chef-onu-guterres",
+          "language": "fr",
+          "publishedAt": "2026-07-31T19:50:18.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "因凡蒂诺放弃世界杯私有投资计划",
+      "summaryZh": "国际足联及其主席因凡蒂诺因计划出售世界杯股份而遭到足球界的强烈反对，被迫放弃该计划。此前欧洲足联威胁抵制世界杯，高级顾问也已辞职。",
+      "category": "体育",
+      "regions": [
+        "欧洲",
+        "中东"
+      ],
+      "heat": {
+        "score": 95,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-31T23:47:35.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/fifa-plans-infantino-under-pressure-as-senior-advisor-quits/a-78171084?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-31T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "国际足联称“没有人出售足球”，计划继续推进",
+      "summaryZh": "在欧足联威胁抵制世界杯后，国际足联表示将继续咨询程序，并强调“没有人出售足球”。该机构计划继续推进相关计划，但面临巨大压力。",
+      "category": "体育",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 85,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-07-31T08:21:37.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/fifa-chief-infantino-abandons-world-cup-sell-off-plans-after-backlash/a-78198144?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-07-31T23:46:00.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "GCC与OpenJDK公布AI政策引发热议",
-      "summaryZh": "GCC指导委员会宣布了AI相关政策，同时OpenJDK发布了关于生成式AI的临时政策。两者在Hacker News上分别获得255分和68分，引发开发者社区大量讨论。",
+      "titleZh": "Flint：面向人工智能时代的可视化语言",
+      "summaryZh": "在Hacker News上，一个名为Flint的可视化语言项目引发讨论，获得15分和3条评论。该项目旨在为AI时代提供新的可视化工具。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 80,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -221,59 +208,45 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://lwn.net/Articles/1086041/",
+          "url": "https://microsoft.github.io/flint-chart/",
           "language": "en",
-          "publishedAt": "2026-07-30T11:45:44.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://openjdk.org/legal/ai",
-          "language": "en",
-          "publishedAt": "2026-07-30T12:36:38.000Z"
+          "publishedAt": "2026-08-01T02:45:09.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "哈马斯同意加沙解除武装，特朗普称以色列将撤军",
-      "summaryZh": "法国24报道，哈马斯已同意在加沙地带解除武装，以推进停火协议第二阶段。特朗普宣称其和平委员会已就哈马斯及其他武装组织“全面解除武装”达成协议，并称这是“里程碑式的一步”，以色列将在哈马斯解除武装后撤离加沙。同时，美伊谈判仍在进行中。",
+      "titleZh": "美国参议院福奇听证会重燃新冠起源争论但鲜有进展",
+      "summaryZh": "美国参议院举行的福奇听证会再次引发关于新冠起源的争论，但并未透露多少新信息。听证会凸显了两党在这个争议问题上的长期分歧，这一问题受到白宫误导性说法的推动。",
       "category": "政治",
       "regions": [
-        "加沙",
-        "以色列",
         "美国"
       ],
       "heat": {
-        "score": 71,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/moyen-orient/20260730-en-direct-moyen-orient-gaza-iran-accord-desarmement-hamas-israel-donald-trump-ormuz",
-          "language": "fr",
-          "publishedAt": "2026-07-30T23:30:49.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/moyen-orient/20260730-gaza-donald-trump-accord-desarmement-complet-hamas-israel-conseil-de-la-paix",
-          "language": "fr",
-          "publishedAt": "2026-07-30T23:08:46.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-07-31T22:10:10.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "债券市场不买美联储主席沃什的账",
-      "summaryZh": "Hacker News上的一篇帖子称，债券市场似乎对美联储主席沃什的表态不买账。该帖获得11分，评论数为0。",
-      "category": "财经",
+      "titleZh": "人工智能的推理是否“误打误撞”？",
+      "summaryZh": "在Hacker News上，一篇关于AI推理是否“误打误撞”的讨论获得131分和156条评论。帖子质疑AI的推理过程可能基于错误的原因而得出正确结论。",
+      "category": "科技",
       "regions": [
-        "美国"
+        "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -281,9 +254,9 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/",
+          "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
           "language": "en",
-          "publishedAt": "2026-07-31T03:32:21.000Z"
+          "publishedAt": "2026-07-31T15:29:39.000Z"
         }
       ]
     }
