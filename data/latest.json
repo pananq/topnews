@@ -1,124 +1,96 @@
 {
-  "generatedAt": "2026-08-01T03:53:59.356Z",
+  "generatedAt": "2026-08-03T03:58:24.092Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "欧足联抵制世界杯？国际足联面临危机",
-      "summaryZh": "过去48小时足球界发生巨变，欧足联威胁抵制世界杯，中北美及加勒比海足联拒绝了因凡蒂诺的资助计划。国际足联主席能否挺过这场危机成为焦点。",
-      "category": "体育",
+      "titleZh": "特朗普暂停对伊朗“大规模攻击”，称将开始新一轮谈判",
+      "summaryZh": "美国总统特朗普表示，在取消攻击后，与伊朗的新一轮谈判将于周一以“谈判形式”开始。海湾盟友和德黑兰敦促他推迟计划打击，油价因此下跌。",
+      "category": "政治",
       "regions": [
-        "欧洲",
+        "美国",
+        "伊朗",
         "中东"
       ],
       "heat": {
-        "score": 96,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 77,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-31T05:14:17.000Z"
+          "publishedAt": "2026-08-03T03:17:33.000Z"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-01T01:10:58.000Z"
+          "publishedAt": "2026-08-02T23:48:08.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "谷歌地球AI图像编辑功能上线一天即被关闭",
-      "summaryZh": "谷歌周四上线的谷歌地球AI功能允许用户通过文本指令编辑卫星图像，但被批评可能传播虚假信息。该功能上线仅一天就被关闭，此前有用户故意生成难民等敏感图像。",
+      "titleZh": "AI海报赢得俄亥俄州博览会比赛",
+      "summaryZh": "一张由人工智能创作的海报在俄亥俄州博览会上获奖，该消息在Hacker News上引发热议，获得123分和142条评论。",
       "category": "科技",
       "regions": [
-        "美洲"
+        "美国"
       ],
       "heat": {
-        "score": 84,
-        "sourceCount": 2,
+        "score": 66,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+          "name": "Hacker News",
+          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
           "language": "en",
-          "publishedAt": "2026-07-31T19:13:29.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-          "language": "en",
-          "publishedAt": "2026-07-31T19:47:28.000Z"
+          "publishedAt": "2026-08-02T22:43:47.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "秘鲁前总统乌马拉因贪腐案改判获释",
-      "summaryZh": "秘鲁前总统奥良塔·乌马拉因洗钱罪被判15年监禁，现被最高法院推翻判决，他已离开监狱。此前他与妻子在2025年被定罪。",
-      "category": "政治",
+      "titleZh": "加密货币矿工在东南亚窃电",
+      "summaryZh": "据报道，东南亚地区存在加密货币矿工窃取电力的情况。这条消息在Hacker News上获得了13分和0条评论。",
+      "category": "财经",
       "regions": [
-        "秘鲁"
+        "东南亚"
       ],
       "heat": {
-        "score": 65,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://www.dw.com/en/how-crypto-miners-are-stealing-power-in-southeast-asia/a-78175364",
           "language": "en",
-          "publishedAt": "2026-08-01T02:21:29.000Z"
+          "publishedAt": "2026-08-02T23:20:35.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "利比里亚“库什”危机：一代人面临风险背后的隐藏贸易",
-      "summaryZh": "随着“库什”毒品在利比里亚蔓延，家庭承受后果，而贩毒者仍难以触及。这揭露了背后隐藏的贸易，使一代人处于危险之中。",
-      "category": "财经",
-      "regions": [
-        "利比里亚"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-01T03:18:29.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "联合国秘书长警告：厄尔尼诺现象“给已燃烧的星球火上浇油”",
-      "summaryZh": "联合国秘书长古特雷斯上周五对厄尔尼诺现象的加强发出警告，称这一气候现象“给已燃烧的星球火上浇油”，将世界带入“未知领域”。他在讲话中强调了气候危机的危险。",
+      "titleZh": "希腊发生森林火灾，两人死亡，扑救工作“极其困难”",
+      "summaryZh": "希腊总理米佐塔基斯表示，雅典西北约70公里处发生森林火灾，在“极端”天气条件和时速经常达到100公里的大风下，扑救工作极其困难。两架参与灭火的直升机在普萨塔附近相撞，造成两人死亡。",
       "category": "国际",
       "regions": [
-        "全球"
+        "希腊"
       ],
       "heat": {
-        "score": 54,
+        "score": 49,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -126,75 +98,63 @@
       "sources": [
         {
           "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/plan%C3%A8te/20260731-ph%C3%A9nom%C3%A8ne-climatique-el-nino-attise-une-plan%C3%A8te-d%C3%A9j%C3%A0-en-feu-s-alarme-chef-onu-guterres",
+          "url": "https://www.france24.com/fr/europe/20260802-en-gr%C3%A8ce-les-vents-violents-rendent-la-lutte-contre-les-incendies-extr%C3%AAmement-difficile",
           "language": "fr",
-          "publishedAt": "2026-07-31T19:50:18.000Z"
+          "publishedAt": "2026-08-02T13:43:19.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "巴西卢拉启动连任竞选，引发外国干涉担忧",
+      "summaryZh": "巴西总统卢拉正式启动连任竞选活动。此前有外国干涉的担忧。",
+      "category": "政治",
+      "regions": [
+        "巴西"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-03T02:54:25.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "因凡蒂诺放弃世界杯私有投资计划",
-      "summaryZh": "国际足联及其主席因凡蒂诺因计划出售世界杯股份而遭到足球界的强烈反对，被迫放弃该计划。此前欧洲足联威胁抵制世界杯，高级顾问也已辞职。",
-      "category": "体育",
+      "titleZh": "日本与美国确认罕见联合干预以支撑日元",
+      "summaryZh": "美国总统特朗普表示，帮助提振日元是友谊的象征。日本和美国确认进行罕见的联合干预以支撑日元汇率。",
+      "category": "政治",
       "regions": [
-        "欧洲",
-        "中东"
+        "日本",
+        "美国"
       ],
       "heat": {
-        "score": 95,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-31T23:47:35.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/fifa-plans-infantino-under-pressure-as-senior-advisor-quits/a-78171084?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-31T12:00:00.000Z"
+          "publishedAt": "2026-08-03T01:34:19.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "国际足联称“没有人出售足球”，计划继续推进",
-      "summaryZh": "在欧足联威胁抵制世界杯后，国际足联表示将继续咨询程序，并强调“没有人出售足球”。该机构计划继续推进相关计划，但面临巨大压力。",
-      "category": "体育",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 85,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-07-31T08:21:37.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/fifa-chief-infantino-abandons-world-cup-sell-off-plans-after-backlash/a-78198144?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-07-31T23:46:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "Flint：面向人工智能时代的可视化语言",
-      "summaryZh": "在Hacker News上，一个名为Flint的可视化语言项目引发讨论，获得15分和3条评论。该项目旨在为AI时代提供新的可视化工具。",
+      "titleZh": "我的个人AI基准测试：生成一个哈布斯堡下巴青蛙的SVG",
+      "summaryZh": "一位开发者分享其个人AI基准测试，要求AI生成一个具有哈布斯堡下巴的青蛙的SVG图像。该话题在Hacker News上获得120分和52条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -208,19 +168,43 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://microsoft.github.io/flint-chart/",
+          "url": "https://frogs.vaguespac.es/",
           "language": "en",
-          "publishedAt": "2026-08-01T02:45:09.000Z"
+          "publishedAt": "2026-08-02T19:42:08.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "伊朗局势直播：特朗普称谈判将恢复 德黑兰敦促美国遵守谅解备忘录",
+      "summaryZh": "美国总统特朗普表示与伊朗的协议即将达成，谈判将于周一开始。德黑兰敦促美国遵守谅解备忘录。",
+      "category": "政治",
+      "regions": [
+        "伊朗",
+        "美国"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-03T00:00:15.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "美国参议院福奇听证会重燃新冠起源争论但鲜有进展",
-      "summaryZh": "美国参议院举行的福奇听证会再次引发关于新冠起源的争论，但并未透露多少新信息。听证会凸显了两党在这个争议问题上的长期分歧，这一问题受到白宫误导性说法的推动。",
+      "titleZh": "巴西卢拉启动第四次竞选，聚焦国家主权",
+      "summaryZh": "卢拉寻求利用博索纳罗家族与特朗普的关系，将选举塑造成对抗外国利益屈服的斗争。",
       "category": "政治",
       "regions": [
-        "美国"
+        "巴西"
       ],
       "heat": {
         "score": 61,
@@ -231,16 +215,16 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-07-31T22:10:10.000Z"
+          "publishedAt": "2026-08-02T23:37:16.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "人工智能的推理是否“误打误撞”？",
-      "summaryZh": "在Hacker News上，一篇关于AI推理是否“误打误撞”的讨论获得131分和156条评论。帖子质疑AI的推理过程可能基于错误的原因而得出正确结论。",
+      "titleZh": "科纳斯的刚性定理：反驳OpenAI的反例与证明",
+      "summaryZh": "关于Connes刚性定理的讨论，反驳了OpenAI提出的反例并给出了证明。在Hacker News上获得12分和4条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -254,9 +238,9 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+          "url": "https://philarchive.org/rec/NIEWTC",
           "language": "en",
-          "publishedAt": "2026-07-31T15:29:39.000Z"
+          "publishedAt": "2026-08-02T23:56:59.000Z"
         }
       ]
     }
