@@ -1,166 +1,48 @@
 {
-  "generatedAt": "2026-08-03T03:58:24.092Z",
+  "generatedAt": "2026-08-05T03:37:18.421Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普暂停对伊朗“大规模攻击”，称将开始新一轮谈判",
-      "summaryZh": "美国总统特朗普表示，在取消攻击后，与伊朗的新一轮谈判将于周一以“谈判形式”开始。海湾盟友和德黑兰敦促他推迟计划打击，油价因此下跌。",
+      "titleZh": "特朗普访问前，高尔夫球场附近逮捕一名持枪男子",
+      "summaryZh": "武装男子在特朗普即将于加州高尔夫球场出席筹款晚宴前被捕。警方称在嫌疑人的口袋、汽车和家中发现上膛手枪和步枪。",
       "category": "政治",
       "regions": [
-        "美国",
-        "伊朗",
-        "中东"
+        "美国"
       ],
       "heat": {
-        "score": 77,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-08-03T03:17:33.000Z"
+          "publishedAt": "2026-08-05T00:19:04.000Z"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-02T23:48:08.000Z"
+          "publishedAt": "2026-08-05T01:29:01.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "AI海报赢得俄亥俄州博览会比赛",
-      "summaryZh": "一张由人工智能创作的海报在俄亥俄州博览会上获奖，该消息在Hacker News上引发热议，获得123分和142条评论。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 66,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-          "language": "en",
-          "publishedAt": "2026-08-02T22:43:47.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "加密货币矿工在东南亚窃电",
-      "summaryZh": "据报道，东南亚地区存在加密货币矿工窃取电力的情况。这条消息在Hacker News上获得了13分和0条评论。",
-      "category": "财经",
-      "regions": [
-        "东南亚"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.dw.com/en/how-crypto-miners-are-stealing-power-in-southeast-asia/a-78175364",
-          "language": "en",
-          "publishedAt": "2026-08-02T23:20:35.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "希腊发生森林火灾，两人死亡，扑救工作“极其困难”",
-      "summaryZh": "希腊总理米佐塔基斯表示，雅典西北约70公里处发生森林火灾，在“极端”天气条件和时速经常达到100公里的大风下，扑救工作极其困难。两架参与灭火的直升机在普萨塔附近相撞，造成两人死亡。",
-      "category": "国际",
-      "regions": [
-        "希腊"
-      ],
-      "heat": {
-        "score": 49,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/europe/20260802-en-gr%C3%A8ce-les-vents-violents-rendent-la-lutte-contre-les-incendies-extr%C3%AAmement-difficile",
-          "language": "fr",
-          "publishedAt": "2026-08-02T13:43:19.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "巴西卢拉启动连任竞选，引发外国干涉担忧",
-      "summaryZh": "巴西总统卢拉正式启动连任竞选活动。此前有外国干涉的担忧。",
-      "category": "政治",
-      "regions": [
-        "巴西"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-03T02:54:25.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "日本与美国确认罕见联合干预以支撑日元",
-      "summaryZh": "美国总统特朗普表示，帮助提振日元是友谊的象征。日本和美国确认进行罕见的联合干预以支撑日元汇率。",
-      "category": "政治",
-      "regions": [
-        "日本",
-        "美国"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-03T01:34:19.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "我的个人AI基准测试：生成一个哈布斯堡下巴青蛙的SVG",
-      "summaryZh": "一位开发者分享其个人AI基准测试，要求AI生成一个具有哈布斯堡下巴的青蛙的SVG图像。该话题在Hacker News上获得120分和52条评论。",
+      "titleZh": "软件工程与生成式AI的八大误区",
+      "summaryZh": "Hacker News上热帖讨论软件工程与生成式AI的八个常见误区，引发开发者广泛关注。该帖获得103分和66条评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 63,
+        "score": 81,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -168,20 +50,26 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://frogs.vaguespac.es/",
+          "url": "https://queue.acm.org/detail.cfm?id=3807963",
           "language": "en",
-          "publishedAt": "2026-08-02T19:42:08.000Z"
+          "publishedAt": "2026-08-04T23:50:52.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://blog.cloudflare.com/engineering-standards-enforcement/",
+          "language": "en",
+          "publishedAt": "2026-08-04T15:49:50.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "伊朗局势直播：特朗普称谈判将恢复 德黑兰敦促美国遵守谅解备忘录",
-      "summaryZh": "美国总统特朗普表示与伊朗的协议即将达成，谈判将于周一开始。德黑兰敦促美国遵守谅解备忘录。",
-      "category": "政治",
+      "rank": 3,
+      "titleZh": "美股创新高，市场期望霍尔木兹海峡重新开放",
+      "summaryZh": "美国股市创下历史新高，油价下跌，因美国官员表示在重新开放霍尔木兹海峡的谈判中取得进展。该消息提振了市场情绪。",
+      "category": "财经",
       "regions": [
-        "伊朗",
-        "美国"
+        "美国",
+        "中东"
       ],
       "heat": {
         "score": 62,
@@ -192,45 +80,99 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-03T00:00:15.000Z"
+          "publishedAt": "2026-08-05T02:09:06.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "巴西卢拉启动第四次竞选，聚焦国家主权",
-      "summaryZh": "卢拉寻求利用博索纳罗家族与特朗普的关系，将选举塑造成对抗外国利益屈服的斗争。",
-      "category": "政治",
+      "rank": 4,
+      "titleZh": "乌克兰：俄罗斯再次袭击基辅致两人死亡，仓库被毁",
+      "summaryZh": "俄罗斯周二至周三夜间对基辅及周边地区发动弹道导弹袭击，造成两人死亡。住宅基础设施和仓库被击中，并引发大火。",
+      "category": "国际",
       "regions": [
-        "巴西"
+        "乌克兰"
       ],
       "heat": {
-        "score": 61,
+        "score": 57,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-02T23:37:16.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/europe/20260805-ukraine-kiev-russie-nouvelle-attaque-russe-meurtriere-entrepots",
+          "language": "fr",
+          "publishedAt": "2026-08-05T00:54:31.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "科纳斯的刚性定理：反驳OpenAI的反例与证明",
-      "summaryZh": "关于Connes刚性定理的讨论，反驳了OpenAI提出的反例并给出了证明。在Hacker News上获得12分和4条评论。",
-      "category": "科技",
+      "rank": 5,
+      "titleZh": "法国教练埃尔韦·雷纳尔重返科特迪瓦国家队执教",
+      "summaryZh": "科特迪瓦足协宣布埃尔韦·雷纳尔出任国家队主教练，接替合同到期未续约的埃梅尔斯·法埃。雷纳尔曾在2014至2015年间执教科特迪瓦队。",
+      "category": "体育",
       "regions": [
-        "全球"
+        "科特迪瓦",
+        "法国"
       ],
       "heat": {
-        "score": 61,
+        "score": 50,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/sports/20260804-football-fran%C3%A7ais-herv%C3%A9-renard-s%C3%A9lectionneur-fait-retour-banc-c%C3%B4te-ivoire",
+          "language": "fr",
+          "publishedAt": "2026-08-04T15:03:08.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "美巴外交争端升级，美国吊销巴西驻美大使签证",
+      "summaryZh": "美国吊销巴西驻美大使的签证，以回应巴西拖延批准美国驻巴西大使及拒绝向美国外交官发放签证。巴西方面否认这一决定，美方表示此举不意味着驱逐大使。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "巴西"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-04T23:41:27.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/white-house-revokes-visa-of-brazil-s-ambassador-to-us/a-78238439?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-04T21:57:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "国际刑警组织：AI助长非洲超半数网络犯罪，诈骗激增",
+      "summaryZh": "国际刑警组织报告指出，AI技术在非洲网络犯罪中的使用比例超过一半，导致诈骗活动激增。该话题在Hacker News引发热议，获得155分和118条评论。",
+      "category": "科技",
+      "regions": [
+        "非洲"
+      ],
+      "heat": {
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -238,9 +180,79 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://philarchive.org/rec/NIEWTC",
+          "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
           "language": "en",
-          "publishedAt": "2026-08-02T23:56:59.000Z"
+          "publishedAt": "2026-08-04T22:01:41.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "休达和梅利利亚：欧洲在非洲的边界为何仍是热点",
+      "summaryZh": "西班牙位于北非的两块飞地休达和梅利利亚依旧是西班牙与摩洛哥外交对峙的中心。该地区持续构成欧洲与非洲边境的关键紧张点。",
+      "category": "政治",
+      "regions": [
+        "西班牙",
+        "摩洛哥"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-05T01:21:16.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "涉及OpenAI模型的第三方网络评估",
+      "summaryZh": "Hacker News上的帖子讨论涉及OpenAI模型的第三方网络安全评估，获得44分和7条评论。话题聚焦于第三方在AI模型安全评估中的角色。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+          "language": "en",
+          "publishedAt": "2026-08-04T21:14:19.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "日本自民党批准食品消费税减税方案，税率降至1%",
+      "summaryZh": "自民党批准政府提出的食品消费税减税基本方针，计划从明年4月起两年内将税率降至1%。政府将在下午临时内阁会议上正式决定。",
+      "category": "政治",
+      "regions": [
+        "日本"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "NHK News",
+          "url": "http://www3.nhk.or.jp/news/html/20260805/k10015197001000.html",
+          "language": "ja",
+          "publishedAt": "2026-08-05T02:45:45.000Z"
         }
       ]
     }
