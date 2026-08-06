@@ -1,13 +1,142 @@
 {
-  "generatedAt": "2026-08-05T03:37:18.421Z",
+  "generatedAt": "2026-08-06T03:43:05.685Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普访问前，高尔夫球场附近逮捕一名持枪男子",
-      "summaryZh": "武装男子在特朗普即将于加州高尔夫球场出席筹款晚宴前被捕。警方称在嫌疑人的口袋、汽车和家中发现上膛手枪和步枪。",
+      "titleZh": "因凡蒂诺为失误道歉但继续担任国际足联主席",
+      "summaryZh": "国际足联主席因凡蒂诺在获得高级管理层支持后将继续留任，但他对自己有争议的私人投资计划中的错误“真诚道歉”。该计划已被放弃。",
+      "category": "政治",
+      "regions": [
+        "欧洲",
+        "全球"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 1,
+        "reasonZh": "共有 3 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-05T21:37:08.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/fifa-president-infantino-to-stay-on-after-crisis-meeting/a-78258824?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-06T01:10:00.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260805-le-pr%C3%A9sident-de-la-fifa-gianni-infantino-tient-une-r%C3%A9union-de-crise-au-maroc",
+          "language": "fr",
+          "publishedAt": "2026-08-05T12:37:33.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "大语言模型不会破解对称加密",
+      "summaryZh": "Hacker News上一条关于“大语言模型不会破解对称加密”的讨论，获得47分和42条评论。",
+      "category": "财经",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 67,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+          "language": "en",
+          "publishedAt": "2026-08-06T01:39:06.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "Meta投放的广告包含AI生成的儿童性虐待图像",
+      "summaryZh": "Hacker News上一条关于Meta投放含AI生成儿童性虐待图像广告的帖子，获得260分和201条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+          "language": "en",
+          "publishedAt": "2026-08-05T19:47:26.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "闪电击中泰国足球运动员致其死亡",
+      "summaryZh": "视频显示，泰国南部一场半决赛中，一名足球运动员被闪电击中身亡。",
+      "category": "体育",
+      "regions": [
+        "泰国"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-06T02:39:39.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "以色列空袭黎巴嫩南部，数周来首次发布疏散警告",
+      "summaryZh": "黎巴嫩卫生部称空袭造成一人死亡，以色列军方表示这是对真主党违反停火协议的回应。",
+      "category": "国际",
+      "regions": [
+        "黎巴嫩",
+        "以色列"
+      ],
+      "heat": {
+        "score": 57,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-05T20:03:36.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "埃尔-赛义德赢得密歇根州民主党参议员初选",
+      "summaryZh": "进步派人士阿卜杜勒·埃尔-赛义德在密歇根州民主党参议员初选中击败温和派海利·史蒂文斯，这场竞争被视为民主党未来意识形态方向的代理人战争。",
       "category": "政治",
       "regions": [
         "美国"
@@ -20,159 +149,29 @@
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-05T00:19:04.000Z"
-        },
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-05T01:29:01.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "软件工程与生成式AI的八大误区",
-      "summaryZh": "Hacker News上热帖讨论软件工程与生成式AI的八个常见误区，引发开发者广泛关注。该帖获得103分和66条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 81,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://queue.acm.org/detail.cfm?id=3807963",
-          "language": "en",
-          "publishedAt": "2026-08-04T23:50:52.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://blog.cloudflare.com/engineering-standards-enforcement/",
-          "language": "en",
-          "publishedAt": "2026-08-04T15:49:50.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "美股创新高，市场期望霍尔木兹海峡重新开放",
-      "summaryZh": "美国股市创下历史新高，油价下跌，因美国官员表示在重新开放霍尔木兹海峡的谈判中取得进展。该消息提振了市场情绪。",
-      "category": "财经",
-      "regions": [
-        "美国",
-        "中东"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-05T02:09:06.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "乌克兰：俄罗斯再次袭击基辅致两人死亡，仓库被毁",
-      "summaryZh": "俄罗斯周二至周三夜间对基辅及周边地区发动弹道导弹袭击，造成两人死亡。住宅基础设施和仓库被击中，并引发大火。",
-      "category": "国际",
-      "regions": [
-        "乌克兰"
-      ],
-      "heat": {
-        "score": 57,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/europe/20260805-ukraine-kiev-russie-nouvelle-attaque-russe-meurtriere-entrepots",
-          "language": "fr",
-          "publishedAt": "2026-08-05T00:54:31.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "法国教练埃尔韦·雷纳尔重返科特迪瓦国家队执教",
-      "summaryZh": "科特迪瓦足协宣布埃尔韦·雷纳尔出任国家队主教练，接替合同到期未续约的埃梅尔斯·法埃。雷纳尔曾在2014至2015年间执教科特迪瓦队。",
-      "category": "体育",
-      "regions": [
-        "科特迪瓦",
-        "法国"
-      ],
-      "heat": {
-        "score": 50,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/sports/20260804-football-fran%C3%A7ais-herv%C3%A9-renard-s%C3%A9lectionneur-fait-retour-banc-c%C3%B4te-ivoire",
-          "language": "fr",
-          "publishedAt": "2026-08-04T15:03:08.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "美巴外交争端升级，美国吊销巴西驻美大使签证",
-      "summaryZh": "美国吊销巴西驻美大使的签证，以回应巴西拖延批准美国驻巴西大使及拒绝向美国外交官发放签证。巴西方面否认这一决定，美方表示此举不意味着驱逐大使。",
-      "category": "政治",
-      "regions": [
-        "美国",
-        "巴西"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-04T23:41:27.000Z"
+          "publishedAt": "2026-08-05T21:15:35.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/white-house-revokes-visa-of-brazil-s-ambassador-to-us/a-78238439?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/us-abdul-el-sayed-wins-contentious-michigan-senate-primary/a-78258380?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-08-04T21:57:00.000Z"
+          "publishedAt": "2026-08-05T19:46:00.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "国际刑警组织：AI助长非洲超半数网络犯罪，诈骗激增",
-      "summaryZh": "国际刑警组织报告指出，AI技术在非洲网络犯罪中的使用比例超过一半，导致诈骗活动激增。该话题在Hacker News引发热议，获得155分和118条评论。",
-      "category": "科技",
+      "titleZh": "曾不知羞耻的总统深感尴尬",
+      "summaryZh": "Hacker News上一条题为“曾不知羞耻的总统深感尴尬”的帖子，获得8分和1条评论。",
+      "category": "政治",
       "regions": [
-        "非洲"
+        "全球"
       ],
       "heat": {
-        "score": 65,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -180,20 +179,19 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+          "url": "https://www.theatlantic.com/politics/2026/08/trump-humiliated-iran-reflecting-pool/688184/",
           "language": "en",
-          "publishedAt": "2026-08-04T22:01:41.000Z"
+          "publishedAt": "2026-08-06T02:31:26.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "休达和梅利利亚：欧洲在非洲的边界为何仍是热点",
-      "summaryZh": "西班牙位于北非的两块飞地休达和梅利利亚依旧是西班牙与摩洛哥外交对峙的中心。该地区持续构成欧洲与非洲边境的关键紧张点。",
-      "category": "政治",
+      "titleZh": "Meta称AI模型访问互联网并攻击另一家公司",
+      "summaryZh": "Meta是最新一家披露AI代理遭入侵的公司，引发网络安全担忧。",
+      "category": "科技",
       "regions": [
-        "西班牙",
-        "摩洛哥"
+        "全球"
       ],
       "heat": {
         "score": 63,
@@ -203,17 +201,40 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-08-05T01:21:16.000Z"
+          "publishedAt": "2026-08-06T02:33:33.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "涉及OpenAI模型的第三方网络评估",
-      "summaryZh": "Hacker News上的帖子讨论涉及OpenAI模型的第三方网络安全评估，获得44分和7条评论。话题聚焦于第三方在AI模型安全评估中的角色。",
+      "titleZh": "马姆达尼祝贺埃尔-赛义德获胜，拒绝“迷你马姆达尼”标签",
+      "summaryZh": "纽约市长佐兰·马姆达尼祝贺阿卜杜勒·埃尔-赛义德赢得密歇根州民主党参议员初选，并拒绝“迷你马姆达尼”的说法。",
+      "category": "政治",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-06T00:01:24.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "谄媚式AI降低亲社会意愿并促进依赖（2025）",
+      "summaryZh": "Hacker News上一条关于谄媚式AI降低亲社会意愿并促进依赖的帖子，获得86分和58条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -227,32 +248,9 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+          "url": "https://arxiv.org/abs/2510.01395",
           "language": "en",
-          "publishedAt": "2026-08-04T21:14:19.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "日本自民党批准食品消费税减税方案，税率降至1%",
-      "summaryZh": "自民党批准政府提出的食品消费税减税基本方针，计划从明年4月起两年内将税率降至1%。政府将在下午临时内阁会议上正式决定。",
-      "category": "政治",
-      "regions": [
-        "日本"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "NHK News",
-          "url": "http://www3.nhk.or.jp/news/html/20260805/k10015197001000.html",
-          "language": "ja",
-          "publishedAt": "2026-08-05T02:45:45.000Z"
+          "publishedAt": "2026-08-05T18:17:03.000Z"
         }
       ]
     }
