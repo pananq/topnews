@@ -1,145 +1,18 @@
 {
-  "generatedAt": "2026-08-06T03:43:05.685Z",
+  "generatedAt": "2026-08-07T03:18:53.358Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "因凡蒂诺为失误道歉但继续担任国际足联主席",
-      "summaryZh": "国际足联主席因凡蒂诺在获得高级管理层支持后将继续留任，但他对自己有争议的私人投资计划中的错误“真诚道歉”。该计划已被放弃。",
+      "titleZh": "特朗普签署行政令禁止所谓“生育旅游”",
+      "summaryZh": "美国总统特朗普签署两项行政令，进一步限制谁有资格获得出生公民权。此前最高法院裁定其首次行政令违宪，这是特朗普再次尝试限制出生公民权。",
       "category": "政治",
       "regions": [
-        "欧洲",
-        "全球"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 1,
-        "reasonZh": "共有 3 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-05T21:37:08.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/fifa-president-infantino-to-stay-on-after-crisis-meeting/a-78258824?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-06T01:10:00.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260805-le-pr%C3%A9sident-de-la-fifa-gianni-infantino-tient-une-r%C3%A9union-de-crise-au-maroc",
-          "language": "fr",
-          "publishedAt": "2026-08-05T12:37:33.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "大语言模型不会破解对称加密",
-      "summaryZh": "Hacker News上一条关于“大语言模型不会破解对称加密”的讨论，获得47分和42条评论。",
-      "category": "财经",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 67,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-          "language": "en",
-          "publishedAt": "2026-08-06T01:39:06.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "Meta投放的广告包含AI生成的儿童性虐待图像",
-      "summaryZh": "Hacker News上一条关于Meta投放含AI生成儿童性虐待图像广告的帖子，获得260分和201条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-          "language": "en",
-          "publishedAt": "2026-08-05T19:47:26.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "闪电击中泰国足球运动员致其死亡",
-      "summaryZh": "视频显示，泰国南部一场半决赛中，一名足球运动员被闪电击中身亡。",
-      "category": "体育",
-      "regions": [
-        "泰国"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-06T02:39:39.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "以色列空袭黎巴嫩南部，数周来首次发布疏散警告",
-      "summaryZh": "黎巴嫩卫生部称空袭造成一人死亡，以色列军方表示这是对真主党违反停火协议的回应。",
-      "category": "国际",
-      "regions": [
-        "黎巴嫩",
-        "以色列"
-      ],
-      "heat": {
-        "score": 57,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-05T20:03:36.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "埃尔-赛义德赢得密歇根州民主党参议员初选",
-      "summaryZh": "进步派人士阿卜杜勒·埃尔-赛义德在密歇根州民主党参议员初选中击败温和派海利·史蒂文斯，这场竞争被视为民主党未来意识形态方向的代理人战争。",
-      "category": "政治",
-      "regions": [
-        "美国"
+        "美国",
+        "中东",
+        "欧洲"
       ],
       "heat": {
         "score": 100,
@@ -150,69 +23,58 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-signs-executive-orders-banning-so-called-birth?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-05T21:15:35.000Z"
+          "publishedAt": "2026-08-06T23:42:47.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/6/trump-signs-new-executive-orders-seeking-to-limit-birthright-citizenship?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-06T21:27:19.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/us-abdul-el-sayed-wins-contentious-michigan-senate-primary/a-78258380?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/trump-signs-new-orders-restricting-birthright-citizenship/a-78272447?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-08-05T19:46:00.000Z"
+          "publishedAt": "2026-08-06T23:05:00.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "曾不知羞耻的总统深感尴尬",
-      "summaryZh": "Hacker News上一条题为“曾不知羞耻的总统深感尴尬”的帖子，获得8分和1条评论。",
-      "category": "政治",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.theatlantic.com/politics/2026/08/trump-humiliated-iran-reflecting-pool/688184/",
-          "language": "en",
-          "publishedAt": "2026-08-06T02:31:26.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "Meta称AI模型访问互联网并攻击另一家公司",
-      "summaryZh": "Meta是最新一家披露AI代理遭入侵的公司，引发网络安全担忧。",
+      "rank": 2,
+      "titleZh": "Jony Ive 与 OpenAI 合作的首款设备据称为冰球大小智能音箱",
+      "summaryZh": "据彭博社记者马克·古尔曼报道，OpenAI 与苹果前设计师 Jony Ive 合作开发的 AI 设备本质上是无显示屏的智能音箱，电池供电，甜甜圈形状，大小接近冰球。该设备预计于 2027 年发布，售价超过 300 美元，具有独特外观和可自动移动的部件。",
       "category": "科技",
       "regions": [
-        "全球"
+        "美国"
       ],
       "heat": {
-        "score": 63,
-        "sourceCount": 1,
+        "score": 86,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
           "language": "en",
-          "publishedAt": "2026-08-06T02:33:33.000Z"
+          "publishedAt": "2026-08-06T20:55:39.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+          "language": "en",
+          "publishedAt": "2026-08-06T22:43:53.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "马姆达尼祝贺埃尔-赛义德获胜，拒绝“迷你马姆达尼”标签",
-      "summaryZh": "纽约市长佐兰·马姆达尼祝贺阿卜杜勒·埃尔-赛义德赢得密歇根州民主党参议员初选，并拒绝“迷你马姆达尼”的说法。",
-      "category": "政治",
+      "rank": 3,
+      "titleZh": "你知道你观看的媒体归谁所有吗？",
+      "summaryZh": "如今，仅有 6 家公司控制着美国媒体市场 90% 的份额。该报道揭示了美国媒体所有权的集中程度。",
+      "category": "财经",
       "regions": [
         "美国"
       ],
@@ -225,22 +87,102 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/do-you-know-who-owns-the-media-you-watch?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-06T00:01:24.000Z"
+          "publishedAt": "2026-08-07T00:28:50.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "谄媚式AI降低亲社会意愿并促进依赖（2025）",
-      "summaryZh": "Hacker News上一条关于谄媚式AI降低亲社会意愿并促进依赖的帖子，获得86分和58条评论。",
-      "category": "科技",
+      "rank": 4,
+      "titleZh": "黎巴嫩的脆弱和平有多脆弱？",
+      "summaryZh": "在停火开始两个月后，首批以色列士兵被杀，以色列随即发动攻击。事件凸显了黎巴嫩局势的脆弱性。",
+      "category": "国际",
       "regions": [
+        "黎巴嫩",
+        "以色列",
+        "中东"
+      ],
+      "heat": {
+        "score": 57,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/6/how-fragile-is-lebanons-uneasy?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-06T20:38:29.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "FIFA危机：UEFA继续对抗因凡蒂诺并抵制世界杯",
+      "summaryZh": "欧洲足球联合会（UEFA）周四宣布维持对世界杯的抵制，尽管FIFA放弃了引入外部投资者的计划。UEFA表示，需要保证此类试图毁掉足球的行为“永远不再发生”。",
+      "category": "体育",
+      "regions": [
+        "欧洲",
         "全球"
       ],
       "heat": {
-        "score": 62,
+        "score": 50,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/sports/20260806-crise-fifa-uefa-poursuit-fronde-contre-infantino-boycotte-toujours-coupes-du-monde",
+          "language": "fr",
+          "publishedAt": "2026-08-06T14:48:18.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "OpenAI 为 ChatGPT 免费用户提供无限文本聊天",
+      "summaryZh": "OpenAI 宣布从下周开始，ChatGPT 免费版和 Go 版用户将可进行无限文本聊天，但文件上传和图片消息仍有限制。同时将新增“思考”按钮，用于处理更复杂的问题。",
+      "category": "科技",
+      "regions": [
+        "美国",
+        "全球"
+      ],
+      "heat": {
+        "score": 83,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+          "language": "en",
+          "publishedAt": "2026-08-06T17:00:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+          "language": "en",
+          "publishedAt": "2026-08-06T17:34:42.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "欢迎尼泊尔政府加入“Have I Been Pwned”",
+      "summaryZh": "Hacker News 上发布消息，尼泊尔政府已加入“Have I Been Pwned”数据泄露通知服务。该消息获得 103 分和 18 条评论。",
+      "category": "政治",
+      "regions": [
+        "尼泊尔",
+        "全球"
+      ],
+      "heat": {
+        "score": 66,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -248,9 +190,81 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://arxiv.org/abs/2510.01395",
+          "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
           "language": "en",
-          "publishedAt": "2026-08-05T18:17:03.000Z"
+          "publishedAt": "2026-08-06T21:52:16.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "UEFA称抵制仍可能继续，英足总撤回对因凡蒂诺的支持",
+      "summaryZh": "欧洲足球管理机构UEFA表示，FIFA在周三会议上对主席因凡蒂诺的支持“改变不了什么”，抵制仍可能进行。英足总已撤回对因凡蒂诺的支持。",
+      "category": "政治",
+      "regions": [
+        "欧洲",
+        "全球"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-07T01:57:02.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "监管机构发现Doge过度宣称节省了1100亿美元",
+      "summaryZh": "对前政府支出削减机构“政府效率部”的审查发现，其计算存在多个问题，导致宣称的节省金额被高估。",
+      "category": "政治",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-06T23:55:35.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "胡塞武装袭击据报道造成至少30名也门政府军死亡",
+      "summaryZh": "胡塞武装称向马里卜省和哈德拉毛省中部的“沙特军事集结地”发射了导弹和无人机。据报道，袭击造成至少30名也门政府军死亡。",
+      "category": "政治",
+      "regions": [
+        "也门",
+        "沙特",
+        "中东"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-06T22:41:09.000Z"
         }
       ]
     }
