@@ -1,18 +1,16 @@
 {
-  "generatedAt": "2026-08-07T03:18:53.358Z",
+  "generatedAt": "2026-08-08T02:23:49.915Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普签署行政令禁止所谓“生育旅游”",
-      "summaryZh": "美国总统特朗普签署两项行政令，进一步限制谁有资格获得出生公民权。此前最高法院裁定其首次行政令违宪，这是特朗普再次尝试限制出生公民权。",
+      "titleZh": "美国上诉法院叫停白宫宴会厅建设",
+      "summaryZh": "美国联邦上诉法院下令特朗普政府停止白宫宴会厅建设项目。法院多数意见强调，总统需要国会授权才能继续推进其计划。特朗普表示将向最高法院上诉。",
       "category": "政治",
       "regions": [
-        "美国",
-        "中东",
-        "欧洲"
+        "美国"
       ],
       "heat": {
         "score": 100,
@@ -23,162 +21,30 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-signs-executive-orders-banning-so-called-birth?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-06T23:42:47.000Z"
+          "publishedAt": "2026-08-07T21:18:20.000Z"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/6/trump-signs-new-executive-orders-seeking-to-limit-birthright-citizenship?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-06T21:27:19.000Z"
+          "publishedAt": "2026-08-07T20:27:56.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/trump-signs-new-orders-restricting-birthright-citizenship/a-78272447?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/trump-to-appeal-ballroom-construction-halt-to-supreme-court/a-78285628?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-08-06T23:05:00.000Z"
+          "publishedAt": "2026-08-07T17:15:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "Jony Ive 与 OpenAI 合作的首款设备据称为冰球大小智能音箱",
-      "summaryZh": "据彭博社记者马克·古尔曼报道，OpenAI 与苹果前设计师 Jony Ive 合作开发的 AI 设备本质上是无显示屏的智能音箱，电池供电，甜甜圈形状，大小接近冰球。该设备预计于 2027 年发布，售价超过 300 美元，具有独特外观和可自动移动的部件。",
+      "titleZh": "AI实验室是否应被视为危险动物的主人？",
+      "summaryZh": "Hacker News 上有用户提出，AI实验室应像危险动物的主人一样承担责任。该讨论获得36分和48条评论。",
       "category": "科技",
       "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 86,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-          "language": "en",
-          "publishedAt": "2026-08-06T20:55:39.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-          "language": "en",
-          "publishedAt": "2026-08-06T22:43:53.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "你知道你观看的媒体归谁所有吗？",
-      "summaryZh": "如今，仅有 6 家公司控制着美国媒体市场 90% 的份额。该报道揭示了美国媒体所有权的集中程度。",
-      "category": "财经",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/do-you-know-who-owns-the-media-you-watch?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-07T00:28:50.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "黎巴嫩的脆弱和平有多脆弱？",
-      "summaryZh": "在停火开始两个月后，首批以色列士兵被杀，以色列随即发动攻击。事件凸显了黎巴嫩局势的脆弱性。",
-      "category": "国际",
-      "regions": [
-        "黎巴嫩",
-        "以色列",
-        "中东"
-      ],
-      "heat": {
-        "score": 57,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/6/how-fragile-is-lebanons-uneasy?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-06T20:38:29.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "FIFA危机：UEFA继续对抗因凡蒂诺并抵制世界杯",
-      "summaryZh": "欧洲足球联合会（UEFA）周四宣布维持对世界杯的抵制，尽管FIFA放弃了引入外部投资者的计划。UEFA表示，需要保证此类试图毁掉足球的行为“永远不再发生”。",
-      "category": "体育",
-      "regions": [
-        "欧洲",
-        "全球"
-      ],
-      "heat": {
-        "score": 50,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/sports/20260806-crise-fifa-uefa-poursuit-fronde-contre-infantino-boycotte-toujours-coupes-du-monde",
-          "language": "fr",
-          "publishedAt": "2026-08-06T14:48:18.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "OpenAI 为 ChatGPT 免费用户提供无限文本聊天",
-      "summaryZh": "OpenAI 宣布从下周开始，ChatGPT 免费版和 Go 版用户将可进行无限文本聊天，但文件上传和图片消息仍有限制。同时将新增“思考”按钮，用于处理更复杂的问题。",
-      "category": "科技",
-      "regions": [
-        "美国",
-        "全球"
-      ],
-      "heat": {
-        "score": 83,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-          "language": "en",
-          "publishedAt": "2026-08-06T17:00:00.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-          "language": "en",
-          "publishedAt": "2026-08-06T17:34:42.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "欢迎尼泊尔政府加入“Have I Been Pwned”",
-      "summaryZh": "Hacker News 上发布消息，尼泊尔政府已加入“Have I Been Pwned”数据泄露通知服务。该消息获得 103 分和 18 条评论。",
-      "category": "政治",
-      "regions": [
-        "尼泊尔",
         "全球"
       ],
       "heat": {
@@ -190,19 +56,117 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+          "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
           "language": "en",
-          "publishedAt": "2026-08-06T21:52:16.000Z"
+          "publishedAt": "2026-08-08T00:03:31.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "UEFA称抵制仍可能继续，英足总撤回对因凡蒂诺的支持",
-      "summaryZh": "欧洲足球管理机构UEFA表示，FIFA在周三会议上对主席因凡蒂诺的支持“改变不了什么”，抵制仍可能进行。英足总已撤回对因凡蒂诺的支持。",
+      "rank": 3,
+      "titleZh": "瓦尔省大火：经过18天动员，Gros Bessillon 火灾已被控制",
+      "summaryZh": "法国瓦尔省 Gros Bessillon 山火自7月底爆发以来，经过两个半星期的消防人员动员，于周五被官方宣布“控制”。",
+      "category": "国际",
+      "regions": [
+        "法国"
+      ],
+      "heat": {
+        "score": 66,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/france/20260807-feu-gros-bessillon-var-fix%C3%A9-apr%C3%A8s-18-jours-mobilisation",
+          "language": "fr",
+          "publishedAt": "2026-08-07T18:27:22.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "美国参议院在乌克兰战争期间通过全面俄罗斯能源制裁法案",
+      "summaryZh": "该法案将实施严厉的经济制裁，包括对俄罗斯石油和天然气进口商征收100%关税。",
+      "category": "财经",
+      "regions": [
+        "美国",
+        "俄罗斯"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-08T00:06:22.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "BBC问因凡蒂诺是否会辞去国际足联主席职务",
+      "summaryZh": "国际足联主席因凡蒂诺因试图出售世界杯私人股份而面临多次辞职呼声。在视频中，BBC直接向他提问。",
+      "category": "体育",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-07T21:24:17.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "哥伦比亚新总统就职，誓言“粉碎”毒品恐怖主义",
+      "summaryZh": "右翼政治家阿贝尔多·德·拉·埃斯普里利亚在6月总统决选中险胜后上任。",
       "category": "政治",
       "regions": [
-        "欧洲",
+        "哥伦比亚"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-08T01:15:53.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/colombia-trump-ally-de-la-espriella-takes-office/a-78286636?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-08T00:31:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "Oracle 禁止在 OpenJDK 中使用 AI 生成的代码",
+      "summaryZh": "Hacker News 上有报道称 Oracle 已禁止在 OpenJDK 中使用 AI 生成的代码，该讨论获得397分和266条评论。",
+      "category": "科技",
+      "regions": [
         "全球"
       ],
       "heat": {
@@ -213,17 +177,40 @@
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
           "language": "en",
-          "publishedAt": "2026-08-07T01:57:02.000Z"
+          "publishedAt": "2026-08-07T17:36:30.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "大规模管理 AI 编码成本",
+      "summaryZh": "Hacker News 上有人讨论了如何在大规模环境中管理 AI 编码成本，该讨论获得173分和173条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+          "language": "en",
+          "publishedAt": "2026-08-07T18:25:17.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "监管机构发现Doge过度宣称节省了1100亿美元",
-      "summaryZh": "对前政府支出削减机构“政府效率部”的审查发现，其计算存在多个问题，导致宣称的节省金额被高估。",
+      "titleZh": "亨特·拜登告诉 BBC，赦免对美国和父亲的遗产“不好”",
+      "summaryZh": "在 BBC 的采访中，前总统的儿子否认有兴趣竞选公职，并表示父亲的癌症已经扩散。",
       "category": "政治",
       "regions": [
         "美国"
@@ -237,21 +224,19 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-08-06T23:55:35.000Z"
+          "publishedAt": "2026-08-07T22:07:00.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "胡塞武装袭击据报道造成至少30名也门政府军死亡",
-      "summaryZh": "胡塞武装称向马里卜省和哈德拉毛省中部的“沙特军事集结地”发射了导弹和无人机。据报道，袭击造成至少30名也门政府军死亡。",
+      "titleZh": "德·拉·埃斯普里利亚宣誓就任哥伦比亚总统，誓言打击武装组织",
+      "summaryZh": "新总统接替左翼的佩特罗，标志着拉丁美洲政治继续向右转。",
       "category": "政治",
       "regions": [
-        "也门",
-        "沙特",
-        "中东"
+        "哥伦比亚"
       ],
       "heat": {
         "score": 63,
@@ -261,10 +246,10 @@
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-06T22:41:09.000Z"
+          "publishedAt": "2026-08-08T00:31:52.000Z"
         }
       ]
     }
