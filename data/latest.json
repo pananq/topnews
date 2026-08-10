@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-08T02:23:49.915Z",
+  "generatedAt": "2026-08-10T02:37:03.031Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "美国上诉法院叫停白宫宴会厅建设",
-      "summaryZh": "美国联邦上诉法院下令特朗普政府停止白宫宴会厅建设项目。法院多数意见强调，总统需要国会授权才能继续推进其计划。特朗普表示将向最高法院上诉。",
-      "category": "政治",
+      "titleZh": "伊朗战争直播：美国与德黑兰“半谈判”，以色列拒绝加沙计划",
+      "summaryZh": "特朗普表示美国将等待经济压力对伊朗生效，同时以色列正式拒绝特朗普提出的15点加沙和平计划。以色列总理内塔尼亚胡宣布拒绝该计划，称在哈马斯全面解除武装前不会从加沙撤军。",
+      "category": "财经",
       "regions": [
-        "美国"
+        "中东"
       ],
       "heat": {
-        "score": 100,
+        "score": 99,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
@@ -21,173 +21,22 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-07T21:18:20.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-07T20:27:56.000Z"
+          "publishedAt": "2026-08-10T00:00:00.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/trump-to-appeal-ballroom-construction-halt-to-supreme-court/a-78285628?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/middle-east-netanyahu-says-israel-rejects-trump-s-gaza-plan/live-78289364?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-08-07T17:15:00.000Z"
+          "publishedAt": "2026-08-09T12:33:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "AI实验室是否应被视为危险动物的主人？",
-      "summaryZh": "Hacker News 上有用户提出，AI实验室应像危险动物的主人一样承担责任。该讨论获得36分和48条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 66,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-          "language": "en",
-          "publishedAt": "2026-08-08T00:03:31.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "瓦尔省大火：经过18天动员，Gros Bessillon 火灾已被控制",
-      "summaryZh": "法国瓦尔省 Gros Bessillon 山火自7月底爆发以来，经过两个半星期的消防人员动员，于周五被官方宣布“控制”。",
-      "category": "国际",
-      "regions": [
-        "法国"
-      ],
-      "heat": {
-        "score": 66,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/france/20260807-feu-gros-bessillon-var-fix%C3%A9-apr%C3%A8s-18-jours-mobilisation",
-          "language": "fr",
-          "publishedAt": "2026-08-07T18:27:22.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "美国参议院在乌克兰战争期间通过全面俄罗斯能源制裁法案",
-      "summaryZh": "该法案将实施严厉的经济制裁，包括对俄罗斯石油和天然气进口商征收100%关税。",
-      "category": "财经",
-      "regions": [
-        "美国",
-        "俄罗斯"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-08T00:06:22.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "BBC问因凡蒂诺是否会辞去国际足联主席职务",
-      "summaryZh": "国际足联主席因凡蒂诺因试图出售世界杯私人股份而面临多次辞职呼声。在视频中，BBC直接向他提问。",
-      "category": "体育",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 58,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-07T21:24:17.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "哥伦比亚新总统就职，誓言“粉碎”毒品恐怖主义",
-      "summaryZh": "右翼政治家阿贝尔多·德·拉·埃斯普里利亚在6月总统决选中险胜后上任。",
-      "category": "政治",
-      "regions": [
-        "哥伦比亚"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-08T01:15:53.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/colombia-trump-ally-de-la-espriella-takes-office/a-78286636?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-08T00:31:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "Oracle 禁止在 OpenJDK 中使用 AI 生成的代码",
-      "summaryZh": "Hacker News 上有报道称 Oracle 已禁止在 OpenJDK 中使用 AI 生成的代码，该讨论获得397分和266条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "language": "en",
-          "publishedAt": "2026-08-07T17:36:30.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "大规模管理 AI 编码成本",
-      "summaryZh": "Hacker News 上有人讨论了如何在大规模环境中管理 AI 编码成本，该讨论获得173分和173条评论。",
+      "titleZh": "AI助手在澳大利亚首次已知自主网络攻击中入侵健身房网站",
+      "summaryZh": "该帖子在Hacker News上获得47分和44条评论，由用户stared发布。",
       "category": "科技",
       "regions": [
         "全球"
@@ -201,42 +50,19 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+          "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
           "language": "en",
-          "publishedAt": "2026-08-07T18:25:17.000Z"
+          "publishedAt": "2026-08-09T21:52:23.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "亨特·拜登告诉 BBC，赦免对美国和父亲的遗产“不好”",
-      "summaryZh": "在 BBC 的采访中，前总统的儿子否认有兴趣竞选公职，并表示父亲的癌症已经扩散。",
+      "rank": 3,
+      "titleZh": "摩洛哥足球主席福齐·莱克贾会成为下一任总理吗？",
+      "summaryZh": "莱克贾加入政党的决定引发了对他的政治野心的猜测。",
       "category": "政治",
       "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-07T22:07:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "德·拉·埃斯普里利亚宣誓就任哥伦比亚总统，誓言打击武装组织",
-      "summaryZh": "新总统接替左翼的佩特罗，标志着拉丁美洲政治继续向右转。",
-      "category": "政治",
-      "regions": [
-        "哥伦比亚"
+        "摩洛哥"
       ],
       "heat": {
         "score": 63,
@@ -247,9 +73,170 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-08T00:31:52.000Z"
+          "publishedAt": "2026-08-10T00:51:19.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "法国德龙省火灾烧毁370公顷，洛泽尔省又发火灾",
+      "summaryZh": "周日，德龙省克拉普斯山地的火灾又扩大了约50公顷，目前总过火面积达370公顷。洛泽尔省另一起火灾在数小时内蔓延153公顷，并导致人员疏散。",
+      "category": "国际",
+      "regions": [
+        "法国"
+      ],
+      "heat": {
+        "score": 55,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/france/20260809-incendie-feu-propagation-drome-370-hectares-partis-en-fumee-pompiers-massif-claps",
+          "language": "fr",
+          "publishedAt": "2026-08-09T20:38:26.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "扬尼克·辛纳因膝伤退出辛辛那提公开赛",
+      "summaryZh": "男子网球世界排名第一的球员辛纳因膝伤将缺席本站赛事，他通过组织方证实了这一消息。",
+      "category": "体育",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 54,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-09T16:53:53.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "公地悲剧之AI版",
+      "summaryZh": "该帖在Hacker News获得79分和42条评论，由simonpure发布。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+          "language": "en",
+          "publishedAt": "2026-08-09T19:43:52.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "F-16战斗机在特朗普新泽西高尔夫俱乐部附近拦截两架飞机",
+      "summaryZh": "F-16战斗机拦截了两架进入新泽西州贝德明斯特限制空域的民用飞机，当时特朗普总统正在该地。",
+      "category": "政治",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-09T23:28:38.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "内塔尼亚胡拒绝特朗普支持的加沙和平计划",
+      "summaryZh": "以色列总理表示，在哈马斯全面解除武装之前，以色列不会从加沙撤军，这使他与美国支持的、巴方认可的路线图产生分歧。",
+      "category": "政治",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/netanyahu-rejects-trump-backed-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-09T23:11:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "以色列“试图让巴勒斯坦消失”：长老会",
+      "summaryZh": "爱尔兰前总统玛丽·罗宾逊表示，以色列正在“从物理、经济、文化和政治上抹去巴勒斯坦”。",
+      "category": "政治",
+      "regions": [
+        "巴勒斯坦"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-09T19:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "使用“AI”的律师可能面临制裁，包括因虚假引用而承担费用",
+      "summaryZh": "该帖在Hacker News获得14分和1条评论，由1vuio0pswjnm7发布。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.irishtimes.com/crime-law/2026/08/05/lawyers-could-face-sanctions-including-costs-if-ai-leads-to-fake-citations-in-court-cases/",
+          "language": "en",
+          "publishedAt": "2026-08-09T21:36:16.000Z"
         }
       ]
     }
