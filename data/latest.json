@@ -1,48 +1,129 @@
 {
-  "generatedAt": "2026-08-10T02:37:03.031Z",
+  "generatedAt": "2026-08-11T02:30:14.345Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "伊朗战争直播：美国与德黑兰“半谈判”，以色列拒绝加沙计划",
-      "summaryZh": "特朗普表示美国将等待经济压力对伊朗生效，同时以色列正式拒绝特朗普提出的15点加沙和平计划。以色列总理内塔尼亚胡宣布拒绝该计划，称在哈马斯全面解除武装前不会从加沙撤军。",
-      "category": "财经",
+      "titleZh": "内塔尼亚胡拒绝特朗普的加沙计划，但可能非最终决定",
+      "summaryZh": "特朗普政府认为内塔尼亚胡的拒绝只是大选前的竞选言论，并不感到困扰。特朗普表示他与以色列总理的关系仍然良好。",
+      "category": "政治",
       "regions": [
         "中东"
       ],
       "heat": {
-        "score": 99,
+        "score": 100,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-08-10T00:00:00.000Z"
+          "publishedAt": "2026-08-10T14:43:08.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/middle-east-netanyahu-says-israel-rejects-trump-s-gaza-plan/live-78289364?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-09T12:33:00.000Z"
+          "publishedAt": "2026-08-10T21:03:53.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "AI助手在澳大利亚首次已知自主网络攻击中入侵健身房网站",
-      "summaryZh": "该帖子在Hacker News上获得47分和44条评论，由用户stared发布。",
+      "titleZh": "马克·扎克伯格大型AI宣言的四个要点",
+      "summaryZh": "Meta CEO马克·扎克伯格发布超过6500字的长篇宣言，阐述人工智能发展愿景，强调公众获取超级智能AI的重要性。TechCrunch评论称，这篇宣言正是人们不喜欢AI的原因。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 84,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+          "language": "en",
+          "publishedAt": "2026-08-10T15:19:05.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+          "language": "en",
+          "publishedAt": "2026-08-10T20:53:02.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "乌克兰无人机深入俄境内袭击，至少13人死亡",
+      "summaryZh": "俄罗斯官员表示，乌克兰向俄境内发射数百架无人机，造成至少13人死亡、75人受伤，这是莫斯科全面入侵以来最致命的乌克兰无人机袭击之一。",
+      "category": "国际",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 84,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-10T14:34:25.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-10T08:31:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "黎巴嫩对前央行行长里亚德·萨拉梅提起新诉讼",
+      "summaryZh": "据报道，司法消息人士称，黎巴嫩已对前央行行长提起新诉讼，同时一名前商业银行家也因涉嫌金融犯罪被起诉。",
+      "category": "财经",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-10T18:37:07.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "第五条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 81,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -50,45 +131,28 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+          "url": "https://www.stoaexchange.com",
           "language": "en",
-          "publishedAt": "2026-08-09T21:52:23.000Z"
+          "publishedAt": "2026-08-10T16:35:27.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+          "language": "en",
+          "publishedAt": "2026-08-10T17:14:00.000Z"
         }
       ]
     },
     {
-      "rank": 3,
-      "titleZh": "摩洛哥足球主席福齐·莱克贾会成为下一任总理吗？",
-      "summaryZh": "莱克贾加入政党的决定引发了对他的政治野心的猜测。",
+      "rank": 6,
+      "titleZh": "哥伦比亚地震：至少111人死亡，搜救工作继续",
+      "summaryZh": "周一，哥伦比亚西部发生7.4级地震，造成至少111人死亡、87人受伤。救援人员在倒塌建筑废墟中寻找幸存者，总统宣布进入紧急状态，美国提供1550万美元援助。",
       "category": "政治",
       "regions": [
-        "摩洛哥"
+        "拉丁美洲"
       ],
       "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-10T00:51:19.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "法国德龙省火灾烧毁370公顷，洛泽尔省又发火灾",
-      "summaryZh": "周日，德龙省克拉普斯山地的火灾又扩大了约50公顷，目前总过火面积达370公顷。洛泽尔省另一起火灾在数小时内蔓延153公顷，并导致人员疏散。",
-      "category": "国际",
-      "regions": [
-        "法国"
-      ],
-      "heat": {
-        "score": 55,
+        "score": 66,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -96,22 +160,28 @@
       "sources": [
         {
           "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/france/20260809-incendie-feu-propagation-drome-370-hectares-partis-en-fumee-pompiers-massif-claps",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260810-s%C3%A9isme-en-colombie-au-moins-111-morts-la-recherche-de-survivants-se-poursuit",
           "language": "fr",
-          "publishedAt": "2026-08-09T20:38:26.000Z"
+          "publishedAt": "2026-08-10T14:31:16.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260810-colombie-frapp%C3%A9e-s%C3%A9isme-magnitude-7-4",
+          "language": "fr",
+          "publishedAt": "2026-08-10T14:25:30.000Z"
         }
       ]
     },
     {
-      "rank": 5,
-      "titleZh": "扬尼克·辛纳因膝伤退出辛辛那提公开赛",
-      "summaryZh": "男子网球世界排名第一的球员辛纳因膝伤将缺席本站赛事，他通过组织方证实了这一消息。",
-      "category": "体育",
+      "rank": 7,
+      "titleZh": "伊朗战争实时：特朗普称霍尔木兹海峡开放，向伊朗寻求赔偿",
+      "summaryZh": "美国总统特朗普表示将就战争伤亡向伊朗寻求赔偿，并宣称霍尔木兹海峡目前开放。",
+      "category": "政治",
       "regions": [
-        "美国"
+        "中东"
       ],
       "heat": {
-        "score": 54,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -119,16 +189,16 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-09T16:53:53.000Z"
+          "publishedAt": "2026-08-11T00:00:00.000Z"
         }
       ]
     },
     {
-      "rank": 6,
-      "titleZh": "公地悲剧之AI版",
-      "summaryZh": "该帖在Hacker News获得79分和42条评论，由simonpure发布。",
+      "rank": 8,
+      "titleZh": "马克·扎克伯格抨击“封闭”AI对手，Meta回归开放模型",
+      "summaryZh": "马克·扎克伯格在Hacker News上被报道对“封闭”AI竞争对手进行抨击，强调Meta重返开放模型。该话题在HN上获得387分和390条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -142,16 +212,16 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+          "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
           "language": "en",
-          "publishedAt": "2026-08-09T19:43:52.000Z"
+          "publishedAt": "2026-08-10T14:06:22.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "F-16战斗机在特朗普新泽西高尔夫俱乐部附近拦截两架飞机",
-      "summaryZh": "F-16战斗机拦截了两架进入新泽西州贝德明斯特限制空域的民用飞机，当时特朗普总统正在该地。",
+      "rank": 9,
+      "titleZh": "特朗普推动美国儿童疫苗政策改革",
+      "summaryZh": "特朗普总统签署行政命令，要求减少推荐的儿童疫苗接种种类并延长接种间隔。医学专家警告，这些变更缺乏科学依据，可能降低对儿童的保护。",
       "category": "政治",
       "regions": [
         "美国"
@@ -164,69 +234,23 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-09T23:28:38.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "内塔尼亚胡拒绝特朗普支持的加沙和平计划",
-      "summaryZh": "以色列总理表示，在哈马斯全面解除武装之前，以色列不会从加沙撤军，这使他与美国支持的、巴方认可的路线图产生分歧。",
-      "category": "政治",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
           "name": "DW",
-          "url": "https://www.dw.com/en/netanyahu-rejects-trump-backed-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/trump-pushes-overhaul-of-us-childhood-vaccine-policy/a-78313546?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-08-09T23:11:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "以色列“试图让巴勒斯坦消失”：长老会",
-      "summaryZh": "爱尔兰前总统玛丽·罗宾逊表示，以色列正在“从物理、经济、文化和政治上抹去巴勒斯坦”。",
-      "category": "政治",
-      "regions": [
-        "巴勒斯坦"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-09T19:30:00.000Z"
+          "publishedAt": "2026-08-11T01:16:00.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "使用“AI”的律师可能面临制裁，包括因虚假引用而承担费用",
-      "summaryZh": "该帖在Hacker News获得14分和1条评论，由1vuio0pswjnm7发布。",
+      "titleZh": "Kinney Drugs在数百起客户投诉后撤回AI电话助手",
+      "summaryZh": "Kinney Drugs因收到数百起客户投诉，决定撤回其AI电话助手。该问题在Hacker News上获得143分和154条评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 60,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -234,9 +258,9 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.irishtimes.com/crime-law/2026/08/05/lawyers-could-face-sanctions-including-costs-if-ai-leads-to-fake-citations-in-court-cases/",
+          "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
           "language": "en",
-          "publishedAt": "2026-08-09T21:36:16.000Z"
+          "publishedAt": "2026-08-10T14:56:32.000Z"
         }
       ]
     }
