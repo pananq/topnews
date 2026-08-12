@@ -1,48 +1,61 @@
 {
-  "generatedAt": "2026-08-11T02:30:14.345Z",
+  "generatedAt": "2026-08-12T02:47:25.333Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "内塔尼亚胡拒绝特朗普的加沙计划，但可能非最终决定",
-      "summaryZh": "特朗普政府认为内塔尼亚胡的拒绝只是大选前的竞选言论，并不感到困扰。特朗普表示他与以色列总理的关系仍然良好。",
+      "titleZh": "被推翻的叙利亚独裁者阿萨德被缺席判处死刑",
+      "summaryZh": "叙利亚法院缺席判处前总统巴沙尔·阿萨德死刑，罪名是在内战中犯下战争罪和危害人类罪。伊德利卜等地的叙利亚民众举行庆祝集会。",
       "category": "政治",
       "regions": [
+        "叙利亚",
         "中东"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 2,
+        "sourceCount": 3,
         "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-08-10T14:43:08.000Z"
+          "publishedAt": "2026-08-11T14:50:10.000Z"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/stronghold-of-syrian-revolution-celebrates-assads-death-sentence?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-10T21:03:53.000Z"
+          "publishedAt": "2026-08-12T02:21:20.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-11T18:32:42.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/syria-sentences-bashar-assad-to-death-in-absentia/a-78316245?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-11T08:48:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "马克·扎克伯格大型AI宣言的四个要点",
-      "summaryZh": "Meta CEO马克·扎克伯格发布超过6500字的长篇宣言，阐述人工智能发展愿景，强调公众获取超级智能AI的重要性。TechCrunch评论称，这篇宣言正是人们不喜欢AI的原因。",
+      "titleZh": "ChatGPT和Gemini均突破10亿用户",
+      "summaryZh": "谷歌CEO桑达尔·皮查伊表示，每月有10亿人使用Gemini，使其成为谷歌增长最快的产品。OpenAI的ChatGPT也在几周前达到10亿用户。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 84,
+        "score": 85,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -50,54 +63,48 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
           "language": "en",
-          "publishedAt": "2026-08-10T15:19:05.000Z"
+          "publishedAt": "2026-08-11T19:41:42.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
           "language": "en",
-          "publishedAt": "2026-08-10T20:53:02.000Z"
+          "publishedAt": "2026-08-11T18:49:12.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "乌克兰无人机深入俄境内袭击，至少13人死亡",
-      "summaryZh": "俄罗斯官员表示，乌克兰向俄境内发射数百架无人机，造成至少13人死亡、75人受伤，这是莫斯科全面入侵以来最致命的乌克兰无人机袭击之一。",
-      "category": "国际",
+      "titleZh": "CFTC宣布市场紧急状态，命令Kalshi继续在纽约运营",
+      "summaryZh": "美国商品期货交易委员会（CFTC）宣布市场紧急状态，命令预测市场平台Kalshi继续在纽约运营。",
+      "category": "财经",
       "regions": [
-        "欧洲"
+        "美国"
       ],
       "heat": {
-        "score": 84,
-        "sourceCount": 2,
+        "score": 68,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
           "language": "en",
-          "publishedAt": "2026-08-10T14:34:25.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-10T08:31:00.000Z"
+          "publishedAt": "2026-08-12T00:17:59.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "黎巴嫩对前央行行长里亚德·萨拉梅提起新诉讼",
-      "summaryZh": "据报道，司法消息人士称，黎巴嫩已对前央行行长提起新诉讼，同时一名前商业银行家也因涉嫌金融犯罪被起诉。",
-      "category": "财经",
+      "titleZh": "朝鲜在美韩军演前发射弹道导弹",
+      "summaryZh": "朝鲜周三向日本海发射一枚弹道导弹，飞行700多公里后坠海。这是朝鲜一周内第二次发射，正值美韩联合军演前夕。",
+      "category": "国际",
       "regions": [
-        "中东"
+        "朝鲜半岛"
       ],
       "heat": {
         "score": 58,
@@ -107,49 +114,43 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-10T18:37:07.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/asie-pacifique/20260812-coree-du-nord-nouveau-tir-missile-balistique-man%C5%93uvres-seoul-washington",
+          "language": "fr",
+          "publishedAt": "2026-08-12T01:59:14.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "第五条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "科技",
+      "titleZh": "无缘世界杯，索马里裁判将执法欧洲超级杯",
+      "summaryZh": "被美国拒绝入境而无法执法世界杯的索马里裁判Omar Artan，将执裁巴黎圣日耳曼与阿斯顿维拉的欧洲超级杯决赛，这将是他首次在欧洲执法。",
+      "category": "体育",
       "regions": [
-        "全球"
+        "欧洲"
       ],
       "heat": {
-        "score": 81,
+        "score": 51,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.stoaexchange.com",
-          "language": "en",
-          "publishedAt": "2026-08-10T16:35:27.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
-          "language": "en",
-          "publishedAt": "2026-08-10T17:14:00.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/sports/20260811-football-priv%C3%A9-mondial-arbitre-somalien-omar-artan-supercoupe-europe-uefa",
+          "language": "fr",
+          "publishedAt": "2026-08-11T16:15:30.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "哥伦比亚地震：至少111人死亡，搜救工作继续",
-      "summaryZh": "周一，哥伦比亚西部发生7.4级地震，造成至少111人死亡、87人受伤。救援人员在倒塌建筑废墟中寻找幸存者，总统宣布进入紧急状态，美国提供1550万美元援助。",
+      "titleZh": "特朗普称因潜在威胁在参加北约峰会后更换飞机",
+      "summaryZh": "特朗普表示，特勤局因可能的安全威胁建议他在参加北约峰会后改乘其他航班。",
       "category": "政治",
       "regions": [
-        "拉丁美洲"
+        "美国"
       ],
       "heat": {
         "score": 66,
@@ -159,46 +160,40 @@
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260810-s%C3%A9isme-en-colombie-au-moins-111-morts-la-recherche-de-survivants-se-poursuit",
-          "language": "fr",
-          "publishedAt": "2026-08-10T14:31:16.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260810-colombie-frapp%C3%A9e-s%C3%A9isme-magnitude-7-4",
-          "language": "fr",
-          "publishedAt": "2026-08-10T14:25:30.000Z"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-12T02:45:01.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "伊朗战争实时：特朗普称霍尔木兹海峡开放，向伊朗寻求赔偿",
-      "summaryZh": "美国总统特朗普表示将就战争伤亡向伊朗寻求赔偿，并宣称霍尔木兹海峡目前开放。",
-      "category": "政治",
+      "titleZh": "Go语言是AI辅助软件工程的理想选择",
+      "summaryZh": "Hacker News上关于Go语言在AI辅助软件工程中的优势引发讨论，获得289点支持和329条评论。",
+      "category": "科技",
       "regions": [
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 63,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
           "language": "en",
-          "publishedAt": "2026-08-11T00:00:00.000Z"
+          "publishedAt": "2026-08-11T16:57:09.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "马克·扎克伯格抨击“封闭”AI对手，Meta回归开放模型",
-      "summaryZh": "马克·扎克伯格在Hacker News上被报道对“封闭”AI竞争对手进行抨击，强调Meta重返开放模型。该话题在HN上获得387分和390条评论。",
+      "titleZh": "Suzanne：用于设计和制造实体产品的AI工具",
+      "summaryZh": "Hacker News上介绍了一款名为Suzanne的AI工具，用于设计和制造实体产品，获得43点和29条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -212,16 +207,16 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+          "url": "https://www.suzanne3d.com/",
           "language": "en",
-          "publishedAt": "2026-08-10T14:06:22.000Z"
+          "publishedAt": "2026-08-11T21:28:26.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "特朗普推动美国儿童疫苗政策改革",
-      "summaryZh": "特朗普总统签署行政命令，要求减少推荐的儿童疫苗接种种类并延长接种间隔。医学专家警告，这些变更缺乏科学依据，可能降低对儿童的保护。",
+      "titleZh": "揭秘特勤局掩护总统的“障眼法”",
+      "summaryZh": "美国特勤局常使用复杂的欺骗行动和诱饵来迷惑潜在威胁，在公众视线中隐藏总统。",
       "category": "政治",
       "regions": [
         "美国"
@@ -234,20 +229,20 @@
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/trump-pushes-overhaul-of-us-childhood-vaccine-policy/a-78313546?maca=en-rss-en-all-1573-rdf",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-08-11T01:16:00.000Z"
+          "publishedAt": "2026-08-11T20:39:42.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "Kinney Drugs在数百起客户投诉后撤回AI电话助手",
-      "summaryZh": "Kinney Drugs因收到数百起客户投诉，决定撤回其AI电话助手。该问题在Hacker News上获得143分和154条评论。",
-      "category": "科技",
+      "titleZh": "赞比亚举行投票，经济困境考验政府改革",
+      "summaryZh": "赞比亚大选中，债务重组、通货膨胀和铜矿收入成为关键议题，民众对政府改革提出考验。",
+      "category": "财经",
       "regions": [
-        "全球"
+        "赞比亚"
       ],
       "heat": {
         "score": 62,
@@ -257,10 +252,10 @@
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/12/zambia-to-vote-as-economic-hardship-tests-government-reforms?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-10T14:56:32.000Z"
+          "publishedAt": "2026-08-12T01:18:29.000Z"
         }
       ]
     }
