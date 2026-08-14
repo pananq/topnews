@@ -1,48 +1,19 @@
 {
-  "generatedAt": "2026-08-13T03:01:57.324Z",
+  "generatedAt": "2026-08-14T02:48:51.022Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普政府计划给ICE官员配备电击手套",
-      "summaryZh": "美国国土安全部计划购买价值高达2000万美元的电击手套，用于移民执法，此举引发批评。该手套由Compliant Technologies制造，被称为“导电分散和降级”设备。",
-      "category": "政治",
+      "titleZh": "OpenAI本周第二位高管离职",
+      "summaryZh": "OpenAI首席营收官丹尼斯·德雷瑟上任九个月后即将离职，此前她曾任Slack CEO。Wiz总裁兼首席运营官达利·拉吉奇将接任该职位。这是OpenAI近期一系列高管离职中的最新一起，本周早些时候特别项目负责人布拉德·莱特卡普也已宣布离开。",
+      "category": "科技",
       "regions": [
         "美国"
       ],
       "heat": {
-        "score": 99,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-12T22:22:57.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
-          "language": "en",
-          "publishedAt": "2026-08-12T16:58:29.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "Twitch主播现可选择退出亚马逊AI训练",
-      "summaryZh": "Twitch用户现在可以选择不让其内容用于训练亚马逊的生成式AI模型。退出后，直播、剪辑和聊天等内容将不再用于未来训练，但其他AI功能如字幕仍有效。TechCrunch报道指出，默认情况下内容会被用于训练，除非用户主动退出。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 85,
+        "score": 84,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -50,23 +21,228 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
           "language": "en",
-          "publishedAt": "2026-08-12T17:29:10.000Z"
+          "publishedAt": "2026-08-13T19:28:39.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+          "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
           "language": "en",
-          "publishedAt": "2026-08-12T20:10:40.000Z"
+          "publishedAt": "2026-08-13T17:07:13.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "马里总统赦免法国情报特工",
+      "summaryZh": "马里过渡总统阿西米·戈伊塔赦免了法国对外安全总局特工扬·韦齐利耶，后者在6月被马里判处20年监禁。这一宽大与缓和之举发生在法国与马里关系多年紧张之后。",
+      "category": "政治",
+      "regions": [
+        "马里",
+        "法国"
+      ],
+      "heat": {
+        "score": 68,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260813-mali-le-pr%C3%A9sident-de-la-transition-accorde-une-gr%C3%A2ce-%C3%A0-un-agent-fran%C3%A7ais-de-la-dgse",
+          "language": "fr",
+          "publishedAt": "2026-08-13T20:21:50.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/afrique/20260813-mali-gr%C3%A2ce-pr%C3%A9sidentielle-accord%C3%A9e-agent-fran%C3%A7ais-dgse-condamn%C3%A9-20-ans-prison-yann-v%C3%A9zilier",
+          "language": "fr",
+          "publishedAt": "2026-08-13T14:56:09.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "成长于高经济连通性环境中的人收入更高",
-      "summaryZh": "一项关于经济连通性与收入关系的研究在Hacker News上引发热议，获得108分和130条评论。该讨论指出，成长于高经济连通性环境中的人收入更高。",
+      "titleZh": "供应链攻击导致数万亿字节凭据泄露",
+      "summaryZh": "据Hacker News报道，一次供应链攻击导致了数万亿字节的凭据数据泄露。该帖子在Hacker News上获得38个点赞和0条评论，引发关注。",
       "category": "财经",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+          "language": "en",
+          "publishedAt": "2026-08-13T20:59:15.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "欧洲多地持续应对森林火灾：法国、希腊、克罗地亚",
+      "summaryZh": "法国朗德省夜间发生新火灾，已烧毁600公顷土地并导致500人疏散；克罗地亚沿海一处居民区发生严重森林火灾，数百名居民和游客被迫撤离；希腊北部旅游胜地哈尔基迪基也发生火灾，需要疏散数百名游客。",
+      "category": "国际",
+      "regions": [
+        "法国",
+        "克罗地亚",
+        "希腊"
+      ],
+      "heat": {
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/europe/20260814-landes-grece-croatie-europe-continue-lutter-incendies-feux-de-foret",
+          "language": "fr",
+          "publishedAt": "2026-08-14T02:22:35.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "Hacker News热议AI应用与文本水印技术",
+      "summaryZh": "在Hacker News上，两个关于人工智能的话题受到关注：一个是关于组织如何使用ChatGPT等工具的研究证据，另一个是AI文本水印的工作原理。前者获得71分和46条评论，后者获得88分和62条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 84,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+          "language": "en",
+          "publishedAt": "2026-08-13T19:25:38.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://declaude.org/watermarking/",
+          "language": "en",
+          "publishedAt": "2026-08-13T23:16:55.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "特朗普政府将允许私营公司发起国际网络攻击",
+      "summaryZh": "特朗普政府启动新计划，允许私营公司在联邦政府的控制和监督下，对境外犯罪分子进行监视和破坏网络行动。该政策由总统备忘录发布，司法部和国土安全部负责监督，参与公司需满足技术能力等要求。这是美国网络安全政策的重大转变。",
+      "category": "科技",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 83,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+          "language": "en",
+          "publishedAt": "2026-08-13T18:56:13.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
+          "language": "en",
+          "publishedAt": "2026-08-13T14:09:05.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "SparrowMap：监控政府车辆的摄像头系统",
+      "summaryZh": "一个名为SparrowMap的项目通过摄像头监控政府车辆，相关讨论在Hacker News上引发关注。该帖子获得69个点赞和13条评论。",
+      "category": "政治",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 67,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://sparrowmap.com/",
+          "language": "en",
+          "publishedAt": "2026-08-14T00:10:04.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "特朗普能否真正竞选第三个总统任期？",
+      "summaryZh": "唐纳德·特朗普表示，阻止他寻求第三个总统任期的法律“非常强大”。半岛电视台对此进行了视频报道。",
+      "category": "政治",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-14T02:12:23.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "委内瑞拉政府与反对派会谈开启新篇章",
+      "summaryZh": "德尔西·罗德里格斯领导的委内瑞拉政府与部分反对派举行首次会谈，但会谈能取得什么成果尚待观察。",
+      "category": "政治",
+      "regions": [
+        "委内瑞拉"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/longform/2026/8/14/talks-between-government-and-opposition-mark-a-new-chapter-for-venezuela?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-14T02:07:03.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "选择无聊的技术（2015）",
+      "summaryZh": "一篇题为“选择无聊的技术”的2015年文章在Hacker News上引发热议，获得268个点赞和139条评论。",
+      "category": "科技",
       "regions": [
         "全球"
       ],
@@ -79,170 +255,9 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
+          "url": "https://mcfunley.com/choose-boring-technology",
           "language": "en",
-          "publishedAt": "2026-08-12T18:17:03.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "奥运滑板运动员巧借日食完成惊人特技",
-      "summaryZh": "西班牙奥运滑板运动员Danny León在日食发生时，精准地安排了一次跳跃，与月亮经过太阳前方的时刻同步。",
-      "category": "体育",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_skateboarder-times-epic-stunt-with-solar-eclipse-120826?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-13T01:56:11.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "厄立特里亚：非洲之角地缘政治博弈中的新兴关键角色",
-      "summaryZh": "在非洲之角紧张局势和安全风险加剧的背景下，厄立特里亚凭借其在红海沿岸的战略要地以及相对平静的局面，正成为该地区的重要参与者。",
-      "category": "国际",
-      "regions": [
-        "非洲之角"
-      ],
-      "heat": {
-        "score": 53,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/eritrea-an-emerging-key-player-in-the-geopolitical-gamble-at-the-horn/a-78335316?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-12T15:40:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "特拉维斯·凯尔斯分享与泰勒·斯威夫特婚礼首度细节：“我人生中最棒的夜晚”",
-      "summaryZh": "凯尔斯在评论中首次称斯威夫特为“妻子”，并表示在麦迪逊广场花园结婚是“童年梦想”。",
-      "category": "财经",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-13T01:19:23.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "数千加拿大人要求驱逐美国大使",
-      "summaryZh": "一份指控美国大使皮特·胡克斯特拉干涉加拿大内政的在线请愿已获得超过6万个签名。",
-      "category": "政治",
-      "regions": [
-        "加拿大"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-12T22:56:44.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "特朗普称白宫新闻秘书卡罗琳·莱维特将离职",
-      "summaryZh": "总统表示，莱维特将离职以与年幼的孩子和家人共度时光。",
-      "category": "政治",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-12T22:58:45.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "特朗普悄然换机后，内阁成员留在诱饵飞机上",
-      "summaryZh": "在土耳其举行的北约峰会期间，出于涉及伊朗的安全原因，特朗普登上了另一架飞机。",
-      "category": "政治",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-12T23:19:57.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "“如果你不是保守派，就别来这里”：为特朗普制造导弹的小镇",
-      "summaryZh": "虽然总统的支持率可能下降，但在这个田纳西州小镇，对他的支持一如既往地强烈。",
-      "category": "政治",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-12T23:26:21.000Z"
+          "publishedAt": "2026-08-13T17:48:13.000Z"
         }
       ]
     }
