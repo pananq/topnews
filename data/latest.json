@@ -1,155 +1,49 @@
 {
-  "generatedAt": "2026-08-14T02:48:51.022Z",
+  "generatedAt": "2026-08-15T01:52:07.997Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "OpenAI本周第二位高管离职",
-      "summaryZh": "OpenAI首席营收官丹尼斯·德雷瑟上任九个月后即将离职，此前她曾任Slack CEO。Wiz总裁兼首席运营官达利·拉吉奇将接任该职位。这是OpenAI近期一系列高管离职中的最新一起，本周早些时候特别项目负责人布拉德·莱特卡普也已宣布离开。",
-      "category": "科技",
+      "titleZh": "特朗普请求最高法院允许白宫宴会厅继续施工",
+      "summaryZh": "特朗普政府向最高法院提出请求，要求允许白宫宴会厅的施工继续进行。政府方面表示，若迫使总统“低声下气地向国会请求”许可将是“危险的”。司法部律师也呼应总统的主张，称这一耗资4亿美元的白宫宴会厅项目属于安全必需。",
+      "category": "政治",
       "regions": [
         "美国"
       ],
       "heat": {
-        "score": 84,
+        "score": 93,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-08-13T19:28:39.000Z"
+          "publishedAt": "2026-08-14T19:05:22.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+          "name": "DW",
+          "url": "https://www.dw.com/en/trump-asks-supreme-court-to-let-white-house-ballroom-construction-continue/a-78377695?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-08-13T17:07:13.000Z"
+          "publishedAt": "2026-08-14T22:02:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "马里总统赦免法国情报特工",
-      "summaryZh": "马里过渡总统阿西米·戈伊塔赦免了法国对外安全总局特工扬·韦齐利耶，后者在6月被马里判处20年监禁。这一宽大与缓和之举发生在法国与马里关系多年紧张之后。",
-      "category": "政治",
-      "regions": [
-        "马里",
-        "法国"
-      ],
-      "heat": {
-        "score": 68,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260813-mali-le-pr%C3%A9sident-de-la-transition-accorde-une-gr%C3%A2ce-%C3%A0-un-agent-fran%C3%A7ais-de-la-dgse",
-          "language": "fr",
-          "publishedAt": "2026-08-13T20:21:50.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/afrique/20260813-mali-gr%C3%A2ce-pr%C3%A9sidentielle-accord%C3%A9e-agent-fran%C3%A7ais-dgse-condamn%C3%A9-20-ans-prison-yann-v%C3%A9zilier",
-          "language": "fr",
-          "publishedAt": "2026-08-13T14:56:09.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "供应链攻击导致数万亿字节凭据泄露",
-      "summaryZh": "据Hacker News报道，一次供应链攻击导致了数万亿字节的凭据数据泄露。该帖子在Hacker News上获得38个点赞和0条评论，引发关注。",
-      "category": "财经",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-          "language": "en",
-          "publishedAt": "2026-08-13T20:59:15.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "欧洲多地持续应对森林火灾：法国、希腊、克罗地亚",
-      "summaryZh": "法国朗德省夜间发生新火灾，已烧毁600公顷土地并导致500人疏散；克罗地亚沿海一处居民区发生严重森林火灾，数百名居民和游客被迫撤离；希腊北部旅游胜地哈尔基迪基也发生火灾，需要疏散数百名游客。",
-      "category": "国际",
-      "regions": [
-        "法国",
-        "克罗地亚",
-        "希腊"
-      ],
-      "heat": {
-        "score": 59,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/europe/20260814-landes-grece-croatie-europe-continue-lutter-incendies-feux-de-foret",
-          "language": "fr",
-          "publishedAt": "2026-08-14T02:22:35.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "Hacker News热议AI应用与文本水印技术",
-      "summaryZh": "在Hacker News上，两个关于人工智能的话题受到关注：一个是关于组织如何使用ChatGPT等工具的研究证据，另一个是AI文本水印的工作原理。前者获得71分和46条评论，后者获得88分和62条评论。",
+      "titleZh": "马克·扎克伯格与Instagram新标志及AI愿景引发热议",
+      "summaryZh": "Instagram本周更换了标志性的文字标识，新设计引发困惑和讨论。此外，扎克伯格发布长文阐述AI未来，Meta本周还发布了开源AI模型Glimmer，与其闭源模型Muse Spark形成对比。相关话题在科技媒体和播客中引发广泛关注。",
       "category": "科技",
       "regions": [
+        "美国",
         "全球"
       ],
       "heat": {
         "score": 84,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-          "language": "en",
-          "publishedAt": "2026-08-13T19:25:38.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://declaude.org/watermarking/",
-          "language": "en",
-          "publishedAt": "2026-08-13T23:16:55.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "特朗普政府将允许私营公司发起国际网络攻击",
-      "summaryZh": "特朗普政府启动新计划，允许私营公司在联邦政府的控制和监督下，对境外犯罪分子进行监视和破坏网络行动。该政策由总统备忘录发布，司法部和国土安全部负责监督，参与公司需满足技术能力等要求。这是美国网络安全政策的重大转变。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 83,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -157,97 +51,103 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+          "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
           "language": "en",
-          "publishedAt": "2026-08-13T18:56:13.000Z"
+          "publishedAt": "2026-08-14T16:54:16.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
+          "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
           "language": "en",
-          "publishedAt": "2026-08-13T14:09:05.000Z"
+          "publishedAt": "2026-08-14T15:43:28.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "SparrowMap：监控政府车辆的摄像头系统",
-      "summaryZh": "一个名为SparrowMap的项目通过摄像头监控政府车辆，相关讨论在Hacker News上引发关注。该帖子获得69个点赞和13条评论。",
-      "category": "政治",
+      "rank": 3,
+      "titleZh": "德国汽车行业岗位流失严重",
+      "summaryZh": "官方统计数据显示，德国著名的汽车行业正以比经济中任何工业部门都快的速度流失就业岗位。与此同时，农民表示干旱状况可能影响今年的收成。",
+      "category": "财经",
       "regions": [
-        "全球"
+        "德国"
       ],
       "heat": {
-        "score": 67,
+        "score": 55,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://sparrowmap.com/",
+          "name": "DW",
+          "url": "https://www.dw.com/en/germany-news-car-industry-hemorrhaging-jobs/live-78374907?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-08-14T00:10:04.000Z"
+          "publishedAt": "2026-08-14T15:04:00.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "特朗普能否真正竞选第三个总统任期？",
-      "summaryZh": "唐纳德·特朗普表示，阻止他寻求第三个总统任期的法律“非常强大”。半岛电视台对此进行了视频报道。",
-      "category": "政治",
+      "rank": 4,
+      "titleZh": "女足非洲杯：塞贝·库利巴利展望历史性决赛",
+      "summaryZh": "女足非洲杯即将迎来一场出乎意料的历史性决赛，喀麦隆在点球大战中淘汰摩洛哥后，将与马拉维争夺冠军，两队均从未夺得过非洲杯冠军。前马里女足中场塞贝·库利巴利分享了对决赛及非洲女足发展的看法。",
+      "category": "体育",
       "regions": [
-        "美国"
+        "非洲"
       ],
       "heat": {
-        "score": 64,
+        "score": 49,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-14T02:12:23.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260814-can-f%C3%A9minine-le-regard-de-sebe-coulibaly-sur-une-finale-in%C3%A9dite",
+          "language": "fr",
+          "publishedAt": "2026-08-14T12:26:30.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "委内瑞拉政府与反对派会谈开启新篇章",
-      "summaryZh": "德尔西·罗德里格斯领导的委内瑞拉政府与部分反对派举行首次会谈，但会谈能取得什么成果尚待观察。",
-      "category": "政治",
-      "regions": [
-        "委内瑞拉"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/longform/2026/8/14/talks-between-government-and-opposition-mark-a-new-chapter-for-venezuela?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-14T02:07:03.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "选择无聊的技术（2015）",
-      "summaryZh": "一篇题为“选择无聊的技术”的2015年文章在Hacker News上引发热议，获得268个点赞和139条评论。",
+      "rank": 5,
+      "titleZh": "谷歌Gemini现可关闭可见水印",
+      "summaryZh": "谷歌允许用户移除使用AI工具生成的图像、视频和音乐中的可见水印。用户可在Gemini和AI视频生成器Flow中关闭“媒体水印”设置，但AI生成内容仍会嵌入不可见的SynthID水印和C2PA元数据。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 84,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "language": "en",
+          "publishedAt": "2026-08-14T16:39:32.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+          "language": "en",
+          "publishedAt": "2026-08-14T16:13:40.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "第六条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 78,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -255,9 +155,122 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://mcfunley.com/choose-boring-technology",
+          "url": "https://www.byhand.ai/",
           "language": "en",
-          "publishedAt": "2026-08-13T17:48:13.000Z"
+          "publishedAt": "2026-08-14T15:58:59.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.kenwea.com",
+          "language": "en",
+          "publishedAt": "2026-08-14T23:42:45.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "伊朗战争直播：特朗普誓言将霍尔木兹海峡变为美国领土",
+      "summaryZh": "美国总统特朗普表示，在击败伊朗后，“很快”将宣布霍尔木兹海峡为美国领土。该海峡的控制权一直是美伊停火谈判中的一个关键分歧点。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "伊朗",
+        "中东"
+      ],
+      "heat": {
+        "score": 77,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-15T00:00:00.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-14T21:50:46.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "胡塞武装袭击港口致四人死亡，也门停火受损",
+      "summaryZh": "六枚胡塞武装弹道导弹击中也门政府控制的穆哈港，造成至少四人死亡。伊朗支持的胡塞武装与也门国际承认的政府之间敌对行动不断升级。",
+      "category": "政治",
+      "regions": [
+        "也门",
+        "中东"
+      ],
+      "heat": {
+        "score": 77,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-14T22:58:58.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-14T22:45:19.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "哥伦比亚地震后布埃纳文图拉居民批评政府忽视",
+      "summaryZh": "哥伦比亚布埃纳文图拉贫困地区的居民表示，政府在地震后的应对措施不足，反映了更广泛的国家忽视问题。",
+      "category": "政治",
+      "regions": [
+        "哥伦比亚"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-15T01:12:02.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "巴西大选前卢拉对弗拉维奥·博索纳罗领先优势微弱",
+      "summaryZh": "一项新民调显示，卢拉领先博索纳罗，但在巴西高风险总统选举前差距已经缩小。",
+      "category": "政治",
+      "regions": [
+        "巴西"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-15T00:32:56.000Z"
         }
       ]
     }
