@@ -1,101 +1,65 @@
 {
-  "generatedAt": "2026-08-15T01:52:07.997Z",
+  "generatedAt": "2026-08-16T01:59:15.947Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普请求最高法院允许白宫宴会厅继续施工",
-      "summaryZh": "特朗普政府向最高法院提出请求，要求允许白宫宴会厅的施工继续进行。政府方面表示，若迫使总统“低声下气地向国会请求”许可将是“危险的”。司法部律师也呼应总统的主张，称这一耗资4亿美元的白宫宴会厅项目属于安全必需。",
+      "titleZh": "政府正在监控反Flock的TikTok和Instagram账户",
+      "summaryZh": "根据Hacker News上的帖子，政府正在监控反Flock的TikTok和Instagram账户。该帖获得82分和70条评论。",
       "category": "政治",
       "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 93,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-14T19:05:22.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/trump-asks-supreme-court-to-let-white-house-ballroom-construction-continue/a-78377695?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-14T22:02:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "马克·扎克伯格与Instagram新标志及AI愿景引发热议",
-      "summaryZh": "Instagram本周更换了标志性的文字标识，新设计引发困惑和讨论。此外，扎克伯格发布长文阐述AI未来，Meta本周还发布了开源AI模型Glimmer，与其闭源模型Muse Spark形成对比。相关话题在科技媒体和播客中引发广泛关注。",
-      "category": "科技",
-      "regions": [
-        "美国",
         "全球"
       ],
       "heat": {
-        "score": 84,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-          "language": "en",
-          "publishedAt": "2026-08-14T16:54:16.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-          "language": "en",
-          "publishedAt": "2026-08-14T15:43:28.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "德国汽车行业岗位流失严重",
-      "summaryZh": "官方统计数据显示，德国著名的汽车行业正以比经济中任何工业部门都快的速度流失就业岗位。与此同时，农民表示干旱状况可能影响今年的收成。",
-      "category": "财经",
-      "regions": [
-        "德国"
-      ],
-      "heat": {
-        "score": 55,
+        "score": 68,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/germany-news-car-industry-hemorrhaging-jobs/live-78374907?maca=en-rss-en-all-1573-rdf",
+          "name": "Hacker News",
+          "url": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
           "language": "en",
-          "publishedAt": "2026-08-14T15:04:00.000Z"
+          "publishedAt": "2026-08-15T22:40:20.000Z"
         }
       ]
     },
     {
-      "rank": 4,
-      "titleZh": "女足非洲杯：塞贝·库利巴利展望历史性决赛",
-      "summaryZh": "女足非洲杯即将迎来一场出乎意料的历史性决赛，喀麦隆在点球大战中淘汰摩洛哥后，将与马拉维争夺冠军，两队均从未夺得过非洲杯冠军。前马里女足中场塞贝·库利巴利分享了对决赛及非洲女足发展的看法。",
-      "category": "体育",
+      "rank": 2,
+      "titleZh": "AI拥有比人脑大得多的工作记忆",
+      "summaryZh": "据Hacker News，一篇关于AI工作记忆的文章称AI拥有比人脑大得多的工作记忆。该文获得412分和372条评论。",
+      "category": "科技",
       "regions": [
-        "非洲"
+        "全球"
       ],
       "heat": {
-        "score": 49,
+        "score": 66,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "language": "en",
+          "publishedAt": "2026-08-15T18:13:02.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "税务系统遭黑客攻击后，巴黎检察院展开调查",
+      "summaryZh": "巴黎检察院周六宣布，在6月底发生网络攻击导致近70万名税务系统用户个人数据被盗后，已展开调查。受影响数据包括姓名、家庭系数、参考税收入和预扣税率等。",
+      "category": "财经",
+      "regions": [
+        "法国"
+      ],
+      "heat": {
+        "score": 54,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -103,141 +67,144 @@
       "sources": [
         {
           "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260814-can-f%C3%A9minine-le-regard-de-sebe-coulibaly-sur-une-finale-in%C3%A9dite",
+          "url": "https://www.france24.com/fr/france/20260815-apr%C3%A8s-piratage-fisc-parquet-paris-ouvre-enqu%C3%AAte",
           "language": "fr",
-          "publishedAt": "2026-08-14T12:26:30.000Z"
+          "publishedAt": "2026-08-15T15:51:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "乍得总统特赦九名反对派人士，反对派未来如何？",
+      "summaryZh": "乍得总统马哈马特·伊德里斯·代比于周五赦免了包括前总理、主要反对党‘变革者’党魁苏塞斯·马斯拉在内的九名反对派人士。马斯拉因被指控引发致命群体暴力事件而被判20年监禁，目前已服刑一年多。",
+      "category": "政治",
+      "regions": [
+        "乍得"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260815-le-pr%C3%A9sident-tchadien-gracie-neuf-opposants-politiques-quel-avenir-pour-l-opposition",
+          "language": "fr",
+          "publishedAt": "2026-08-15T09:11:38.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260815-au-tchad-le-pr%C3%A9sident-gracie-neuf-figures-de-l-opposition-dont-succ%C3%A8s-masra",
+          "language": "fr",
+          "publishedAt": "2026-08-15T09:09:51.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "谷歌Gemini现可关闭可见水印",
-      "summaryZh": "谷歌允许用户移除使用AI工具生成的图像、视频和音乐中的可见水印。用户可在Gemini和AI视频生成器Flow中关闭“媒体水印”设置，但AI生成内容仍会嵌入不可见的SynthID水印和C2PA元数据。",
-      "category": "科技",
+      "titleZh": "也门政府称胡塞武装袭击马里卜居民区",
+      "summaryZh": "也门新闻部谴责对马里卜的袭击是‘升级行为’，危及生命并加剧苦难。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "也门"
       ],
       "heat": {
-        "score": 84,
-        "sourceCount": 2,
+        "score": 63,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-14T16:39:32.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-          "language": "en",
-          "publishedAt": "2026-08-14T16:13:40.000Z"
+          "publishedAt": "2026-08-15T23:27:10.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "第六条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "科技",
+      "titleZh": "美国印第安纳州洪水已致至少5人死亡",
+      "summaryZh": "印第安纳州州长表示，在持续一周的强降雨后，美国政府已承诺提供援助。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "美国"
       ],
       "heat": {
-        "score": 78,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.byhand.ai/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-14T15:58:59.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.kenwea.com",
-          "language": "en",
-          "publishedAt": "2026-08-14T23:42:45.000Z"
+          "publishedAt": "2026-08-15T23:19:34.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "伊朗战争直播：特朗普誓言将霍尔木兹海峡变为美国领土",
-      "summaryZh": "美国总统特朗普表示，在击败伊朗后，“很快”将宣布霍尔木兹海峡为美国领土。该海峡的控制权一直是美伊停火谈判中的一个关键分歧点。",
-      "category": "政治",
+      "titleZh": "AI在药物发现中的应用——现状、进展与未来",
+      "summaryZh": "据Hacker News，一篇关于AI在药物发现中应用的文章获得93分和45条评论。",
+      "category": "科技",
       "regions": [
-        "美国",
-        "伊朗",
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 77,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
           "language": "en",
-          "publishedAt": "2026-08-15T00:00:00.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-14T21:50:46.000Z"
+          "publishedAt": "2026-08-15T19:12:53.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "胡塞武装袭击港口致四人死亡，也门停火受损",
-      "summaryZh": "六枚胡塞武装弹道导弹击中也门政府控制的穆哈港，造成至少四人死亡。伊朗支持的胡塞武装与也门国际承认的政府之间敌对行动不断升级。",
-      "category": "政治",
+      "titleZh": "AI SEO完整指南：三个月从零到460万曝光",
+      "summaryZh": "据Hacker News，一篇关于AI SEO的指南文章获得4分和3条评论。",
+      "category": "科技",
       "regions": [
-        "也门",
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 77,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://github.com/TraceCohenTech/ai-seo-playbook",
           "language": "en",
-          "publishedAt": "2026-08-14T22:58:58.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-14T22:45:19.000Z"
+          "publishedAt": "2026-08-16T00:19:59.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "哥伦比亚地震后布埃纳文图拉居民批评政府忽视",
-      "summaryZh": "哥伦比亚布埃纳文图拉贫困地区的居民表示，政府在地震后的应对措施不足，反映了更广泛的国家忽视问题。",
+      "titleZh": "加拿大要求驱逐美国大使的请愿已获超过17万签名",
+      "summaryZh": "该请愿将被下议院讨论，这显示出对美国总统特朗普政策的不满。",
       "category": "政治",
       "regions": [
-        "哥伦比亚"
+        "加拿大",
+        "美国"
       ],
       "heat": {
-        "score": 64,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -245,32 +212,32 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-15T01:12:02.000Z"
+          "publishedAt": "2026-08-15T20:09:33.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "巴西大选前卢拉对弗拉维奥·博索纳罗领先优势微弱",
-      "summaryZh": "一项新民调显示，卢拉领先博索纳罗，但在巴西高风险总统选举前差距已经缩小。",
-      "category": "政治",
+      "titleZh": "与AI合作感觉更像领导而非编码",
+      "summaryZh": "据Hacker News，一篇关于与AI合作体验的文章获得270分和175条评论。",
+      "category": "科技",
       "regions": [
-        "巴西"
+        "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
           "language": "en",
-          "publishedAt": "2026-08-15T00:32:56.000Z"
+          "publishedAt": "2026-08-15T10:39:41.000Z"
         }
       ]
     }
