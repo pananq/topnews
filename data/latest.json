@@ -1,19 +1,153 @@
 {
-  "generatedAt": "2026-08-16T01:59:15.947Z",
+  "generatedAt": "2026-08-17T01:57:15.307Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "政府正在监控反Flock的TikTok和Instagram账户",
-      "summaryZh": "根据Hacker News上的帖子，政府正在监控反Flock的TikTok和Instagram账户。该帖获得82分和70条评论。",
+      "titleZh": "Anthropic CEO称AI反弹“本质上是信任危机”",
+      "summaryZh": "Anthropic首席执行官达里奥·阿莫迪反驳了外界认为他对AI前景过于悲观的看法。他表示，AI遭遇的反弹本质上是一场信任危机，并认为AI赢得公众支持的关键在于实现治愈癌症等实际突破。",
+      "category": "科技",
+      "regions": [
+        "全球",
+        "美洲"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+          "language": "en",
+          "publishedAt": "2026-08-16T16:53:51.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+          "language": "en",
+          "publishedAt": "2026-08-16T22:50:38.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "特朗普称美国将“大幅减少”与韩国的军事演习",
+      "summaryZh": "美国总统特朗普表示对美韩军演“不满意”，并称与朝鲜领导人金正恩关系“非常好”。他下令缩减美韩年度军演，认为这类演习向朝鲜发出了“不恰当且敌对”的信号。",
       "category": "政治",
+      "regions": [
+        "美国",
+        "韩国",
+        "朝鲜"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-17T00:11:18.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/trump-orders-to-scale-back-us-south-korea-military-drills/a-78390592?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-17T01:18:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "安瓦尔·易卜拉欣：马来西亚在超级大国之间",
+      "summaryZh": "马来西亚总理安瓦尔·易卜拉欣接受采访，讨论司法、贸易以及中等强国如何让超级大国承担责任等问题。",
+      "category": "财经",
+      "regions": [
+        "马来西亚",
+        "全球"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-16T21:23:03.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "阿联酋、沙特等国谴责以色列拒绝特朗普的加沙计划",
+      "summaryZh": "阿联酋、沙特阿拉伯等国发表声明，谴责以色列拒绝特朗普提出的加沙计划。与此同时，美国特使库什纳和加沙和平特使姆拉代诺夫在埃及与地区调解方及哈马斯举行停火和实施相关会谈。",
+      "category": "国际",
+      "regions": [
+        "阿联酋",
+        "沙特阿拉伯",
+        "以色列",
+        "巴勒斯坦"
+      ],
+      "heat": {
+        "score": 55,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-16T17:31:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "足球：朗斯击败巴黎圣日耳曼夺得法国超级杯",
+      "summaryZh": "尽管少一人作战，朗斯队周日在法国超级杯中以1比0战胜巴黎圣日耳曼，夺得队史首个该赛事冠军。作为法国杯冠军，迪诺·托普穆勒率领的球队在第32分钟由队长打入制胜球。",
+      "category": "体育",
+      "regions": [
+        "法国"
+      ],
+      "heat": {
+        "score": 55,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/sports/20260816-football-le-racing-club-de-lens-remporte-le-troph%C3%A9e-des-champions-face-au-psg",
+          "language": "fr",
+          "publishedAt": "2026-08-16T21:10:17.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "AI积分转售经济",
+      "summaryZh": "Hacker News上出现了一篇题为《The AI Credit Resale Economy》的帖子，获得226分和89条评论，引发社区关注。该话题可能涉及AI服务信用额度的转售现象。",
+      "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 68,
+        "score": 80,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -21,16 +155,22 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
           "language": "en",
-          "publishedAt": "2026-08-15T22:40:20.000Z"
+          "publishedAt": "2026-08-16T14:44:55.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://peterbloem.nl/blog/craft-coding",
+          "language": "en",
+          "publishedAt": "2026-08-16T10:31:36.000Z"
         }
       ]
     },
     {
-      "rank": 2,
-      "titleZh": "AI拥有比人脑大得多的工作记忆",
-      "summaryZh": "据Hacker News，一篇关于AI工作记忆的文章称AI拥有比人脑大得多的工作记忆。该文获得412分和372条评论。",
+      "rank": 7,
+      "titleZh": "Stripe以超过70亿美元收购AI公司OpenRouter",
+      "summaryZh": "Hacker News上报道，支付公司Stripe达成超过70亿美元的交易，收购AI公司OpenRouter。该消息引发热议，帖子获得199分和145条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -44,120 +184,22 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
           "language": "en",
-          "publishedAt": "2026-08-15T18:13:02.000Z"
+          "publishedAt": "2026-08-16T20:31:16.000Z"
         }
       ]
     },
     {
-      "rank": 3,
-      "titleZh": "税务系统遭黑客攻击后，巴黎检察院展开调查",
-      "summaryZh": "巴黎检察院周六宣布，在6月底发生网络攻击导致近70万名税务系统用户个人数据被盗后，已展开调查。受影响数据包括姓名、家庭系数、参考税收入和预扣税率等。",
-      "category": "财经",
-      "regions": [
-        "法国"
-      ],
-      "heat": {
-        "score": 54,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/france/20260815-apr%C3%A8s-piratage-fisc-parquet-paris-ouvre-enqu%C3%AAte",
-          "language": "fr",
-          "publishedAt": "2026-08-15T15:51:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "乍得总统特赦九名反对派人士，反对派未来如何？",
-      "summaryZh": "乍得总统马哈马特·伊德里斯·代比于周五赦免了包括前总理、主要反对党‘变革者’党魁苏塞斯·马斯拉在内的九名反对派人士。马斯拉因被指控引发致命群体暴力事件而被判20年监禁，目前已服刑一年多。",
-      "category": "政治",
-      "regions": [
-        "乍得"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260815-le-pr%C3%A9sident-tchadien-gracie-neuf-opposants-politiques-quel-avenir-pour-l-opposition",
-          "language": "fr",
-          "publishedAt": "2026-08-15T09:11:38.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260815-au-tchad-le-pr%C3%A9sident-gracie-neuf-figures-de-l-opposition-dont-succ%C3%A8s-masra",
-          "language": "fr",
-          "publishedAt": "2026-08-15T09:09:51.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "也门政府称胡塞武装袭击马里卜居民区",
-      "summaryZh": "也门新闻部谴责对马里卜的袭击是‘升级行为’，危及生命并加剧苦难。",
-      "category": "政治",
-      "regions": [
-        "也门"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-15T23:27:10.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "美国印第安纳州洪水已致至少5人死亡",
-      "summaryZh": "印第安纳州州长表示，在持续一周的强降雨后，美国政府已承诺提供援助。",
-      "category": "政治",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-15T23:19:34.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "AI在药物发现中的应用——现状、进展与未来",
-      "summaryZh": "据Hacker News，一篇关于AI在药物发现中应用的文章获得93分和45条评论。",
+      "rank": 8,
+      "titleZh": "年轻人对AI CEO的厌恶强烈得令人难以置信",
+      "summaryZh": "Hacker News上的一篇帖子称，年轻人对AI公司CEO的厌恶情绪非常强烈，令人难以置信。该帖子获得86分和68条评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 63,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -165,19 +207,44 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
           "language": "en",
-          "publishedAt": "2026-08-15T19:12:53.000Z"
+          "publishedAt": "2026-08-16T21:34:06.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "AI SEO完整指南：三个月从零到460万曝光",
-      "summaryZh": "据Hacker News，一篇关于AI SEO的指南文章获得4分和3条评论。",
-      "category": "科技",
+      "rank": 9,
+      "titleZh": "非盟能否让当前的苏丹任务发挥作用？",
+      "summaryZh": "非洲联盟正在寻求在苏丹取得进展，但必须克服战场上和外交上的深刻分歧。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "苏丹",
+        "非洲"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-17T01:13:37.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "什么能阻止以色列定居者对巴勒斯坦人的袭击？",
+      "summaryZh": "在以色列极右翼内塔尼亚胡政府领导下，被占领的约旦河西岸暴力事件愈演愈烈。该报道探讨了可能阻止定居者袭击的措施。",
+      "category": "政治",
+      "regions": [
+        "约旦河西岸",
+        "巴勒斯坦"
       ],
       "heat": {
         "score": 62,
@@ -187,57 +254,10 @@
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://github.com/TraceCohenTech/ai-seo-playbook",
-          "language": "en",
-          "publishedAt": "2026-08-16T00:19:59.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "加拿大要求驱逐美国大使的请愿已获超过17万签名",
-      "summaryZh": "该请愿将被下议院讨论，这显示出对美国总统特朗普政策的不满。",
-      "category": "政治",
-      "regions": [
-        "加拿大",
-        "美国"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-15T20:09:33.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "与AI合作感觉更像领导而非编码",
-      "summaryZh": "据Hacker News，一篇关于与AI合作体验的文章获得270分和175条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-          "language": "en",
-          "publishedAt": "2026-08-15T10:39:41.000Z"
+          "publishedAt": "2026-08-16T21:54:58.000Z"
         }
       ]
     }
