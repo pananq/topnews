@@ -1,107 +1,71 @@
 {
-  "generatedAt": "2026-08-17T01:57:15.307Z",
+  "generatedAt": "2026-08-18T01:53:05.726Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "Anthropic CEO称AI反弹“本质上是信任危机”",
-      "summaryZh": "Anthropic首席执行官达里奥·阿莫迪反驳了外界认为他对AI前景过于悲观的看法。他表示，AI遭遇的反弹本质上是一场信任危机，并认为AI赢得公众支持的关键在于实现治愈癌症等实际突破。",
+      "titleZh": "第一条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "科技",
       "regions": [
-        "全球",
-        "美洲"
+        "全球"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 86,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+          "name": "Hacker News",
+          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
           "language": "en",
-          "publishedAt": "2026-08-16T16:53:51.000Z"
+          "publishedAt": "2026-08-17T19:47:15.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+          "url": "https://speko.ai/",
           "language": "en",
-          "publishedAt": "2026-08-16T22:50:38.000Z"
+          "publishedAt": "2026-08-17T15:36:18.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "特朗普称美国将“大幅减少”与韩国的军事演习",
-      "summaryZh": "美国总统特朗普表示对美韩军演“不满意”，并称与朝鲜领导人金正恩关系“非常好”。他下令缩减美韩年度军演，认为这类演习向朝鲜发出了“不恰当且敌对”的信号。",
+      "titleZh": "赞比亚总统希奇莱马赢得第二任期",
+      "summaryZh": "官方结果显示，希奇莱马获得约60%的选票，其主要挑战者获得38%。",
       "category": "政治",
       "regions": [
-        "美国",
-        "韩国",
-        "朝鲜"
+        "赞比亚"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-17T00:11:18.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/trump-orders-to-scale-back-us-south-korea-military-drills/a-78390592?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-17T01:18:00.000Z"
+          "publishedAt": "2026-08-18T01:17:50.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "安瓦尔·易卜拉欣：马来西亚在超级大国之间",
-      "summaryZh": "马来西亚总理安瓦尔·易卜拉欣接受采访，讨论司法、贸易以及中等强国如何让超级大国承担责任等问题。",
+      "titleZh": "阿联酋经济：崩溃边缘还是复苏之路？",
+      "summaryZh": "一方面，阿联酋经济因伊朗战争受损，居民外流、游客取消计划；另一方面，当局坚称一切正常，复苏在即。事情真相如何？",
       "category": "财经",
       "regions": [
-        "马来西亚",
-        "全球"
+        "阿联酋"
       ],
       "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-16T21:23:03.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "阿联酋、沙特等国谴责以色列拒绝特朗普的加沙计划",
-      "summaryZh": "阿联酋、沙特阿拉伯等国发表声明，谴责以色列拒绝特朗普提出的加沙计划。与此同时，美国特使库什纳和加沙和平特使姆拉代诺夫在埃及与地区调解方及哈马斯举行停火和实施相关会谈。",
-      "category": "国际",
-      "regions": [
-        "阿联酋",
-        "沙特阿拉伯",
-        "以色列",
-        "巴勒斯坦"
-      ],
-      "heat": {
-        "score": 55,
+        "score": 57,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -109,22 +73,22 @@
       "sources": [
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/uae-economy-on-the-verge-of-collapse-or-on-way-to-recovery/a-78402980?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-08-16T17:31:00.000Z"
+          "publishedAt": "2026-08-17T17:46:00.000Z"
         }
       ]
     },
     {
-      "rank": 5,
-      "titleZh": "足球：朗斯击败巴黎圣日耳曼夺得法国超级杯",
-      "summaryZh": "尽管少一人作战，朗斯队周日在法国超级杯中以1比0战胜巴黎圣日耳曼，夺得队史首个该赛事冠军。作为法国杯冠军，迪诺·托普穆勒率领的球队在第32分钟由队长打入制胜球。",
+      "rank": 4,
+      "titleZh": "国际足联第三号人物、法国人凯文·拉穆尔在反对因凡蒂诺后离职",
+      "summaryZh": "国际足联周一解除了运营总监、法国人凯文·拉穆尔的合同。他是批评因凡蒂诺向私人投资者开放国际足联计划的最有影响力的声音之一，该计划现已放弃，他还在7月底就此发表了尖锐声明。",
       "category": "体育",
       "regions": [
-        "法国"
+        "全球"
       ],
       "heat": {
-        "score": 55,
+        "score": 56,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -132,16 +96,74 @@
       "sources": [
         {
           "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/sports/20260816-football-le-racing-club-de-lens-remporte-le-troph%C3%A9e-des-champions-face-au-psg",
+          "url": "https://www.france24.com/fr/sports/20260817-football-fifa-kevin-lamour-quitte-poste-oppose-gianni-infantino-projet-investisseurs-prives-abandonne-directeur-general-operations",
           "language": "fr",
-          "publishedAt": "2026-08-16T21:10:17.000Z"
+          "publishedAt": "2026-08-17T22:11:36.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "YouTube更改观看计数方式以提升数字",
+      "summaryZh": "YouTube将很快在视频开始播放时计为一次观看，与Instagram、TikTok和Shorts的计数方式一致。该更新将于8月24日生效，平台称创作者的总观看次数将更快增长。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 85,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
+          "language": "en",
+          "publishedAt": "2026-08-17T17:13:03.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/",
+          "language": "en",
+          "publishedAt": "2026-08-17T18:09:33.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "AI积分转售经济",
-      "summaryZh": "Hacker News上出现了一篇题为《The AI Credit Resale Economy》的帖子，获得226分和89条评论，引发社区关注。该话题可能涉及AI服务信用额度的转售现象。",
+      "titleZh": "如何禁用或避免侵入式AI",
+      "summaryZh": "Hacker News上，一个关于“如何禁用或避免侵入式AI”的帖子获得257分和156条评论；另一个“Show HN: Sokoban AI解谜器”的帖子获得67分和40条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 81,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.librarian.net/notoai/",
+          "language": "en",
+          "publishedAt": "2026-08-17T14:07:56.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://mkornreich.me/projects/sokoban/",
+          "language": "en",
+          "publishedAt": "2026-08-17T13:07:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "关于AI监管与信息传播",
+      "summaryZh": "Hacker News上，一个关于“AI监管与信息传播”的帖子获得235分和498条评论；另一个“Anthropic对开源AI的战争”的帖子获得134分和57条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -155,45 +177,22 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
           "language": "en",
-          "publishedAt": "2026-08-16T14:44:55.000Z"
+          "publishedAt": "2026-08-17T01:59:56.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://peterbloem.nl/blog/craft-coding",
+          "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
           "language": "en",
-          "publishedAt": "2026-08-16T10:31:36.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "Stripe以超过70亿美元收购AI公司OpenRouter",
-      "summaryZh": "Hacker News上报道，支付公司Stripe达成超过70亿美元的交易，收购AI公司OpenRouter。该消息引发热议，帖子获得199分和145条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 66,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "language": "en",
-          "publishedAt": "2026-08-16T20:31:16.000Z"
+          "publishedAt": "2026-08-17T15:24:34.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "年轻人对AI CEO的厌恶强烈得令人难以置信",
-      "summaryZh": "Hacker News上的一篇帖子称，年轻人对AI公司CEO的厌恶情绪非常强烈，令人难以置信。该帖子获得86分和68条评论。",
+      "titleZh": "我的朋友们都讨厌AI；我刚加入了一家AI初创公司",
+      "summaryZh": "该帖子在Hacker News上获得26分和77条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -207,20 +206,19 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+          "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
           "language": "en",
-          "publishedAt": "2026-08-16T21:34:06.000Z"
+          "publishedAt": "2026-08-17T21:47:30.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "非盟能否让当前的苏丹任务发挥作用？",
-      "summaryZh": "非洲联盟正在寻求在苏丹取得进展，但必须克服战场上和外交上的深刻分歧。",
-      "category": "政治",
+      "titleZh": "以色列创建虚假智库，疑似试图欺骗AI聊天机器人",
+      "summaryZh": "该帖子在Hacker News上获得76分和16条评论。",
+      "category": "科技",
       "regions": [
-        "苏丹",
-        "非洲"
+        "以色列"
       ],
       "heat": {
         "score": 64,
@@ -230,24 +228,24 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
           "language": "en",
-          "publishedAt": "2026-08-17T01:13:37.000Z"
+          "publishedAt": "2026-08-17T20:46:10.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "什么能阻止以色列定居者对巴勒斯坦人的袭击？",
-      "summaryZh": "在以色列极右翼内塔尼亚胡政府领导下，被占领的约旦河西岸暴力事件愈演愈烈。该报道探讨了可能阻止定居者袭击的措施。",
+      "titleZh": "伊朗战争实时：特朗普拒绝延长谅解备忘录，美国声称控制霍尔木兹海峡",
+      "summaryZh": "美国总统特朗普表示伊朗应该“举起白旗投降”，此前两国间的谅解备忘录于周一到期。",
       "category": "政治",
       "regions": [
-        "约旦河西岸",
-        "巴勒斯坦"
+        "伊朗",
+        "美国"
       ],
       "heat": {
-        "score": 62,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -255,9 +253,9 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-16T21:54:58.000Z"
+          "publishedAt": "2026-08-18T00:00:00.000Z"
         }
       ]
     }
