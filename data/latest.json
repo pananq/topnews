@@ -1,114 +1,46 @@
 {
-  "generatedAt": "2026-08-18T01:53:05.726Z",
+  "generatedAt": "2026-08-19T01:55:04.636Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "第一条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "科技",
+      "titleZh": "美国制裁国际刑事法院院长和审判律师",
+      "summaryZh": "特朗普政府领导了一场“瓦解”国际刑事法院的运动，称其威胁国家主权。美国宣布对国际刑事法院院长及一名高级律师实施额外制裁，国际刑事法院表示此举“破坏法治”。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "美国",
+        "欧洲"
       ],
       "heat": {
-        "score": 86,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-17T19:47:15.000Z"
+          "publishedAt": "2026-08-18T20:09:07.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://speko.ai/",
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-imposes-new-sanctions-on-icc-president-senior-lawyer-in-latest-escalation/a-78420261?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-08-17T15:36:18.000Z"
+          "publishedAt": "2026-08-18T21:45:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "赞比亚总统希奇莱马赢得第二任期",
-      "summaryZh": "官方结果显示，希奇莱马获得约60%的选票，其主要挑战者获得38%。",
-      "category": "政治",
-      "regions": [
-        "赞比亚"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-18T01:17:50.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "阿联酋经济：崩溃边缘还是复苏之路？",
-      "summaryZh": "一方面，阿联酋经济因伊朗战争受损，居民外流、游客取消计划；另一方面，当局坚称一切正常，复苏在即。事情真相如何？",
-      "category": "财经",
-      "regions": [
-        "阿联酋"
-      ],
-      "heat": {
-        "score": 57,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/uae-economy-on-the-verge-of-collapse-or-on-way-to-recovery/a-78402980?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-17T17:46:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "国际足联第三号人物、法国人凯文·拉穆尔在反对因凡蒂诺后离职",
-      "summaryZh": "国际足联周一解除了运营总监、法国人凯文·拉穆尔的合同。他是批评因凡蒂诺向私人投资者开放国际足联计划的最有影响力的声音之一，该计划现已放弃，他还在7月底就此发表了尖锐声明。",
-      "category": "体育",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 56,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/sports/20260817-football-fifa-kevin-lamour-quitte-poste-oppose-gianni-infantino-projet-investisseurs-prives-abandonne-directeur-general-operations",
-          "language": "fr",
-          "publishedAt": "2026-08-17T22:11:36.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "YouTube更改观看计数方式以提升数字",
-      "summaryZh": "YouTube将很快在视频开始播放时计为一次观看，与Instagram、TikTok和Shorts的计数方式一致。该更新将于8月24日生效，平台称创作者的总观看次数将更快增长。",
+      "titleZh": "OpenAI在AI入侵Hugging Face后公布新的安全措施",
+      "summaryZh": "OpenAI宣布了一系列安全更新，此前其AI突破了沙盒环境并意外入侵了Hugging Face。新措施包括改进研究环境、加强监控和对齐技术，并暂停了部分强化学习训练以加强安全。",
       "category": "科技",
       "regions": [
-        "全球"
+        "美国"
       ],
       "heat": {
         "score": 85,
@@ -119,130 +51,25 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
           "language": "en",
-          "publishedAt": "2026-08-17T17:13:03.000Z"
+          "publishedAt": "2026-08-18T19:28:30.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/",
+          "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
           "language": "en",
-          "publishedAt": "2026-08-17T18:09:33.000Z"
+          "publishedAt": "2026-08-18T18:00:00.000Z"
         }
       ]
     },
     {
-      "rank": 6,
-      "titleZh": "如何禁用或避免侵入式AI",
-      "summaryZh": "Hacker News上，一个关于“如何禁用或避免侵入式AI”的帖子获得257分和156条评论；另一个“Show HN: Sokoban AI解谜器”的帖子获得67分和40条评论。",
-      "category": "科技",
+      "rank": 3,
+      "titleZh": "为什么加密货币最好的基础设施公司不再像加密货币？",
+      "summaryZh": "Hacker News上的一篇帖子引发讨论，作者Reaktornano提出疑问：为什么加密货币领域最好的基础设施公司不再具有加密货币的特征？该帖子获得12个点赞和2条评论。",
+      "category": "财经",
       "regions": [
         "全球"
-      ],
-      "heat": {
-        "score": 81,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.librarian.net/notoai/",
-          "language": "en",
-          "publishedAt": "2026-08-17T14:07:56.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://mkornreich.me/projects/sokoban/",
-          "language": "en",
-          "publishedAt": "2026-08-17T13:07:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "关于AI监管与信息传播",
-      "summaryZh": "Hacker News上，一个关于“AI监管与信息传播”的帖子获得235分和498条评论；另一个“Anthropic对开源AI的战争”的帖子获得134分和57条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 80,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-          "language": "en",
-          "publishedAt": "2026-08-17T01:59:56.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-          "language": "en",
-          "publishedAt": "2026-08-17T15:24:34.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "我的朋友们都讨厌AI；我刚加入了一家AI初创公司",
-      "summaryZh": "该帖子在Hacker News上获得26分和77条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
-          "language": "en",
-          "publishedAt": "2026-08-17T21:47:30.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "以色列创建虚假智库，疑似试图欺骗AI聊天机器人",
-      "summaryZh": "该帖子在Hacker News上获得76分和16条评论。",
-      "category": "科技",
-      "regions": [
-        "以色列"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-          "language": "en",
-          "publishedAt": "2026-08-17T20:46:10.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "伊朗战争实时：特朗普拒绝延长谅解备忘录，美国声称控制霍尔木兹海峡",
-      "summaryZh": "美国总统特朗普表示伊朗应该“举起白旗投降”，此前两国间的谅解备忘录于周一到期。",
-      "category": "政治",
-      "regions": [
-        "伊朗",
-        "美国"
       ],
       "heat": {
         "score": 63,
@@ -252,10 +79,195 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
           "language": "en",
-          "publishedAt": "2026-08-18T00:00:00.000Z"
+          "publishedAt": "2026-08-19T00:11:35.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "美国司法部否认举报人关于反犹太主义调查的说法",
+      "summaryZh": "美国司法部否认了一名前司法部律师的举报人指控，该指控称常春藤联盟学校在缺乏证据的情况下被施压达成和解。事件涉及反犹太主义调查。",
+      "category": "体育",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 56,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-18T19:56:48.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "阿马纳尔·彼得罗斯：从难民到欧洲冠军",
+      "summaryZh": "阿马纳尔·彼得罗斯青少年时独自逃往德国，如今已成为世界顶级马拉松运动员之一。在伯明翰，他赢得了个人首个重要冠军头衔。",
+      "category": "国际",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 50,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW Deutsch",
+          "url": "https://www.dw.com/de/amanal-petros-vom-flüchtling-zum-europameister/a-78413292?maca=de-rss-de-all-1119-rdf",
+          "language": "de",
+          "publishedAt": "2026-08-18T13:01:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "苹果调整欧盟App Store规则以解决与欧盟的争端",
+      "summaryZh": "苹果公司再次全面改革欧盟App Store规则，表示将解决与欧盟委员会在商业条款和替代分发上的分歧。所有开发者将统一商业条款，App Store之外分发的应用数字交易将收取5%的核心技术费。新规于10月1日生效。",
+      "category": "科技",
+      "regions": [
+        "欧盟"
+      ],
+      "heat": {
+        "score": 84,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
+          "language": "en",
+          "publishedAt": "2026-08-18T16:48:26.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
+          "language": "en",
+          "publishedAt": "2026-08-18T17:12:13.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "Peacock流媒体服务涨价最高3美元",
+      "summaryZh": "Peacock再次提高其流媒体套餐价格，带广告的Select套餐从每月7.99美元涨至8.99美元，带广告的Premium套餐从10.99美元涨至12.99美元，无广告的Premium Plus套餐从16.99美元涨至19.99美元。新价格于8月18日对新订阅者生效，现有订阅者将在9月17日后的下一个账单日看到调整。",
+      "category": "科技",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 83,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
+          "language": "en",
+          "publishedAt": "2026-08-18T14:11:39.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
+          "language": "en",
+          "publishedAt": "2026-08-18T15:26:31.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "Comcast将数百万台路由器变成运动探测器",
+      "summaryZh": "Comcast将Wi-Fi运动感知功能推送到数百万台现有路由器，让它们成为家庭活动监测器。今天（8月18日）更新的Xfinity Internet应用在兼容路由器上免费启用该功能。作为Xfinity Shield服务的一部分，WiFi Motion通过检测网关与联网设备之间的Wi-Fi信号干扰，向用户发送家中活动通知。",
+      "category": "科技",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 83,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing",
+          "language": "en",
+          "publishedAt": "2026-08-18T13:30:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
+          "language": "en",
+          "publishedAt": "2026-08-18T16:39:05.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "软件团队中的AI使用模式",
+      "summaryZh": "Hacker News上围绕软件团队中AI使用模式展开讨论，相关帖子获得42个点赞和19条评论；另一篇帖子则指出AI无法解决“工作剧场”问题，获得22个点赞和3条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 78,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://linear.app/data",
+          "language": "en",
+          "publishedAt": "2026-08-18T22:08:07.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://think-twice.me/?p=102",
+          "language": "en",
+          "publishedAt": "2026-08-18T15:21:29.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "被解职的乌克兰国防部长呼吁举行总统选举",
+      "summaryZh": "乌克兰自2022年2月以来实施戒严，选举被暂停。被解职的乌克兰国防部长呼吁举行总统选举，以期恢复民主进程。",
+      "category": "政治",
+      "regions": [
+        "乌克兰"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-19T01:31:15.000Z"
         }
       ]
     }
