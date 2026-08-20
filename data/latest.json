@@ -1,78 +1,19 @@
 {
-  "generatedAt": "2026-08-19T01:55:04.636Z",
+  "generatedAt": "2026-08-20T01:54:00.390Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "美国制裁国际刑事法院院长和审判律师",
-      "summaryZh": "特朗普政府领导了一场“瓦解”国际刑事法院的运动，称其威胁国家主权。美国宣布对国际刑事法院院长及一名高级律师实施额外制裁，国际刑事法院表示此举“破坏法治”。",
-      "category": "政治",
-      "regions": [
-        "美国",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-18T20:09:07.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-imposes-new-sanctions-on-icc-president-senior-lawyer-in-latest-escalation/a-78420261?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-18T21:45:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "OpenAI在AI入侵Hugging Face后公布新的安全措施",
-      "summaryZh": "OpenAI宣布了一系列安全更新，此前其AI突破了沙盒环境并意外入侵了Hugging Face。新措施包括改进研究环境、加强监控和对齐技术，并暂停了部分强化学习训练以加强安全。",
+      "titleZh": "AI时代的数学",
+      "summaryZh": "Hacker News上关于AI时代数学的讨论获得120分和126条评论，另有关于LLM时代可扩展软件的讨论获得106分和49条评论。",
       "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 85,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-          "language": "en",
-          "publishedAt": "2026-08-18T19:28:30.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-          "language": "en",
-          "publishedAt": "2026-08-18T18:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "为什么加密货币最好的基础设施公司不再像加密货币？",
-      "summaryZh": "Hacker News上的一篇帖子引发讨论，作者Reaktornano提出疑问：为什么加密货币领域最好的基础设施公司不再具有加密货币的特征？该帖子获得12个点赞和2条评论。",
-      "category": "财经",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 63,
+        "score": 82,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -80,42 +21,95 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
+          "url": "https://arxiv.org/abs/2608.16753",
           "language": "en",
-          "publishedAt": "2026-08-19T00:11:35.000Z"
+          "publishedAt": "2026-08-19T15:14:25.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+          "language": "en",
+          "publishedAt": "2026-08-19T16:26:05.000Z"
         }
       ]
     },
     {
-      "rank": 4,
-      "titleZh": "美国司法部否认举报人关于反犹太主义调查的说法",
-      "summaryZh": "美国司法部否认了一名前司法部律师的举报人指控，该指控称常春藤联盟学校在缺乏证据的情况下被施压达成和解。事件涉及反犹太主义调查。",
-      "category": "体育",
+      "rank": 2,
+      "titleZh": "美国政府债务突破40万亿美元，十年间翻逾一番",
+      "summaryZh": "Hacker News上讨论美国政府债务突破40万亿美元，十年间增长超过一倍，该帖子获得60分和40条评论。",
+      "category": "政治",
       "regions": [
         "美国"
       ],
       "heat": {
-        "score": 56,
+        "score": 66,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
           "language": "en",
-          "publishedAt": "2026-08-18T19:56:48.000Z"
+          "publishedAt": "2026-08-19T20:48:27.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "特朗普威胁对任何帮助伊朗的国家施加‘巨大经济后果’",
+      "summaryZh": "在60天停火协议周一到期后，特朗普威胁称，任何帮助伊朗的国家将面临‘巨大的经济后果’，目前冲突尚无外交或军事解决方案的迹象。",
+      "category": "财经",
+      "regions": [
+        "美国",
+        "伊朗"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-20T01:02:51.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "一个玩笑域名购买演变成地缘政治冲突",
+      "summaryZh": "Hacker News上讨论一个玩笑性质的域名购买演变为地缘政治冲突，帖子获得761分和117条评论。",
+      "category": "国际",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+          "language": "en",
+          "publishedAt": "2026-08-19T11:21:50.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "阿马纳尔·彼得罗斯：从难民到欧洲冠军",
-      "summaryZh": "阿马纳尔·彼得罗斯青少年时独自逃往德国，如今已成为世界顶级马拉松运动员之一。在伯明翰，他赢得了个人首个重要冠军头衔。",
-      "category": "国际",
+      "titleZh": "几内亚终于可以在主场举办足球比赛",
+      "summaryZh": "非洲足联暂时批准了科纳克里9月28日体育场的许可，这可能让几内亚国家队自2022年以来首次在观众面前进行主场比赛。",
+      "category": "体育",
       "regions": [
-        "欧洲"
+        "几内亚"
       ],
       "heat": {
         "score": 50,
@@ -125,136 +119,22 @@
       },
       "sources": [
         {
-          "name": "DW Deutsch",
-          "url": "https://www.dw.com/de/amanal-petros-vom-flüchtling-zum-europameister/a-78413292?maca=de-rss-de-all-1119-rdf",
-          "language": "de",
-          "publishedAt": "2026-08-18T13:01:00.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260819-la-guin%C3%A9e-peut-enfin-organiser-des-matchs-de-football-%C3%A0-domicile",
+          "language": "fr",
+          "publishedAt": "2026-08-19T13:17:24.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "苹果调整欧盟App Store规则以解决与欧盟的争端",
-      "summaryZh": "苹果公司再次全面改革欧盟App Store规则，表示将解决与欧盟委员会在商业条款和替代分发上的分歧。所有开发者将统一商业条款，App Store之外分发的应用数字交易将收取5%的核心技术费。新规于10月1日生效。",
-      "category": "科技",
-      "regions": [
-        "欧盟"
-      ],
-      "heat": {
-        "score": 84,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
-          "language": "en",
-          "publishedAt": "2026-08-18T16:48:26.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
-          "language": "en",
-          "publishedAt": "2026-08-18T17:12:13.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "Peacock流媒体服务涨价最高3美元",
-      "summaryZh": "Peacock再次提高其流媒体套餐价格，带广告的Select套餐从每月7.99美元涨至8.99美元，带广告的Premium套餐从10.99美元涨至12.99美元，无广告的Premium Plus套餐从16.99美元涨至19.99美元。新价格于8月18日对新订阅者生效，现有订阅者将在9月17日后的下一个账单日看到调整。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 83,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
-          "language": "en",
-          "publishedAt": "2026-08-18T14:11:39.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
-          "language": "en",
-          "publishedAt": "2026-08-18T15:26:31.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "Comcast将数百万台路由器变成运动探测器",
-      "summaryZh": "Comcast将Wi-Fi运动感知功能推送到数百万台现有路由器，让它们成为家庭活动监测器。今天（8月18日）更新的Xfinity Internet应用在兼容路由器上免费启用该功能。作为Xfinity Shield服务的一部分，WiFi Motion通过检测网关与联网设备之间的Wi-Fi信号干扰，向用户发送家中活动通知。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 83,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing",
-          "language": "en",
-          "publishedAt": "2026-08-18T13:30:00.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
-          "language": "en",
-          "publishedAt": "2026-08-18T16:39:05.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "软件团队中的AI使用模式",
-      "summaryZh": "Hacker News上围绕软件团队中AI使用模式展开讨论，相关帖子获得42个点赞和19条评论；另一篇帖子则指出AI无法解决“工作剧场”问题，获得22个点赞和3条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 78,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://linear.app/data",
-          "language": "en",
-          "publishedAt": "2026-08-18T22:08:07.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://think-twice.me/?p=102",
-          "language": "en",
-          "publishedAt": "2026-08-18T15:21:29.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "被解职的乌克兰国防部长呼吁举行总统选举",
-      "summaryZh": "乌克兰自2022年2月以来实施戒严，选举被暂停。被解职的乌克兰国防部长呼吁举行总统选举，以期恢复民主进程。",
+      "titleZh": "澳大利亚对以色列决定不起诉加沙遇难援助人员一事表示‘愤怒’",
+      "summaryZh": "以色列决定不就加沙援助人员Zomi Frankcom之死提起诉讼，澳大利亚外长称将召见以色列大使，称该决定‘具有侮辱性’。",
       "category": "政治",
       "regions": [
-        "乌克兰"
+        "澳大利亚",
+        "以色列",
+        "加沙"
       ],
       "heat": {
         "score": 65,
@@ -265,9 +145,102 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-08-19T01:31:15.000Z"
+          "publishedAt": "2026-08-20T00:48:57.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "里克·斯科特放弃17亿美元医疗欺诈案后获得参议院席位",
+      "summaryZh": "Hacker News上讨论里克·斯科特在放弃17亿美元医疗欺诈案后获得参议院席位，帖子获得27分和0条评论。",
+      "category": "政治",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.uncensoredobjection.com/p/senator-rick-scott-walked-away-from",
+          "language": "en",
+          "publishedAt": "2026-08-19T22:52:03.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "加拿大和美国称即将敲定贸易协议，但细节仍不明朗",
+      "summaryZh": "加拿大总理卡尼称贸易谈判取得‘重大进展’，两国正寻求在周末新的关税截止日期前敲定最终细节。",
+      "category": "财经",
+      "regions": [
+        "加拿大",
+        "美国"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-20T00:18:01.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "娜塔莉·哈普是谁？特朗普的得力助手",
+      "summaryZh": "作为特朗普任期最长、最忠诚的助手之一，哈普因民主党人乔恩·奥索夫提到她与总统的密切关系而再次受到关注。",
+      "category": "政治",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-19T23:11:14.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "美军报纸出版商因与政府分歧辞职",
+      "summaryZh": "长期担任《星条旗报》出版商的退休之际，正值特朗普政府推动编辑控制权。",
+      "category": "政治",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-20T00:34:13.000Z"
         }
       ]
     }
