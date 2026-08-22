@@ -1,19 +1,219 @@
 {
-  "generatedAt": "2026-08-21T01:59:53.804Z",
+  "generatedAt": "2026-08-22T01:53:08.358Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "马克·扎克伯格购买爱尔兰城堡",
-      "summaryZh": "Meta CEO马克·扎克伯格和妻子普里西拉·陈购买了爱尔兰的斯特兰卡利城堡及其440英亩庄园。据《爱尔兰时报》报道，交易在几周前完成，价格可能在2000万至3000万欧元之间。扎克伯格发言人表示，他们期待照顾这座历史悠久的住宅，并在前往爱尔兰时来访，Meta的国际总部设在那里。",
+      "titleZh": "TikTok就儿童隐私诉讼与美国司法部达成4亿美元和解",
+      "summaryZh": "TikTok与美国政府达成和解，以解决其应用被指控违反儿童在线隐私法的指控。美国司法部宣布，TikTok将支付4亿美元，了结2024年提起的关于违反《儿童在线隐私保护法》的诉讼。TikTok将立即支付3亿美元，并在撤销先前对Musical.ly的同意法令后支付剩余1亿美元。",
       "category": "科技",
       "regions": [
-        "爱尔兰"
+        "美国"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 2,
+        "reasonZh": "共有3个来源、2个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-21T21:59:29.000Z"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+          "language": "en",
+          "publishedAt": "2026-08-21T22:13:34.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+          "language": "en",
+          "publishedAt": "2026-08-21T20:25:21.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "伊朗总统称是时候从强势地位结束对美战争",
+      "summaryZh": "伊朗总统佩泽希齐扬表示，当前是结束与美国战争的合适时机，因为伊朗处于强势和有尊严的地位。他还表示德黑兰永远不会屈服于恐吓。与此同时，阿曼和伊朗外长进行了通话，美国正准备实施经济制裁。",
+      "category": "财经",
+      "regions": [
+        "伊朗",
+        "美国"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-22T00:59:37.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-21T15:37:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "罗纳尔迪尼奥46岁复出足坛",
+      "summaryZh": "时隔十余年后，巴西球星罗纳尔迪尼奥将重返赛场。这位前世界足球先生将加盟意大利第三级别联赛球队拉文纳，目标是打入他所说的“第300个进球”。",
+      "category": "体育",
+      "regions": [
+        "意大利",
+        "巴西"
+      ],
+      "heat": {
+        "score": 79,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/ronaldinho-to-make-football-comeback-aged-46/a-78453950?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-21T08:50:00.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260821-football-ronaldinho-rechausse-les-crampons-%C3%A0-46-ans",
+          "language": "fr",
+          "publishedAt": "2026-08-21T13:19:29.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "加州议员克服亲以色列外部资金赢得特别选举",
+      "summaryZh": "州参议员Aisha Wahab的胜利标志着进步派人士在外部资金冲击下获胜的最新例子。尽管遭遇数百万美元的亲以色列外部支出，她仍在特别选举中胜出。",
+      "category": "政治",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-22T00:38:06.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "联合国秘书长继任人选竞争激烈，安理会举行第二轮意向投票",
+      "summaryZh": "联合国安理会15个成员国周五举行第二轮意向性投票，以在八名候选人中确定接替安东尼奥·古特雷斯的人选。此次遴选在联合国内部深刻分歧的背景下进行，特别是受到唐纳德·特朗普领导下的美国的压力。",
+      "category": "国际",
+      "regions": [
+        "国际"
+      ],
+      "heat": {
+        "score": 52,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260821-qui-pour-succ%C3%A9der-%C3%A0-antonio-guterres-au-poste-de-secr%C3%A9taire-g%C3%A9n%C3%A9ral-de-l-onu",
+          "language": "fr",
+          "publishedAt": "2026-08-21T15:03:17.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "美国贸易关税最后期限临近，加拿大谈判代表称仍有更多工作要做",
+      "summaryZh": "在美国与加拿大之间敲定协议的谈判中，双方正赶在周五晚最后期限前进行最后冲刺。华盛顿和渥太华正努力在周六美国新的高额关税生效前达成协议。美国总统特朗普表示，美国“应该能与加拿大达成协议”。",
+      "category": "财经",
+      "regions": [
+        "美国",
+        "加拿大"
+      ],
+      "heat": {
+        "score": 95,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-22T00:40:47.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/canada-says-more-work-needed-as-us-trade-deal-deadline-looms/a-78466352?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-22T01:26:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "苹果裁员Vision Pro和Siri团队员工",
+      "summaryZh": "据彭博社报道，苹果正在裁减Siri和Vision Pro团队的员工。裁员包括“基本关闭”一个Vision Pro游戏团队，并“缩减”制作Vision Pro沉浸式内容的团队规模。超过200个工作岗位被裁减。苹果表示，这些调整是为了“发展业务，为用户提供最佳体验”，但将设立新职位。",
+      "category": "科技",
+      "regions": [
+        "美国"
       ],
       "heat": {
         "score": 86,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
+          "language": "en",
+          "publishedAt": "2026-08-21T19:44:55.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+          "language": "en",
+          "publishedAt": "2026-08-21T20:58:07.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "第八条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "美洲"
+      ],
+      "heat": {
+        "score": 83,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -21,245 +221,68 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
+          "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
           "language": "en",
-          "publishedAt": "2026-08-20T18:50:14.000Z"
+          "publishedAt": "2026-08-21T17:01:59.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
+          "url": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
           "language": "en",
-          "publishedAt": "2026-08-20T19:55:40.000Z"
+          "publishedAt": "2026-08-21T14:30:23.000Z"
         }
       ]
     },
     {
-      "rank": 2,
-      "titleZh": "贝尔纳黛特·阿马尼在拜仁慕尼黑“实现梦想”",
-      "summaryZh": "来自科特迪瓦农村的贝尔纳黛特·阿马尼今年一月加盟拜仁慕尼黑，即将迎来她的首个完整赛季。她从未想过自己能以足球为生，如今在德国顶级联赛效力。",
-      "category": "体育",
-      "regions": [
-        "德国",
-        "科特迪瓦"
-      ],
-      "heat": {
-        "score": 79,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/bernadette-amani-living-her-dream-at-bayern-munich/a-78141213?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-20T08:54:00.000Z"
-        },
-        {
-          "name": "DW Deutsch",
-          "url": "https://www.dw.com/de/bernadette-amani-lebt-ihren-traum-bei-bayern-münchen/a-78442486?maca=de-rss-de-all-1119-rdf",
-          "language": "de",
-          "publishedAt": "2026-08-20T11:38:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "美国誓言对伊朗实施最严厉制裁并呼吁中国支持",
-      "summaryZh": "美国财政部长贝森特表示，新的经济措施将使伊朗政府“崩溃”。他没有说明是否会将中国等国作为经济孤立伊朗的目标。伊朗局势紧张，战争风险上升。",
-      "category": "财经",
-      "regions": [
-        "伊朗",
-        "美国",
-        "中国"
-      ],
-      "heat": {
-        "score": 75,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-21T00:00:00.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-20T19:11:44.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "中非共和国山体滑坡搜寻工作持续",
-      "summaryZh": "两天前金矿坍塌造成至少49人死亡，搜寻遇难者的工作仍在继续。中非共和国政府表示，已确认至少49人遇难。",
-      "category": "政治",
-      "regions": [
-        "中非共和国"
-      ],
-      "heat": {
-        "score": 58,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260820-les-recherches-se-poursuivent-pour-retrouver-les-victimes-de-l-%C3%A9boulement-en-centrafrique",
-          "language": "fr",
-          "publishedAt": "2026-08-20T20:20:33.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "欧盟版权法不保护AI生成内容",
-      "summaryZh": "Hacker News上热门讨论，帖子获得99分和78条评论。讨论欧盟法律中AI生成内容不受版权保护。",
+      "rank": 9,
+      "titleZh": "软件没有理由再慢",
+      "summaryZh": "Hacker News用户发帖指出，当前技术条件下软件没有理由再变慢，引发讨论。该帖子获得17分和4条评论。",
       "category": "科技",
       "regions": [
-        "欧盟",
         "全球"
       ],
       "heat": {
         "score": 82,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+          "url": "https://danluu.com/perf-opt/",
           "language": "en",
-          "publishedAt": "2026-08-21T00:15:12.000Z"
+          "publishedAt": "2026-08-22T01:06:17.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://openai.com/index/introducing-ai-futures/",
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
           "language": "en",
-          "publishedAt": "2026-08-20T19:46:49.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "不再有所谓的“小软件团队”",
-      "summaryZh": "Hacker News上讨论，认为现代软件团队规模已经不再小。帖子获得19分和16条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-          "language": "en",
-          "publishedAt": "2026-08-21T00:28:37.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "Show HN: Huzzah——一种AI编程的新方法",
-      "summaryZh": "Hacker News上展示了一个名为Huzzah的AI编程新方法，帖子获得223分和127条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.danielvaughn.dev/posts/huzzah/",
-          "language": "en",
-          "publishedAt": "2026-08-20T19:05:36.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "特朗普的“经济D-Day”对伊朗伤害有多大？",
-      "summaryZh": "伊朗多年来在制裁下仍找到了规避方法。分析特朗普政府新的经济制裁可能对伊朗产生的影响。",
-      "category": "财经",
-      "regions": [
-        "伊朗",
-        "美国"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-20T23:16:45.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "突尼斯反政府抗议者连续第二个月走上街头",
-      "summaryZh": "突尼斯经济状况恶化，抗议活动增多。过去一个月来，反政府抗议持续进行。",
-      "category": "财经",
-      "regions": [
-        "突尼斯"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-21T01:06:30.000Z"
+          "publishedAt": "2026-08-21T11:48:05.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "巴西启动AI超级计算机项目，平衡美中科技关系",
-      "summaryZh": "巴西政府宣布投资约23亿雷亚尔（4.442亿美元）加强AI生态系统。同时需要在美中科技之间平衡。",
-      "category": "科技",
+      "titleZh": "俄罗斯“双击”无人机袭击乌克兰商场致多人死亡",
+      "summaryZh": "乌克兰总统指责俄罗斯对其家乡克里维里赫的一个商场发动了“懦弱而蓄意”的袭击。此次“双次打击”无人机袭击造成多人死亡。",
+      "category": "政治",
       "regions": [
-        "巴西"
+        "乌克兰",
+        "俄罗斯"
       ],
       "heat": {
-        "score": 62,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-21T01:38:37.000Z"
+          "publishedAt": "2026-08-22T00:06:48.000Z"
         }
       ]
     }
