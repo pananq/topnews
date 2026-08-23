@@ -1,288 +1,270 @@
 {
-  "generatedAt": "2026-08-22T01:53:08.358Z",
+  "generatedAt": "2026-08-23T02:01:48.964Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "TikTok就儿童隐私诉讼与美国司法部达成4亿美元和解",
-      "summaryZh": "TikTok与美国政府达成和解，以解决其应用被指控违反儿童在线隐私法的指控。美国司法部宣布，TikTok将支付4亿美元，了结2024年提起的关于违反《儿童在线隐私保护法》的诉讼。TikTok将立即支付3亿美元，并在撤销先前对Musical.ly的同意法令后支付剩余1亿美元。",
-      "category": "科技",
+      "titleZh": "伊朗警告邻国勿加入美国经济战",
+      "summaryZh": "伊朗官员表示，任何加入美国经济战的国家将被视为敌人，伊朗将报复其利益。美国总统特朗普威胁通过经济孤立来削弱伊朗政府。",
+      "category": "财经",
       "regions": [
+        "伊朗",
+        "中东地区",
         "美国"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 3,
+        "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "共有3个来源、2个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-21T21:59:29.000Z"
+          "publishedAt": "2026-08-23T00:00:00.000Z"
         },
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-21T22:13:34.000Z"
+          "publishedAt": "2026-08-22T23:26:15.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+          "name": "DW",
+          "url": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-08-21T20:25:21.000Z"
+          "publishedAt": "2026-08-23T00:50:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "伊朗总统称是时候从强势地位结束对美战争",
-      "summaryZh": "伊朗总统佩泽希齐扬表示，当前是结束与美国战争的合适时机，因为伊朗处于强势和有尊严的地位。他还表示德黑兰永远不会屈服于恐吓。与此同时，阿曼和伊朗外长进行了通话，美国正准备实施经济制裁。",
-      "category": "财经",
+      "titleZh": "加拿大总理卡尼表示将对美国关税实施“对等”报复",
+      "summaryZh": "加拿大总理马克·卡尼表示，加拿大将“一分对一分”地匹配美国的新关税。此前美国对近200亿加元商品征收50%关税，卡尼宣布从9月8日起实施报复性关税。",
+      "category": "政治",
       "regions": [
-        "伊朗",
+        "加拿大",
         "美国"
       ],
       "heat": {
         "score": 100,
         "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-22T00:59:37.000Z"
+          "publishedAt": "2026-08-22T19:13:02.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-21T15:37:00.000Z"
+          "publishedAt": "2026-08-22T19:00:25.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+          "language": "en",
+          "publishedAt": "2026-08-22T06:16:57.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "罗纳尔迪尼奥46岁复出足坛",
-      "summaryZh": "时隔十余年后，巴西球星罗纳尔迪尼奥将重返赛场。这位前世界足球先生将加盟意大利第三级别联赛球队拉文纳，目标是打入他所说的“第300个进球”。",
-      "category": "体育",
-      "regions": [
-        "意大利",
-        "巴西"
-      ],
-      "heat": {
-        "score": 79,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/ronaldinho-to-make-football-comeback-aged-46/a-78453950?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-21T08:50:00.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260821-football-ronaldinho-rechausse-les-crampons-%C3%A0-46-ans",
-          "language": "fr",
-          "publishedAt": "2026-08-21T13:19:29.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "加州议员克服亲以色列外部资金赢得特别选举",
-      "summaryZh": "州参议员Aisha Wahab的胜利标志着进步派人士在外部资金冲击下获胜的最新例子。尽管遭遇数百万美元的亲以色列外部支出，她仍在特别选举中胜出。",
-      "category": "政治",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-22T00:38:06.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "联合国秘书长继任人选竞争激烈，安理会举行第二轮意向投票",
-      "summaryZh": "联合国安理会15个成员国周五举行第二轮意向性投票，以在八名候选人中确定接替安东尼奥·古特雷斯的人选。此次遴选在联合国内部深刻分歧的背景下进行，特别是受到唐纳德·特朗普领导下的美国的压力。",
-      "category": "国际",
-      "regions": [
-        "国际"
-      ],
-      "heat": {
-        "score": 52,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260821-qui-pour-succ%C3%A9der-%C3%A0-antonio-guterres-au-poste-de-secr%C3%A9taire-g%C3%A9n%C3%A9ral-de-l-onu",
-          "language": "fr",
-          "publishedAt": "2026-08-21T15:03:17.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "美国贸易关税最后期限临近，加拿大谈判代表称仍有更多工作要做",
-      "summaryZh": "在美国与加拿大之间敲定协议的谈判中，双方正赶在周五晚最后期限前进行最后冲刺。华盛顿和渥太华正努力在周六美国新的高额关税生效前达成协议。美国总统特朗普表示，美国“应该能与加拿大达成协议”。",
-      "category": "财经",
-      "regions": [
-        "美国",
-        "加拿大"
-      ],
-      "heat": {
-        "score": 95,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-22T00:40:47.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/canada-says-more-work-needed-as-us-trade-deal-deadline-looms/a-78466352?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-22T01:26:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "苹果裁员Vision Pro和Siri团队员工",
-      "summaryZh": "据彭博社报道，苹果正在裁减Siri和Vision Pro团队的员工。裁员包括“基本关闭”一个Vision Pro游戏团队，并“缩减”制作Vision Pro沉浸式内容的团队规模。超过200个工作岗位被裁减。苹果表示，这些调整是为了“发展业务，为用户提供最佳体验”，但将设立新职位。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 86,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
-          "language": "en",
-          "publishedAt": "2026-08-21T19:44:55.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-          "language": "en",
-          "publishedAt": "2026-08-21T20:58:07.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "第八条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "科技",
-      "regions": [
-        "美洲"
-      ],
-      "heat": {
-        "score": 83,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
-          "language": "en",
-          "publishedAt": "2026-08-21T17:01:59.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
-          "language": "en",
-          "publishedAt": "2026-08-21T14:30:23.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "软件没有理由再慢",
-      "summaryZh": "Hacker News用户发帖指出，当前技术条件下软件没有理由再变慢，引发讨论。该帖子获得17分和4条评论。",
+      "titleZh": "AI未能赢得公众信任，其制造商更不受信任",
+      "summaryZh": "报道指出，公众对AI的信任度不高，而对AI制造商的信任度更低。该内容在Hacker News上引发讨论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 82,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://danluu.com/perf-opt/",
+          "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
           "language": "en",
-          "publishedAt": "2026-08-22T01:06:17.000Z"
-        },
+          "publishedAt": "2026-08-22T23:30:20.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "酒店预订错误或使“蘑菇杀手”获释",
+      "summaryZh": "报道称，一场乒乓球比赛和一片润喉糖可能帮助艾琳·帕特森的律师推翻对她的定罪。她因蘑菇谋杀案被定罪。",
+      "category": "体育",
+      "regions": [
+        "澳大利亚"
+      ],
+      "heat": {
+        "score": 57,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-22T19:03:03.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "为巴勒斯坦人权利呼吁：102位前大使敦促英法行动",
+      "summaryZh": "102位法国和英国前大使在《世界报》发表联名信，呼吁两国作为联合国安理会常任理事国，共同行动，确保国际法在以色列和巴勒斯坦领土得到尊重。",
+      "category": "国际",
+      "regions": [
+        "法国",
+        "英国",
+        "以色列",
+        "巴勒斯坦"
+      ],
+      "heat": {
+        "score": 52,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260822-tribune-pour-les-droits-des-palestiniens-les-signataires-connaissent-intimement-la-r%C3%A9gion",
+          "language": "fr",
+          "publishedAt": "2026-08-22T15:39:51.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "卡尼在与特朗普的谈判破裂后面临关键考验",
+      "summaryZh": "加拿大总理卡尼在与白宫谈判破裂后，将不得不说服公众，他赌上后果离开谈判桌是值得的。",
+      "category": "政治",
+      "regions": [
+        "加拿大",
+        "美国"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-22T20:02:46.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "伊朗威胁加入美国“经济D日”的国家",
+      "summaryZh": "伊朗警告称，加入美国对伊朗经济战的国家将面临“以牙还牙”的行动。",
+      "category": "财经",
+      "regions": [
+        "伊朗",
+        "美国",
+        "相关国家"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-22T23:56:32.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "卡尼称特朗普的新关税是“误判”，贸易谈判破裂",
+      "summaryZh": "加拿大总理卡尼“不情愿地”宣布报复性关税，并指责美国发动贸易战。此前贸易谈判破裂。",
+      "category": "财经",
+      "regions": [
+        "加拿大",
+        "美国"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-22T20:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "智能体时代的软件工程",
+      "summaryZh": "文章讨论在智能体（Agent）时代软件工程的演变和挑战，在Hacker News上引发讨论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
         {
           "name": "Hacker News",
-          "url": "https://cymerys.com/w/im-becoming-ai-blind",
+          "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
           "language": "en",
-          "publishedAt": "2026-08-21T11:48:05.000Z"
+          "publishedAt": "2026-08-23T00:20:21.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "俄罗斯“双击”无人机袭击乌克兰商场致多人死亡",
-      "summaryZh": "乌克兰总统指责俄罗斯对其家乡克里维里赫的一个商场发动了“懦弱而蓄意”的袭击。此次“双次打击”无人机袭击造成多人死亡。",
-      "category": "政治",
+      "titleZh": "美国邮政局在法院裁决后仍发布邮寄投票限制措施",
+      "summaryZh": "美国总统特朗普呼吁限制邮寄投票，以图控制选举。尽管法院有裁决，美国邮政局仍发布相关限制措施。",
+      "category": "财经",
       "regions": [
-        "乌克兰",
-        "俄罗斯"
+        "美国"
       ],
       "heat": {
-        "score": 63,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-22T00:06:48.000Z"
+          "publishedAt": "2026-08-22T20:49:17.000Z"
         }
       ]
     }
