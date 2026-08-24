@@ -1,92 +1,19 @@
 {
-  "generatedAt": "2026-08-23T02:01:48.964Z",
+  "generatedAt": "2026-08-24T01:59:28.549Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "伊朗警告邻国勿加入美国经济战",
-      "summaryZh": "伊朗官员表示，任何加入美国经济战的国家将被视为敌人，伊朗将报复其利益。美国总统特朗普威胁通过经济孤立来削弱伊朗政府。",
-      "category": "财经",
-      "regions": [
-        "伊朗",
-        "中东地区",
-        "美国"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-23T00:00:00.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-22T23:26:15.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-23T00:50:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "加拿大总理卡尼表示将对美国关税实施“对等”报复",
-      "summaryZh": "加拿大总理马克·卡尼表示，加拿大将“一分对一分”地匹配美国的新关税。此前美国对近200亿加元商品征收50%关税，卡尼宣布从9月8日起实施报复性关税。",
-      "category": "政治",
-      "regions": [
-        "加拿大",
-        "美国"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-22T19:13:02.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-22T19:00:25.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-          "language": "en",
-          "publishedAt": "2026-08-22T06:16:57.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "AI未能赢得公众信任，其制造商更不受信任",
-      "summaryZh": "报道指出，公众对AI的信任度不高，而对AI制造商的信任度更低。该内容在Hacker News上引发讨论。",
+      "titleZh": "AI芯片架构",
+      "summaryZh": "Hacker News社区就AI芯片架构展开讨论，相关帖子获得49分和12条评论。此外，还有关于AI与基础设施工程以及训练AI用代码绘画的帖子，展示了AI领域的技术多样性。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 62,
+        "score": 92,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -94,48 +21,34 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
+          "url": "https://www.jepeake.com/ai-chip-architectures",
           "language": "en",
-          "publishedAt": "2026-08-22T23:30:20.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "酒店预订错误或使“蘑菇杀手”获释",
-      "summaryZh": "报道称，一场乒乓球比赛和一片润喉糖可能帮助艾琳·帕特森的律师推翻对她的定罪。她因蘑菇谋杀案被定罪。",
-      "category": "体育",
-      "regions": [
-        "澳大利亚"
-      ],
-      "heat": {
-        "score": 57,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
+          "publishedAt": "2026-08-23T02:25:10.000Z"
+        },
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
           "language": "en",
-          "publishedAt": "2026-08-22T19:03:03.000Z"
+          "publishedAt": "2026-08-23T18:09:01.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://surya.website/rling-qwen-to-paint-with-code",
+          "language": "en",
+          "publishedAt": "2026-08-23T19:39:29.000Z"
         }
       ]
     },
     {
-      "rank": 5,
-      "titleZh": "为巴勒斯坦人权利呼吁：102位前大使敦促英法行动",
-      "summaryZh": "102位法国和英国前大使在《世界报》发表联名信，呼吁两国作为联合国安理会常任理事国，共同行动，确保国际法在以色列和巴勒斯坦领土得到尊重。",
-      "category": "国际",
+      "rank": 2,
+      "titleZh": "乌克兰不举行选举：宪法层面很复杂",
+      "summaryZh": "乌克兰总统泽连斯基表示，战时举行选举将对国家构成危险，如同“海啸”一般“撕裂乌克兰”。此前其前国防部长呼吁为选举铺路，但泽连斯基指出宪法上存在复杂性，且自2022年2月以来乌克兰一直实施戒严。",
+      "category": "政治",
       "regions": [
-        "法国",
-        "英国",
-        "以色列",
-        "巴勒斯坦"
+        "乌克兰"
       ],
       "heat": {
-        "score": 52,
+        "score": 66,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -143,114 +56,25 @@
       "sources": [
         {
           "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260822-tribune-pour-les-droits-des-palestiniens-les-signataires-connaissent-intimement-la-r%C3%A9gion",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260823-%C3%A9lections-en-ukraine-c-est-compliqu%C3%A9-sur-le-plan-constitutionnel",
           "language": "fr",
-          "publishedAt": "2026-08-22T15:39:51.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "卡尼在与特朗普的谈判破裂后面临关键考验",
-      "summaryZh": "加拿大总理卡尼在与白宫谈判破裂后，将不得不说服公众，他赌上后果离开谈判桌是值得的。",
-      "category": "政治",
-      "regions": [
-        "加拿大",
-        "美国"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
+          "publishedAt": "2026-08-23T16:08:06.000Z"
+        },
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-22T20:02:46.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260823-des-%C3%A9lections-seraient-un-tsunami-qui-fracturerait-l-ukraine-dit-zelensky",
+          "language": "fr",
+          "publishedAt": "2026-08-23T12:58:58.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "伊朗威胁加入美国“经济D日”的国家",
-      "summaryZh": "伊朗警告称，加入美国对伊朗经济战的国家将面临“以牙还牙”的行动。",
-      "category": "财经",
-      "regions": [
-        "伊朗",
-        "美国",
-        "相关国家"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-22T23:56:32.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "卡尼称特朗普的新关税是“误判”，贸易谈判破裂",
-      "summaryZh": "加拿大总理卡尼“不情愿地”宣布报复性关税，并指责美国发动贸易战。此前贸易谈判破裂。",
+      "rank": 3,
+      "titleZh": "特朗普称贸易谈判破裂后加拿大想要成为美国州的好处",
+      "summaryZh": "加拿大总理表示“不情愿地”宣布报复性关税，并指责美国发动贸易战。此前美国与加拿大的贸易谈判破裂，特朗普称加拿大想要成为美国州的好处。",
       "category": "财经",
       "regions": [
         "加拿大",
-        "美国"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-22T20:10:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "智能体时代的软件工程",
-      "summaryZh": "文章讨论在智能体（Agent）时代软件工程的演变和挑战，在Hacker News上引发讨论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
-          "language": "en",
-          "publishedAt": "2026-08-23T00:20:21.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "美国邮政局在法院裁决后仍发布邮寄投票限制措施",
-      "summaryZh": "美国总统特朗普呼吁限制邮寄投票，以图控制选举。尽管法院有裁决，美国邮政局仍发布相关限制措施。",
-      "category": "财经",
-      "regions": [
         "美国"
       ],
       "heat": {
@@ -261,10 +85,179 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-08-22T20:49:17.000Z"
+          "publishedAt": "2026-08-23T19:11:30.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "中国战队All Gamers在巴黎赢得2026电竞世界杯",
+      "summaryZh": "中国战队All Gamers在巴黎击败沙特队，夺得第三届电竞世界杯冠军。本次赛事汇集了来自全球约200家俱乐部的2000多名选手，在24款不同游戏上进行角逐。",
+      "category": "体育",
+      "regions": [
+        "中国",
+        "法国"
+      ],
+      "heat": {
+        "score": 56,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260823-esports-world-cup-2026-jeux-video-chine-all-gamers-coupe-paris-arabie-saoudite",
+          "language": "fr",
+          "publishedAt": "2026-08-23T23:01:30.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "法国：火灾复燃风险依然存在",
+      "summaryZh": "法国六个省份仍面临高度火灾风险，吉伦特省即如此。消防员在那里与大火进行了激烈斗争，目前仍继续工作以确保火势不会复燃。",
+      "category": "国际",
+      "regions": [
+        "法国"
+      ],
+      "heat": {
+        "score": 52,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260823-france-le-risque-de-reprise-des-incendies-plane-toujours",
+          "language": "fr",
+          "publishedAt": "2026-08-23T15:04:24.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "我把1983年的Unix talk变成了我的AI界面",
+      "summaryZh": "Hacker News上，一位开发者分享了他将1983年Unix talk改造成AI界面的经验，帖子获得18分和8条评论。另一篇名为《我已完成用AI编程》的帖子获得18分，但暂无评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 76,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+          "language": "en",
+          "publishedAt": "2026-08-23T18:00:20.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.youtube.com/watch?v=2ZU3j4GQ4K8",
+          "language": "en",
+          "publishedAt": "2026-08-23T19:57:12.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "Anthropic顶级AI模型难以吸引用户，而更便宜的工具蓬勃发展",
+      "summaryZh": "Hacker News上一篇文章指出，Anthropic的最佳AI模型难以吸引用户，而更便宜的工具正在蓬勃发展。该帖获得228分和193条评论，讨论热烈。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+          "language": "en",
+          "publishedAt": "2026-08-23T18:16:37.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "伊朗战争直播：伊朗议会推进霍尔木兹服务费计划",
+      "summaryZh": "伊朗议会推进一项法律草案，规定获准通过霍尔木兹海峡的国家船只需向伊朗支付服务费。",
+      "category": "政治",
+      "regions": [
+        "伊朗",
+        "中东"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-24T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "我花了266美元和四个AI模型来拥有我的平板电脑。GLM-5.3一天就完成了",
+      "summaryZh": "Hacker News上，一名用户分享了自己花费266美元和四个AI模型以获得平板电脑的经历，其中GLM-5.3在一天内完成了任务。该帖获得618分和267条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://ericpardee.github.io/fire-hd-ownership/",
+          "language": "en",
+          "publishedAt": "2026-08-23T14:23:09.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "特朗普挥动绿旗启动华盛顿街头举行的IndyCar比赛",
+      "summaryZh": "特朗普在IndyCar比赛前挥舞绿旗，并进行了赛道巡游。这场比赛是庆祝美国建国250周年的夏季活动的高潮。",
+      "category": "政治",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-23T20:19:36.000Z"
         }
       ]
     }
