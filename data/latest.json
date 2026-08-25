@@ -1,84 +1,79 @@
 {
-  "generatedAt": "2026-08-24T01:59:28.549Z",
+  "generatedAt": "2026-08-25T01:54:49.724Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "AI芯片架构",
-      "summaryZh": "Hacker News社区就AI芯片架构展开讨论，相关帖子获得49分和12条评论。此外，还有关于AI与基础设施工程以及训练AI用代码绘画的帖子，展示了AI领域的技术多样性。",
-      "category": "科技",
+      "titleZh": "美国将叙利亚从支持恐怖主义国家名单中移除",
+      "summaryZh": "特朗普政府已接纳叙利亚新总统、前与基地组织有关联的武装分子艾哈迈德·沙拉。华盛顿还撤销了对由沙拉领导的前“沙姆解放组织”（HTS）的“恐怖组织”认定。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "叙利亚",
+        "美国"
       ],
       "heat": {
-        "score": 92,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.jepeake.com/ai-chip-architectures",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-08-23T02:25:10.000Z"
+          "publishedAt": "2026-08-25T00:17:25.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-23T18:09:01.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://surya.website/rling-qwen-to-paint-with-code",
-          "language": "en",
-          "publishedAt": "2026-08-23T19:39:29.000Z"
+          "publishedAt": "2026-08-24T22:32:26.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "乌克兰不举行选举：宪法层面很复杂",
-      "summaryZh": "乌克兰总统泽连斯基表示，战时举行选举将对国家构成危险，如同“海啸”一般“撕裂乌克兰”。此前其前国防部长呼吁为选举铺路，但泽连斯基指出宪法上存在复杂性，且自2022年2月以来乌克兰一直实施戒严。",
-      "category": "政治",
+      "titleZh": "Zillow与Redfin就租赁房源合作反垄断案与FTC达成和解",
+      "summaryZh": "美国联邦贸易委员会（FTC）与Zillow宣布达成和解，结束了指控2025年Zillow与Redfin的“合作”违反反垄断法的案件。和解方案允许Redfin继续从Zillow获取租赁房源信息，但要求其重新开展租赁广告业务。",
+      "category": "科技",
       "regions": [
-        "乌克兰"
+        "美国"
       ],
       "heat": {
-        "score": 66,
-        "sourceCount": 1,
+        "score": 85,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260823-%C3%A9lections-en-ukraine-c-est-compliqu%C3%A9-sur-le-plan-constitutionnel",
-          "language": "fr",
-          "publishedAt": "2026-08-23T16:08:06.000Z"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+          "language": "en",
+          "publishedAt": "2026-08-24T17:01:05.000Z"
         },
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260823-des-%C3%A9lections-seraient-un-tsunami-qui-fracturerait-l-ukraine-dit-zelensky",
-          "language": "fr",
-          "publishedAt": "2026-08-23T12:58:58.000Z"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+          "language": "en",
+          "publishedAt": "2026-08-24T20:45:33.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "特朗普称贸易谈判破裂后加拿大想要成为美国州的好处",
-      "summaryZh": "加拿大总理表示“不情愿地”宣布报复性关税，并指责美国发动贸易战。此前美国与加拿大的贸易谈判破裂，特朗普称加拿大想要成为美国州的好处。",
+      "titleZh": "加拿大如何反击以损害美国经济及特朗普",
+      "summaryZh": "加拿大约70%的商品销往美国，在这场不断升级的贸易争端中，加拿大实际上拥有哪些筹码？文章探讨了加拿大的反击手段。",
       "category": "财经",
       "regions": [
         "加拿大",
         "美国"
       ],
       "heat": {
-        "score": 60,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -86,20 +81,42 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-08-23T19:11:30.000Z"
+          "publishedAt": "2026-08-25T00:40:06.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "中国战队All Gamers在巴黎赢得2026电竞世界杯",
-      "summaryZh": "中国战队All Gamers在巴黎击败沙特队，夺得第三届电竞世界杯冠军。本次赛事汇集了来自全球约200家俱乐部的2000多名选手，在24款不同游戏上进行角逐。",
+      "titleZh": "停火监督团抵达刚果民主共和国",
+      "summaryZh": "尽管达成了停火协议，这个矿产资源丰富的地区的战斗仍在继续。刚果民主共和国迎来停火监督使团。",
+      "category": "国际",
+      "regions": [
+        "刚果民主共和国"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-24T20:48:09.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "前利物浦球星法比尼奥在特拉布宗体育与萨拉赫重聚",
+      "summaryZh": "法比尼奥于2023年加盟沙特阿拉伯的伊蒂哈德俱乐部，在效力利物浦五年后赢得了联赛冠军。如今他在特拉布宗体育与穆罕默德·萨拉赫再度联手。",
       "category": "体育",
       "regions": [
-        "中国",
-        "法国"
+        "土耳其"
       ],
       "heat": {
         "score": 56,
@@ -109,46 +126,23 @@
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260823-esports-world-cup-2026-jeux-video-chine-all-gamers-coupe-paris-arabie-saoudite",
-          "language": "fr",
-          "publishedAt": "2026-08-23T23:01:30.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "法国：火灾复燃风险依然存在",
-      "summaryZh": "法国六个省份仍面临高度火灾风险，吉伦特省即如此。消防员在那里与大火进行了激烈斗争，目前仍继续工作以确保火势不会复燃。",
-      "category": "国际",
-      "regions": [
-        "法国"
-      ],
-      "heat": {
-        "score": 52,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260823-france-le-risque-de-reprise-des-incendies-plane-toujours",
-          "language": "fr",
-          "publishedAt": "2026-08-23T15:04:24.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-24T20:03:48.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "我把1983年的Unix talk变成了我的AI界面",
-      "summaryZh": "Hacker News上，一位开发者分享了他将1983年Unix talk改造成AI界面的经验，帖子获得18分和8条评论。另一篇名为《我已完成用AI编程》的帖子获得18分，但暂无评论。",
+      "titleZh": "复古人工智能：在它变得尴尬之前",
+      "summaryZh": "Hacker News上引发讨论，用户分享关于早期人工智能的历史和观点，帖子获得55分和12条评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 76,
+        "score": 78,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -156,22 +150,51 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
           "language": "en",
-          "publishedAt": "2026-08-23T18:00:20.000Z"
+          "publishedAt": "2026-08-24T21:01:38.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://www.youtube.com/watch?v=2ZU3j4GQ4K8",
+          "url": "https://blog.torh.net/2026/08/24/em-dash-is-fine-it-is-ai-that-sucks/",
           "language": "en",
-          "publishedAt": "2026-08-23T19:57:12.000Z"
+          "publishedAt": "2026-08-24T18:15:12.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "Anthropic顶级AI模型难以吸引用户，而更便宜的工具蓬勃发展",
-      "summaryZh": "Hacker News上一篇文章指出，Anthropic的最佳AI模型难以吸引用户，而更便宜的工具正在蓬勃发展。该帖获得228分和193条评论，讨论热烈。",
+      "titleZh": "大多数AI工作可以等待",
+      "summaryZh": "Hacker News上的讨论，帖子获得29分和0条评论，主题是认为大多数AI工作可以推迟。",
+      "category": "政治",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 78,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://tomtunguz.com/ai-execution-routing/",
+          "language": "en",
+          "publishedAt": "2026-08-24T08:03:27.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://arxiv.org/abs/2608.16603",
+          "language": "en",
+          "publishedAt": "2026-08-24T16:30:21.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "编程专业知识将因依赖AI而崩溃",
+      "summaryZh": "Hacker News上的热门讨论，帖子获得464分和461条评论，探讨依赖人工智能可能导致编程专业知识的崩溃。",
       "category": "科技",
       "regions": [
         "全球"
@@ -185,23 +208,22 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
           "language": "en",
-          "publishedAt": "2026-08-23T18:16:37.000Z"
+          "publishedAt": "2026-08-24T15:52:33.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "伊朗战争直播：伊朗议会推进霍尔木兹服务费计划",
-      "summaryZh": "伊朗议会推进一项法律草案，规定获准通过霍尔木兹海峡的国家船只需向伊朗支付服务费。",
+      "rank": 9,
+      "titleZh": "刚果（金）宪法之争：2028年大选之战",
+      "summaryZh": "总统齐塞克迪的宪法改革推动正在加剧围绕2028年刚果民主共和国权力交接的争斗。",
       "category": "政治",
       "regions": [
-        "伊朗",
-        "中东"
+        "刚果民主共和国"
       ],
       "heat": {
-        "score": 63,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -209,22 +231,22 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-24T00:00:00.000Z"
+          "publishedAt": "2026-08-25T00:34:29.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "我花了266美元和四个AI模型来拥有我的平板电脑。GLM-5.3一天就完成了",
-      "summaryZh": "Hacker News上，一名用户分享了自己花费266美元和四个AI模型以获得平板电脑的经历，其中GLM-5.3在一天内完成了任务。该帖获得618分和267条评论。",
-      "category": "科技",
+      "rank": 10,
+      "titleZh": "那份让我不再信任统计机构的政府报告",
+      "summaryZh": "Hacker News上的帖子获得45分和3条评论，作者表示对政府统计机构的信任因一份报告而动摇。",
+      "category": "政治",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 63,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -232,32 +254,9 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://ericpardee.github.io/fire-hd-ownership/",
+          "url": "https://econjared.substack.com/p/the-government-report-that-made-me",
           "language": "en",
-          "publishedAt": "2026-08-23T14:23:09.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "特朗普挥动绿旗启动华盛顿街头举行的IndyCar比赛",
-      "summaryZh": "特朗普在IndyCar比赛前挥舞绿旗，并进行了赛道巡游。这场比赛是庆祝美国建国250周年的夏季活动的高潮。",
-      "category": "政治",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-08-23T20:19:36.000Z"
+          "publishedAt": "2026-08-24T19:47:19.000Z"
         }
       ]
     }
