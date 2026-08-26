@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-08-25T01:54:49.724Z",
+  "generatedAt": "2026-08-26T02:00:44.578Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "美国将叙利亚从支持恐怖主义国家名单中移除",
-      "summaryZh": "特朗普政府已接纳叙利亚新总统、前与基地组织有关联的武装分子艾哈迈德·沙拉。华盛顿还撤销了对由沙拉领导的前“沙姆解放组织”（HTS）的“恐怖组织”认定。",
-      "category": "政治",
+      "titleZh": "加拿大宣布对美国征收高达50%的“对等”报复性关税",
+      "summaryZh": "加拿大政府宣布将针对美国商品征收报复性关税，涉及钢铁、家具、新鲜金枪鱼和化妆品等，税率最高可达50%。此举是美加贸易战的最新升级，将于下月起对约700种美国商品加征关税。",
+      "category": "财经",
       "regions": [
-        "叙利亚",
-        "美国"
+        "美国",
+        "加拿大"
       ],
       "heat": {
-        "score": 100,
+        "score": 90,
         "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-08-25T00:17:25.000Z"
+          "publishedAt": "2026-08-25T19:50:57.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/canada-announces-retaliatory-tariffs-on-us-goods/a-78491819?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-08-24T22:32:26.000Z"
+          "publishedAt": "2026-08-25T15:17:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "Zillow与Redfin就租赁房源合作反垄断案与FTC达成和解",
-      "summaryZh": "美国联邦贸易委员会（FTC）与Zillow宣布达成和解，结束了指控2025年Zillow与Redfin的“合作”违反反垄断法的案件。和解方案允许Redfin继续从Zillow获取租赁房源信息，但要求其重新开展租赁广告业务。",
+      "titleZh": "第二条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "科技",
       "regions": [
-        "美国"
+        "美洲"
       ],
       "heat": {
         "score": 85,
@@ -51,98 +51,97 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+          "url": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
           "language": "en",
-          "publishedAt": "2026-08-24T17:01:05.000Z"
+          "publishedAt": "2026-08-25T17:12:31.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+          "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
           "language": "en",
-          "publishedAt": "2026-08-24T20:45:33.000Z"
+          "publishedAt": "2026-08-25T19:22:52.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "加拿大如何反击以损害美国经济及特朗普",
-      "summaryZh": "加拿大约70%的商品销往美国，在这场不断升级的贸易争端中，加拿大实际上拥有哪些筹码？文章探讨了加拿大的反击手段。",
-      "category": "财经",
+      "titleZh": "呼吁弹劾特朗普的美国士兵面临军事指控",
+      "summaryZh": "美国陆军少校贾森·沃森因呼吁弹劾总统特朗普而面临军事指控，该指控依据一项极少使用的军事法律，该法律禁止批评美国总统。",
+      "category": "政治",
       "regions": [
-        "加拿大",
         "美国"
       ],
       "heat": {
-        "score": 64,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-25T00:40:06.000Z"
+          "publishedAt": "2026-08-25T21:16:43.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "停火监督团抵达刚果民主共和国",
-      "summaryZh": "尽管达成了停火协议，这个矿产资源丰富的地区的战斗仍在继续。刚果民主共和国迎来停火监督使团。",
+      "titleZh": "海地：帮派联盟发动新的致命袭击",
+      "summaryZh": "据联合国初步统计，海地发生新的帮派袭击，造成至少47人死亡、22人受伤。民众谴责在安全混乱中缺乏保护，该国正陷入安全危机。",
       "category": "国际",
       "regions": [
-        "刚果民主共和国"
+        "海地"
       ],
       "heat": {
-        "score": 58,
+        "score": 51,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-24T20:48:09.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260825-ha%C3%AFti-nouvelle-attaque-meurtri%C3%A8re-attribu%C3%A9e-%C3%A0-une-coalition-de-gangs",
+          "language": "fr",
+          "publishedAt": "2026-08-25T13:53:02.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "前利物浦球星法比尼奥在特拉布宗体育与萨拉赫重聚",
-      "summaryZh": "法比尼奥于2023年加盟沙特阿拉伯的伊蒂哈德俱乐部，在效力利物浦五年后赢得了联赛冠军。如今他在特拉布宗体育与穆罕默德·萨拉赫再度联手。",
+      "titleZh": "德甲开赛前你需要知道什么",
+      "summaryZh": "德甲将迎来第64个赛季，新赛季有一些新规则，新升班马埃尔弗斯贝格加入。转会市场更注重投资年轻球员而非成熟球星。",
       "category": "体育",
       "regions": [
-        "土耳其"
+        "德国"
       ],
       "heat": {
-        "score": 56,
+        "score": 49,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-24T20:03:48.000Z"
+          "name": "DW Deutsch",
+          "url": "https://www.dw.com/de/was-man-vor-dem-start-der-fußball-bundesliga-wissen-muss/a-78495082?maca=de-rss-de-all-1119-rdf",
+          "language": "de",
+          "publishedAt": "2026-08-25T12:08:00.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "复古人工智能：在它变得尴尬之前",
-      "summaryZh": "Hacker News上引发讨论，用户分享关于早期人工智能的历史和观点，帖子获得55分和12条评论。",
+      "titleZh": "HN上有多少内容是关于AI的？",
+      "summaryZh": "这是一条Hacker News上的讨论帖，目前获得248分和298条评论，由用户surprisetalk发布。内容引发关于AI在HN占比的讨论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 78,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -150,80 +149,22 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
           "language": "en",
-          "publishedAt": "2026-08-24T21:01:38.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://blog.torh.net/2026/08/24/em-dash-is-fine-it-is-ai-that-sucks/",
-          "language": "en",
-          "publishedAt": "2026-08-24T18:15:12.000Z"
+          "publishedAt": "2026-08-25T15:23:41.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "大多数AI工作可以等待",
-      "summaryZh": "Hacker News上的讨论，帖子获得29分和0条评论，主题是认为大多数AI工作可以推迟。",
+      "titleZh": "尼日利亚展开行动营救600名被绑架者",
+      "summaryZh": "尼日利亚总统博拉·艾哈迈德·蒂努布周二宣布展开救援行动，营救600名大规模绑架事件的受害者。",
       "category": "政治",
       "regions": [
-        "全球"
+        "尼日利亚"
       ],
       "heat": {
-        "score": 78,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://tomtunguz.com/ai-execution-routing/",
-          "language": "en",
-          "publishedAt": "2026-08-24T08:03:27.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://arxiv.org/abs/2608.16603",
-          "language": "en",
-          "publishedAt": "2026-08-24T16:30:21.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "编程专业知识将因依赖AI而崩溃",
-      "summaryZh": "Hacker News上的热门讨论，帖子获得464分和461条评论，探讨依赖人工智能可能导致编程专业知识的崩溃。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-          "language": "en",
-          "publishedAt": "2026-08-24T15:52:33.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "刚果（金）宪法之争：2028年大选之战",
-      "summaryZh": "总统齐塞克迪的宪法改革推动正在加剧围绕2028年刚果民主共和国权力交接的争斗。",
-      "category": "政治",
-      "regions": [
-        "刚果民主共和国"
-      ],
-      "heat": {
-        "score": 64,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -231,22 +172,69 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-25T00:34:29.000Z"
+          "publishedAt": "2026-08-25T20:37:42.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "专家称美国对伊朗新制裁显示特朗普的绝望",
+      "summaryZh": "分析人士认为，经济升级不太可能迫使伊朗政府屈服于美国的要求。美国对伊朗的新制裁被视为特朗普政府的绝望之举。",
+      "category": "财经",
+      "regions": [
+        "美国",
+        "伊朗"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-25T20:34:49.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "特朗普政府称肯尼迪中心若无法修缮可能被拆除",
+      "summaryZh": "美国司法部律师对联邦法官表示，如果没有总统的帮助，肯尼迪中心“无法生存”。这可能意味着该建筑面临被拆除的风险。",
+      "category": "政治",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-25T20:08:33.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "那份让我不再信任统计机构的政府报告",
-      "summaryZh": "Hacker News上的帖子获得45分和3条评论，作者表示对政府统计机构的信任因一份报告而动摇。",
-      "category": "政治",
+      "titleZh": "展示HN：我用树莓派和Qwen制作了本地车载AI",
+      "summaryZh": "一位开发者展示了他的作品：用树莓派和Qwen模型打造的本地车载AI。该帖在Hacker News上获得105分和23条评论。",
+      "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -254,9 +242,9 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://econjared.substack.com/p/the-government-report-that-made-me",
+          "url": "https://github.com/ThinkOffApp/CarWatch",
           "language": "en",
-          "publishedAt": "2026-08-24T19:47:19.000Z"
+          "publishedAt": "2026-08-25T15:20:20.000Z"
         }
       ]
     }
