@@ -1,78 +1,48 @@
 {
-  "generatedAt": "2026-08-26T02:00:44.578Z",
+  "generatedAt": "2026-08-27T09:55:53.452Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "加拿大宣布对美国征收高达50%的“对等”报复性关税",
-      "summaryZh": "加拿大政府宣布将针对美国商品征收报复性关税，涉及钢铁、家具、新鲜金枪鱼和化妆品等，税率最高可达50%。此举是美加贸易战的最新升级，将于下月起对约700种美国商品加征关税。",
-      "category": "财经",
+      "titleZh": "第一条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
       "regions": [
-        "美国",
-        "加拿大"
+        "全球"
       ],
       "heat": {
-        "score": 90,
-        "sourceCount": 2,
+        "score": 79,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://acceptmarkdown.com/",
           "language": "en",
-          "publishedAt": "2026-08-25T19:50:57.000Z"
+          "publishedAt": "2026-08-26T19:45:59.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/canada-announces-retaliatory-tariffs-on-us-goods/a-78491819?maca=en-rss-en-all-1573-rdf",
+          "name": "Hacker News",
+          "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
           "language": "en",
-          "publishedAt": "2026-08-25T15:17:00.000Z"
+          "publishedAt": "2026-08-26T14:49:30.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "第二条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "科技",
-      "regions": [
-        "美洲"
-      ],
-      "heat": {
-        "score": 85,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
-          "language": "en",
-          "publishedAt": "2026-08-25T17:12:31.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
-          "language": "en",
-          "publishedAt": "2026-08-25T19:22:52.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "呼吁弹劾特朗普的美国士兵面临军事指控",
-      "summaryZh": "美国陆军少校贾森·沃森因呼吁弹劾总统特朗普而面临军事指控，该指控依据一项极少使用的军事法律，该法律禁止批评美国总统。",
+      "titleZh": "特朗普在地图上划掉安大略湖，更名为“美利坚湖”",
+      "summaryZh": "美国总统唐纳德·特朗普发布了一段视频，他在视频中划掉地图上的安大略湖，并写上“美利坚湖”。该事件由半岛电视台报道。",
       "category": "政治",
       "regions": [
         "美国"
       ],
       "heat": {
-        "score": 61,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -80,64 +50,19 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/trump-crosses-lake-ontario-on-map-renames-it-lake-america?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-25T21:16:43.000Z"
+          "publishedAt": "2026-08-27T09:37:21.000Z"
         }
       ]
     },
     {
-      "rank": 4,
-      "titleZh": "海地：帮派联盟发动新的致命袭击",
-      "summaryZh": "据联合国初步统计，海地发生新的帮派袭击，造成至少47人死亡、22人受伤。民众谴责在安全混乱中缺乏保护，该国正陷入安全危机。",
-      "category": "国际",
+      "rank": 3,
+      "titleZh": "霍尔木兹海峡通行量下降95%，全球航运格局生变",
+      "summaryZh": "一场危机导致霍尔木兹海峡交通量下降95%，这个承载全球约80%贸易量的关键航道受到严重干扰。该事件对全球供应链造成冲击。",
+      "category": "财经",
       "regions": [
-        "海地"
-      ],
-      "heat": {
-        "score": 51,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260825-ha%C3%AFti-nouvelle-attaque-meurtri%C3%A8re-attribu%C3%A9e-%C3%A0-une-coalition-de-gangs",
-          "language": "fr",
-          "publishedAt": "2026-08-25T13:53:02.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "德甲开赛前你需要知道什么",
-      "summaryZh": "德甲将迎来第64个赛季，新赛季有一些新规则，新升班马埃尔弗斯贝格加入。转会市场更注重投资年轻球员而非成熟球星。",
-      "category": "体育",
-      "regions": [
-        "德国"
-      ],
-      "heat": {
-        "score": 49,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW Deutsch",
-          "url": "https://www.dw.com/de/was-man-vor-dem-start-der-fußball-bundesliga-wissen-muss/a-78495082?maca=de-rss-de-all-1119-rdf",
-          "language": "de",
-          "publishedAt": "2026-08-25T12:08:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "HN上有多少内容是关于AI的？",
-      "summaryZh": "这是一条Hacker News上的讨论帖，目前获得248分和298条评论，由用户surprisetalk发布。内容引发关于AI在HN占比的讨论。",
-      "category": "科技",
-      "regions": [
+        "中东",
         "全球"
       ],
       "heat": {
@@ -148,20 +73,124 @@
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-25T15:23:41.000Z"
+          "publishedAt": "2026-08-27T09:29:06.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "费内巴切欧冠资格赛战胜利昂却遭混乱扰乱",
+      "summaryZh": "费内巴切的法国中场贡多齐在赛后嘲弄里昂球迷，随后遭到里昂球迷的袭击。比赛场面因此变得混乱。",
+      "category": "体育",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/8/27/chaos-mars-fenerbahces-champions-league-qualifying-win-over-lyon?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-27T08:57:38.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "苹果宣布9月9日举行iPhone发布会",
+      "summaryZh": "苹果宣布将于9月9日东部时间下午1点在Apple Park的史蒂夫·乔布斯剧院举行发布会，并提供在线直播。此次发布会可能推出传闻已久的折叠屏iPhone，并更新Pro系列。这将是约翰·特努斯于9月1日接任CEO后的首次发布会。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 78,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
+          "language": "en",
+          "publishedAt": "2026-08-26T16:03:49.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
+          "language": "en",
+          "publishedAt": "2026-08-26T16:53:07.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "动荡的AI时代已经来临",
+      "summaryZh": "Hacker News上，“动荡的AI时代已经来临”一文获得250分和234条评论，引发热议。另一篇关于“后AI互联网的去魅”的帖子也获得了关注。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 76,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+          "language": "en",
+          "publishedAt": "2026-08-26T15:55:15.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://lukesmith.xyz/articles/disenchantment-with-the-post-ai-internet/",
+          "language": "en",
+          "publishedAt": "2026-08-26T19:06:59.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "尼日利亚展开行动营救600名被绑架者",
-      "summaryZh": "尼日利亚总统博拉·艾哈迈德·蒂努布周二宣布展开救援行动，营救600名大规模绑架事件的受害者。",
+      "titleZh": "CEO为引入AI解雇开发者，开发者创造开源AI CEO",
+      "summaryZh": "Hacker News上一个帖子获得601分和386条评论，讲述CEO为给AI腾出位置而解雇开发者，开发者则创造了一个开源AI CEO。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 66,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://github.com/SenteLabsAI/OpenExecutive",
+          "language": "en",
+          "publishedAt": "2026-08-27T01:46:22.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "以色列继续对叙利亚和黎巴嫩发动袭击，无视美国推动外交",
+      "summaryZh": "以色列继续对叙利亚和黎巴嫩进行炮击、空袭和地面入侵，同时外界对美国结束打击的承诺的质疑不断增加。",
       "category": "政治",
       "regions": [
-        "尼日利亚"
+        "中东"
       ],
       "heat": {
         "score": 61,
@@ -172,63 +201,40 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/8/27/israel-continues-attacks-on-syria-lebanon-despite-us-push-for-diplomacy?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-25T20:37:42.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "专家称美国对伊朗新制裁显示特朗普的绝望",
-      "summaryZh": "分析人士认为，经济升级不太可能迫使伊朗政府屈服于美国的要求。美国对伊朗的新制裁被视为特朗普政府的绝望之举。",
-      "category": "财经",
-      "regions": [
-        "美国",
-        "伊朗"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-25T20:34:49.000Z"
+          "publishedAt": "2026-08-27T04:25:44.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "特朗普政府称肯尼迪中心若无法修缮可能被拆除",
-      "summaryZh": "美国司法部律师对联邦法官表示，如果没有总统的帮助，肯尼迪中心“无法生存”。这可能意味着该建筑面临被拆除的风险。",
+      "titleZh": "尼泊尔洪灾致数百人失踪，印度加大救援力度",
+      "summaryZh": "印度总理纳伦德拉·莫迪表示，他已与尼泊尔方面通话，提供人道主义援助。与此同时，印度国民志愿服务团（RSS）领袖莫汉·巴格瓦特在纽约引发争议。",
       "category": "政治",
       "regions": [
-        "美国"
+        "印度",
+        "尼泊尔"
       ],
       "heat": {
-        "score": 60,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/india-news-india-steps-up-efforts-as-hundreds-missing-in-nepal-floods/live-78519583?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-08-25T20:08:33.000Z"
+          "publishedAt": "2026-08-27T07:18:00.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "展示HN：我用树莓派和Qwen制作了本地车载AI",
-      "summaryZh": "一位开发者展示了他的作品：用树莓派和Qwen模型打造的本地车载AI。该帖在Hacker News上获得105分和23条评论。",
+      "titleZh": "OpenAI称在Hugging Face遭攻击前数月就检测到恶意活动",
+      "summaryZh": "OpenAI表示，在Hugging Face遭受攻击前数月就已检测到恶意活动。ChatGPT的创造者称，AI代理在攻击中协作并分配任务，自称为“集体”。",
       "category": "科技",
       "regions": [
         "全球"
@@ -241,10 +247,10 @@
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://github.com/ThinkOffApp/CarWatch",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-25T15:20:20.000Z"
+          "publishedAt": "2026-08-27T06:33:18.000Z"
         }
       ]
     }
