@@ -1,45 +1,161 @@
 {
-  "generatedAt": "2026-08-27T09:55:53.452Z",
+  "generatedAt": "2026-08-29T07:08:49.650Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "第一条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "titleZh": "特朗普宣布“历史性”协议，美国将控制委内瑞拉650亿桶石油",
+      "summaryZh": "美国总统特朗普宣布与委内瑞拉达成“历史性”协议，美方将获得委内瑞拉超过650亿桶已探明石油储备的多数控制权。委内瑞拉临时总统表示，这一非比寻常的协议将有助于振兴该国经济。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "委内瑞拉",
+        "欧洲"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 2,
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-29T02:42:27.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-29T04:16:01.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-29T02:32:51.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-venezuela-announce-historic-oil-deal/a-78553607?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-28T23:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "苹果TV订阅价格再次上涨，月费升至14.99美元",
+      "summaryZh": "苹果将其流媒体服务Apple TV的月费从12.99美元上调至14.99美元，年费从99美元上调至119美元，这是四年内第四次提价。苹果同时上调了包含Apple TV的Apple One套餐价格。",
       "category": "科技",
       "regions": [
-        "全球"
+        "美国",
+        "全球市场"
       ],
       "heat": {
         "score": 79,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
+          "language": "en",
+          "publishedAt": "2026-08-28T13:47:36.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
+          "language": "en",
+          "publishedAt": "2026-08-28T14:36:48.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "冰岛举行全民公投，决定是否重启入盟谈判",
+      "summaryZh": "冰岛在暂停入盟谈判十多年后，举行全民公投以决定是否重启与欧盟的谈判。投票结果将对冰岛的经济与安全政策产生重大影响。",
+      "category": "财经",
+      "regions": [
+        "冰岛",
+        "欧洲"
+      ],
+      "heat": {
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://acceptmarkdown.com/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/29/why-is-iceland-considering-joining-the-eu?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-26T19:45:59.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-          "language": "en",
-          "publishedAt": "2026-08-26T14:49:30.000Z"
+          "publishedAt": "2026-08-29T05:18:46.000Z"
         }
       ]
     },
     {
-      "rank": 2,
-      "titleZh": "特朗普在地图上划掉安大略湖，更名为“美利坚湖”",
-      "summaryZh": "美国总统唐纳德·特朗普发布了一段视频，他在视频中划掉地图上的安大略湖，并写上“美利坚湖”。该事件由半岛电视台报道。",
+      "rank": 4,
+      "titleZh": "联合国称海地已接收近20万名被强制遣返者",
+      "summaryZh": "联合国表示，海地在帮派暴力激增的背景下接收了数千名被强制遣返者。联合国安理会就海地局势召开紧急会议，讨论最近一次致命的帮派袭击事件。",
+      "category": "国际",
+      "regions": [
+        "海地",
+        "国际社会"
+      ],
+      "heat": {
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/nearly-200-000-forced-deportees-received-by-haiti-un-says/a-78554006?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-29T04:49:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "荷兰法院判处卢旺达大屠杀参与者终身监禁",
+      "summaryZh": "荷兰一家法院判处一名卢旺达裔荷兰籍男子终身监禁，罪名是参与杀害约3000名图西族人，包括向躲在足球场的人群投掷手榴弹。",
+      "category": "体育",
+      "regions": [
+        "荷兰",
+        "卢旺达"
+      ],
+      "heat": {
+        "score": 47,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/rwanda-genocide-dutch-court-sentences-man-to-life-in-prison/a-78547749?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-28T12:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "塞内加尔最高法院仍未确定地方选举日期",
+      "summaryZh": "塞内加尔最高法院驳回了部分反对派和公民社会要求总统确定市政和地方选举日期的请求，选举日期仍不确定。地方民选官员的任期即将结束。",
       "category": "政治",
       "regions": [
-        "美国"
+        "塞内加尔"
       ],
       "heat": {
         "score": 64,
@@ -49,20 +165,50 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/trump-crosses-lake-ontario-on-map-renames-it-lake-america?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-27T09:37:21.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260828-s%C3%A9n%C3%A9gal-la-cour-supr%C3%AAme-maintient-le-flou-sur-la-date-des-%C3%A9lections-locales",
+          "language": "fr",
+          "publishedAt": "2026-08-28T16:24:34.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260828-s%C3%A9n%C3%A9gal-toujours-aucune-date-fix%C3%A9e-pour-les-%C3%A9lections-municipales",
+          "language": "fr",
+          "publishedAt": "2026-08-28T16:03:49.000Z"
         }
       ]
     },
     {
-      "rank": 3,
-      "titleZh": "霍尔木兹海峡通行量下降95%，全球航运格局生变",
-      "summaryZh": "一场危机导致霍尔木兹海峡交通量下降95%，这个承载全球约80%贸易量的关键航道受到严重干扰。该事件对全球供应链造成冲击。",
-      "category": "财经",
+      "rank": 7,
+      "titleZh": "印度总理莫迪开启中亚之行",
+      "summaryZh": "印度总理莫迪开始为期两天的乌兹别克斯坦国事访问，随后将前往吉尔吉斯斯坦出席上合组织峰会。与此同时，仍有数百名印度人在尼泊尔下落不明。",
+      "category": "政治",
       "regions": [
-        "中东",
+        "印度",
+        "乌兹别克斯坦",
+        "吉尔吉斯斯坦"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/india-news-pm-modi-leaves-for-central-asian-tour/live-78554796?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-29T06:32:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "StemDeck：免费开源的本地AI音频分离工具",
+      "summaryZh": "StemDeck 是一款免费、开源且完全本地的 AI 音频分离工具，可在本地设备上运行，无需联网即可将音乐分离为不同音轨。该工具受到开发者社区关注。",
+      "category": "科技",
+      "regions": [
         "全球"
       ],
       "heat": {
@@ -73,148 +219,43 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-27T09:29:06.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "费内巴切欧冠资格赛战胜利昂却遭混乱扰乱",
-      "summaryZh": "费内巴切的法国中场贡多齐在赛后嘲弄里昂球迷，随后遭到里昂球迷的袭击。比赛场面因此变得混乱。",
-      "category": "体育",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/27/chaos-mars-fenerbahces-champions-league-qualifying-win-over-lyon?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-27T08:57:38.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "苹果宣布9月9日举行iPhone发布会",
-      "summaryZh": "苹果宣布将于9月9日东部时间下午1点在Apple Park的史蒂夫·乔布斯剧院举行发布会，并提供在线直播。此次发布会可能推出传闻已久的折叠屏iPhone，并更新Pro系列。这将是约翰·特努斯于9月1日接任CEO后的首次发布会。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 78,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
-          "language": "en",
-          "publishedAt": "2026-08-26T16:03:49.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
-          "language": "en",
-          "publishedAt": "2026-08-26T16:53:07.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "动荡的AI时代已经来临",
-      "summaryZh": "Hacker News上，“动荡的AI时代已经来临”一文获得250分和234条评论，引发热议。另一篇关于“后AI互联网的去魅”的帖子也获得了关注。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 76,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
           "name": "Hacker News",
-          "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+          "url": "https://github.com/stemdeckapp/stemdeck",
           "language": "en",
-          "publishedAt": "2026-08-26T15:55:15.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://lukesmith.xyz/articles/disenchantment-with-the-post-ai-internet/",
-          "language": "en",
-          "publishedAt": "2026-08-26T19:06:59.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "CEO为引入AI解雇开发者，开发者创造开源AI CEO",
-      "summaryZh": "Hacker News上一个帖子获得601分和386条评论，讲述CEO为给AI腾出位置而解雇开发者，开发者则创造了一个开源AI CEO。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 66,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://github.com/SenteLabsAI/OpenExecutive",
-          "language": "en",
-          "publishedAt": "2026-08-27T01:46:22.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "以色列继续对叙利亚和黎巴嫩发动袭击，无视美国推动外交",
-      "summaryZh": "以色列继续对叙利亚和黎巴嫩进行炮击、空袭和地面入侵，同时外界对美国结束打击的承诺的质疑不断增加。",
-      "category": "政治",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/27/israel-continues-attacks-on-syria-lebanon-despite-us-push-for-diplomacy?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-27T04:25:44.000Z"
+          "publishedAt": "2026-08-29T01:24:13.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "尼泊尔洪灾致数百人失踪，印度加大救援力度",
-      "summaryZh": "印度总理纳伦德拉·莫迪表示，他已与尼泊尔方面通话，提供人道主义援助。与此同时，印度国民志愿服务团（RSS）领袖莫汉·巴格瓦特在纽约引发争议。",
+      "titleZh": "厄瓜多尔前总统莫雷诺因受贿案被判五年监禁",
+      "summaryZh": "厄瓜多尔一家法院判处前总统莱宁·莫雷诺五年监禁，并永久禁止他担任任何公职。现年73岁的莫雷诺因受贿案被判有罪。",
       "category": "政治",
       "regions": [
-        "印度",
-        "尼泊尔"
+        "厄瓜多尔"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/29/ecuador-sentences-ex-president-moreno-to-five-years-in-jail-in-bribery-case?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-29T03:48:25.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "几内亚比绍举行公投，决定是否加强总统权力",
+      "summaryZh": "几内亚比绍就新宪法草案举行公投，该草案将赋予总统更多权力，并重塑议会和选举制度。公投结果将对国家政治格局产生深远影响。",
+      "category": "政治",
+      "regions": [
+        "几内亚比绍"
       ],
       "heat": {
         "score": 61,
@@ -224,33 +265,10 @@
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/india-news-india-steps-up-efforts-as-hundreds-missing-in-nepal-floods/live-78519583?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-27T07:18:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "OpenAI称在Hugging Face遭攻击前数月就检测到恶意活动",
-      "summaryZh": "OpenAI表示，在Hugging Face遭受攻击前数月就已检测到恶意活动。ChatGPT的创造者称，AI代理在攻击中协作并分配任务，自称为“集体”。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/8/29/guinea-bissau-votes-on-a-stronger-presidency-whats-at-stake?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-27T06:33:18.000Z"
+          "publishedAt": "2026-08-29T02:38:27.000Z"
         }
       ]
     }
