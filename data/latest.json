@@ -1,63 +1,49 @@
 {
-  "generatedAt": "2026-08-29T07:08:49.650Z",
+  "generatedAt": "2026-08-30T05:29:40.161Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普宣布“历史性”协议，美国将控制委内瑞拉650亿桶石油",
-      "summaryZh": "美国总统特朗普宣布与委内瑞拉达成“历史性”协议，美方将获得委内瑞拉超过650亿桶已探明石油储备的多数控制权。委内瑞拉临时总统表示，这一非比寻常的协议将有助于振兴该国经济。",
-      "category": "政治",
+      "titleZh": "特朗普称美国控制委内瑞拉650亿桶石油的协议“历史性”",
+      "summaryZh": "委内瑞拉临时总统表示，这项不寻常的协议将有助于重振该国经济。根据协议，每桶销往美国的石油中，有19美元将流入加拉加斯方面。",
+      "category": "财经",
       "regions": [
-        "美国",
-        "委内瑞拉",
-        "欧洲"
+        "欧洲",
+        "中东"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 3,
+        "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-08-29T02:42:27.000Z"
+          "publishedAt": "2026-08-30T04:01:02.000Z"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-29T04:16:01.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-29T02:32:51.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-venezuela-announce-historic-oil-deal/a-78553607?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-28T23:23:00.000Z"
+          "publishedAt": "2026-08-30T03:51:26.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "苹果TV订阅价格再次上涨，月费升至14.99美元",
-      "summaryZh": "苹果将其流媒体服务Apple TV的月费从12.99美元上调至14.99美元，年费从99美元上调至119美元，这是四年内第四次提价。苹果同时上调了包含Apple TV的Apple One套餐价格。",
+      "titleZh": "索尼音乐和华纳查佩尔起诉Anthropic",
+      "summaryZh": "索尼音乐和华纳查佩尔已在美国加州北区地方法院对Anthropic提起诉讼，要求对其“数万件”受版权保护的作品进行赔偿。这些公司要求每件作品最高15万美元，每次剥离可识别版权数据最高2.5万美元。如果法院支持索尼和华纳的诉求并判给最高金额，总赔偿可能达数十亿美元。",
       "category": "科技",
       "regions": [
-        "美国",
-        "全球市场"
+        "美洲"
       ],
       "heat": {
-        "score": 79,
+        "score": 83,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -65,197 +51,25 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
           "language": "en",
-          "publishedAt": "2026-08-28T13:47:36.000Z"
+          "publishedAt": "2026-08-29T18:19:53.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
+          "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
           "language": "en",
-          "publishedAt": "2026-08-28T14:36:48.000Z"
+          "publishedAt": "2026-08-29T18:41:59.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "冰岛举行全民公投，决定是否重启入盟谈判",
-      "summaryZh": "冰岛在暂停入盟谈判十多年后，举行全民公投以决定是否重启与欧盟的谈判。投票结果将对冰岛的经济与安全政策产生重大影响。",
-      "category": "财经",
-      "regions": [
-        "冰岛",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/29/why-is-iceland-considering-joining-the-eu?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-29T05:18:46.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "联合国称海地已接收近20万名被强制遣返者",
-      "summaryZh": "联合国表示，海地在帮派暴力激增的背景下接收了数千名被强制遣返者。联合国安理会就海地局势召开紧急会议，讨论最近一次致命的帮派袭击事件。",
-      "category": "国际",
-      "regions": [
-        "海地",
-        "国际社会"
-      ],
-      "heat": {
-        "score": 59,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/nearly-200-000-forced-deportees-received-by-haiti-un-says/a-78554006?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-29T04:49:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "荷兰法院判处卢旺达大屠杀参与者终身监禁",
-      "summaryZh": "荷兰一家法院判处一名卢旺达裔荷兰籍男子终身监禁，罪名是参与杀害约3000名图西族人，包括向躲在足球场的人群投掷手榴弹。",
-      "category": "体育",
-      "regions": [
-        "荷兰",
-        "卢旺达"
-      ],
-      "heat": {
-        "score": 47,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/rwanda-genocide-dutch-court-sentences-man-to-life-in-prison/a-78547749?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-28T12:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "塞内加尔最高法院仍未确定地方选举日期",
-      "summaryZh": "塞内加尔最高法院驳回了部分反对派和公民社会要求总统确定市政和地方选举日期的请求，选举日期仍不确定。地方民选官员的任期即将结束。",
+      "titleZh": "伊朗战争直播：德黑兰不急于重开霍尔木兹海峡；定居者围攻库斯拉",
+      "summaryZh": "伊朗副外长表示，伊朗军队对霍尔木兹海峡的动向拥有“全面监督”。报道还提到定居者围攻库斯拉。",
       "category": "政治",
       "regions": [
-        "塞内加尔"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260828-s%C3%A9n%C3%A9gal-la-cour-supr%C3%AAme-maintient-le-flou-sur-la-date-des-%C3%A9lections-locales",
-          "language": "fr",
-          "publishedAt": "2026-08-28T16:24:34.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260828-s%C3%A9n%C3%A9gal-toujours-aucune-date-fix%C3%A9e-pour-les-%C3%A9lections-municipales",
-          "language": "fr",
-          "publishedAt": "2026-08-28T16:03:49.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "印度总理莫迪开启中亚之行",
-      "summaryZh": "印度总理莫迪开始为期两天的乌兹别克斯坦国事访问，随后将前往吉尔吉斯斯坦出席上合组织峰会。与此同时，仍有数百名印度人在尼泊尔下落不明。",
-      "category": "政治",
-      "regions": [
-        "印度",
-        "乌兹别克斯坦",
-        "吉尔吉斯斯坦"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/india-news-pm-modi-leaves-for-central-asian-tour/live-78554796?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-29T06:32:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "StemDeck：免费开源的本地AI音频分离工具",
-      "summaryZh": "StemDeck 是一款免费、开源且完全本地的 AI 音频分离工具，可在本地设备上运行，无需联网即可将音乐分离为不同音轨。该工具受到开发者社区关注。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://github.com/stemdeckapp/stemdeck",
-          "language": "en",
-          "publishedAt": "2026-08-29T01:24:13.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "厄瓜多尔前总统莫雷诺因受贿案被判五年监禁",
-      "summaryZh": "厄瓜多尔一家法院判处前总统莱宁·莫雷诺五年监禁，并永久禁止他担任任何公职。现年73岁的莫雷诺因受贿案被判有罪。",
-      "category": "政治",
-      "regions": [
-        "厄瓜多尔"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/29/ecuador-sentences-ex-president-moreno-to-five-years-in-jail-in-bribery-case?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-29T03:48:25.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "几内亚比绍举行公投，决定是否加强总统权力",
-      "summaryZh": "几内亚比绍就新宪法草案举行公投，该草案将赋予总统更多权力，并重塑议会和选举制度。公投结果将对国家政治格局产生深远影响。",
-      "category": "政治",
-      "regions": [
-        "几内亚比绍"
+        "中东"
       ],
       "heat": {
         "score": 61,
@@ -266,9 +80,170 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/29/guinea-bissau-votes-on-a-stronger-presidency-whats-at-stake?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-29T02:38:27.000Z"
+          "publishedAt": "2026-08-30T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "冰岛欧盟公投“赞成”阵营以微弱优势暂时领先",
+      "summaryZh": "在早期计票中，“赞成”阵营获得51.2%的选票，但选举官员强调，更可靠的结果可能要到周日稍后才会公布。",
+      "category": "政治",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/iceland-eu-referendum-sees-slim-early-lead-for-yes-camp/a-78560633?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-08-30T02:48:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "良好的文化是最好的生产力提升方法，而非人工智能",
+      "summaryZh": "该帖子在Hacker News上获得319分和73条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "language": "en",
+          "publishedAt": "2026-08-29T17:19:47.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "安大略省省长道格·福特用标语“安大略湖”回击特朗普的“美国湖”更名",
+      "summaryZh": "这块标语是对美国总统试图将安大略湖更名为“美国湖”的回应。",
+      "category": "政治",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-29T22:50:27.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "厄瓜多尔前总统因腐败入狱",
+      "summaryZh": "莱宁·莫雷诺否认收受一家中国公司的贿赂，以确保获得建造一座水电站的合同。",
+      "category": "政治",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-08-29T19:44:54.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "尼泊尔民众对政府对山洪的应对措施感到愤怒",
+      "summaryZh": "尼泊尔洪灾幸存者指责政府延误援助和寻找失踪亲属的时间，愤怒情绪不断高涨。",
+      "category": "政治",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-29T20:58:25.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "冰岛就是否重启入盟谈判举行公投，竞争激烈",
+      "summaryZh": "冰岛总理克里斯图恩·弗罗斯塔多蒂尔周六参加投票，该国举行全民公投。",
+      "category": "政治",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-29T20:36:49.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "国际外交能否为利比亚找到出路？",
+      "summaryZh": "各方加大努力，以打破这个分裂国家的政治僵局。",
+      "category": "政治",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-08-29T20:01:02.000Z"
         }
       ]
     }
