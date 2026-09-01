@@ -1,49 +1,48 @@
 {
-  "generatedAt": "2026-08-30T05:29:40.161Z",
+  "generatedAt": "2026-09-01T05:16:33.242Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普称美国控制委内瑞拉650亿桶石油的协议“历史性”",
-      "summaryZh": "委内瑞拉临时总统表示，这项不寻常的协议将有助于重振该国经济。根据协议，每桶销往美国的石油中，有19美元将流入加拉加斯方面。",
-      "category": "财经",
+      "titleZh": "梅西宣布退出国际足坛，称“没有遗憾”",
+      "summaryZh": "阿根廷传奇球星梅西宣布从国家队退役，称这一决定“令人心痛”，但他明白“是时候了”。这一消息引发全球关注。",
+      "category": "体育",
       "regions": [
-        "欧洲",
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 100,
+        "score": 84,
         "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-08-30T04:01:02.000Z"
+          "publishedAt": "2026-08-31T15:18:39.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/lionel-messi-announces-retirement-from-international-football/a-78579502?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-08-30T03:51:26.000Z"
+          "publishedAt": "2026-08-31T15:30:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "索尼音乐和华纳查佩尔起诉Anthropic",
-      "summaryZh": "索尼音乐和华纳查佩尔已在美国加州北区地方法院对Anthropic提起诉讼，要求对其“数万件”受版权保护的作品进行赔偿。这些公司要求每件作品最高15万美元，每次剥离可识别版权数据最高2.5万美元。如果法院支持索尼和华纳的诉求并判给最高金额，总赔偿可能达数十亿美元。",
+      "titleZh": "菲尔·席勒卸任苹果App Store及发布会主管",
+      "summaryZh": "据彭博社报道，苹果长期高管菲尔·席勒将卸任App Store和苹果发布会负责人职务，但保留苹果院士头衔，并继续参与特定项目。席勒1987年加入苹果，1997年任营销主管，2008年与乔布斯共同推出App Store。",
       "category": "科技",
       "regions": [
-        "美洲"
+        "全球"
       ],
       "heat": {
-        "score": 83,
+        "score": 82,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -51,120 +50,28 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+          "url": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down",
           "language": "en",
-          "publishedAt": "2026-08-29T18:19:53.000Z"
+          "publishedAt": "2026-08-31T16:54:07.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+          "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
           "language": "en",
-          "publishedAt": "2026-08-29T18:41:59.000Z"
+          "publishedAt": "2026-08-31T19:02:06.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "伊朗战争直播：德黑兰不急于重开霍尔木兹海峡；定居者围攻库斯拉",
-      "summaryZh": "伊朗副外长表示，伊朗军队对霍尔木兹海峡的动向拥有“全面监督”。报道还提到定居者围攻库斯拉。",
-      "category": "政治",
+      "titleZh": "希音上市首日股价下跌",
+      "summaryZh": "希音在香港上市首日股价下跌，此前该公司多年寻求在纽约和伦敦上市。",
+      "category": "财经",
       "regions": [
-        "中东"
+        "中国香港"
       ],
       "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-30T00:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "冰岛欧盟公投“赞成”阵营以微弱优势暂时领先",
-      "summaryZh": "在早期计票中，“赞成”阵营获得51.2%的选票，但选举官员强调，更可靠的结果可能要到周日稍后才会公布。",
-      "category": "政治",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/iceland-eu-referendum-sees-slim-early-lead-for-yes-camp/a-78560633?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-08-30T02:48:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "良好的文化是最好的生产力提升方法，而非人工智能",
-      "summaryZh": "该帖子在Hacker News上获得319分和73条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "language": "en",
-          "publishedAt": "2026-08-29T17:19:47.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "安大略省省长道格·福特用标语“安大略湖”回击特朗普的“美国湖”更名",
-      "summaryZh": "这块标语是对美国总统试图将安大略湖更名为“美国湖”的回应。",
-      "category": "政治",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-08-29T22:50:27.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "厄瓜多尔前总统因腐败入狱",
-      "summaryZh": "莱宁·莫雷诺否认收受一家中国公司的贿赂，以确保获得建造一座水电站的合同。",
-      "category": "政治",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 59,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -172,78 +79,182 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-08-29T19:44:54.000Z"
+          "publishedAt": "2026-09-01T04:15:15.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "阿尔及利亚总统寻求对纵火犯判处死刑",
+      "summaryZh": "阿尔及利亚总统特本呼吁对引发森林火灾者判处死刑，此前该国东北部野火已造成至少12人死亡、54人受伤。",
+      "category": "政治",
+      "regions": [
+        "阿尔及利亚"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/1/algerias-president-seeks-death-penalty-for-those-who-start-forest-fires?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-01T04:24:28.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "蒂姆·库克向苹果员工发表告别信",
+      "summaryZh": "在担任苹果CEO的最后一天，库克向苹果员工和社区发布告别信息，称他对苹果社区的爱永远不会改变。他将把CEO职位交给约翰·特努斯。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 82,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
+          "language": "en",
+          "publishedAt": "2026-08-31T16:30:45.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
+          "language": "en",
+          "publishedAt": "2026-08-31T17:02:42.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "在Linux上运行macOS软件",
+      "summaryZh": "Hacker News上一条帖子获得184分和56条评论，讨论如何在Linux上运行macOS软件。另一篇关于“可塑性软件”的帖子也获得98分和30条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 80,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.darlinghq.org/",
+          "language": "en",
+          "publishedAt": "2026-08-31T22:53:45.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
+          "language": "en",
+          "publishedAt": "2026-08-31T10:36:43.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "美国快速扩张的AI监控网络引发强烈反对",
+      "summaryZh": "BBC Verify调查了美国Flock摄像头网络的扩张以及针对它的反对意见。该网络正面临越来越多的批评。",
+      "category": "科技",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-01T05:11:23.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "尼泊尔民众对政府对山洪的应对措施感到愤怒",
-      "summaryZh": "尼泊尔洪灾幸存者指责政府延误援助和寻找失踪亲属的时间，愤怒情绪不断高涨。",
+      "titleZh": "德国选择党候选人计划将萨克森-安哈特州变为右翼极端蓝图",
+      "summaryZh": "德国选择党在萨克森-安哈特州的首席候选人希望将该州打造成右翼极端主义政治的模板，并在全德推广。",
       "category": "政治",
       "regions": [
-        "中东"
+        "德国"
       ],
       "heat": {
-        "score": 59,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/afd-s-ulrich-siegmund-has-plans-for-saxony-anhalt-and-beyond/a-78579499?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-08-29T20:58:25.000Z"
+          "publishedAt": "2026-09-01T04:32:00.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "冰岛就是否重启入盟谈判举行公投，竞争激烈",
-      "summaryZh": "冰岛总理克里斯图恩·弗罗斯塔多蒂尔周六参加投票，该国举行全民公投。",
-      "category": "政治",
+      "titleZh": "最安全的不被AI取代的工作可能是写作",
+      "summaryZh": "Hacker News上关于写作可能最不容易被AI取代的讨论获得123分和170条评论。",
+      "category": "科技",
       "regions": [
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 58,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
           "language": "en",
-          "publishedAt": "2026-08-29T20:36:49.000Z"
+          "publishedAt": "2026-08-31T18:12:20.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "国际外交能否为利比亚找到出路？",
-      "summaryZh": "各方加大努力，以打破这个分裂国家的政治僵局。",
-      "category": "政治",
+      "titleZh": "arXiv今日收到近600篇论文，多数是“AI垃圾”",
+      "summaryZh": "Hacker News帖子指出arXiv今天收到近600篇投稿，其中大部分是低质量的AI生成内容，引发讨论。",
+      "category": "科技",
       "regions": [
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 58,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://arxiv.org/list/math/new",
           "language": "en",
-          "publishedAt": "2026-08-29T20:01:02.000Z"
+          "publishedAt": "2026-09-01T04:24:01.000Z"
         }
       ]
     }
