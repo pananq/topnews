@@ -1,100 +1,86 @@
 {
-  "generatedAt": "2026-09-01T05:16:33.242Z",
+  "generatedAt": "2026-09-02T04:41:46.164Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "梅西宣布退出国际足坛，称“没有遗憾”",
-      "summaryZh": "阿根廷传奇球星梅西宣布从国家队退役，称这一决定“令人心痛”，但他明白“是时候了”。这一消息引发全球关注。",
-      "category": "体育",
+      "titleZh": "苹果更改安大略湖在苹果地图中的名称为“美国湖”",
+      "summaryZh": "苹果已将其地图应用中安大略湖的名称改为“美国湖”，这是继谷歌之后又一家遵守特朗普总统争议行政令的美国科技巨头。据彭博社报道，加拿大版苹果地图仍显示“安大略湖”，国际版本则同时显示两个名称。",
+      "category": "科技",
       "regions": [
-        "全球"
+        "美国",
+        "加拿大"
       ],
       "heat": {
-        "score": 84,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 2,
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-08-31T15:18:39.000Z"
+          "publishedAt": "2026-09-02T03:22:41.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/lionel-messi-announces-retirement-from-international-football/a-78579502?maca=en-rss-en-all-1573-rdf",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
           "language": "en",
-          "publishedAt": "2026-08-31T15:30:00.000Z"
+          "publishedAt": "2026-09-01T21:22:56.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+          "language": "en",
+          "publishedAt": "2026-09-01T22:13:34.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "菲尔·席勒卸任苹果App Store及发布会主管",
-      "summaryZh": "据彭博社报道，苹果长期高管菲尔·席勒将卸任App Store和苹果发布会负责人职务，但保留苹果院士头衔，并继续参与特定项目。席勒1987年加入苹果，1997年任营销主管，2008年与乔布斯共同推出App Store。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 82,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down",
-          "language": "en",
-          "publishedAt": "2026-08-31T16:54:07.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
-          "language": "en",
-          "publishedAt": "2026-08-31T19:02:06.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "希音上市首日股价下跌",
-      "summaryZh": "希音在香港上市首日股价下跌，此前该公司多年寻求在纽约和伦敦上市。",
+      "titleZh": "伊朗局势：美国与德黑兰再度交火",
+      "summaryZh": "霍尔木兹海峡附近及伊朗南部一机场发生爆炸。美国总统特朗普称空袭是对伊朗试图在海峡布雷的回应。伊朗表示美国将对其最新攻击感到“后悔”。",
       "category": "财经",
       "regions": [
-        "中国香港"
+        "伊朗",
+        "霍尔木兹海峡"
       ],
       "heat": {
-        "score": 64,
+        "score": 71,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/iran-war-us-tehran-trade-fire-in-new-flare-up/live-78656656?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-01T04:15:15.000Z"
+          "publishedAt": "2026-09-02T01:29:00.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/iran-us-launches-fresh-strikes-as-hostilities-flare-again/a-78655364?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-01T18:48:00.000Z"
         }
       ]
     },
     {
-      "rank": 4,
-      "titleZh": "阿尔及利亚总统寻求对纵火犯判处死刑",
-      "summaryZh": "阿尔及利亚总统特本呼吁对引发森林火灾者判处死刑，此前该国东北部野火已造成至少12人死亡、54人受伤。",
+      "rank": 3,
+      "titleZh": "洪都拉斯法院在特朗普赦免后撤销对前总统埃尔南德斯的案件",
+      "summaryZh": "洪都拉斯法院撤销了对前总统胡安·奥兰多·埃尔南德斯的案件，此前他因政府腐败计划中的洗钱和欺诈指控被调查。特朗普的赦免成为此决定的关键背景。",
       "category": "政治",
       "regions": [
-        "阿尔及利亚"
+        "洪都拉斯",
+        "美国"
       ],
       "heat": {
-        "score": 64,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -102,22 +88,80 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/1/algerias-president-seeks-death-penalty-for-those-who-start-forest-fires?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/2/honduran-court-drops-case-against-ex-president-hernandez-after-trump-pardon?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-01T04:24:28.000Z"
+          "publishedAt": "2026-09-02T02:34:52.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "Show HN：HN Match Maker——将“谁想被雇佣”与“谁在招聘”匹配",
+      "summaryZh": "HN Match Maker是一个新工具，旨在匹配Hacker News上“谁想被雇佣”和“谁在招聘”两个帖子。该发布在Hacker News上获得61分和30条评论。",
+      "category": "体育",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://hnmatchmaker.com/",
+          "language": "en",
+          "publishedAt": "2026-09-01T20:53:35.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "蒂姆·库克向苹果员工发表告别信",
-      "summaryZh": "在担任苹果CEO的最后一天，库克向苹果员工和社区发布告别信息，称他对苹果社区的爱永远不会改变。他将把CEO职位交给约翰·特努斯。",
+      "titleZh": "新任苹果CEO约翰·特努斯能否解决科技巨头的人工智能困境？",
+      "summaryZh": "约翰·特努斯成为苹果30年来第三位CEO，其主要挑战是纠正公司失误的人工智能战略，以保持其作为大型科技领导者的地位。特努斯在作为CEO的第一份备忘录中预告了“下周的盛大发布”，预计将发布首款可折叠iPhone。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 82,
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/can-new-apple-ceo-john-ternus-fix-the-tech-giant-s-ai-woes/a-78575898?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-01T09:49:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+          "language": "en",
+          "publishedAt": "2026-09-01T19:45:28.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+          "language": "en",
+          "publishedAt": "2026-09-01T18:02:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "Anthropic推出Claude Fable 5.1，称其代理工作成本最高降低45%",
+      "summaryZh": "Anthropic发布最新AI模型Fable 5.1和Mythos 5.1，以回应客户对价格、数据保留和过度安全措施的批评。公司称Claude Fable 5.1性能比Fable 5更强，但成本通常降低约25%，对于复杂代理任务最高可降低45%，原因是已处理存储数据的缓存定价降低。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 85,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -125,77 +169,48 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
           "language": "en",
-          "publishedAt": "2026-08-31T16:30:45.000Z"
+          "publishedAt": "2026-09-01T22:01:36.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
+          "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
           "language": "en",
-          "publishedAt": "2026-08-31T17:02:42.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "在Linux上运行macOS软件",
-      "summaryZh": "Hacker News上一条帖子获得184分和56条评论，讨论如何在Linux上运行macOS软件。另一篇关于“可塑性软件”的帖子也获得98分和30条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 80,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.darlinghq.org/",
-          "language": "en",
-          "publishedAt": "2026-08-31T22:53:45.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
-          "language": "en",
-          "publishedAt": "2026-08-31T10:36:43.000Z"
+          "publishedAt": "2026-09-01T19:39:22.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "美国快速扩张的AI监控网络引发强烈反对",
-      "summaryZh": "BBC Verify调查了美国Flock摄像头网络的扩张以及针对它的反对意见。该网络正面临越来越多的批评。",
+      "titleZh": "艾德·齐特龙的人工智能怀疑论预测有多准确？",
+      "summaryZh": "Hacker News上的一篇帖子探讨了艾德·齐特龙对人工智能的怀疑论预测的准确性，获得了533分和618条评论。",
       "category": "科技",
       "regions": [
-        "美国"
+        "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://danluu.com/zitron/",
           "language": "en",
-          "publishedAt": "2026-09-01T05:11:23.000Z"
+          "publishedAt": "2026-09-01T18:35:15.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "德国选择党候选人计划将萨克森-安哈特州变为右翼极端蓝图",
-      "summaryZh": "德国选择党在萨克森-安哈特州的首席候选人希望将该州打造成右翼极端主义政治的模板，并在全德推广。",
+      "titleZh": "突尼斯人权捍卫者谴责公民社会镇压",
+      "summaryZh": "在突尼斯总统凯斯·赛义德独裁统治五年后，人权观察等组织警告，突尼斯曾经充满活力的公民社会面临被完全压制的危险。",
       "category": "政治",
       "regions": [
-        "德国"
+        "突尼斯"
       ],
       "heat": {
         "score": 63,
@@ -206,22 +221,22 @@
       "sources": [
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/afd-s-ulrich-siegmund-has-plans-for-saxony-anhalt-and-beyond/a-78579499?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/tunisia-s-human-rights-defenders-decry-civil-society-crackdown/a-78614966?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-01T04:32:00.000Z"
+          "publishedAt": "2026-09-02T04:01:00.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "最安全的不被AI取代的工作可能是写作",
-      "summaryZh": "Hacker News上关于写作可能最不容易被AI取代的讨论获得123分和170条评论。",
+      "titleZh": "第九条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 62,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -229,16 +244,16 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+          "url": "https://masteranza.github.io/weedout/",
           "language": "en",
-          "publishedAt": "2026-08-31T18:12:20.000Z"
+          "publishedAt": "2026-09-01T22:06:57.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "arXiv今日收到近600篇论文，多数是“AI垃圾”",
-      "summaryZh": "Hacker News帖子指出arXiv今天收到近600篇投稿，其中大部分是低质量的AI生成内容，引发讨论。",
+      "titleZh": "《矮人要塞》创作者称游戏行业因人工智能而陷入混乱",
+      "summaryZh": "《矮人要塞》的创作者表示，游戏行业正因人工智能而陷入困境。该讨论在Hacker News上获得211分和217条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -252,9 +267,9 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://arxiv.org/list/math/new",
+          "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
           "language": "en",
-          "publishedAt": "2026-09-01T04:24:01.000Z"
+          "publishedAt": "2026-09-01T15:53:42.000Z"
         }
       ]
     }
