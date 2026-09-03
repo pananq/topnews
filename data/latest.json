@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-02T04:41:46.164Z",
+  "generatedAt": "2026-09-03T04:38:24.597Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "苹果更改安大略湖在苹果地图中的名称为“美国湖”",
-      "summaryZh": "苹果已将其地图应用中安大略湖的名称改为“美国湖”，这是继谷歌之后又一家遵守特朗普总统争议行政令的美国科技巨头。据彭博社报道，加拿大版苹果地图仍显示“安大略湖”，国际版本则同时显示两个名称。",
-      "category": "科技",
+      "titleZh": "西班牙多地爆发抗议 反对政府处理塞乌达移民危机",
+      "summaryZh": "西班牙反对党指责首相桑切斯抛弃塞乌达居民。数万人在西班牙各地集会，抗议政府对塞乌达移民危机的处理。仍有移民滞留在塞乌达，政府应对措施引发持续紧张。",
+      "category": "政治",
       "regions": [
-        "美国",
-        "加拿大"
+        "西班牙",
+        "欧洲"
       ],
       "heat": {
         "score": 100,
@@ -21,147 +21,35 @@
       },
       "sources": [
         {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-02T21:34:27.000Z"
+        },
+        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_mass-protests-across-spain-020926?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-02T03:22:41.000Z"
+          "publishedAt": "2026-09-03T03:06:00.000Z"
         },
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+          "name": "DW",
+          "url": "https://www.dw.com/en/spain-tens-of-thousands-rally-over-ceuta-crisis/a-78814756?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-01T21:22:56.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
-          "language": "en",
-          "publishedAt": "2026-09-01T22:13:34.000Z"
+          "publishedAt": "2026-09-02T23:51:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "伊朗局势：美国与德黑兰再度交火",
-      "summaryZh": "霍尔木兹海峡附近及伊朗南部一机场发生爆炸。美国总统特朗普称空袭是对伊朗试图在海峡布雷的回应。伊朗表示美国将对其最新攻击感到“后悔”。",
-      "category": "财经",
+      "titleZh": "亚马逊AI助手可识别冒充亚马逊的诈骗邮件",
+      "summaryZh": "亚马逊推出新功能，用户可让Alexa for Shopping判断收到的邮件、短信或电话是否真的来自亚马逊。该助手会将消息与亚马逊发送记录比对，分析内容、格式和发件人，仅在完全确定时才会确认真实性。",
+      "category": "科技",
       "regions": [
-        "伊朗",
-        "霍尔木兹海峡"
-      ],
-      "heat": {
-        "score": 71,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/iran-war-us-tehran-trade-fire-in-new-flare-up/live-78656656?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-02T01:29:00.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/iran-us-launches-fresh-strikes-as-hostilities-flare-again/a-78655364?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-01T18:48:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "洪都拉斯法院在特朗普赦免后撤销对前总统埃尔南德斯的案件",
-      "summaryZh": "洪都拉斯法院撤销了对前总统胡安·奥兰多·埃尔南德斯的案件，此前他因政府腐败计划中的洗钱和欺诈指控被调查。特朗普的赦免成为此决定的关键背景。",
-      "category": "政治",
-      "regions": [
-        "洪都拉斯",
         "美国"
       ],
       "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/2/honduran-court-drops-case-against-ex-president-hernandez-after-trump-pardon?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-02T02:34:52.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "Show HN：HN Match Maker——将“谁想被雇佣”与“谁在招聘”匹配",
-      "summaryZh": "HN Match Maker是一个新工具，旨在匹配Hacker News上“谁想被雇佣”和“谁在招聘”两个帖子。该发布在Hacker News上获得61分和30条评论。",
-      "category": "体育",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://hnmatchmaker.com/",
-          "language": "en",
-          "publishedAt": "2026-09-01T20:53:35.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "新任苹果CEO约翰·特努斯能否解决科技巨头的人工智能困境？",
-      "summaryZh": "约翰·特努斯成为苹果30年来第三位CEO，其主要挑战是纠正公司失误的人工智能战略，以保持其作为大型科技领导者的地位。特努斯在作为CEO的第一份备忘录中预告了“下周的盛大发布”，预计将发布首款可折叠iPhone。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/can-new-apple-ceo-john-ternus-fix-the-tech-giant-s-ai-woes/a-78575898?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-01T09:49:00.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
-          "language": "en",
-          "publishedAt": "2026-09-01T19:45:28.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
-          "language": "en",
-          "publishedAt": "2026-09-01T18:02:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "Anthropic推出Claude Fable 5.1，称其代理工作成本最高降低45%",
-      "summaryZh": "Anthropic发布最新AI模型Fable 5.1和Mythos 5.1，以回应客户对价格、数据保留和过度安全措施的批评。公司称Claude Fable 5.1性能比Fable 5更强，但成本通常降低约25%，对于复杂代理任务最高可降低45%，原因是已处理存储数据的缓存定价降低。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 85,
+        "score": 82,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -169,25 +57,25 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+          "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
           "language": "en",
-          "publishedAt": "2026-09-01T22:01:36.000Z"
+          "publishedAt": "2026-09-02T17:52:56.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+          "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
           "language": "en",
-          "publishedAt": "2026-09-01T19:39:22.000Z"
+          "publishedAt": "2026-09-02T14:56:34.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "艾德·齐特龙的人工智能怀疑论预测有多准确？",
-      "summaryZh": "Hacker News上的一篇帖子探讨了艾德·齐特龙对人工智能的怀疑论预测的准确性，获得了533分和618条评论。",
-      "category": "科技",
+      "rank": 3,
+      "titleZh": "荷兰央行以“地缘政治动荡”为由从美国运回86吨黄金",
+      "summaryZh": "据Hacker News讨论，荷兰央行以“地缘政治动荡”为由，将从美国运回86吨黄金。该讨论帖获得12分和8条评论。",
+      "category": "财经",
       "regions": [
-        "全球"
+        "荷兰"
       ],
       "heat": {
         "score": 65,
@@ -198,19 +86,89 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://danluu.com/zitron/",
+          "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
           "language": "en",
-          "publishedAt": "2026-09-01T18:35:15.000Z"
+          "publishedAt": "2026-09-03T03:53:12.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "突尼斯人权捍卫者谴责公民社会镇压",
-      "summaryZh": "在突尼斯总统凯斯·赛义德独裁统治五年后，人权观察等组织警告，突尼斯曾经充满活力的公民社会面临被完全压制的危险。",
+      "rank": 4,
+      "titleZh": "哈马斯卫生部称尽管停火 今年加沙已有超900人遇难",
+      "summaryZh": "哈马斯卫生部表示，自10月10日以来，加沙遇难总人数已超过1300人，其中包括301名儿童。",
+      "category": "国际",
+      "regions": [
+        "加沙"
+      ],
+      "heat": {
+        "score": 51,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-02T11:51:46.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "奥地利女子冰球队为后代而战",
+      "summaryZh": "奥地利正在备战首届女子冰球世锦赛，但备战因条件、薪酬和接收男子队旧装备的争议而蒙上阴影。目前解决方案有望达成。",
+      "category": "体育",
+      "regions": [
+        "奥地利"
+      ],
+      "heat": {
+        "score": 50,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/austria-women-ice-hockey-team-fight-for-future-generations/a-78771578?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-02T15:21:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "纽约市学校禁止使用人工智能",
+      "summaryZh": "据Hacker News讨论，Mamdani宣布在纽约市学校禁止使用AI。该帖子获得152分和124条评论。",
+      "category": "科技",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+          "language": "en",
+          "publishedAt": "2026-09-02T20:57:04.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "俄罗斯将关闭德国歌德学院分支机构",
+      "summaryZh": "俄罗斯外长拉夫罗夫表示，此举是对德国决定关闭柏林俄罗斯之家的回应，此前德国指控莫斯科策划了莱比锡/哈勒机场的未遂无人机袭击。",
       "category": "政治",
       "regions": [
-        "突尼斯"
+        "俄罗斯",
+        "德国"
       ],
       "heat": {
         "score": 63,
@@ -221,15 +179,15 @@
       "sources": [
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/tunisia-s-human-rights-defenders-decry-civil-society-crackdown/a-78614966?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/russia-to-close-branches-of-germany-s-goethe-institut/a-78815269?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-02T04:01:00.000Z"
+          "publishedAt": "2026-09-03T03:44:00.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "第九条科技要闻",
+      "rank": 8,
+      "titleZh": "第八条科技要闻",
       "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "科技",
       "regions": [
@@ -244,16 +202,39 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://masteranza.github.io/weedout/",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
           "language": "en",
-          "publishedAt": "2026-09-01T22:06:57.000Z"
+          "publishedAt": "2026-09-02T15:12:40.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "摩洛哥执政联盟在竞选活动开始前内讧",
+      "summaryZh": "随着摩洛哥人准备投票，政治紧张局势加剧，而官方竞选活动尚未开始。",
+      "category": "政治",
+      "regions": [
+        "摩洛哥"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/3/moroccos-ruling-allies-turn-on-each-other-before-election-campaign-begins?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-03T00:52:49.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "《矮人要塞》创作者称游戏行业因人工智能而陷入混乱",
-      "summaryZh": "《矮人要塞》的创作者表示，游戏行业正因人工智能而陷入困境。该讨论在Hacker News上获得211分和217条评论。",
+      "titleZh": "围棋大师申击败AI KataGo 取得历史性人类胜利",
+      "summaryZh": "据Hacker News讨论，围棋大师申击败AI KataGo，取得历史性的人类胜利。该帖子获得22分和3条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -267,9 +248,9 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+          "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
           "language": "en",
-          "publishedAt": "2026-09-01T15:53:42.000Z"
+          "publishedAt": "2026-09-03T01:11:22.000Z"
         }
       ]
     }
