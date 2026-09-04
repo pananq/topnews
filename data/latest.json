@@ -1,55 +1,172 @@
 {
-  "generatedAt": "2026-09-03T04:38:24.597Z",
+  "generatedAt": "2026-09-04T04:42:02.664Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "西班牙多地爆发抗议 反对政府处理塞乌达移民危机",
-      "summaryZh": "西班牙反对党指责首相桑切斯抛弃塞乌达居民。数万人在西班牙各地集会，抗议政府对塞乌达移民危机的处理。仍有移民滞留在塞乌达，政府应对措施引发持续紧张。",
-      "category": "政治",
-      "regions": [
-        "西班牙",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-02T21:34:27.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_mass-protests-across-spain-020926?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-03T03:06:00.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/spain-tens-of-thousands-rally-over-ceuta-crisis/a-78814756?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-02T23:51:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "亚马逊AI助手可识别冒充亚马逊的诈骗邮件",
-      "summaryZh": "亚马逊推出新功能，用户可让Alexa for Shopping判断收到的邮件、短信或电话是否真的来自亚马逊。该助手会将消息与亚马逊发送记录比对，分析内容、格式和发件人，仅在完全确定时才会确认真实性。",
+      "titleZh": "纽约市对八年级及以下实施AI禁令，专家称将为全美其他地区定调",
+      "summaryZh": "纽约市对八年级及以下学生实施为期一年的AI禁令，影响60万名学生。市长Mamdani宣布该禁令，专家认为此举将为美国其他地区树立先例。",
       "category": "科技",
       "regions": [
         "美国"
       ],
       "heat": {
-        "score": 82,
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-03T21:32:55.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+          "language": "en",
+          "publishedAt": "2026-09-03T23:14:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "特朗普为何会见反犹太复国主义犹太领袖？",
+      "summaryZh": "美国总统特朗普私下会见了六名反犹太复国主义拉比，当时正值以色列征兵问题引发抗议。此次会面地点和时机引发外界关注。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "以色列"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-04T02:21:20.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "美国新一轮制裁继续挤压古巴经济",
+      "summaryZh": "美国对古巴实施新一轮经济制裁，进一步施压古巴经济。在特朗普政府的军事威胁下，古巴宣布新的市场化改革措施以应对挑战。",
+      "category": "财经",
+      "regions": [
+        "美国",
+        "古巴"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-04T01:45:56.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "刚果（金）加入承诺将大使馆迁至耶路撒冷的国家行列",
+      "summaryZh": "刚果民主共和国再次承诺将其驻以色列大使馆从特拉维夫迁至耶路撒冷。此举使其成为最新一个采取这一立场的国家。",
+      "category": "国际",
+      "regions": [
+        "刚果民主共和国",
+        "以色列"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-03T23:05:12.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "国际足联指控欧足联对因凡蒂诺发起“抹黑运动”",
+      "summaryZh": "国际足联与欧足联之间的争端已诉至美国法院，欧足联寻求获得许可，以在瑞士收集用于刑事诉讼的证据。国际足联指责欧足联对因凡蒂诺进行抹黑。",
+      "category": "体育",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/fifa-accuses-uefa-of-smear-campaign-against-infantino/a-78896105?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-04T03:09:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "英伟达以129.3亿美元收购Hugging Face",
+      "summaryZh": "英伟达证实将以约129亿美元收购AI平台Hugging Face。该公司表示将保持Hugging Face作为开放平台，不要求开发者使用英伟达硬件。Hugging Face托管超过300万个模型，服务超过1800万开发者。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 91,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-03T12:47:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+          "language": "en",
+          "publishedAt": "2026-09-03T12:42:45.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "特斯拉Cybercab低调发布，或成公司“岔路口”",
+      "summaryZh": "特斯拉在德州奥斯汀举行非公开活动，正式发布金色双座无人驾驶出租车Cybercab，该车无方向盘和踏板。发布活动异常低调，没有直播，受邀者多为特斯拉支持者，媒体猜测此举可能彻底改变特斯拉的未来。",
+      "category": "科技",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 86,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -57,164 +174,25 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+          "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
           "language": "en",
-          "publishedAt": "2026-09-02T17:52:56.000Z"
+          "publishedAt": "2026-09-04T00:25:06.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+          "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
           "language": "en",
-          "publishedAt": "2026-09-02T14:56:34.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "荷兰央行以“地缘政治动荡”为由从美国运回86吨黄金",
-      "summaryZh": "据Hacker News讨论，荷兰央行以“地缘政治动荡”为由，将从美国运回86吨黄金。该讨论帖获得12分和8条评论。",
-      "category": "财经",
-      "regions": [
-        "荷兰"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
-          "language": "en",
-          "publishedAt": "2026-09-03T03:53:12.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "哈马斯卫生部称尽管停火 今年加沙已有超900人遇难",
-      "summaryZh": "哈马斯卫生部表示，自10月10日以来，加沙遇难总人数已超过1300人，其中包括301名儿童。",
-      "category": "国际",
-      "regions": [
-        "加沙"
-      ],
-      "heat": {
-        "score": 51,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-02T11:51:46.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "奥地利女子冰球队为后代而战",
-      "summaryZh": "奥地利正在备战首届女子冰球世锦赛，但备战因条件、薪酬和接收男子队旧装备的争议而蒙上阴影。目前解决方案有望达成。",
-      "category": "体育",
-      "regions": [
-        "奥地利"
-      ],
-      "heat": {
-        "score": 50,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/austria-women-ice-hockey-team-fight-for-future-generations/a-78771578?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-02T15:21:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "纽约市学校禁止使用人工智能",
-      "summaryZh": "据Hacker News讨论，Mamdani宣布在纽约市学校禁止使用AI。该帖子获得152分和124条评论。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-          "language": "en",
-          "publishedAt": "2026-09-02T20:57:04.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "俄罗斯将关闭德国歌德学院分支机构",
-      "summaryZh": "俄罗斯外长拉夫罗夫表示，此举是对德国决定关闭柏林俄罗斯之家的回应，此前德国指控莫斯科策划了莱比锡/哈勒机场的未遂无人机袭击。",
-      "category": "政治",
-      "regions": [
-        "俄罗斯",
-        "德国"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/russia-to-close-branches-of-germany-s-goethe-institut/a-78815269?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-03T03:44:00.000Z"
+          "publishedAt": "2026-09-03T19:42:48.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "第八条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "titleZh": "OpenAI发布GPT-6 Astra，面临日益增长的安全审查",
+      "summaryZh": "OpenAI推出GPT-6 Astra，称其是最先进的AI模型。与此同时，围绕AI安全和伦理的担忧不断加剧，该模型面临更多审视。",
       "category": "科技",
       "regions": [
         "全球"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-          "language": "en",
-          "publishedAt": "2026-09-02T15:12:40.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "摩洛哥执政联盟在竞选活动开始前内讧",
-      "summaryZh": "随着摩洛哥人准备投票，政治紧张局势加剧，而官方竞选活动尚未开始。",
-      "category": "政治",
-      "regions": [
-        "摩洛哥"
       ],
       "heat": {
         "score": 62,
@@ -225,19 +203,19 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/3/moroccos-ruling-allies-turn-on-each-other-before-election-campaign-begins?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-03T00:52:49.000Z"
+          "publishedAt": "2026-09-04T03:36:19.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "围棋大师申击败AI KataGo 取得历史性人类胜利",
-      "summaryZh": "据Hacker News讨论，围棋大师申击败AI KataGo，取得历史性的人类胜利。该帖子获得22分和3条评论。",
-      "category": "科技",
+      "rank": 9,
+      "titleZh": "海地政府呼吁延长国际反帮派特遣部队任期",
+      "summaryZh": "海地外交部长表示，为确保12月选举前的安全，有必要延长国际反帮派特遣部队的任期。海地政府恳请国际社会继续支持安全行动。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "海地"
       ],
       "heat": {
         "score": 62,
@@ -247,10 +225,34 @@
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/4/haitian-government-calls-for-renewal-of-international-anti-gang-task-force?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-03T01:11:22.000Z"
+          "publishedAt": "2026-09-04T00:41:28.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "伊朗局势直播：美国称在船只袭击停止前不与伊朗谈判",
+      "summaryZh": "伊朗第一副总统阿里夫誓言对美国的攻击进行“不对称”和“多层次”回应。美国排除在船只袭击停止前与伊朗进行谈判的可能性。",
+      "category": "政治",
+      "regions": [
+        "伊朗",
+        "美国"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-04T00:00:00.000Z"
         }
       ]
     }
