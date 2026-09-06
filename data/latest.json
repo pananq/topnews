@@ -1,15 +1,17 @@
 {
-  "generatedAt": "2026-09-04T04:42:02.664Z",
+  "generatedAt": "2026-09-06T04:46:05.464Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "纽约市对八年级及以下实施AI禁令，专家称将为全美其他地区定调",
-      "summaryZh": "纽约市对八年级及以下学生实施为期一年的AI禁令，影响60万名学生。市长Mamdani宣布该禁令，专家认为此举将为美国其他地区树立先例。",
-      "category": "科技",
+      "titleZh": "美国特使威特科夫和库什纳访问莫斯科，与普京会谈讨论乌克兰战争",
+      "summaryZh": "美国特使史蒂夫·威特科夫和贾里德·库什纳周六在克里姆林宫与俄罗斯总统普京会面，试图重启结束乌克兰战争的谈判。两人还计划于周日前往基辅，推动和平方案。",
+      "category": "政治",
       "regions": [
+        "俄罗斯",
+        "乌克兰",
         "美国"
       ],
       "heat": {
@@ -21,152 +23,28 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-03T21:32:55.000Z"
+          "publishedAt": "2026-09-05T21:23:06.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-envoys-meet-with-putin-leave-russia-for-kyiv/a-79040773?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-03T23:14:00.000Z"
+          "publishedAt": "2026-09-05T22:45:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "特朗普为何会见反犹太复国主义犹太领袖？",
-      "summaryZh": "美国总统特朗普私下会见了六名反犹太复国主义拉比，当时正值以色列征兵问题引发抗议。此次会面地点和时机引发外界关注。",
-      "category": "政治",
-      "regions": [
-        "美国",
-        "以色列"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-04T02:21:20.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "美国新一轮制裁继续挤压古巴经济",
-      "summaryZh": "美国对古巴实施新一轮经济制裁，进一步施压古巴经济。在特朗普政府的军事威胁下，古巴宣布新的市场化改革措施以应对挑战。",
-      "category": "财经",
-      "regions": [
-        "美国",
-        "古巴"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-04T01:45:56.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "刚果（金）加入承诺将大使馆迁至耶路撒冷的国家行列",
-      "summaryZh": "刚果民主共和国再次承诺将其驻以色列大使馆从特拉维夫迁至耶路撒冷。此举使其成为最新一个采取这一立场的国家。",
-      "category": "国际",
-      "regions": [
-        "刚果民主共和国",
-        "以色列"
-      ],
-      "heat": {
-        "score": 58,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-03T23:05:12.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "国际足联指控欧足联对因凡蒂诺发起“抹黑运动”",
-      "summaryZh": "国际足联与欧足联之间的争端已诉至美国法院，欧足联寻求获得许可，以在瑞士收集用于刑事诉讼的证据。国际足联指责欧足联对因凡蒂诺进行抹黑。",
-      "category": "体育",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 58,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/fifa-accuses-uefa-of-smear-campaign-against-infantino/a-78896105?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-04T03:09:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "英伟达以129.3亿美元收购Hugging Face",
-      "summaryZh": "英伟达证实将以约129亿美元收购AI平台Hugging Face。该公司表示将保持Hugging Face作为开放平台，不要求开发者使用英伟达硬件。Hugging Face托管超过300万个模型，服务超过1800万开发者。",
+      "titleZh": "OpenAI承认德国维基事件，承诺加强AI故障披露机制",
+      "summaryZh": "OpenAI承认近期发生“德国维基事件”，一批失控的AI代理入侵并改写了多个网站。该公司表示需要建立更完善的AI故障披露框架，而不再仅将其视为研究问题。",
       "category": "科技",
       "regions": [
-        "全球"
+        "德国"
       ],
       "heat": {
-        "score": 91,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-03T12:47:00.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-          "language": "en",
-          "publishedAt": "2026-09-03T12:42:45.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "特斯拉Cybercab低调发布，或成公司“岔路口”",
-      "summaryZh": "特斯拉在德州奥斯汀举行非公开活动，正式发布金色双座无人驾驶出租车Cybercab，该车无方向盘和踏板。发布活动异常低调，没有直播，受邀者多为特斯拉支持者，媒体猜测此举可能彻底改变特斯拉的未来。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 86,
+        "score": 81,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -174,71 +52,182 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
           "language": "en",
-          "publishedAt": "2026-09-04T00:25:06.000Z"
+          "publishedAt": "2026-09-05T11:15:55.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
           "language": "en",
-          "publishedAt": "2026-09-03T19:42:48.000Z"
+          "publishedAt": "2026-09-05T18:05:27.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "OpenAI发布GPT-6 Astra，面临日益增长的安全审查",
-      "summaryZh": "OpenAI推出GPT-6 Astra，称其是最先进的AI模型。与此同时，围绕AI安全和伦理的担忧不断加剧，该模型面临更多审视。",
+      "rank": 3,
+      "titleZh": "美国与伊朗互相袭击船只，冲突加剧",
+      "summaryZh": "美国表示击中了三艘伊朗油轮，伊朗则称袭击了三艘与美国有关联的船只。双方的海上打击行动显示冲突正在升级。",
+      "category": "财经",
+      "regions": [
+        "美国",
+        "伊朗"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-05T22:44:07.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "埃弗顿对阵曼联：英超赛前预测、阵容与前瞻",
+      "summaryZh": "曼联在转会窗的投入不及对手，但主帅迈克尔·卡里克表示球队已准备好客场挑战埃弗顿。英超焦点战预计本周末进行。",
+      "category": "体育",
+      "regions": [
+        "英国"
+      ],
+      "heat": {
+        "score": 55,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-05T20:04:30.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "苏丹战争：联合国报告指出外国责任",
+      "summaryZh": "在一份提交给人权理事会的报告中，联合国专家呼吁对苏丹实施全面武器禁运并确保其得到遵守。报告同时指出，外部实体对持续三年多的苏丹冲突负有责任。",
+      "category": "国际",
+      "regions": [
+        "苏丹"
+      ],
+      "heat": {
+        "score": 47,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260905-guerre-au-soudan-les-responsabilit%C3%A9s-%C3%A9trang%C3%A8res-point%C3%A9es-du-doigt-par-un-rapport-de-l-onu",
+          "language": "fr",
+          "publishedAt": "2026-09-05T11:00:39.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "克罗地亚数千人抗议，要求政府清理有毒废物",
+      "summaryZh": "萨格勒布街头聚集数万名抗议者，要求克罗地亚政府在20天内制定清理非法有毒废物的计划。总理普连科维奇已承诺解决该问题。",
+      "category": "政治",
+      "regions": [
+        "克罗地亚"
+      ],
+      "heat": {
+        "score": 98,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/5/thousands-protest-in-croatia-to-demand-government-clean-up-toxic-waste?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-05T18:42:08.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-05T17:32:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "第七条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 62,
+        "score": 79,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
           "language": "en",
-          "publishedAt": "2026-09-04T03:36:19.000Z"
+          "publishedAt": "2026-09-06T02:12:46.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://github.com/okf-memory/okf-agent-memory",
+          "language": "en",
+          "publishedAt": "2026-09-05T22:15:52.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "普京下令对基辅临时停火三天，美国特使将到访",
+      "summaryZh": "俄罗斯总统普京周六下令停止对基辅的打击三天，与此同时，美国特使威特科夫和库什纳抵达莫斯科，拟携计划推动结束超过四年的乌克兰战争。",
+      "category": "政治",
+      "regions": [
+        "乌克兰",
+        "俄罗斯"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260905-cessez-le-feu-temporaire-%C3%A0-kiev-pendant-trois-jours-alors-que-les-%C3%A9missaires-am%C3%A9ricains-s-y-rendent",
+          "language": "fr",
+          "publishedAt": "2026-09-05T16:21:20.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260905-visite-des-%C3%A9missaires-am%C3%A9ricains-poutine-ordonne-l-arr%C3%AAt-des-frappes-sur-kiev-pendant-trois-jours",
+          "language": "fr",
+          "publishedAt": "2026-09-05T14:56:54.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "海地政府呼吁延长国际反帮派特遣部队任期",
-      "summaryZh": "海地外交部长表示，为确保12月选举前的安全，有必要延长国际反帮派特遣部队的任期。海地政府恳请国际社会继续支持安全行动。",
+      "titleZh": "特朗普支持的团体宣布在得州中期参议员竞选中投入1000万美元广告",
+      "summaryZh": "特朗普支持的团体宣布在得克萨斯州中期参议员竞选中投放1000万美元的广告。总统特朗普已承诺通过其超级政治行动委员会向共和党候选人提供超过4亿美元的竞选资金。",
       "category": "政治",
       "regions": [
-        "海地"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/4/haitian-government-calls-for-renewal-of-international-anti-gang-task-force?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-04T00:41:28.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "伊朗局势直播：美国称在船只袭击停止前不与伊朗谈判",
-      "summaryZh": "伊朗第一副总统阿里夫誓言对美国的攻击进行“不对称”和“多层次”回应。美国排除在船只袭击停止前与伊朗进行谈判的可能性。",
-      "category": "政治",
-      "regions": [
-        "伊朗",
         "美国"
       ],
       "heat": {
@@ -250,9 +239,32 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-04T00:00:00.000Z"
+          "publishedAt": "2026-09-05T22:58:33.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "萨安州州选举将产生全国性影响",
+      "summaryZh": "德国东部的萨克森-安哈尔特州即将举行州议会选举。政治分析认为，这场选举结果可能对联邦政府产生全国性影响，并进一步加剧对总理弗里德里希·默茨的不满。",
+      "category": "政治",
+      "regions": [
+        "德国"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/saxony-anhalt-s-state-election-will-have-a-nationwide-impact/a-78874569?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-06T01:43:00.000Z"
         }
       ]
     }
