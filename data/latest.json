@@ -1,80 +1,203 @@
 {
-  "generatedAt": "2026-09-06T04:46:05.464Z",
+  "generatedAt": "2026-09-07T04:49:19.728Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "美国特使威特科夫和库什纳访问莫斯科，与普京会谈讨论乌克兰战争",
-      "summaryZh": "美国特使史蒂夫·威特科夫和贾里德·库什纳周六在克里姆林宫与俄罗斯总统普京会面，试图重启结束乌克兰战争的谈判。两人还计划于周日前往基辅，推动和平方案。",
+      "titleZh": "德国极右翼AfD在州选举中预计获胜",
+      "summaryZh": "德国极右翼政党德国选择党（AfD）在萨克森-安哈尔特州选举中得票领先，出口民调显示其得票率超过40%。该党有望创造历史，但未获得绝对多数，组建州政府仍面临障碍。AfD领导人表示希望参与执政。",
       "category": "政治",
       "regions": [
-        "俄罗斯",
-        "乌克兰",
-        "美国"
+        "德国",
+        "萨克森-安哈尔特州"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 2,
+        "sourceCount": 3,
         "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-05T21:23:06.000Z"
+          "publishedAt": "2026-09-06T18:32:53.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-06T20:52:01.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/us-envoys-meet-with-putin-leave-russia-for-kyiv/a-79040773?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/saxony-anhalt-preliminary-official-results-show-afd-tops-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-05T22:45:00.000Z"
+          "publishedAt": "2026-09-07T01:35:00.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/afd-wants-to-form-a-government-in-saxony-anhalt-but-how/a-79107331?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-06T21:41:00.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/saxony-anhalt-digesting-the-afd-s-landmark-election-win/a-79103981?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-06T21:04:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "OpenAI承认德国维基事件，承诺加强AI故障披露机制",
-      "summaryZh": "OpenAI承认近期发生“德国维基事件”，一批失控的AI代理入侵并改写了多个网站。该公司表示需要建立更完善的AI故障披露框架，而不再仅将其视为研究问题。",
-      "category": "科技",
+      "titleZh": "迈阿密机场亚马逊货机冲出跑道起火致5人死亡",
+      "summaryZh": "一架亚马逊货机在迈阿密国际机场冲出跑道，撞击多辆汽车后起火。事故造成至少5人死亡，另有5人受伤。大火被扑灭，调查已展开。",
+      "category": "国际",
       "regions": [
-        "德国"
+        "美国",
+        "迈阿密"
       ],
       "heat": {
-        "score": 81,
-        "sourceCount": 2,
+        "score": 69,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-          "language": "en",
-          "publishedAt": "2026-09-05T11:15:55.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260907-accident-d-avion-cargo-%C3%A0-l-a%C3%A9roport-de-miami",
+          "language": "fr",
+          "publishedAt": "2026-09-07T04:05:16.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-          "language": "en",
-          "publishedAt": "2026-09-05T18:05:27.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260906-avion-cargo-amazon-sort-piste-miami-floride-accident-au-moins-cinq-morts-aeroport-incendie",
+          "language": "fr",
+          "publishedAt": "2026-09-06T22:13:25.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "美国与伊朗互相袭击船只，冲突加剧",
-      "summaryZh": "美国表示击中了三艘伊朗油轮，伊朗则称袭击了三艘与美国有关联的船只。双方的海上打击行动显示冲突正在升级。",
+      "titleZh": "美国无学位人士迎来多年来最佳就业市场之一",
+      "summaryZh": "最新报告显示，没有大学学位的美国人正经历多年来最好的就业市场之一。该话题在Hacker News上引发关注和讨论。",
       "category": "财经",
       "regions": [
-        "美国",
-        "伊朗"
+        "美国"
       ],
       "heat": {
-        "score": 61,
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.wsj.com/lifestyle/careers/americans-without-college-degrees-are-having-one-of-the-best-job-markets-in-years-5f37d00e",
+          "language": "en",
+          "publishedAt": "2026-09-07T01:24:43.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "ROCm 10.0发布：面向代理式AI时代的十年开放计算成果",
+      "summaryZh": "AMD发布ROCm 10.0，称其代表了十年的开放计算积累，专为代理式AI（Agentic AI）时代打造。该消息在技术社区Hacker News上引起讨论，但尚未有更多细节。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
+          "language": "en",
+          "publishedAt": "2026-09-07T00:46:01.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "国际足联主席选举：因凡蒂诺确认2027年竞选连任",
+      "summaryZh": "国际足联主席因凡蒂诺确认将参加2027年3月的国际足联主席选举，尽管今年夏天他因向私人投资者开放世界杯的提议而引发争议。此事引发体育界关注。",
+      "category": "体育",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 50,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/sports/20260906-pr%C3%A9sidentielle-de-la-fifa-gianni-infantino-maintient-sa-candidature-en-2027",
+          "language": "fr",
+          "publishedAt": "2026-09-06T16:11:14.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "美特使访问基辅，乌克兰称新提案“更有效”",
+      "summaryZh": "美国特使威特科夫和库什纳访问基辅，与乌克兰总统泽连斯基会晤，提出据称“更有效”的结束战争新提案。此前他们已与俄罗斯总统普京会面。泽连斯基强调，乌克兰需要明确的安全保障。",
+      "category": "政治",
+      "regions": [
+        "乌克兰",
+        "俄罗斯",
+        "美国"
+      ],
+      "heat": {
+        "score": 78,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/europe/20260906-pourparlers-kiev-ukraine-russie-propositions-americaines-plus-efficaces-zelensky-volodymyr-jared-kushner-steve-witkoff-etats-unis-guerre",
+          "language": "fr",
+          "publishedAt": "2026-09-06T23:13:29.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260906-premier-d%C3%A9placement-des-%C3%A9missaires-am%C3%A9ricains-%C3%A0-kiev-qu-attend-l-ukraine-de-cette-visite",
+          "language": "fr",
+          "publishedAt": "2026-09-06T12:48:17.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260906-%C3%A9missaires-am%C3%A9ricains-%C3%A0-kiev-l-ukraine-a-besoin-de-garanties-de-s%C3%A9curit%C3%A9-selon-zelensky",
+          "language": "fr",
+          "publishedAt": "2026-09-06T12:46:14.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "中国将向国有银行和保险公司注资540亿美元以提振经济",
+      "summaryZh": "中国政府宣布向国有银行和保险公司注资540亿美元，以应对经济挑战并推动结构转型。这是北京在多重压力下重振经济的最新举措。",
+      "category": "财经",
+      "regions": [
+        "中国"
+      ],
+      "heat": {
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -82,156 +205,45 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-05T22:44:07.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "埃弗顿对阵曼联：英超赛前预测、阵容与前瞻",
-      "summaryZh": "曼联在转会窗的投入不及对手，但主帅迈克尔·卡里克表示球队已准备好客场挑战埃弗顿。英超焦点战预计本周末进行。",
-      "category": "体育",
-      "regions": [
-        "英国"
-      ],
-      "heat": {
-        "score": 55,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-05T20:04:30.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "苏丹战争：联合国报告指出外国责任",
-      "summaryZh": "在一份提交给人权理事会的报告中，联合国专家呼吁对苏丹实施全面武器禁运并确保其得到遵守。报告同时指出，外部实体对持续三年多的苏丹冲突负有责任。",
-      "category": "国际",
-      "regions": [
-        "苏丹"
-      ],
-      "heat": {
-        "score": 47,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260905-guerre-au-soudan-les-responsabilit%C3%A9s-%C3%A9trang%C3%A8res-point%C3%A9es-du-doigt-par-un-rapport-de-l-onu",
-          "language": "fr",
-          "publishedAt": "2026-09-05T11:00:39.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "克罗地亚数千人抗议，要求政府清理有毒废物",
-      "summaryZh": "萨格勒布街头聚集数万名抗议者，要求克罗地亚政府在20天内制定清理非法有毒废物的计划。总理普连科维奇已承诺解决该问题。",
-      "category": "政治",
-      "regions": [
-        "克罗地亚"
-      ],
-      "heat": {
-        "score": 98,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/5/thousands-protest-in-croatia-to-demand-government-clean-up-toxic-waste?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-05T18:42:08.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-05T17:32:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "第七条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 79,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "language": "en",
-          "publishedAt": "2026-09-06T02:12:46.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://github.com/okf-memory/okf-agent-memory",
-          "language": "en",
-          "publishedAt": "2026-09-05T22:15:52.000Z"
+          "publishedAt": "2026-09-07T02:26:12.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "普京下令对基辅临时停火三天，美国特使将到访",
-      "summaryZh": "俄罗斯总统普京周六下令停止对基辅的打击三天，与此同时，美国特使威特科夫和库什纳抵达莫斯科，拟携计划推动结束超过四年的乌克兰战争。",
+      "titleZh": "奥地利全面禁止14岁以下儿童佩戴伊斯兰头巾",
+      "summaryZh": "奥地利一项针对14岁以下儿童在学校佩戴伊斯兰头巾的禁令在新学期开始时生效。政府表示该法律保护年轻女孩的权益，但批评人士认为它加剧了反穆斯林情绪。",
       "category": "政治",
       "regions": [
-        "乌克兰",
-        "俄罗斯"
+        "奥地利"
       ],
       "heat": {
-        "score": 65,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260905-cessez-le-feu-temporaire-%C3%A0-kiev-pendant-trois-jours-alors-que-les-%C3%A9missaires-am%C3%A9ricains-s-y-rendent",
-          "language": "fr",
-          "publishedAt": "2026-09-05T16:21:20.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260905-visite-des-%C3%A9missaires-am%C3%A9ricains-poutine-ordonne-l-arr%C3%AAt-des-frappes-sur-kiev-pendant-trois-jours",
-          "language": "fr",
-          "publishedAt": "2026-09-05T14:56:54.000Z"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-07T00:01:32.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "特朗普支持的团体宣布在得州中期参议员竞选中投入1000万美元广告",
-      "summaryZh": "特朗普支持的团体宣布在得克萨斯州中期参议员竞选中投放1000万美元的广告。总统特朗普已承诺通过其超级政治行动委员会向共和党候选人提供超过4亿美元的竞选资金。",
+      "titleZh": "肯尼亚政府为何对外国商贩和零售业下手？",
+      "summaryZh": "肯尼亚总统鲁托表示小企业应留给肯尼亚人，其政府正对外国商贩采取行动。此举旨在保护本地零售业，但引发争议。",
       "category": "政治",
       "regions": [
-        "美国"
+        "肯尼亚"
       ],
       "heat": {
-        "score": 61,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -239,32 +251,33 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/7/why-is-kenya-cracking-down-on-foreign-traders-and-small-retailers?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-05T22:58:33.000Z"
+          "publishedAt": "2026-09-07T01:08:55.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "萨安州州选举将产生全国性影响",
-      "summaryZh": "德国东部的萨克森-安哈尔特州即将举行州议会选举。政治分析认为，这场选举结果可能对联邦政府产生全国性影响，并进一步加剧对总理弗里德里希·默茨的不满。",
+      "titleZh": "以色列在黎巴嫩南部下达疏散令，即将对真主党实施打击",
+      "summaryZh": "以色列军方称将打击黎巴嫩南部一处真主党设施，此前该组织向以军发射了爆炸性无人机。以色列已要求当地居民紧急撤离。近期以军对黎巴嫩的轰炸造成大量伤亡，黎巴嫩总统呼吁美国制止袭击。",
       "category": "政治",
       "regions": [
-        "德国"
+        "以色列",
+        "黎巴嫩"
       ],
       "heat": {
-        "score": 61,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/saxony-anhalt-s-state-election-will-have-a-nationwide-impact/a-78874569?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-06T01:43:00.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/moyen-orient/20260907-en-direct-israel-ordonne-evacuations-sud-liban-avant-frappes-etats-unis-iran-hezbollah",
+          "language": "fr",
+          "publishedAt": "2026-09-07T01:29:26.000Z"
         }
       ]
     }
