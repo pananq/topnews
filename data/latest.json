@@ -1,200 +1,81 @@
 {
-  "generatedAt": "2026-09-07T04:49:19.728Z",
+  "generatedAt": "2026-09-08T04:45:02.173Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "德国极右翼AfD在州选举中预计获胜",
-      "summaryZh": "德国极右翼政党德国选择党（AfD）在萨克森-安哈尔特州选举中得票领先，出口民调显示其得票率超过40%。该党有望创造历史，但未获得绝对多数，组建州政府仍面临障碍。AfD领导人表示希望参与执政。",
-      "category": "政治",
+      "titleZh": "英国最大科技公司老板称芯片短缺减缓AI癌症疗法研发",
+      "summaryZh": "芯片设计公司Arm首席执行官表示，目前无法模拟DNA标记受癌症影响的方式，但计算机“将解决这个问题”。这一说法凸显了芯片短缺对AI医疗研究的影响。",
+      "category": "科技",
       "regions": [
-        "德国",
-        "萨克森-安哈尔特州"
+        "欧洲",
+        "全球"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 3,
+        "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-06T18:32:53.000Z"
+          "publishedAt": "2026-09-07T23:05:12.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
           "language": "en",
-          "publishedAt": "2026-09-06T20:52:01.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/saxony-anhalt-preliminary-official-results-show-afd-tops-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-07T01:35:00.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/afd-wants-to-form-a-government-in-saxony-anhalt-but-how/a-79107331?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-06T21:41:00.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/saxony-anhalt-digesting-the-afd-s-landmark-election-win/a-79103981?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-06T21:04:00.000Z"
+          "publishedAt": "2026-09-08T02:12:13.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "迈阿密机场亚马逊货机冲出跑道起火致5人死亡",
-      "summaryZh": "一架亚马逊货机在迈阿密国际机场冲出跑道，撞击多辆汽车后起火。事故造成至少5人死亡，另有5人受伤。大火被扑灭，调查已展开。",
-      "category": "国际",
+      "titleZh": "德国极右翼选择党在州选举获胜后称“民主要求”其他政党与之合作",
+      "summaryZh": "极右翼的德国选择党在萨安州选举中获胜，但未赢得绝对多数。该党正试图组建政府，称民主政制要求其他政党与之合作，但其他政党对此表示拒绝。",
+      "category": "政治",
       "regions": [
-        "美国",
-        "迈阿密"
+        "欧洲"
       ],
       "heat": {
-        "score": 69,
-        "sourceCount": 1,
+        "score": 100,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260907-accident-d-avion-cargo-%C3%A0-l-a%C3%A9roport-de-miami",
-          "language": "fr",
-          "publishedAt": "2026-09-07T04:05:16.000Z"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-07T14:04:01.000Z"
         },
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260906-avion-cargo-amazon-sort-piste-miami-floride-accident-au-moins-cinq-morts-aeroport-incendie",
-          "language": "fr",
-          "publishedAt": "2026-09-06T22:13:25.000Z"
+          "name": "DW",
+          "url": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-07T16:14:00.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/can-the-afd-form-a-government-in-saxony-anhalt/a-79107331?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-07T16:09:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "美国无学位人士迎来多年来最佳就业市场之一",
-      "summaryZh": "最新报告显示，没有大学学位的美国人正经历多年来最好的就业市场之一。该话题在Hacker News上引发关注和讨论。",
+      "titleZh": "英国政府预计宣布限制与约旦河西岸定居点的贸易",
+      "summaryZh": "英国外交大臣埃德·米利班德预计将在今日公布相关提案。此举可能促使以色列采取报复措施。",
       "category": "财经",
       "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.wsj.com/lifestyle/careers/americans-without-college-degrees-are-having-one-of-the-best-job-markets-in-years-5f37d00e",
-          "language": "en",
-          "publishedAt": "2026-09-07T01:24:43.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "ROCm 10.0发布：面向代理式AI时代的十年开放计算成果",
-      "summaryZh": "AMD发布ROCm 10.0，称其代表了十年的开放计算积累，专为代理式AI（Agentic AI）时代打造。该消息在技术社区Hacker News上引起讨论，但尚未有更多细节。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
-          "language": "en",
-          "publishedAt": "2026-09-07T00:46:01.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "国际足联主席选举：因凡蒂诺确认2027年竞选连任",
-      "summaryZh": "国际足联主席因凡蒂诺确认将参加2027年3月的国际足联主席选举，尽管今年夏天他因向私人投资者开放世界杯的提议而引发争议。此事引发体育界关注。",
-      "category": "体育",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 50,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/sports/20260906-pr%C3%A9sidentielle-de-la-fifa-gianni-infantino-maintient-sa-candidature-en-2027",
-          "language": "fr",
-          "publishedAt": "2026-09-06T16:11:14.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "美特使访问基辅，乌克兰称新提案“更有效”",
-      "summaryZh": "美国特使威特科夫和库什纳访问基辅，与乌克兰总统泽连斯基会晤，提出据称“更有效”的结束战争新提案。此前他们已与俄罗斯总统普京会面。泽连斯基强调，乌克兰需要明确的安全保障。",
-      "category": "政治",
-      "regions": [
-        "乌克兰",
-        "俄罗斯",
-        "美国"
-      ],
-      "heat": {
-        "score": 78,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/europe/20260906-pourparlers-kiev-ukraine-russie-propositions-americaines-plus-efficaces-zelensky-volodymyr-jared-kushner-steve-witkoff-etats-unis-guerre",
-          "language": "fr",
-          "publishedAt": "2026-09-06T23:13:29.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260906-premier-d%C3%A9placement-des-%C3%A9missaires-am%C3%A9ricains-%C3%A0-kiev-qu-attend-l-ukraine-de-cette-visite",
-          "language": "fr",
-          "publishedAt": "2026-09-06T12:48:17.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260906-%C3%A9missaires-am%C3%A9ricains-%C3%A0-kiev-l-ukraine-a-besoin-de-garanties-de-s%C3%A9curit%C3%A9-selon-zelensky",
-          "language": "fr",
-          "publishedAt": "2026-09-06T12:46:14.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "中国将向国有银行和保险公司注资540亿美元以提振经济",
-      "summaryZh": "中国政府宣布向国有银行和保险公司注资540亿美元，以应对经济挑战并推动结构转型。这是北京在多重压力下重振经济的最新举措。",
-      "category": "财经",
-      "regions": [
-        "中国"
+        "欧洲"
       ],
       "heat": {
         "score": 63,
@@ -205,19 +86,134 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-07T02:26:12.000Z"
+          "publishedAt": "2026-09-08T01:50:55.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "皇家马德里对阵国际米兰：欧冠联赛前瞻",
+      "summaryZh": "穆里尼奥开启创纪录的15次欧冠冠军得主皇家马德里的欧战征程，对手是意甲冠军国际米兰。比赛前瞻、球队新闻和预测已发布。",
+      "category": "体育",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/8/real-madrid-vs-inter-champions-league-preview-team-news?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-08T04:16:55.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "国际原子能机构就伊朗核准入发出警告，西方大国推动联合国介入",
+      "summaryZh": "联合国核监督机构敦促伊朗合作，同时西方大国正推动将伊朗核问题提交联合国安理会。",
+      "category": "国际",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-08T01:50:37.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "展示：著名网络武器“震网”的重构源代码",
+      "summaryZh": "该帖子在Hacker News上获得132分和45条评论，由用户CMDDestory发布。内容为对臭名昭著的网络武器“震网”源代码的重构展示。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://github.com/Sadpainy/Stuxnet",
+          "language": "en",
+          "publishedAt": "2026-09-07T22:12:38.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "加拿大对美国200亿美元商品的报复性关税生效",
+      "summaryZh": "加拿大以“美元对美元”的方式回应美国关税，影响700种产品和多个行业，贸易紧张局势加剧。",
+      "category": "财经",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-08T04:01:12.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "奥地利全面禁止14岁以下儿童佩戴伊斯兰头巾",
-      "summaryZh": "奥地利一项针对14岁以下儿童在学校佩戴伊斯兰头巾的禁令在新学期开始时生效。政府表示该法律保护年轻女孩的权益，但批评人士认为它加剧了反穆斯林情绪。",
+      "titleZh": "蒙德兰审判对莫桑比克意味着什么？",
+      "summaryZh": "反对派政客蒙德兰因2024年争议选举后的抗议活动面临五项指控。该审判可能对莫桑比克的政治局势产生重大影响。",
       "category": "政治",
       "regions": [
-        "奥地利"
+        "中东"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/8/what-does-mondlanes-trial-mean-for-mozambique?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-08T02:11:40.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "特朗普威胁阻止加拿大庞巴迪飞机在美销售",
+      "summaryZh": "这一威胁针对加拿大最大公司之一，正值两国贸易战不断升级。特朗普表示将阻止庞巴迪飞机在美国的销售。",
+      "category": "财经",
+      "regions": [
+        "欧洲"
       ],
       "heat": {
         "score": 62,
@@ -228,19 +224,19 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-07T00:01:32.000Z"
+          "publishedAt": "2026-09-08T00:48:43.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "肯尼亚政府为何对外国商贩和零售业下手？",
-      "summaryZh": "肯尼亚总统鲁托表示小企业应留给肯尼亚人，其政府正对外国商贩采取行动。此举旨在保护本地零售业，但引发争议。",
-      "category": "政治",
+      "rank": 10,
+      "titleZh": "Arm Mali G2-Ultra NX GPU：支持桌面级移动游戏和AI原生图形",
+      "summaryZh": "该产品介绍在Hacker News上获得9分和0条评论，由用户Re-Tails发布。它展示了桌面级移动游戏体验与AI原生图形。",
+      "category": "科技",
       "regions": [
-        "肯尼亚"
+        "全球"
       ],
       "heat": {
         "score": 62,
@@ -250,34 +246,10 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/7/why-is-kenya-cracking-down-on-foreign-traders-and-small-retailers?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
           "language": "en",
-          "publishedAt": "2026-09-07T01:08:55.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "以色列在黎巴嫩南部下达疏散令，即将对真主党实施打击",
-      "summaryZh": "以色列军方称将打击黎巴嫩南部一处真主党设施，此前该组织向以军发射了爆炸性无人机。以色列已要求当地居民紧急撤离。近期以军对黎巴嫩的轰炸造成大量伤亡，黎巴嫩总统呼吁美国制止袭击。",
-      "category": "政治",
-      "regions": [
-        "以色列",
-        "黎巴嫩"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/moyen-orient/20260907-en-direct-israel-ordonne-evacuations-sud-liban-avant-frappes-etats-unis-iran-hezbollah",
-          "language": "fr",
-          "publishedAt": "2026-09-07T01:29:26.000Z"
+          "publishedAt": "2026-09-08T04:06:20.000Z"
         }
       ]
     }
