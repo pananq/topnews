@@ -1,49 +1,57 @@
 {
-  "generatedAt": "2026-09-08T04:45:02.173Z",
+  "generatedAt": "2026-09-09T04:48:46.665Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "英国最大科技公司老板称芯片短缺减缓AI癌症疗法研发",
-      "summaryZh": "芯片设计公司Arm首席执行官表示，目前无法模拟DNA标记受癌症影响的方式，但计算机“将解决这个问题”。这一说法凸显了芯片短缺对AI医疗研究的影响。",
+      "titleZh": "Meta押注AI智能体Muse以追赶AI竞赛",
+      "summaryZh": "Meta推出个人AI智能体Muse，可帮助用户完成在线购物、发送邮件和规划行程等任务。这是Meta数十亿美元战略转型的一部分，旨在追赶OpenAI、Anthropic和谷歌等对手。Muse需要访问用户邮件、日历、支付和健康等敏感数据，引发信任担忧。",
       "category": "科技",
       "regions": [
-        "欧洲",
+        "美国",
         "全球"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 2,
+        "sourceCount": 3,
         "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
           "language": "en",
-          "publishedAt": "2026-09-07T23:05:12.000Z"
+          "publishedAt": "2026-09-08T19:00:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+          "language": "en",
+          "publishedAt": "2026-09-08T19:00:00.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
+          "url": "https://ai.meta.com/muse/",
           "language": "en",
-          "publishedAt": "2026-09-08T02:12:13.000Z"
+          "publishedAt": "2026-09-08T19:25:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "德国极右翼选择党在州选举获胜后称“民主要求”其他政党与之合作",
-      "summaryZh": "极右翼的德国选择党在萨安州选举中获胜，但未赢得绝对多数。该党正试图组建政府，称民主政制要求其他政党与之合作，但其他政党对此表示拒绝。",
-      "category": "政治",
+      "titleZh": "英以关系跌至数十年来最低点",
+      "summaryZh": "英国外交大臣米利班德宣布对以色列在约旦河西岸的定居点实施贸易制裁，以回应所谓的“定居者恐怖主义”。以色列对此作出强烈反应，显示当前英以关系正处于数十年来最低点。",
+      "category": "财经",
       "regions": [
-        "欧洲"
+        "英国",
+        "以色列",
+        "约旦河西岸"
       ],
       "heat": {
-        "score": 100,
+        "score": 88,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -51,100 +59,56 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-07T14:04:01.000Z"
+          "publishedAt": "2026-09-08T21:46:31.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/uk-announces-trade-sanctions-on-israeli-settlements-in-occupied-west-bank/a-79155051?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-07T16:14:00.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/can-the-afd-form-a-government-in-saxony-anhalt/a-79107331?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-07T16:09:00.000Z"
+          "publishedAt": "2026-09-08T12:46:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "英国政府预计宣布限制与约旦河西岸定居点的贸易",
-      "summaryZh": "英国外交大臣埃德·米利班德预计将在今日公布相关提案。此举可能促使以色列采取报复措施。",
-      "category": "财经",
+      "titleZh": "欧冠前瞻：那不勒斯对阵阿森纳",
+      "summaryZh": "那不勒斯即将在欧冠首场比赛中对阵阿森纳。球队面临中场人员短缺的问题，但希望找回上赛季夺得意甲冠军时的出色状态。",
+      "category": "体育",
       "regions": [
-        "欧洲"
+        "意大利",
+        "英格兰"
       ],
       "heat": {
-        "score": 63,
+        "score": 71,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-08T01:50:55.000Z"
+          "publishedAt": "2026-09-08T22:39:54.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-08T22:34:40.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "皇家马德里对阵国际米兰：欧冠联赛前瞻",
-      "summaryZh": "穆里尼奥开启创纪录的15次欧冠冠军得主皇家马德里的欧战征程，对手是意甲冠军国际米兰。比赛前瞻、球队新闻和预测已发布。",
-      "category": "体育",
+      "titleZh": "美国事实上的大使警告：台海冲突将是灾难性的",
+      "summaryZh": "美国事实上的对台大使警告，台湾问题若引发冲突将造成灾难。尽管美国与台湾没有正式外交关系，但美国仍是台湾的主要国际支持者和武器供应方。",
+      "category": "政治",
       "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/8/real-madrid-vs-inter-champions-league-preview-team-news?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-08T04:16:55.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "国际原子能机构就伊朗核准入发出警告，西方大国推动联合国介入",
-      "summaryZh": "联合国核监督机构敦促伊朗合作，同时西方大国正推动将伊朗核问题提交联合国安理会。",
-      "category": "国际",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 59,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-08T01:50:37.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "展示：著名网络武器“震网”的重构源代码",
-      "summaryZh": "该帖子在Hacker News上获得132分和45条评论，由用户CMDDestory发布。内容为对臭名昭著的网络武器“震网”源代码的重构展示。",
-      "category": "科技",
-      "regions": [
-        "全球"
+        "台湾",
+        "美国"
       ],
       "heat": {
         "score": 64,
@@ -154,69 +118,47 @@
       },
       "sources": [
         {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-09T04:04:45.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "陶哲轩：开放数学问题正被AI不可再生地开采",
+      "summaryZh": "陶哲轩指出，开放数学问题正被人工智能以不可再生的方式“开采”。该观点在Hacker News上引发讨论，获得248分和179条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
           "name": "Hacker News",
-          "url": "https://github.com/Sadpainy/Stuxnet",
+          "url": "https://mathstodon.xyz/@tao/117237320796901560",
           "language": "en",
-          "publishedAt": "2026-09-07T22:12:38.000Z"
+          "publishedAt": "2026-09-08T21:00:52.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "加拿大对美国200亿美元商品的报复性关税生效",
-      "summaryZh": "加拿大以“美元对美元”的方式回应美国关税，影响700种产品和多个行业，贸易紧张局势加剧。",
+      "rank": 6,
+      "titleZh": "美国对加拿大酒精和摩托车等商品实施进口禁令",
+      "summaryZh": "美国宣布禁止进口加拿大产酒精、摩托车等商品。这是两国长期贸易战中的最新行动，与此同时，加拿大对美商品的反制关税已开始生效。",
       "category": "财经",
       "regions": [
-        "中东"
+        "美国",
+        "加拿大"
       ],
       "heat": {
         "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-08T04:01:12.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "蒙德兰审判对莫桑比克意味着什么？",
-      "summaryZh": "反对派政客蒙德兰因2024年争议选举后的抗议活动面临五项指控。该审判可能对莫桑比克的政治局势产生重大影响。",
-      "category": "政治",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/8/what-does-mondlanes-trial-mean-for-mozambique?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-08T02:11:40.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "特朗普威胁阻止加拿大庞巴迪飞机在美销售",
-      "summaryZh": "这一威胁针对加拿大最大公司之一，正值两国贸易战不断升级。特朗普表示将阻止庞巴迪飞机在美国的销售。",
-      "category": "财经",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -224,19 +166,66 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-08T00:48:43.000Z"
+          "publishedAt": "2026-09-09T03:03:32.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "Arm Mali G2-Ultra NX GPU：支持桌面级移动游戏和AI原生图形",
-      "summaryZh": "该产品介绍在Hacker News上获得9分和0条评论，由用户Re-Tails发布。它展示了桌面级移动游戏体验与AI原生图形。",
+      "rank": 7,
+      "titleZh": "摄像师拍下也门政府军遭伏击瞬间",
+      "summaryZh": "摄像师拍下了也门政府军遭疑似胡塞武装路边伏击的画面。这一事件突显出也门安全局势依然动荡。",
+      "category": "政治",
+      "regions": [
+        "也门"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/cameraman-catches-the-moment-yemeni-government-forces-are-ambushed?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-09T02:54:28.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "沙特支持的也门政府军打击西部海岸胡塞武装",
+      "summaryZh": "沙特支持的也门政府军对西部海岸的胡塞武装发动袭击，以加强其反攻行动。这表明也门西部战线正在升级。",
+      "category": "政治",
+      "regions": [
+        "也门",
+        "沙特阿拉伯"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/yemens-saudi-backed-forces-strike-houthis-on-western-coast?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-09T02:06:02.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "前OpenAI研究员因AI安全担忧从Anthropic离职",
+      "summaryZh": "一位曾供职于OpenAI的研究员因对AI安全的担忧而离开了Anthropic。相关信息在Hacker News上发布，引发有限讨论（14分、4条评论）。",
       "category": "科技",
       "regions": [
-        "全球"
+        "美国"
       ],
       "heat": {
         "score": 62,
@@ -247,9 +236,33 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+          "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628",
           "language": "en",
-          "publishedAt": "2026-09-08T04:06:20.000Z"
+          "publishedAt": "2026-09-09T01:36:17.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "中国AI企业被指对美国AI公司开展模型蒸馏活动",
+      "summaryZh": "文件显示，中国AI公司正针对美国AI公司开展模型蒸馏活动。相关帖子在Hacker News上获得16分和13条评论。",
+      "category": "科技",
+      "regions": [
+        "中国",
+        "美国"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://media.defense.gov/2026/Sep/08/2003992823/-1/-1/1/CSA_CHINA_BASED_AI_COMPANIES_MALICIOUS_DISTILLATION_AGAINST_US.PDF",
+          "language": "en",
+          "publishedAt": "2026-09-08T23:28:43.000Z"
         }
       ]
     }
