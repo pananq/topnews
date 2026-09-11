@@ -1,147 +1,136 @@
 {
-  "generatedAt": "2026-09-10T04:50:01.353Z",
+  "generatedAt": "2026-09-11T04:47:10.008Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普承诺：共和党赢得参众两院则每位美国人获5000美元",
-      "summaryZh": "特朗普承诺，若共和党赢得众议院和参议院，每位美国成年人将获得5000美元“红利”。他在共和党中期选举大会上发表内容广泛的演讲，为伊朗战争、贸易战和关税等辩护，并称民主党人邪恶、移民是动物。",
-      "category": "政治",
+      "titleZh": "Meta 推出 AI 助手 Muse，实测体验令人不安",
+      "summaryZh": "Meta 发布其首款 AI 生产力助手 Muse，声称可帮用户处理网购、邮件、行程规划等事务。The Verge 记者实测后表示，助手大体按预期工作，但它自行获取的大量个人信息令人不安。TechCrunch 报道称，Muse 已成为美国下载量第二的应用，但起步速度慢于 Meta AI 和 Threads。",
+      "category": "科技",
       "regions": [
-        "美国",
-        "中东",
-        "全球"
+        "美国"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 3,
-        "reasonZh": "共有3个来源、3个地区信号，且报道集中在过去24小时内。"
+        "score": 82,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/trump-every-american-gets-5000-if-republicans-win-house-senate?traffic_source=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
           "language": "en",
-          "publishedAt": "2026-09-10T04:25:50.000Z"
+          "publishedAt": "2026-09-10T15:00:00.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/trump-promises-americans-5-000-if-republicans-win-midterms/a-79208399?maca=en-rss-en-all-1573-rdf",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
           "language": "en",
-          "publishedAt": "2026-09-10T03:44:00.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.reuters.com/world/us/trump-promises-5000-payout-us-adults-if-republicans-win-election-2026-09-10/",
-          "language": "en",
-          "publishedAt": "2026-09-10T03:23:47.000Z"
+          "publishedAt": "2026-09-10T19:50:04.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "WordPress 母公司 Automattic 首席执行官马特·穆伦维格被停职",
-      "summaryZh": "WordPress.com 母公司 Automattic 的 CEO 马特·穆伦维格被安排带薪休假。他在内部信息中称，Automattic 首席财务官马克·戴维斯与部分董事会成员“合谋”推动这一决定，并表示自己投了反对票。穆伦维格自2014年起领导 Automattic，也是 WordPress.org 的联合创始人。",
-      "category": "科技",
+      "titleZh": "特朗普戏称共和党可在中期选举中“像民主党一样大作弊”",
+      "summaryZh": "美国总统特朗普开玩笑地呼吁共和党选民在中期选举中“像民主党那样大作弊”。相关言论由半岛电视台报道。",
+      "category": "政治",
       "regions": [
-        "美国",
-        "全球"
+        "美国"
       ],
       "heat": {
-        "score": 86,
-        "sourceCount": 2,
+        "score": 64,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_trump-republicans-can-cheat-in-the-midterms-100926?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-09T22:15:52.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-          "language": "en",
-          "publishedAt": "2026-09-09T23:14:29.000Z"
+          "publishedAt": "2026-09-11T04:07:44.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "我们的经济未来会是什么样？",
-      "summaryZh": "Hacker News 上出现关于“我们的经济未来会是什么样？”的讨论帖，获得188点、367条评论。来源未提供更多具体内容。",
+      "titleZh": "Uber 为何退出部分非洲市场",
+      "summaryZh": "Uber 退出尼日利亚和乌干达市场，凸显网约车模式在非洲运营面临日益增大的挑战。报道分析称，这反映出在非洲开展网约车业务的难度不断上升。",
       "category": "财经",
       "regions": [
-        "全球"
+        "尼日利亚",
+        "乌干达",
+        "非洲"
       ],
       "heat": {
-        "score": 62,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/11/why-is-uber-pulling-out-of-some-african-markets?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-09T13:38:23.000Z"
+          "publishedAt": "2026-09-11T00:51:50.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "伊朗因核不遵守问题被提交联合国安理会",
-      "summaryZh": "伊朗因核不遵守问题被提交至联合国安理会。德黑兰谴责该决议，并将核查受干扰归咎于美国和以色列对其核设施的打击。",
-      "category": "国际",
+      "titleZh": "曼联欧冠回归战 4-0 大胜沙巴",
+      "summaryZh": "曼联在欧冠回归战中以 4-0 击败沙巴。马特乌斯·库尼亚、布鲁诺·费尔南德斯、本杰明·塞斯科和利桑德罗·马丁内斯各入一球，助球队取得胜利。",
+      "category": "体育",
       "regions": [
-        "伊朗",
-        "美国",
-        "以色列",
-        "中东",
-        "全球"
+        "英国",
+        "欧洲"
       ],
       "heat": {
-        "score": 57,
+        "score": 55,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-09T20:22:51.000Z"
+          "publishedAt": "2026-09-10T20:54:47.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "高芙逆转安德列娃，晋级美网半决赛",
-      "summaryZh": "可可·高芙在挽救两个赛点后逆转击败米拉·安德列娃，晋级美国网球公开赛半决赛。她将在半决赛对阵埃琳娜·雷巴金娜。",
-      "category": "体育",
+      "titleZh": "AI 正在破坏我们所说的“信任”",
+      "summaryZh": "Hacker News 上的一篇文章提出，人工智能正在侵蚀人们所理解的信任。同期还有一则关于学生如何看待 AI 的讨论帖。",
+      "category": "科技",
       "regions": [
-        "美国",
         "全球"
       ],
       "heat": {
-        "score": 56,
+        "score": 78,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/9/gauff-beats-andreeva-to-reach-us-open-semifinals-in-comeback-win?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
           "language": "en",
-          "publishedAt": "2026-09-09T22:08:01.000Z"
+          "publishedAt": "2026-09-10T14:21:20.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
+          "language": "en",
+          "publishedAt": "2026-09-11T01:33:36.000Z"
         }
       ]
     },
@@ -151,130 +140,115 @@
       "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "科技",
       "regions": [
-        "美洲"
-      ],
-      "heat": {
-        "score": 84,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
-          "language": "en",
-          "publishedAt": "2026-09-09T22:37:51.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
-          "language": "en",
-          "publishedAt": "2026-09-09T17:26:05.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "苹果秋季发布会汇总：从可折叠 iPhone Duo 到常听 Apple Watch",
-      "summaryZh": "苹果在秋季 iPhone 发布会上推出首款可折叠手机 iPhone Duo，采用更宽的形态设计，以便展开时获得更好的视频比例。发布会内容还包括常听 Apple Watch 等产品。",
-      "category": "科技",
-      "regions": [
-        "美国",
-        "全球"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-          "language": "en",
-          "publishedAt": "2026-09-09T20:03:43.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
-          "language": "en",
-          "publishedAt": "2026-09-09T17:58:14.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "从规范博弈看AI对齐：一个愚蠢的想法",
-      "summaryZh": "Hacker News 上出现关于 AI 对齐的讨论帖，提出从“规范博弈”角度出发的一个想法。帖子获得20点、14条评论。",
-      "category": "科技",
-      "regions": [
         "全球"
       ],
       "heat": {
         "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+          "url": "https://system76.com/workstations/thelio-mira-ai",
           "language": "en",
-          "publishedAt": "2026-09-10T01:59:51.000Z"
+          "publishedAt": "2026-09-10T23:10:06.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "台湾副总统罕见访问欧洲出席民主会议",
+      "summaryZh": "台湾副总统罕见访问欧洲，出席一场关于民主的会议。欧洲议会议员皮娜·皮切尔诺表示，此行在她抵达前一直保密，以保护其参与。",
+      "category": "政治",
+      "regions": [
+        "台湾",
+        "欧洲"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-11T03:15:44.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "西班牙议员支持给予撒哈拉人公民身份",
+      "summaryZh": "西班牙议员通过一项法案，可能给予数万名撒哈拉人及其后裔公民身份。该法案仍需参议院通过，此举正值西班牙与摩洛哥关系紧张之际。",
+      "category": "政治",
+      "regions": [
+        "西班牙",
+        "摩洛哥",
+        "西撒哈拉"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/spanish-lawmakers-back-citizenship-for-saharawis/a-79222841?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-11T03:09:00.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "内塔尼亚胡将起诉《国土报》，涉阿联酋曾警告10月7日袭击的说法",
-      "summaryZh": "以色列总理内塔尼亚胡否认阿联酋总统在2023年10月7日袭击前曾向他警告哈马斯计划的说法。他计划就此起诉《国土报》。",
-      "category": "政治",
+      "titleZh": "检测与应对 AI 滥用：2026 年 9 月",
+      "summaryZh": "Hacker News 上的一则讨论聚焦于如何检测和应对人工智能的滥用问题。该帖评论数较多，关注度较高。",
+      "category": "科技",
       "regions": [
-        "以色列",
-        "阿联酋",
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 63,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
           "language": "en",
-          "publishedAt": "2026-09-10T03:14:52.000Z"
+          "publishedAt": "2026-09-10T17:23:42.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "斯洛文尼亚开设以色列首个大使馆，卢布尔雅那数千人抗议",
-      "summaryZh": "斯洛文尼亚开设以色列在其境内的首个大使馆，引发卢布尔雅那数千人抗议。民族主义总理亚内兹·扬沙借此重置与以色列的关系，抗议者提出弹劾动议。",
-      "category": "政治",
+      "titleZh": "我有一个理论：软件会把人逼疯",
+      "summaryZh": "Hacker News 上的一篇文章提出，软件会令人精神失常这一观点，并引发大量讨论。该帖获得数百点赞同与上百条评论。",
+      "category": "科技",
       "regions": [
-        "斯洛文尼亚",
-        "以色列",
-        "欧洲",
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 63,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/10/thousands-protest-in-ljubljana-as-slovenia-opens-israels-first-embassy?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://graybeard.ing/software-drives-people-insane/",
           "language": "en",
-          "publishedAt": "2026-09-10T02:54:38.000Z"
+          "publishedAt": "2026-09-10T16:13:42.000Z"
         }
       ]
     }
