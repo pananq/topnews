@@ -1,13 +1,117 @@
 {
-  "generatedAt": "2026-09-11T04:47:10.008Z",
+  "generatedAt": "2026-09-12T04:41:27.823Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "Meta 推出 AI 助手 Muse，实测体验令人不安",
-      "summaryZh": "Meta 发布其首款 AI 生产力助手 Muse，声称可帮用户处理网购、邮件、行程规划等事务。The Verge 记者实测后表示，助手大体按预期工作，但它自行获取的大量个人信息令人不安。TechCrunch 报道称，Muse 已成为美国下载量第二的应用，但起步速度慢于 Meta AI 和 Threads。",
+      "titleZh": "AI在数学领域的不对齐问题",
+      "summaryZh": "Hacker News上，一篇题为“AI在数学领域的不对齐问题”的帖子获得769分和759条评论。同时，有两个关于“Show HN: Hacker News, without AI”的帖子分别获得178分和84条评论、178分和77条评论，显示社区对AI相关内容的关注。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://mathandai.org/",
+          "language": "en",
+          "publishedAt": "2026-09-11T17:45:12.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://hcker.news/?ai=exclude",
+          "language": "en",
+          "publishedAt": "2026-09-11T15:01:19.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.unslop.news/",
+          "language": "en",
+          "publishedAt": "2026-09-11T16:08:50.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "中情局在9/11纪念日发布总统每日简报",
+      "summaryZh": "中情局在9/11纪念日发布了总统每日简报。该消息在Hacker News上获得125分和62条评论。",
+      "category": "政治",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
+          "language": "en",
+          "publishedAt": "2026-09-11T18:30:07.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "加拿大人如何为特朗普贸易战的影响做准备",
+      "summaryZh": "半岛电视台报道，加拿大人的买本地产品运动依然强劲，但新关税可能考验购物者愿意支付多少。报道关注特朗普贸易战对加拿大消费者的潜在影响。",
+      "category": "财经",
+      "regions": [
+        "加拿大"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-12T00:52:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "曼城主帅恩佐·马雷斯卡称曼彻斯特德比前焦点不在自己身上",
+      "summaryZh": "半岛电视台报道，曼城主帅恩佐·马雷斯卡表示，在周日曼彻斯特德比之前，焦点不在自己身上。曼城目前以三战全胜领跑英超积分榜。",
+      "category": "体育",
+      "regions": [
+        "英国"
+      ],
+      "heat": {
+        "score": 54,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/11/enzo-maresca-manchester-city-man-united-derby-football?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-11T19:37:17.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "马特·穆伦维格在遭解职两天后回归Automattic CEO职位",
+      "summaryZh": "据The Verge和TechCrunch报道，马特·穆伦维格在被迫休假两天后，通过Slack消息表示自己已恢复Automattic CEO职务。WordPress执行董事玛丽·哈伯德在X上确认了穆伦维格的回归，并表示支持。",
       "category": "科技",
       "regions": [
         "美国"
@@ -21,129 +125,28 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+          "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
           "language": "en",
-          "publishedAt": "2026-09-10T15:00:00.000Z"
+          "publishedAt": "2026-09-11T17:16:59.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+          "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
           "language": "en",
-          "publishedAt": "2026-09-10T19:50:04.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "特朗普戏称共和党可在中期选举中“像民主党一样大作弊”",
-      "summaryZh": "美国总统特朗普开玩笑地呼吁共和党选民在中期选举中“像民主党那样大作弊”。相关言论由半岛电视台报道。",
-      "category": "政治",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_trump-republicans-can-cheat-in-the-midterms-100926?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-11T04:07:44.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "Uber 为何退出部分非洲市场",
-      "summaryZh": "Uber 退出尼日利亚和乌干达市场，凸显网约车模式在非洲运营面临日益增大的挑战。报道分析称，这反映出在非洲开展网约车业务的难度不断上升。",
-      "category": "财经",
-      "regions": [
-        "尼日利亚",
-        "乌干达",
-        "非洲"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/11/why-is-uber-pulling-out-of-some-african-markets?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-11T00:51:50.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "曼联欧冠回归战 4-0 大胜沙巴",
-      "summaryZh": "曼联在欧冠回归战中以 4-0 击败沙巴。马特乌斯·库尼亚、布鲁诺·费尔南德斯、本杰明·塞斯科和利桑德罗·马丁内斯各入一球，助球队取得胜利。",
-      "category": "体育",
-      "regions": [
-        "英国",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 55,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-10T20:54:47.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "AI 正在破坏我们所说的“信任”",
-      "summaryZh": "Hacker News 上的一篇文章提出，人工智能正在侵蚀人们所理解的信任。同期还有一则关于学生如何看待 AI 的讨论帖。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 78,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
-          "language": "en",
-          "publishedAt": "2026-09-10T14:21:20.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
-          "language": "en",
-          "publishedAt": "2026-09-11T01:33:36.000Z"
+          "publishedAt": "2026-09-11T15:19:00.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "第六条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "titleZh": "AI研究人员辩论我们距离递归自我改进有多近",
+      "summaryZh": "Hacker News上，一篇关于AI研究人员辩论递归自我改进距离的帖子获得75分和61条评论。同一来源还有一篇关于如何建造200亿美元半导体工厂的旧文，获得17分和7条评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 77,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -151,20 +154,54 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://system76.com/workstations/thelio-mira-ai",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
           "language": "en",
-          "publishedAt": "2026-09-10T23:10:06.000Z"
+          "publishedAt": "2026-09-11T21:35:29.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor",
+          "language": "en",
+          "publishedAt": "2026-09-11T13:22:01.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "台湾副总统罕见访问欧洲出席民主会议",
-      "summaryZh": "台湾副总统罕见访问欧洲，出席一场关于民主的会议。欧洲议会议员皮娜·皮切尔诺表示，此行在她抵达前一直保密，以保护其参与。",
-      "category": "政治",
+      "titleZh": "Hacker News降低AI驱动内容的优先级",
+      "summaryZh": "Hacker News上，一篇关于降低AI驱动内容优先级的帖子获得112分和54条评论。另有用户提交“Show HN: Clawfight.ai MCP驱动的智能体游戏”，获得13分和13条评论。",
+      "category": "科技",
       "regions": [
-        "台湾",
-        "欧洲"
+        "全球"
+      ],
+      "heat": {
+        "score": 76,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "language": "en",
+          "publishedAt": "2026-09-11T15:52:49.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://clawfight.ai/agents.md",
+          "language": "en",
+          "publishedAt": "2026-09-11T13:54:17.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "伯尼的AI法案提议判处AI开发者20年监禁",
+      "summaryZh": "Hacker News上，一篇关于伯尼AI法案的帖子称，该法案提议对AI开发者判处最高20年监禁。帖子获得36分和10条评论。",
+      "category": "科技",
+      "regions": [
+        "美国"
       ],
       "heat": {
         "score": 63,
@@ -174,71 +211,46 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://twitter.com/venturetwins/status/2098456905526211026",
           "language": "en",
-          "publishedAt": "2026-09-11T03:15:44.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "西班牙议员支持给予撒哈拉人公民身份",
-      "summaryZh": "西班牙议员通过一项法案，可能给予数万名撒哈拉人及其后裔公民身份。该法案仍需参议院通过，此举正值西班牙与摩洛哥关系紧张之际。",
-      "category": "政治",
-      "regions": [
-        "西班牙",
-        "摩洛哥",
-        "西撒哈拉"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/spanish-lawmakers-back-citizenship-for-saharawis/a-79222841?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-11T03:09:00.000Z"
+          "publishedAt": "2026-09-12T00:24:36.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "检测与应对 AI 滥用：2026 年 9 月",
-      "summaryZh": "Hacker News 上的一则讨论聚焦于如何检测和应对人工智能的滥用问题。该帖评论数较多，关注度较高。",
-      "category": "科技",
+      "titleZh": "弗拉维奥·博索纳罗在巴西大选前数周面临腐败调查",
+      "summaryZh": "半岛电视台报道，巴西最高法院解封与Banco Master腐败丑闻相关的文件，使针对弗拉维奥·博索纳罗的调查浮出水面。此时距离巴西大选仅有数周。",
+      "category": "财经",
       "regions": [
-        "全球"
+        "巴西"
       ],
       "heat": {
-        "score": 62,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-10T17:23:42.000Z"
+          "publishedAt": "2026-09-11T22:57:51.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "我有一个理论：软件会把人逼疯",
-      "summaryZh": "Hacker News 上的一篇文章提出，软件会令人精神失常这一观点，并引发大量讨论。该帖获得数百点赞同与上百条评论。",
+      "titleZh": "他们确实认为AI可能杀死所有人",
+      "summaryZh": "Hacker News上，一篇题为“他们确实认为AI可能杀死所有人”的帖子获得24分，暂无评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 62,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -246,9 +258,9 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://graybeard.ing/software-drives-people-insane/",
+          "url": "https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone/",
           "language": "en",
-          "publishedAt": "2026-09-10T16:13:42.000Z"
+          "publishedAt": "2026-09-11T22:30:09.000Z"
         }
       ]
     }
