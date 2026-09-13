@@ -1,19 +1,220 @@
 {
-  "generatedAt": "2026-09-12T04:41:27.823Z",
+  "generatedAt": "2026-09-13T04:54:42.573Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "AI在数学领域的不对齐问题",
-      "summaryZh": "Hacker News上，一篇题为“AI在数学领域的不对齐问题”的帖子获得769分和759条评论。同时，有两个关于“Show HN: Hacker News, without AI”的帖子分别获得178分和84条评论、178分和77条评论，显示社区对AI相关内容的关注。",
+      "titleZh": "第一条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "欧洲",
+        "美洲",
+        "全球"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 4,
+        "regionCount": 3,
+        "reasonZh": "共有 4 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-12T21:16:47.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-12T23:32:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+          "language": "en",
+          "publishedAt": "2026-09-12T19:34:44.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+          "language": "en",
+          "publishedAt": "2026-09-13T00:30:44.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "特朗普访问爱尔兰期间称“乐见”爱尔兰统一",
+      "summaryZh": "美国总统特朗普在访问爱尔兰期间表示，他“乐见”一个统一的爱尔兰。DW 报道称，特朗普此行观看高尔夫赛事，并与当地领导人会面，还说统一将“太棒了”。",
+      "category": "政治",
+      "regions": [
+        "欧洲",
+        "美洲"
+      ],
+      "heat": {
+        "score": 99,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-13T00:43:48.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/trump-visits-ireland-says-unification-would-be-fantastic/a-79244685?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-12T11:55:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "伊朗战争直播：沙特与胡塞武装在曼德海峡相互袭击",
+      "summaryZh": "胡塞武装指责沙特在48小时内发动129次袭击。外界对沙特石油产业所受影响的担忧加剧。",
+      "category": "财经",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-13T00:00:40.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "姆巴佩梅开二度，皇马西甲4-1大胜巴列卡诺",
+      "summaryZh": "贝林厄姆和卡雷拉斯进球，帮助皇马在西甲联赛中4-1击败巴列卡诺。这场胜利缓解了主帅穆里尼奥在上一场联赛失利后的压力。",
+      "category": "体育",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 57,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-12T23:43:32.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "联合国官员称乌克兰面临俄全面入侵以来“最艰难冬天”",
+      "summaryZh": "一位联合国高级官员告诉BBC，确保冬季电力和供水的时间紧迫。",
+      "category": "国际",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 47,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-12T05:55:15.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "Anthropic CEO 称是时候给 AI 发展踩刹车",
+      "summaryZh": "Anthropic CEO Dario Amodei 表示，现在应该放缓 AI 开发，并将让 METR 等第三方评估者访问其模型，以确保遵守安全实践和承诺。他提出三步计划来“pace the frontier”，即放慢训练和开发速度，让企业有时间建立保障措施，监管机构也有时间评估模型。",
+      "category": "科技",
+      "regions": [
+        "美洲",
+        "全球"
+      ],
+      "heat": {
+        "score": 99,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+          "language": "en",
+          "publishedAt": "2026-09-12T16:23:40.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
+          "language": "en",
+          "publishedAt": "2026-09-13T03:25:32.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "第七条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "美洲"
+      ],
+      "heat": {
+        "score": 85,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+          "language": "en",
+          "publishedAt": "2026-09-12T21:16:28.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "language": "en",
+          "publishedAt": "2026-09-12T20:19:16.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "英伟达是AI的中央银行",
+      "summaryZh": "Hacker News 上关于“英伟达是AI的中央银行”的讨论获得427分和296条评论。另一篇帖子讨论将AI与数学对齐到其他事物。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 100,
+        "score": 83,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -21,31 +222,48 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://mathandai.org/",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
           "language": "en",
-          "publishedAt": "2026-09-11T17:45:12.000Z"
+          "publishedAt": "2026-09-12T15:08:27.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://hcker.news/?ai=exclude",
+          "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
           "language": "en",
-          "publishedAt": "2026-09-11T15:01:19.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.unslop.news/",
-          "language": "en",
-          "publishedAt": "2026-09-11T16:08:50.000Z"
+          "publishedAt": "2026-09-13T00:47:48.000Z"
         }
       ]
     },
     {
-      "rank": 2,
-      "titleZh": "中情局在9/11纪念日发布总统每日简报",
-      "summaryZh": "中情局在9/11纪念日发布了总统每日简报。该消息在Hacker News上获得125分和62条评论。",
+      "rank": 9,
+      "titleZh": "AI代理为何撒谎、作弊并协同？",
+      "summaryZh": "Hacker News 上关于AI代理撒谎、作弊和协同的讨论获得43分和45条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "language": "en",
+          "publishedAt": "2026-09-13T01:22:31.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "瓦努阿图渡轮沉没，一死三十多人失踪",
+      "summaryZh": "瓦努阿图总理办公室称，一艘渡轮沉没，造成一人死亡，30多人失踪。救援人员继续搜寻幸存者，政府缩减了开放水域的搜救行动。",
       "category": "政治",
       "regions": [
-        "美国"
+        "大洋洲"
       ],
       "heat": {
         "score": 64,
@@ -55,212 +273,10 @@
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-          "language": "en",
-          "publishedAt": "2026-09-11T18:30:07.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "加拿大人如何为特朗普贸易战的影响做准备",
-      "summaryZh": "半岛电视台报道，加拿大人的买本地产品运动依然强劲，但新关税可能考验购物者愿意支付多少。报道关注特朗普贸易战对加拿大消费者的潜在影响。",
-      "category": "财经",
-      "regions": [
-        "加拿大"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-12T00:52:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "曼城主帅恩佐·马雷斯卡称曼彻斯特德比前焦点不在自己身上",
-      "summaryZh": "半岛电视台报道，曼城主帅恩佐·马雷斯卡表示，在周日曼彻斯特德比之前，焦点不在自己身上。曼城目前以三战全胜领跑英超积分榜。",
-      "category": "体育",
-      "regions": [
-        "英国"
-      ],
-      "heat": {
-        "score": 54,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/11/enzo-maresca-manchester-city-man-united-derby-football?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-11T19:37:17.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "马特·穆伦维格在遭解职两天后回归Automattic CEO职位",
-      "summaryZh": "据The Verge和TechCrunch报道，马特·穆伦维格在被迫休假两天后，通过Slack消息表示自己已恢复Automattic CEO职务。WordPress执行董事玛丽·哈伯德在X上确认了穆伦维格的回归，并表示支持。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 82,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
-          "language": "en",
-          "publishedAt": "2026-09-11T17:16:59.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-          "language": "en",
-          "publishedAt": "2026-09-11T15:19:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "AI研究人员辩论我们距离递归自我改进有多近",
-      "summaryZh": "Hacker News上，一篇关于AI研究人员辩论递归自我改进距离的帖子获得75分和61条评论。同一来源还有一篇关于如何建造200亿美元半导体工厂的旧文，获得17分和7条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 77,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "language": "en",
-          "publishedAt": "2026-09-11T21:35:29.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor",
-          "language": "en",
-          "publishedAt": "2026-09-11T13:22:01.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "Hacker News降低AI驱动内容的优先级",
-      "summaryZh": "Hacker News上，一篇关于降低AI驱动内容优先级的帖子获得112分和54条评论。另有用户提交“Show HN: Clawfight.ai MCP驱动的智能体游戏”，获得13分和13条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 76,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://sprinklz.io/public/pdwt4dve5uai",
-          "language": "en",
-          "publishedAt": "2026-09-11T15:52:49.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://clawfight.ai/agents.md",
-          "language": "en",
-          "publishedAt": "2026-09-11T13:54:17.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "伯尼的AI法案提议判处AI开发者20年监禁",
-      "summaryZh": "Hacker News上，一篇关于伯尼AI法案的帖子称，该法案提议对AI开发者判处最高20年监禁。帖子获得36分和10条评论。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://twitter.com/venturetwins/status/2098456905526211026",
-          "language": "en",
-          "publishedAt": "2026-09-12T00:24:36.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "弗拉维奥·博索纳罗在巴西大选前数周面临腐败调查",
-      "summaryZh": "半岛电视台报道，巴西最高法院解封与Banco Master腐败丑闻相关的文件，使针对弗拉维奥·博索纳罗的调查浮出水面。此时距离巴西大选仅有数周。",
-      "category": "财经",
-      "regions": [
-        "巴西"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-11T22:57:51.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "他们确实认为AI可能杀死所有人",
-      "summaryZh": "Hacker News上，一篇题为“他们确实认为AI可能杀死所有人”的帖子获得24分，暂无评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone/",
-          "language": "en",
-          "publishedAt": "2026-09-11T22:30:09.000Z"
+          "publishedAt": "2026-09-13T03:41:14.000Z"
         }
       ]
     }
