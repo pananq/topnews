@@ -1,215 +1,44 @@
 {
-  "generatedAt": "2026-09-13T04:54:42.573Z",
+  "generatedAt": "2026-09-14T05:03:16.686Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "第一条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "科技",
-      "regions": [
-        "欧洲",
-        "美洲",
-        "全球"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 4,
-        "regionCount": 3,
-        "reasonZh": "共有 4 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-12T21:16:47.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-12T23:32:00.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-          "language": "en",
-          "publishedAt": "2026-09-12T19:34:44.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-          "language": "en",
-          "publishedAt": "2026-09-13T00:30:44.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "特朗普访问爱尔兰期间称“乐见”爱尔兰统一",
-      "summaryZh": "美国总统特朗普在访问爱尔兰期间表示，他“乐见”一个统一的爱尔兰。DW 报道称，特朗普此行观看高尔夫赛事，并与当地领导人会面，还说统一将“太棒了”。",
+      "titleZh": "瑞典左翼阵营以微弱优势领先，选举结果难分胜负",
+      "summaryZh": "瑞典选举机构初步计票显示，左翼反对派阵营预计将赢得三席多数。左翼反对派以微弱优势领先现任右翼阵营，可能时隔四年重新执政。极右翼的瑞典民主党意外失势。",
       "category": "政治",
       "regions": [
-        "欧洲",
-        "美洲"
-      ],
-      "heat": {
-        "score": 99,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-13T00:43:48.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/trump-visits-ireland-says-unification-would-be-fantastic/a-79244685?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-12T11:55:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "伊朗战争直播：沙特与胡塞武装在曼德海峡相互袭击",
-      "summaryZh": "胡塞武装指责沙特在48小时内发动129次袭击。外界对沙特石油产业所受影响的担忧加剧。",
-      "category": "财经",
-      "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-13T00:00:40.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "姆巴佩梅开二度，皇马西甲4-1大胜巴列卡诺",
-      "summaryZh": "贝林厄姆和卡雷拉斯进球，帮助皇马在西甲联赛中4-1击败巴列卡诺。这场胜利缓解了主帅穆里尼奥在上一场联赛失利后的压力。",
-      "category": "体育",
-      "regions": [
+        "瑞典",
         "欧洲"
       ],
       "heat": {
-        "score": 57,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-12T23:43:32.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "联合国官员称乌克兰面临俄全面入侵以来“最艰难冬天”",
-      "summaryZh": "一位联合国高级官员告诉BBC，确保冬季电力和供水的时间紧迫。",
-      "category": "国际",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 47,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-12T05:55:15.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "Anthropic CEO 称是时候给 AI 发展踩刹车",
-      "summaryZh": "Anthropic CEO Dario Amodei 表示，现在应该放缓 AI 开发，并将让 METR 等第三方评估者访问其模型，以确保遵守安全实践和承诺。他提出三步计划来“pace the frontier”，即放慢训练和开发速度，让企业有时间建立保障措施，监管机构也有时间评估模型。",
-      "category": "科技",
-      "regions": [
-        "美洲",
-        "全球"
-      ],
-      "heat": {
-        "score": 99,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-          "language": "en",
-          "publishedAt": "2026-09-12T16:23:40.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
-          "language": "en",
-          "publishedAt": "2026-09-13T03:25:32.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "第七条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "科技",
-      "regions": [
-        "美洲"
-      ],
-      "heat": {
-        "score": 85,
+        "score": 95,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-12T21:16:28.000Z"
+          "publishedAt": "2026-09-14T01:58:59.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "name": "DW",
+          "url": "https://www.dw.com/en/sweden-election-very-close-as-left-bloc-claims-tight-lead/a-79248599?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-12T20:19:16.000Z"
+          "publishedAt": "2026-09-14T02:04:00.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "英伟达是AI的中央银行",
-      "summaryZh": "Hacker News 上关于“英伟达是AI的中央银行”的讨论获得427分和296条评论。另一篇帖子讨论将AI与数学对齐到其他事物。",
-      "category": "科技",
+      "rank": 2,
+      "titleZh": "Hacker News 讨论：AI 机器人何时进入家庭与耐克退出标普100指数",
+      "summaryZh": "在 Hacker News 上，一篇帖子讨论 AI 机器人何时会进入我们的家庭，获得16点、10条评论。同一来源还报道了耐克在18年后退出标普100指数，市值蒸发2000亿美元，获得58点、43条评论。",
+      "category": "财经",
       "regions": [
         "全球"
       ],
@@ -222,28 +51,28 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "url": "https://spectrum.ieee.org/ai-robots",
           "language": "en",
-          "publishedAt": "2026-09-12T15:08:27.000Z"
+          "publishedAt": "2026-09-14T00:44:23.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+          "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
           "language": "en",
-          "publishedAt": "2026-09-13T00:47:48.000Z"
+          "publishedAt": "2026-09-14T02:50:40.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "AI代理为何撒谎、作弊并协同？",
-      "summaryZh": "Hacker News 上关于AI代理撒谎、作弊和协同的讨论获得43分和45条评论。",
+      "rank": 3,
+      "titleZh": "Hacker News 讨论：开源 AI 阅读清单与 AI 的恶意使用",
+      "summaryZh": "Hacker News 上分享了一份开源 AI 和开放模型的阅读清单，获得59点、6条评论。另有帖子讨论人工智能的恶意使用，获得28点、6条评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 65,
+        "score": 81,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -251,22 +80,28 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
           "language": "en",
-          "publishedAt": "2026-09-13T01:22:31.000Z"
+          "publishedAt": "2026-09-14T00:22:51.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://arxiv.org/abs/1802.07228",
+          "language": "en",
+          "publishedAt": "2026-09-14T01:22:35.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "瓦努阿图渡轮沉没，一死三十多人失踪",
-      "summaryZh": "瓦努阿图总理办公室称，一艘渡轮沉没，造成一人死亡，30多人失踪。救援人员继续搜寻幸存者，政府缩减了开放水域的搜救行动。",
-      "category": "政治",
+      "rank": 4,
+      "titleZh": "杰斐逊-伍登和贝德纳雷克在终极锦标赛完成短跑双冠",
+      "summaryZh": "美国选手在终极锦标赛上赢得100米和200米冠军，完成短跑双冠。该赛事中精英运动员每人获得15万美元奖金。",
+      "category": "体育",
       "regions": [
-        "大洋洲"
+        "美国"
       ],
       "heat": {
-        "score": 64,
+        "score": 56,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -274,9 +109,158 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss",
+          "url": "https://www.aljazeera.com/sports/2026/9/13/jefferson-wooden-bednarek-complete-ultimate-championship-sprint-doubles?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-13T03:41:14.000Z"
+          "publishedAt": "2026-09-13T22:02:10.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "\"令人不寒而栗\"的警告还是过度反应？AI 生物武器报告引发专家分歧",
+      "summaryZh": "Hacker News 上讨论了一份关于 AI 生物武器的报告，其警告引发专家分歧，获得22点、4条评论。另有帖子讨论“三颗 AI 药丸”，获得7点、0条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 75,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+          "language": "en",
+          "publishedAt": "2026-09-14T00:07:09.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://thezvi.wordpress.com/2026/08/05/the-three-ai-pills/",
+          "language": "en",
+          "publishedAt": "2026-09-13T22:47:20.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "日本首相支持的候选人赢得冲绳知事选举",
+      "summaryZh": "日本首相支持的候选人当场元击败了寻求连任两届的现任知事玉城丹尼，后者希望将一座大型美军基地迁出冲绳。",
+      "category": "政治",
+      "regions": [
+        "日本",
+        "冲绳"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/14/japanese-pm-backed-candidate-wins-okinawa-gubernatorial-election?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-14T03:38:56.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "菲律宾穆斯林占多数的邦萨摩洛地区投票选举首届议会",
+      "summaryZh": "菲律宾南部的邦萨摩洛地区投票选举首届议会。然而，在投票开始前一天，致命的暴力事件破坏了选举进程。",
+      "category": "政治",
+      "regions": [
+        "菲律宾",
+        "邦萨摩洛"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/14/philippines-muslim-majority-bangsamoro-region-votes-for-first-parliament?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-14T01:59:01.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "叙利亚因燃料价格大幅上涨爆发抗议",
+      "summaryZh": "叙利亚政府提高燃料价格后，该国多地爆发抗议活动。",
+      "category": "政治",
+      "regions": [
+        "叙利亚"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-14T01:08:01.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "特朗普驳斥有关中国向伊朗提供情报的报道",
+      "summaryZh": "美国总统特朗普淡化了有关中国实体在约旦一军事基地遭袭、导致三名美国士兵死亡前向伊朗提供卫星图像的报道。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "伊朗",
+        "中国",
+        "约旦"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-14T03:32:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "加里·谭希望美国开放权重 AI 实验室也“蒸馏”前沿模型",
+      "summaryZh": "Hacker News 上讨论加里·谭希望美国开放权重 AI 实验室也能“蒸馏”前沿模型，获得375点、211条评论。",
+      "category": "科技",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+          "language": "en",
+          "publishedAt": "2026-09-13T15:44:38.000Z"
         }
       ]
     }
