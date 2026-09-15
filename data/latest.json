@@ -1,266 +1,239 @@
 {
-  "generatedAt": "2026-09-14T05:03:16.686Z",
+  "generatedAt": "2026-09-15T04:59:40.331Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "瑞典左翼阵营以微弱优势领先，选举结果难分胜负",
-      "summaryZh": "瑞典选举机构初步计票显示，左翼反对派阵营预计将赢得三席多数。左翼反对派以微弱优势领先现任右翼阵营，可能时隔四年重新执政。极右翼的瑞典民主党意外失势。",
-      "category": "政治",
+      "titleZh": "前美国联邦贸易委员会主席汗：应给人工智能企业首席执行官戴上手铐，援引1934年先例",
+      "summaryZh": "前美国联邦贸易委员会主席汗在黑客新闻上发帖，援引1934年先例，主张对人工智能企业首席执行官采取刑事手段。该帖获得95分、49条评论。",
+      "category": "科技",
       "regions": [
-        "瑞典",
-        "欧洲"
+        "美国",
+        "全球"
       ],
       "heat": {
-        "score": 95,
-        "sourceCount": 2,
+        "score": 65,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
           "language": "en",
-          "publishedAt": "2026-09-14T01:58:59.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/sweden-election-very-close-as-left-bloc-claims-tight-lead/a-79248599?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-14T02:04:00.000Z"
+          "publishedAt": "2026-09-15T00:40:14.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "Hacker News 讨论：AI 机器人何时进入家庭与耐克退出标普100指数",
-      "summaryZh": "在 Hacker News 上，一篇帖子讨论 AI 机器人何时会进入我们的家庭，获得16点、10条评论。同一来源还报道了耐克在18年后退出标普100指数，市值蒸发2000亿美元，获得58点、43条评论。",
-      "category": "财经",
+      "titleZh": "中国收紧公民旅行限制",
+      "summaryZh": "英国广播公司报道，中国出台新规收紧公民旅行限制。观察人士称，新规将进一步强化中国政府对公民的控制。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "中国"
       ],
       "heat": {
-        "score": 83,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://spectrum.ieee.org/ai-robots",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-14T00:44:23.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-          "language": "en",
-          "publishedAt": "2026-09-14T02:50:40.000Z"
+          "publishedAt": "2026-09-15T03:25:41.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "Hacker News 讨论：开源 AI 阅读清单与 AI 的恶意使用",
-      "summaryZh": "Hacker News 上分享了一份开源 AI 和开放模型的阅读清单，获得59点、6条评论。另有帖子讨论人工智能的恶意使用，获得28点、6条评论。",
-      "category": "科技",
+      "titleZh": "印度寺庙数百万人排队领取“神圣海娜”",
+      "summaryZh": "无人机画面显示，大批民众在印度一座寺庙排队获取“神圣海娜”。据信这种海娜能帮助未婚者找到伴侣。",
+      "category": "体育",
       "regions": [
-        "全球"
+        "印度"
       ],
       "heat": {
-        "score": 81,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/millions-line-up-for-sacred-henna-at-indian-temple?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-14T00:22:51.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://arxiv.org/abs/1802.07228",
-          "language": "en",
-          "publishedAt": "2026-09-14T01:22:35.000Z"
+          "publishedAt": "2026-09-15T04:42:40.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "杰斐逊-伍登和贝德纳雷克在终极锦标赛完成短跑双冠",
-      "summaryZh": "美国选手在终极锦标赛上赢得100米和200米冠军，完成短跑双冠。该赛事中精英运动员每人获得15万美元奖金。",
-      "category": "体育",
+      "titleZh": "透视胡塞武装在也门扩张的战争经济",
+      "summaryZh": "胡塞武装重组了也门的商业部门，在也门人道危机中获取了数十亿美元收入。",
+      "category": "财经",
       "regions": [
-        "美国"
+        "也门"
       ],
       "heat": {
-        "score": 56,
+        "score": 58,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/13/jefferson-wooden-bednarek-complete-ultimate-championship-sprint-doubles?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/9/14/inside-the-houthis-expanding-war-economy-in-yemen?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-13T22:02:10.000Z"
+          "publishedAt": "2026-09-14T20:41:47.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "\"令人不寒而栗\"的警告还是过度反应？AI 生物武器报告引发专家分歧",
-      "summaryZh": "Hacker News 上讨论了一份关于 AI 生物武器的报告，其警告引发专家分歧，获得22点、4条评论。另有帖子讨论“三颗 AI 药丸”，获得7点、0条评论。",
+      "titleZh": "我曾任职谷歌深度思维，你应该听一听关于人工智能的警告",
+      "summaryZh": "一位曾在谷歌深度思维任职的员工在黑客新闻上发帖，呼吁人们重视关于人工智能的警告。该帖获得11分、2条评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 75,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+          "url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
           "language": "en",
-          "publishedAt": "2026-09-14T00:07:09.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://thezvi.wordpress.com/2026/08/05/the-three-ai-pills/",
-          "language": "en",
-          "publishedAt": "2026-09-13T22:47:20.000Z"
+          "publishedAt": "2026-09-15T02:25:41.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "日本首相支持的候选人赢得冲绳知事选举",
-      "summaryZh": "日本首相支持的候选人当场元击败了寻求连任两届的现任知事玉城丹尼，后者希望将一座大型美军基地迁出冲绳。",
-      "category": "政治",
-      "regions": [
-        "日本",
-        "冲绳"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/14/japanese-pm-backed-candidate-wins-okinawa-gubernatorial-election?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-14T03:38:56.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "菲律宾穆斯林占多数的邦萨摩洛地区投票选举首届议会",
-      "summaryZh": "菲律宾南部的邦萨摩洛地区投票选举首届议会。然而，在投票开始前一天，致命的暴力事件破坏了选举进程。",
-      "category": "政治",
-      "regions": [
-        "菲律宾",
-        "邦萨摩洛"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/14/philippines-muslim-majority-bangsamoro-region-votes-for-first-parliament?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-14T01:59:01.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "叙利亚因燃料价格大幅上涨爆发抗议",
-      "summaryZh": "叙利亚政府提高燃料价格后，该国多地爆发抗议活动。",
-      "category": "政治",
-      "regions": [
-        "叙利亚"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-14T01:08:01.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "特朗普驳斥有关中国向伊朗提供情报的报道",
-      "summaryZh": "美国总统特朗普淡化了有关中国实体在约旦一军事基地遭袭、导致三名美国士兵死亡前向伊朗提供卫星图像的报道。",
-      "category": "政治",
-      "regions": [
-        "美国",
-        "伊朗",
-        "中国",
-        "约旦"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-14T03:32:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "加里·谭希望美国开放权重 AI 实验室也“蒸馏”前沿模型",
-      "summaryZh": "Hacker News 上讨论加里·谭希望美国开放权重 AI 实验室也能“蒸馏”前沿模型，获得375点、211条评论。",
+      "titleZh": "特朗普通话打断英伟达首席执行官，称对人工智能的恐惧是“骗局”",
+      "summaryZh": "美国总统特朗普意外致电英伟达首席执行官，打断一场直播活动，谈论对人工智能的担忧，并称这些恐惧是“骗局”。",
       "category": "科技",
       "regions": [
         "美国"
       ],
       "heat": {
-        "score": 62,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-15T03:28:42.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "瑞典选举结果难分伯仲，极右翼失去阵地",
+      "summaryZh": "瑞典选举计票达95%时，反对派阵营领先，选举结果仍难以预测。",
+      "category": "政治",
+      "regions": [
+        "瑞典"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/15/sweden-election-is-too-close-to-call-as-far-right-loses-ground?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-15T00:06:34.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "美国最高法院驳回特朗普限制邮寄选票的请求",
+      "summaryZh": "美国最高法院表示，选举官员没有足够时间在11月中期选举前实施该规则。特朗普此前声称该制度易受欺诈影响，但未提供证据。",
+      "category": "政治",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-supreme-court-denies-trump-bid-to-restrict-mail-in-ballots/a-79267854?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-15T01:38:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "乌克兰战争：北约战机在立陶宛上空击落一架无人机",
+      "summaryZh": "立陶宛总统宣布，一架飞越立陶宛的无人机于周一至周二夜间被北约战机击落。据立陶宛国家广播电台称，该无人机来自邻国白俄罗斯，正朝西飞行。",
+      "category": "政治",
+      "regions": [
+        "立陶宛",
+        "白俄罗斯",
+        "欧洲"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/europe/20260915-guerre-ukraine-avions-de-chasse-otan-abattent-drone-lituanie-bielorussie-russie",
+          "language": "fr",
+          "publishedAt": "2026-09-15T03:24:28.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "如何撰写有效的软件设计文档",
+      "summaryZh": "这篇黑客新闻帖子介绍了撰写有效软件设计文档的方法，获得318分、132条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+          "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
           "language": "en",
-          "publishedAt": "2026-09-13T15:44:38.000Z"
+          "publishedAt": "2026-09-14T13:00:46.000Z"
         }
       ]
     }
