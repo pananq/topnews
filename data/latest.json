@@ -1,224 +1,235 @@
 {
-  "generatedAt": "2026-09-15T04:59:40.331Z",
+  "generatedAt": "2026-09-16T04:55:10.770Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "前美国联邦贸易委员会主席汗：应给人工智能企业首席执行官戴上手铐，援引1934年先例",
-      "summaryZh": "前美国联邦贸易委员会主席汗在黑客新闻上发帖，援引1934年先例，主张对人工智能企业首席执行官采取刑事手段。该帖获得95分、49条评论。",
-      "category": "科技",
+      "titleZh": "美国确认已在太空部署武器",
+      "summaryZh": "美国太空军以俄罗斯和中国为主要地缘政治对手为由，为部署太空武器辩护。北京回应敦促华盛顿停止在外太空“准备战争”。这是美国军方首次公开承认已将太空武器送入地球轨道。",
+      "category": "国际",
       "regions": [
         "美国",
-        "全球"
+        "中国",
+        "俄罗斯"
       ],
       "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "score": 90,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-confirms-it-has-weapons-in-space/a-79268894?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-15T00:40:14.000Z"
+          "publishedAt": "2026-09-15T11:04:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
+          "language": "en",
+          "publishedAt": "2026-09-15T17:09:06.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "中国收紧公民旅行限制",
-      "summaryZh": "英国广播公司报道，中国出台新规收紧公民旅行限制。观察人士称，新规将进一步强化中国政府对公民的控制。",
-      "category": "政治",
-      "regions": [
-        "中国"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-15T03:25:41.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "印度寺庙数百万人排队领取“神圣海娜”",
-      "summaryZh": "无人机画面显示，大批民众在印度一座寺庙排队获取“神圣海娜”。据信这种海娜能帮助未婚者找到伴侣。",
-      "category": "体育",
-      "regions": [
-        "印度"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/millions-line-up-for-sacred-henna-at-indian-temple?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-15T04:42:40.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "透视胡塞武装在也门扩张的战争经济",
-      "summaryZh": "胡塞武装重组了也门的商业部门，在也门人道危机中获取了数十亿美元收入。",
-      "category": "财经",
-      "regions": [
-        "也门"
-      ],
-      "heat": {
-        "score": 58,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/14/inside-the-houthis-expanding-war-economy-in-yemen?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-14T20:41:47.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "我曾任职谷歌深度思维，你应该听一听关于人工智能的警告",
-      "summaryZh": "一位曾在谷歌深度思维任职的员工在黑客新闻上发帖，呼吁人们重视关于人工智能的警告。该帖获得11分、2条评论。",
+      "titleZh": "在禁止AI训练的同时保持搜索可见性",
+      "summaryZh": "Hacker News 上的一篇讨论帖，获得41分、23条评论，由 djfergus 发布。主题是如何在禁止 AI 训练的情况下保持搜索引擎中的可发现性。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 62,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
+          "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
           "language": "en",
-          "publishedAt": "2026-09-15T02:25:41.000Z"
+          "publishedAt": "2026-09-16T02:25:18.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "加拿大吸引全球顶级投资者的五大看点",
+      "summaryZh": "加拿大举办首届投资峰会，推出价值1万亿美元的招商计划，提供超过160个项目。在与美国贸易战背景下，加拿大转向欧盟。以下是峰会五大看点。",
+      "category": "财经",
+      "regions": [
+        "加拿大",
+        "美国",
+        "欧盟"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-15T22:46:20.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "五角大楼监察长证实伊朗战争导致美国弹药短缺",
+      "summaryZh": "五角大楼监察长确认，伊朗战争已导致美国弹药短缺，并发现补给存在瓶颈。尽管总统特朗普声称美国供应“几乎无限”。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "伊朗"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-15T20:34:12.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "法国队：齐达内教练组在克莱枫丹首次集结前已全员到位",
+      "summaryZh": "新任法国队主教练齐达内组建了完整教练团队，包括大卫·贝托尼、哈米杜·姆赛迪等皇马时期旧部，以及负责门将的巴特兹等。球队将在克莱枫丹进行为期两周半的首次集训，随后于9月25日在土耳其进行比赛。",
+      "category": "体育",
+      "regions": [
+        "法国",
+        "土耳其"
+      ],
+      "heat": {
+        "score": 53,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "http://www.france24.com/fr/sports/20260915-football-equipe-de-france-bleus-zinedine-zidane-staff-au-complet-bettoni-msaidie",
+          "language": "fr",
+          "publishedAt": "2026-09-15T21:39:51.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "特朗普通话打断英伟达首席执行官，称对人工智能的恐惧是“骗局”",
-      "summaryZh": "美国总统特朗普意外致电英伟达首席执行官，打断一场直播活动，谈论对人工智能的担忧，并称这些恐惧是“骗局”。",
+      "titleZh": "Anthropic CEO称未预料到全球AI增长的速度",
+      "summaryZh": "Anthropic首席执行官表示，他“没有意识到”AI增长支撑全球经济的速度如此之快。",
       "category": "科技",
       "regions": [
-        "美国"
+        "全球"
       ],
       "heat": {
         "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/anthropic-ceo-didnt-foresee-the-speed-of-global-ai-growth?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-15T03:28:42.000Z"
+          "publishedAt": "2026-09-16T02:40:08.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "瑞典选举结果难分伯仲，极右翼失去阵地",
-      "summaryZh": "瑞典选举计票达95%时，反对派阵营领先，选举结果仍难以预测。",
-      "category": "政治",
+      "titleZh": "国会报告：伊朗战争加剧通胀并消耗美国弹药",
+      "summaryZh": "一份无党派研究机构的报告发现，伊朗战争正在加剧通货膨胀，并导致美国弹药库存紧张。补充耗尽的弹药库存可能需要长达五年。",
+      "category": "财经",
       "regions": [
-        "瑞典"
+        "美国",
+        "伊朗"
       ],
       "heat": {
         "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/15/sweden-election-is-too-close-to-call-as-far-right-loses-ground?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-15T00:06:34.000Z"
+          "publishedAt": "2026-09-16T00:38:12.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "美国最高法院驳回特朗普限制邮寄选票的请求",
-      "summaryZh": "美国最高法院表示，选举官员没有足够时间在11月中期选举前实施该规则。特朗普此前声称该制度易受欺诈影响，但未提供证据。",
+      "titleZh": "阿根廷加大对福克兰群岛石油公司的法律行动",
+      "summaryZh": "阿根廷政府表示，将针对在福克兰群岛附近勘探石油的公司提起新的法律诉讼。",
       "category": "政治",
       "regions": [
-        "美国"
+        "阿根廷",
+        "福克兰群岛"
       ],
       "heat": {
-        "score": 61,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-supreme-court-denies-trump-bid-to-restrict-mail-in-ballots/a-79267854?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-15T01:38:00.000Z"
+          "publishedAt": "2026-09-15T23:03:52.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "乌克兰战争：北约战机在立陶宛上空击落一架无人机",
-      "summaryZh": "立陶宛总统宣布，一架飞越立陶宛的无人机于周一至周二夜间被北约战机击落。据立陶宛国家广播电台称，该无人机来自邻国白俄罗斯，正朝西飞行。",
-      "category": "政治",
+      "titleZh": "AI模型使用混合诗意语言与科技行话的“超现实”方言",
+      "summaryZh": "Hacker News 上的一篇讨论帖，获得3分、0条评论，由 danielmorozoff 发布。主题是AI模型使用一种混合了诗意语言和科技行话的“超现实”方言。",
+      "category": "科技",
       "regions": [
-        "立陶宛",
-        "白俄罗斯",
-        "欧洲"
+        "全球"
       ],
       "heat": {
-        "score": 61,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/europe/20260915-guerre-ukraine-avions-de-chasse-otan-abattent-drone-lituanie-bielorussie-russie",
-          "language": "fr",
-          "publishedAt": "2026-09-15T03:24:28.000Z"
+          "name": "Hacker News",
+          "url": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
+          "language": "en",
+          "publishedAt": "2026-09-16T04:00:58.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "如何撰写有效的软件设计文档",
-      "summaryZh": "这篇黑客新闻帖子介绍了撰写有效软件设计文档的方法，获得318分、132条评论。",
-      "category": "科技",
+      "titleZh": "极右翼为何拥抱加密货币？",
+      "summaryZh": "从亿万富翁捐助者支持政党，到极右翼活动人士用比特币筹集资金，探讨极右翼拥抱加密货币的原因。",
+      "category": "财经",
       "regions": [
         "全球"
       ],
@@ -226,14 +237,14 @@
         "score": 59,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/why-is-the-far-right-embracing-crypto?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-14T13:00:46.000Z"
+          "publishedAt": "2026-09-15T22:09:02.000Z"
         }
       ]
     }
