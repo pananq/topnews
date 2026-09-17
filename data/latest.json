@@ -1,47 +1,248 @@
 {
-  "generatedAt": "2026-09-16T04:55:10.770Z",
+  "generatedAt": "2026-09-17T04:58:01.006Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "美国确认已在太空部署武器",
-      "summaryZh": "美国太空军以俄罗斯和中国为主要地缘政治对手为由，为部署太空武器辩护。北京回应敦促华盛顿停止在外太空“准备战争”。这是美国军方首次公开承认已将太空武器送入地球轨道。",
-      "category": "国际",
+      "titleZh": "美国三年来首次加息",
+      "summaryZh": "美联储宣布加息25个基点，为三年来首次，旨在应对持续高通胀。尽管总统特朗普强烈反对并呼吁降息，但加息决定仍获一致通过。",
+      "category": "财经",
       "regions": [
         "美国",
-        "中国",
-        "俄罗斯"
+        "全球"
       ],
       "heat": {
-        "score": 90,
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 2,
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-17T00:40:17.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-fed-raises-key-rate-for-first-time-in-3-years/a-79297295?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-16T18:24:00.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.bbc.com/news/articles/cw4gmlyvj422o",
+          "language": "en",
+          "publishedAt": "2026-09-16T23:25:17.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "Snap 2200美元智能眼镜体验：可共享AR多米诺",
+      "summaryZh": "记者体验了Snap售价2200美元的AR眼镜Specs，其亮点是能与他人共享虚拟多米诺骨牌游戏，提供独特的共享数字体验。Snap多年来一直致力于AR眼镜技术，并再次为其产品辩护，解释其存在价值。",
+      "category": "科技",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 87,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+          "language": "en",
+          "publishedAt": "2026-09-16T23:40:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+          "language": "en",
+          "publishedAt": "2026-09-17T00:58:49.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "科索沃前总统塔奇因战争罪被判25年",
+      "summaryZh": "海牙法庭判处科索沃前总统、科索沃解放军前领导人哈希姆·塔奇25年监禁，罪名包括谋杀、酷刑和非法拘留。塔奇在科索沃被视为民族英雄，其支持者愤怒抗议，向欧盟特派团总部投掷石块。塔奇仍可上诉。",
+      "category": "政治",
+      "regions": [
+        "科索沃",
+        "欧洲"
+      ],
+      "heat": {
+        "score": 87,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/kosovo-ex-president-thaci-sentenced-to-25-years-for-war-crimes/a-79286344?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-16T09:58:00.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "http://www.france24.com/fr/vid%C3%A9o/20260917-l-ex-pr%C3%A9sident-du-kosovo-hashim-tha%C3%A7i-condamn%C3%A9-pour-crimes-de-guerre-par-un-tribunal-sp%C3%A9cial",
+          "language": "fr",
+          "publishedAt": "2026-09-17T04:22:18.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "曼联2-3遭布莱顿逆转，联赛杯出局",
+      "summaryZh": "布莱顿在客场0-2落后的情况下连入三球，以3-2逆转曼联，将曼联淘汰出联赛杯。曼联新赛季开局持续低迷。",
+      "category": "体育",
+      "regions": [
+        "英国",
+        "欧洲"
+      ],
+      "heat": {
+        "score": 56,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-16T21:41:36.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "厄尔尼诺威胁东非粮食安全",
+      "summaryZh": "厄尔尼诺现象将在年底达到强度峰值，此次强度很大，将导致非洲之角发生洪水，而南部非洲出现干旱。联合国粮农组织已开始向最受影响的国家提供援助，包括牲畜护理、加固堤坝和提供食物。",
+      "category": "国际",
+      "regions": [
+        "东非",
+        "南部非洲"
+      ],
+      "heat": {
+        "score": 51,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "http://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260916-el-ni%C3%B1o-menace-la-s%C3%A9curit%C3%A9-alimentaire-en-afrique-de-l-est",
+          "language": "fr",
+          "publishedAt": "2026-09-16T16:41:54.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "欧盟主席支持加拿大成为“准成员”",
+      "summaryZh": "欧盟主席支持一项让加拿大成为欧盟“准成员”的计划，但美国总统特朗普威胁称，若加拿大成为欧盟准成员，将视为“敌对行为”，并可能对欧盟加征高额关税或削减部分贸易。",
+      "category": "财经",
+      "regions": [
+        "欧盟",
+        "加拿大",
+        "美国"
+      ],
+      "heat": {
+        "score": 100,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-confirms-it-has-weapons-in-space/a-79268894?maca=en-rss-en-all-1573-rdf",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-15T11:04:00.000Z"
+          "publishedAt": "2026-09-17T00:32:05.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-15T17:09:06.000Z"
+          "publishedAt": "2026-09-17T00:30:23.000Z"
         }
       ]
     },
     {
-      "rank": 2,
-      "titleZh": "在禁止AI训练的同时保持搜索可见性",
-      "summaryZh": "Hacker News 上的一篇讨论帖，获得41分、23条评论，由 djfergus 发布。主题是如何在禁止 AI 训练的情况下保持搜索引擎中的可发现性。",
+      "rank": 7,
+      "titleZh": "谷歌允许任何AI智能体控制智能家居",
+      "summaryZh": "谷歌开放其智能家居平台Google Home，允许第三方AI智能体（如Claude、Open Claw等）通过标准化的模型上下文协议（MCP）访问和控制联网设备，并分析家庭数据。该集成旨在让AI智能体安全地代表用户操作Google Home生态系统中的所有设备和事件历史。",
       "category": "科技",
       "regions": [
         "全球"
+      ],
+      "heat": {
+        "score": 82,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+          "language": "en",
+          "publishedAt": "2026-09-16T17:00:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+          "language": "en",
+          "publishedAt": "2026-09-16T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "第八条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 79,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.pangram.com",
+          "language": "en",
+          "publishedAt": "2026-09-17T01:13:10.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
+          "language": "en",
+          "publishedAt": "2026-09-17T00:33:03.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "呼吁结束总统赦免朋友和盟友的权力",
+      "summaryZh": "Hacker News 上的一篇文章呼吁结束美国总统赦免朋友和盟友的权力，该文获得 13 分和 3 条评论。",
+      "category": "政治",
+      "regions": [
+        "美国"
       ],
       "heat": {
         "score": 65,
@@ -52,189 +253,24 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+          "url": "https://medium.com/freedomofthought/the-presidents-power-to-pardon-friends-and-allies-must-end-b9574f9eedfb",
           "language": "en",
-          "publishedAt": "2026-09-16T02:25:18.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "加拿大吸引全球顶级投资者的五大看点",
-      "summaryZh": "加拿大举办首届投资峰会，推出价值1万亿美元的招商计划，提供超过160个项目。在与美国贸易战背景下，加拿大转向欧盟。以下是峰会五大看点。",
-      "category": "财经",
-      "regions": [
-        "加拿大",
-        "美国",
-        "欧盟"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-15T22:46:20.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "五角大楼监察长证实伊朗战争导致美国弹药短缺",
-      "summaryZh": "五角大楼监察长确认，伊朗战争已导致美国弹药短缺，并发现补给存在瓶颈。尽管总统特朗普声称美国供应“几乎无限”。",
-      "category": "政治",
-      "regions": [
-        "美国",
-        "伊朗"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-15T20:34:12.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "法国队：齐达内教练组在克莱枫丹首次集结前已全员到位",
-      "summaryZh": "新任法国队主教练齐达内组建了完整教练团队，包括大卫·贝托尼、哈米杜·姆赛迪等皇马时期旧部，以及负责门将的巴特兹等。球队将在克莱枫丹进行为期两周半的首次集训，随后于9月25日在土耳其进行比赛。",
-      "category": "体育",
-      "regions": [
-        "法国",
-        "土耳其"
-      ],
-      "heat": {
-        "score": 53,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "http://www.france24.com/fr/sports/20260915-football-equipe-de-france-bleus-zinedine-zidane-staff-au-complet-bettoni-msaidie",
-          "language": "fr",
-          "publishedAt": "2026-09-15T21:39:51.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "Anthropic CEO称未预料到全球AI增长的速度",
-      "summaryZh": "Anthropic首席执行官表示，他“没有意识到”AI增长支撑全球经济的速度如此之快。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/anthropic-ceo-didnt-foresee-the-speed-of-global-ai-growth?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-16T02:40:08.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "国会报告：伊朗战争加剧通胀并消耗美国弹药",
-      "summaryZh": "一份无党派研究机构的报告发现，伊朗战争正在加剧通货膨胀，并导致美国弹药库存紧张。补充耗尽的弹药库存可能需要长达五年。",
-      "category": "财经",
-      "regions": [
-        "美国",
-        "伊朗"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-16T00:38:12.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "阿根廷加大对福克兰群岛石油公司的法律行动",
-      "summaryZh": "阿根廷政府表示，将针对在福克兰群岛附近勘探石油的公司提起新的法律诉讼。",
-      "category": "政治",
-      "regions": [
-        "阿根廷",
-        "福克兰群岛"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-15T23:03:52.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "AI模型使用混合诗意语言与科技行话的“超现实”方言",
-      "summaryZh": "Hacker News 上的一篇讨论帖，获得3分、0条评论，由 danielmorozoff 发布。主题是AI模型使用一种混合了诗意语言和科技行话的“超现实”方言。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
-          "language": "en",
-          "publishedAt": "2026-09-16T04:00:58.000Z"
+          "publishedAt": "2026-09-17T04:09:12.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "极右翼为何拥抱加密货币？",
-      "summaryZh": "从亿万富翁捐助者支持政党，到极右翼活动人士用比特币筹集资金，探讨极右翼拥抱加密货币的原因。",
-      "category": "财经",
+      "titleZh": "美国在联合国大会前延长对巴勒斯坦官员的签证禁令",
+      "summaryZh": "美国在联合国大会召开前延长了对巴勒斯坦官员的签证禁令，巴勒斯坦总统马哈茂德·阿巴斯连续第二年受到限制。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "美国",
+        "巴勒斯坦",
+        "中东"
       ],
       "heat": {
-        "score": 59,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -242,9 +278,9 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/why-is-the-far-right-embracing-crypto?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/17/us-extends-visa-ban-on-palestinian-officials-before-un-general-assembly?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-15T22:09:02.000Z"
+          "publishedAt": "2026-09-17T03:44:13.000Z"
         }
       ]
     }
