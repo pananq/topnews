@@ -1,160 +1,15 @@
 {
-  "generatedAt": "2026-09-17T04:58:01.006Z",
+  "generatedAt": "2026-09-18T04:50:05.544Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "美国三年来首次加息",
-      "summaryZh": "美联储宣布加息25个基点，为三年来首次，旨在应对持续高通胀。尽管总统特朗普强烈反对并呼吁降息，但加息决定仍获一致通过。",
-      "category": "财经",
-      "regions": [
-        "美国",
-        "全球"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-17T00:40:17.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-fed-raises-key-rate-for-first-time-in-3-years/a-79297295?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-16T18:24:00.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.bbc.com/news/articles/cw4gmlyvj422o",
-          "language": "en",
-          "publishedAt": "2026-09-16T23:25:17.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "Snap 2200美元智能眼镜体验：可共享AR多米诺",
-      "summaryZh": "记者体验了Snap售价2200美元的AR眼镜Specs，其亮点是能与他人共享虚拟多米诺骨牌游戏，提供独特的共享数字体验。Snap多年来一直致力于AR眼镜技术，并再次为其产品辩护，解释其存在价值。",
+      "titleZh": "美国联邦航空管理局计划用8.75亿美元AI修复空中交通",
+      "summaryZh": "美国联邦航空管理局计划推出一个基于AI的软件程序，帮助空中交通管制员更好地导航，充当美国天空的‘交叉警卫’。该计划涉及8.75亿美元的投资。",
       "category": "科技",
       "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 87,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
-          "language": "en",
-          "publishedAt": "2026-09-16T23:40:00.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-          "language": "en",
-          "publishedAt": "2026-09-17T00:58:49.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "科索沃前总统塔奇因战争罪被判25年",
-      "summaryZh": "海牙法庭判处科索沃前总统、科索沃解放军前领导人哈希姆·塔奇25年监禁，罪名包括谋杀、酷刑和非法拘留。塔奇在科索沃被视为民族英雄，其支持者愤怒抗议，向欧盟特派团总部投掷石块。塔奇仍可上诉。",
-      "category": "政治",
-      "regions": [
-        "科索沃",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 87,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/kosovo-ex-president-thaci-sentenced-to-25-years-for-war-crimes/a-79286344?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-16T09:58:00.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "http://www.france24.com/fr/vid%C3%A9o/20260917-l-ex-pr%C3%A9sident-du-kosovo-hashim-tha%C3%A7i-condamn%C3%A9-pour-crimes-de-guerre-par-un-tribunal-sp%C3%A9cial",
-          "language": "fr",
-          "publishedAt": "2026-09-17T04:22:18.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "曼联2-3遭布莱顿逆转，联赛杯出局",
-      "summaryZh": "布莱顿在客场0-2落后的情况下连入三球，以3-2逆转曼联，将曼联淘汰出联赛杯。曼联新赛季开局持续低迷。",
-      "category": "体育",
-      "regions": [
-        "英国",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 56,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-16T21:41:36.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "厄尔尼诺威胁东非粮食安全",
-      "summaryZh": "厄尔尼诺现象将在年底达到强度峰值，此次强度很大，将导致非洲之角发生洪水，而南部非洲出现干旱。联合国粮农组织已开始向最受影响的国家提供援助，包括牲畜护理、加固堤坝和提供食物。",
-      "category": "国际",
-      "regions": [
-        "东非",
-        "南部非洲"
-      ],
-      "heat": {
-        "score": 51,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "http://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260916-el-ni%C3%B1o-menace-la-s%C3%A9curit%C3%A9-alimentaire-en-afrique-de-l-est",
-          "language": "fr",
-          "publishedAt": "2026-09-16T16:41:54.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "欧盟主席支持加拿大成为“准成员”",
-      "summaryZh": "欧盟主席支持一项让加拿大成为欧盟“准成员”的计划，但美国总统特朗普威胁称，若加拿大成为欧盟准成员，将视为“敌对行为”，并可能对欧盟加征高额关税或削减部分贸易。",
-      "category": "财经",
-      "regions": [
-        "欧盟",
-        "加拿大",
         "美国"
       ],
       "heat": {
@@ -165,84 +20,149 @@
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
           "language": "en",
-          "publishedAt": "2026-09-17T00:32:05.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-17T00:30:23.000Z"
+          "publishedAt": "2026-09-17T22:14:59.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "谷歌允许任何AI智能体控制智能家居",
-      "summaryZh": "谷歌开放其智能家居平台Google Home，允许第三方AI智能体（如Claude、Open Claw等）通过标准化的模型上下文协议（MCP）访问和控制联网设备，并分析家庭数据。该集成旨在让AI智能体安全地代表用户操作Google Home生态系统中的所有设备和事件历史。",
-      "category": "科技",
+      "rank": 2,
+      "titleZh": "克洛普希望在德国选举中‘重新夺回’国旗",
+      "summaryZh": "德国新任主教练尤尔根·克洛普表示，他的球队可以帮助确保‘民族自豪感不被托付给错误的人’，此前极右翼在近期选举中获胜。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "德国"
       ],
       "heat": {
-        "score": 82,
+        "score": 86,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-16T17:00:00.000Z"
+          "publishedAt": "2026-09-17T13:02:40.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+          "name": "DW",
+          "url": "https://www.dw.com/en/klopp-wants-germany-s-football-team-to-reclaim-the-flag/a-79307610?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-16T17:00:00.000Z"
+          "publishedAt": "2026-09-17T11:41:00.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "第八条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "科技",
+      "rank": 3,
+      "titleZh": "经济压力能否影响美国选民？",
+      "summaryZh": "美国经济较低端人群正感受到借贷成本上升和购买力减弱的影响。",
+      "category": "财经",
       "regions": [
-        "全球"
+        "美国"
       ],
       "heat": {
-        "score": 79,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.pangram.com",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-17T01:13:10.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
-          "language": "en",
-          "publishedAt": "2026-09-17T00:33:03.000Z"
+          "publishedAt": "2026-09-18T04:27:25.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "呼吁结束总统赦免朋友和盟友的权力",
-      "summaryZh": "Hacker News 上的一篇文章呼吁结束美国总统赦免朋友和盟友的权力，该文获得 13 分和 3 条评论。",
+      "rank": 4,
+      "titleZh": "这条奥运河流中有500条鳄鱼——但这不是主要担忧",
+      "summaryZh": "昆士兰的菲茨罗伊河被选为2032年奥运会赛场，尽管对其赛道及河中的居民存在担忧。",
+      "category": "体育",
+      "regions": [
+        "澳大利亚"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-17T23:29:17.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "联合国调查团指出美国在伊朗空袭中可能犯下战争罪",
+      "summaryZh": "联合国实况调查团表示，发现‘合理理由’相信美国在伊朗的两次空袭中犯下战争罪。",
+      "category": "国际",
+      "regions": [
+        "美国",
+        "伊朗"
+      ],
+      "heat": {
+        "score": 57,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/un-mission-notes-possible-us-war-crimes-in-iran-strikes/a-79316385?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-17T23:48:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "加拿大欢迎欧盟提出成为‘准成员’的提议",
+      "summaryZh": "加拿大总理马克·卡尼表示，加拿大-欧盟联盟将创造‘其他民主国家的灯塔’。卡尼希望在美国与特朗普关系日益紧张之际加强与欧盟的关系，而特朗普威胁称如果欧盟让加拿大成为准成员将停止与欧洲的贸易。",
       "category": "政治",
       "regions": [
-        "美国"
+        "加拿大",
+        "欧盟"
+      ],
+      "heat": {
+        "score": 85,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-17T12:27:18.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/canada-s-carney-welcomes-associate-status-idea-in-eu-speech/a-79306191?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-17T10:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "Bend——一种通过证明在CPU和GPU上阻止AI错误的语言",
+      "summaryZh": "Bend是一种通过证明机制在CPU和GPU上阻止AI错误的语言。它在Hacker News上获得364分和184条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
       ],
       "heat": {
         "score": 65,
@@ -253,24 +173,22 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://medium.com/freedomofthought/the-presidents-power-to-pardon-friends-and-allies-must-end-b9574f9eedfb",
+          "url": "https://bend-lang.com/",
           "language": "en",
-          "publishedAt": "2026-09-17T04:09:12.000Z"
+          "publishedAt": "2026-09-17T20:36:13.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "美国在联合国大会前延长对巴勒斯坦官员的签证禁令",
-      "summaryZh": "美国在联合国大会召开前延长了对巴勒斯坦官员的签证禁令，巴勒斯坦总统马哈茂德·阿巴斯连续第二年受到限制。",
+      "rank": 8,
+      "titleZh": "哥伦比亚武装团体无人机袭击在2026年初增加一倍以上",
+      "summaryZh": "平民陷入武装团体与政府军之间的无人机袭击交火中。",
       "category": "政治",
       "regions": [
-        "美国",
-        "巴勒斯坦",
-        "中东"
+        "哥伦比亚"
       ],
       "heat": {
-        "score": 64,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -278,9 +196,56 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/17/us-extends-visa-ban-on-palestinian-officials-before-un-general-assembly?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/18/drone-attacks-by-colombian-armed-groups-more-than-double-in-early-2026?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-17T03:44:13.000Z"
+          "publishedAt": "2026-09-18T02:51:08.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "日本央行因通胀上升将利率提高至31年高点1.25%",
+      "summaryZh": "日本央行将基准利率从1%提高到1.25%，并承诺帮助应对通胀风险。",
+      "category": "财经",
+      "regions": [
+        "日本"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-18T03:20:20.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "意大利将部署军舰保护通过曼德海峡的航运",
+      "summaryZh": "意大利国防部长警告称，如果曼德海峡变得无法通行，将造成严重经济后果，并绕过欧盟的延误。",
+      "category": "财经",
+      "regions": [
+        "意大利",
+        "曼德海峡"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-18T02:53:05.000Z"
         }
       ]
     }
