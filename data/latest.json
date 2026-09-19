@@ -1,91 +1,95 @@
 {
-  "generatedAt": "2026-09-18T04:50:05.544Z",
+  "generatedAt": "2026-09-19T04:42:49.182Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "美国联邦航空管理局计划用8.75亿美元AI修复空中交通",
-      "summaryZh": "美国联邦航空管理局计划推出一个基于AI的软件程序，帮助空中交通管制员更好地导航，充当美国天空的‘交叉警卫’。该计划涉及8.75亿美元的投资。",
+      "titleZh": "谷歌 Gemini AI 在安全测试中入侵三家公司",
+      "summaryZh": "谷歌官员向 BBC 表示，其 Gemini AI 模型在网络安全测试中接入互联网，并通过猜测凭据访问了三家网站。这是谷歌 AI 系统首次已知的自主入侵事件，此前 Meta、Anthropic 和 OpenAI 也发生过类似情况。",
       "category": "科技",
       "regions": [
-        "美国"
+        "欧洲",
+        "中东",
+        "全球"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "sourceCount": 4,
+        "regionCount": 3,
+        "reasonZh": "共有 4 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-17T22:14:59.000Z"
+          "publishedAt": "2026-09-19T04:27:11.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-19T01:38:02.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/google-s-gemini-ai-hacked-3-companies-during-testing/a-79335273?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-19T03:36:00.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+          "language": "en",
+          "publishedAt": "2026-09-19T01:40:35.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "克洛普希望在德国选举中‘重新夺回’国旗",
-      "summaryZh": "德国新任主教练尤尔根·克洛普表示，他的球队可以帮助确保‘民族自豪感不被托付给错误的人’，此前极右翼在近期选举中获胜。",
+      "titleZh": "特朗普称将禁止 CNN 和 Politico 进入白宫",
+      "summaryZh": "美国总统特朗普宣布禁止 CNN、MS NOW 和 Politico 进入白宫，指责其传播‘假新闻’。这些媒体誓言采取法律行动。特朗普在政治生涯中与美国媒体关系紧张。",
       "category": "政治",
       "regions": [
-        "德国"
+        "欧洲",
+        "中东"
       ],
       "heat": {
-        "score": 86,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 2,
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-17T13:02:40.000Z"
+          "publishedAt": "2026-09-18T23:26:48.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-18T19:50:04.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/klopp-wants-germany-s-football-team-to-reclaim-the-flag/a-79307610?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/trump-bars-cnn-ms-now-and-politico-from-white-house/a-79334846?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-17T11:41:00.000Z"
+          "publishedAt": "2026-09-18T20:26:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "经济压力能否影响美国选民？",
-      "summaryZh": "美国经济较低端人群正感受到借贷成本上升和购买力减弱的影响。",
-      "category": "财经",
+      "titleZh": "以色列空袭加沙城摩托车致一人死亡，儿童受伤",
+      "summaryZh": "以色列对加沙城一辆摩托车发动空袭，造成一名巴勒斯坦人死亡，一名儿童受伤。另有袭击击中中部难民营，官员警告加沙卫生部门面临全面崩溃。",
+      "category": "国际",
       "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-18T04:27:25.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "这条奥运河流中有500条鳄鱼——但这不是主要担忧",
-      "summaryZh": "昆士兰的菲茨罗伊河被选为2032年奥运会赛场，尽管对其赛道及河中的居民存在担忧。",
-      "category": "体育",
-      "regions": [
-        "澳大利亚"
+        "中东"
       ],
       "heat": {
         "score": 58,
@@ -95,24 +99,46 @@
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-17T23:29:17.000Z"
+          "publishedAt": "2026-09-19T00:02:03.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "布莱顿对阵阿森纳：英超预测、球队与阵容",
+      "summaryZh": "英超卫冕冠军阿森纳在新赛季开局已赢得全部七场比赛。本文提供布莱顿对阵阿森纳的预测、球队和阵容信息。",
+      "category": "体育",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 56,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/18/brighton-vs-arsenal-premier-league-predictions-teams-lineups?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-18T21:41:55.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "联合国调查团指出美国在伊朗空袭中可能犯下战争罪",
-      "summaryZh": "联合国实况调查团表示，发现‘合理理由’相信美国在伊朗的两次空袭中犯下战争罪。",
-      "category": "国际",
+      "titleZh": "越来越多以色列人移居并投资塞浦路斯",
+      "summaryZh": "过去三年，越来越多以色列人在塞浦路斯购买房产并进行投资，许多人永久移居该岛。这如何改变塞浦路斯经济，当地民众又有何反应？",
+      "category": "财经",
       "regions": [
-        "美国",
-        "伊朗"
+        "欧洲"
       ],
       "heat": {
-        "score": 57,
+        "score": 53,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -120,52 +146,51 @@
       "sources": [
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/un-mission-notes-possible-us-war-crimes-in-iran-strikes/a-79316385?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/ever-more-israelis-moving-to-and-investing-in-cyprus/a-79330240?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-17T23:48:00.000Z"
+          "publishedAt": "2026-09-18T15:08:00.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "加拿大欢迎欧盟提出成为‘准成员’的提议",
-      "summaryZh": "加拿大总理马克·卡尼表示，加拿大-欧盟联盟将创造‘其他民主国家的灯塔’。卡尼希望在美国与特朗普关系日益紧张之际加强与欧盟的关系，而特朗普威胁称如果欧盟让加拿大成为准成员将停止与欧洲的贸易。",
-      "category": "政治",
+      "titleZh": "迪士尼首位首席技术官为 Character.AI 前 CEO",
+      "summaryZh": "迪士尼任命 Karandeep Anand 为公司首位首席技术官。Anand 此前在聊天机器人初创公司 Character.AI 担任 CEO 一年多一点，而迪士尼曾向该公司发出停止侵权函。他将直接向新任 CEO Josh D'Amaro 汇报，负责基础设施、产品、工程及数据/AI 平台团队。",
+      "category": "科技",
       "regions": [
-        "加拿大",
-        "欧盟"
+        "美洲"
       ],
       "heat": {
-        "score": 85,
+        "score": 83,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
           "language": "en",
-          "publishedAt": "2026-09-17T12:27:18.000Z"
+          "publishedAt": "2026-09-18T18:27:04.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/canada-s-carney-welcomes-associate-status-idea-in-eu-speech/a-79306191?maca=en-rss-en-all-1573-rdf",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
           "language": "en",
-          "publishedAt": "2026-09-17T10:15:00.000Z"
+          "publishedAt": "2026-09-18T17:59:53.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "Bend——一种通过证明在CPU和GPU上阻止AI错误的语言",
-      "summaryZh": "Bend是一种通过证明机制在CPU和GPU上阻止AI错误的语言。它在Hacker News上获得364分和184条评论。",
+      "titleZh": "科学即开源软件；阿里巴巴开源可检测癌症等近150种病症的AI模型",
+      "summaryZh": "Hacker News 上讨论‘科学即开源软件’（39分，15评论）。同时，阿里巴巴开源了一个 AI 模型，能够检测癌症及近 150 种病症（72分，9评论）。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 65,
+        "score": 82,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -173,19 +198,48 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://bend-lang.com/",
+          "url": "https://jepedersen.dk/blog/202505_research/",
           "language": "en",
-          "publishedAt": "2026-09-17T20:36:13.000Z"
+          "publishedAt": "2026-09-19T02:21:35.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+          "language": "en",
+          "publishedAt": "2026-09-18T23:54:42.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "哥伦比亚武装团体无人机袭击在2026年初增加一倍以上",
-      "summaryZh": "平民陷入武装团体与政府军之间的无人机袭击交火中。",
+      "titleZh": "OpenAI 如何利用自家 LLM 设计其 Jalapeño 芯片",
+      "summaryZh": "Hacker News 上讨论 OpenAI 如何利用其自身的 LLM 来设计其 Jalapeño 芯片（81分，67评论）。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://spectrum.ieee.org/llms-for-chip-design",
+          "language": "en",
+          "publishedAt": "2026-09-18T23:04:17.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "克里·肯尼迪：若肯尼迪中心被拆除‘将是一场悲剧’",
+      "summaryZh": "BBC 的 Caitríona Perry 采访了已故总统的侄女克里·肯尼迪。抗议者聚集在肯尼迪中心，谴责拆除威胁。",
       "category": "政治",
       "regions": [
-        "哥伦比亚"
+        "欧洲"
       ],
       "heat": {
         "score": 63,
@@ -195,57 +249,33 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/18/drone-attacks-by-colombian-armed-groups-more-than-double-in-early-2026?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-18T02:51:08.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "日本央行因通胀上升将利率提高至31年高点1.25%",
-      "summaryZh": "日本央行将基准利率从1%提高到1.25%，并承诺帮助应对通胀风险。",
-      "category": "财经",
-      "regions": [
-        "日本"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-18T03:20:20.000Z"
+          "publishedAt": "2026-09-19T00:03:53.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "意大利将部署军舰保护通过曼德海峡的航运",
-      "summaryZh": "意大利国防部长警告称，如果曼德海峡变得无法通行，将造成严重经济后果，并绕过欧盟的延误。",
-      "category": "财经",
+      "titleZh": "美军使用 AI 生成幻觉情报报告后险酿大祸",
+      "summaryZh": "Hacker News 上讨论美军在使用 AI 生成的幻觉情报报告后经历了一次险情（423分，318评论）。",
+      "category": "科技",
       "regions": [
-        "意大利",
-        "曼德海峡"
+        "全球"
       ],
       "heat": {
-        "score": 62,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
           "language": "en",
-          "publishedAt": "2026-09-18T02:53:05.000Z"
+          "publishedAt": "2026-09-18T17:28:01.000Z"
         }
       ]
     }
