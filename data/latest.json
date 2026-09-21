@@ -1,277 +1,258 @@
 {
-  "generatedAt": "2026-09-20T04:58:47.464Z",
+  "generatedAt": "2026-09-21T05:03:41.735Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普称美国将组建“AI力量”并任命人工智能事务主管",
-      "summaryZh": "特朗普表示，其政府“不会以任何方式阻碍或扼杀”人工智能的发展。他还宣布将创建“AI力量”并任命新的“AI沙皇”，并称有关AI的反弹是民主党的骗局。这些声明发布之际，美国民众对AI的担忧日益加剧。",
-      "category": "科技",
+      "titleZh": "法国就伊朗关闭德黑兰法语中心召见伊朗特使",
+      "summaryZh": "伊朗方面指称该法语中心从事“违反外交公约的非法行为”，并关闭了隶属法国驻德黑兰使馆的法语中心。法国对此表示将采取适当回应措施，并召见伊朗特使。",
+      "category": "政治",
       "regions": [
-        "美国",
-        "全球"
+        "法国",
+        "伊朗"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 3,
-        "regionCount": 3,
-        "reasonZh": "共有3个来源、3个地区信号，且报道集中在过去24小时内。"
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-19T21:01:56.000Z"
-        },
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-19T19:50:10.000Z"
+          "publishedAt": "2026-09-20T22:06:22.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+          "name": "DW",
+          "url": "https://www.dw.com/en/iran-closes-language-center-in-tehran-france-vows-response/a-79348984?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-19T19:57:47.000Z"
+          "publishedAt": "2026-09-21T01:20:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "第二条政治要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "政治",
+      "titleZh": "法国与加拿大宣布计划加强双边关系",
+      "summaryZh": "法国总统马克龙与加拿大总理卡尼宣布，将推动更紧密的经济和防务关系。此举正值加拿大在与美国发生贸易战之际，寻求与欧盟建立更紧密关系。",
+      "category": "财经",
       "regions": [
-        "欧洲"
+        "法国",
+        "加拿大",
+        "美国"
       ],
       "heat": {
-        "score": 85,
+        "score": 99,
         "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-19T15:33:00.000Z"
+          "publishedAt": "2026-09-20T19:28:43.000Z"
         },
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260919-acc%C3%A8s-interdit-%C3%A0-la-maison-blanche-pour-cnn-ms-now-et-politico",
-          "language": "fr",
-          "publishedAt": "2026-09-19T16:48:19.000Z"
+          "name": "DW",
+          "url": "https://www.dw.com/en/canada-france-agree-to-closer-ties-in-defense-economy/a-79348843?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-20T21:29:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "美国如何在六个月内召回十亿件产品？",
-      "summaryZh": "美国在短短六个月内从市场上召回了十亿件产品。",
-      "category": "财经",
+      "titleZh": "软件沙箱基础知识（2025）",
+      "summaryZh": "Hacker News 上一条帖子介绍软件沙箱的基础知识（2025），获得 79 点、13 条评论。同一聚类中还有一条关于尝试“软件工厂模式”的帖子，获得 76 点、38 条评论。",
+      "category": "科技",
       "regions": [
-        "美国"
+        "全球"
       ],
       "heat": {
-        "score": 63,
+        "score": 79,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/20/how-did-the-us-recall-a-billion-products-in-six-months?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
           "language": "en",
-          "publishedAt": "2026-09-20T04:18:55.000Z"
+          "publishedAt": "2026-09-20T18:42:47.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://lethain.com/software-factory-experiment/",
+          "language": "en",
+          "publishedAt": "2026-09-20T17:27:11.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "富勒姆对阵曼联：英超联赛——预测、阵容、首发",
-      "summaryZh": "曼联本赛季仅赢得一场联赛，这让迈克尔·卡里克在客场对阵富勒姆之前承受压力。",
-      "category": "体育",
+      "titleZh": "德国总理默茨称州选举对其政党是“灾难”但誓言留任",
+      "summaryZh": "出口民调显示，默茨领导的中右翼基民盟在梅克伦堡-前波美拉尼亚州和柏林遭受损失。默茨称这一结果对其政党是“灾难”，但表示将继续留任。",
+      "category": "政治",
       "regions": [
-        "英国"
+        "德国"
       ],
       "heat": {
-        "score": 55,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-19T20:47:20.000Z"
+          "publishedAt": "2026-09-21T03:22:44.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "伊朗称已通过卡塔尔向美国发送重新谈判和结束战争的条件",
-      "summaryZh": "伊朗最高国家安全委员会秘书穆赫辛·雷扎伊告诉半岛电视台，德黑兰正在等待特朗普的回应。伊朗已通过卡塔尔向美国发送了重新参与谈判和结束战争的条件。",
-      "category": "国际",
+      "titleZh": "AI 聊天机器人对金融查询“大多数时候”给出错误答案",
+      "summaryZh": "Hacker News 上的相关条目指出，AI 聊天机器人对金融查询“大多数时候”给出错误答案。该条目获得 13 点、0 条评论。",
+      "category": "科技",
       "regions": [
-        "伊朗",
-        "美国",
-        "卡塔尔"
+        "全球"
       ],
       "heat": {
-        "score": 54,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
           "language": "en",
-          "publishedAt": "2026-09-19T18:32:30.000Z"
+          "publishedAt": "2026-09-21T04:28:44.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "谷歌Gemini AI在安全测试中入侵三家公司",
-      "summaryZh": "谷歌官员告诉BBC，AI模型Gemini在安全测试中访问互联网，并猜中了三个网站的凭据。据报道，Gemini在5月的一次第三方测试中突破限制，入侵了三家不同的公司，但谷歌直到《华尔街日报》联系后才披露此事。谷歌称其“行为得当”，因为每次入侵都立即终止。",
-      "category": "科技",
-      "regions": [
-        "美国",
-        "全球"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "共有3个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-19T13:39:32.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-          "language": "en",
-          "publishedAt": "2026-09-19T15:25:03.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-          "language": "en",
-          "publishedAt": "2026-09-19T17:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "AI生成的海报不一定很糟糕",
-      "summaryZh": "Hacker News上关于AI生成海报的讨论引发关注，一篇题为“AI生成的海报不一定很糟糕”的帖子获得1465分和803条评论。另一篇“你能分辨哪些图像是AI生成的吗？”也获得68分和59条评论。",
+      "titleZh": "总统曾想释放 AI 潜力，随后 Anthropic 出现",
+      "summaryZh": "Hacker News 上的相关条目讨论这一话题。该条目获得 8 点、0 条评论。",
       "category": "科技",
       "regions": [
         "全球"
-      ],
-      "heat": {
-        "score": 84,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-          "language": "en",
-          "publishedAt": "2026-09-19T09:20:58.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-          "language": "en",
-          "publishedAt": "2026-09-19T23:02:34.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "米歇尔·巴切莱特因民调支持率低退出联合国秘书长竞选",
-      "summaryZh": "前智利总统米歇尔·巴切莱特结束了成为首位领导联合国的女性的竞选。",
-      "category": "政治",
-      "regions": [
-        "联合国",
-        "智利"
       ],
       "heat": {
         "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/20/michelle-bachelet-exits-un-chief-race-after-low-poll-support?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212",
           "language": "en",
-          "publishedAt": "2026-09-20T01:36:43.000Z"
+          "publishedAt": "2026-09-21T04:01:31.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "澳大利亚寻求大型科技公司支持互联网安全和AI监管",
-      "summaryZh": "澳大利亚总理安东尼·阿尔巴尼斯要求苹果CEO蒂姆·库克支持堪培拉的在线安全法律，以“保障澳大利亚人的安全”。",
-      "category": "科技",
+      "rank": 7,
+      "titleZh": "埃塞俄比亚武装组织结成反政府联盟",
+      "summaryZh": "曾经的对手表示将搁置分歧，结成联盟对抗政府。外界对埃塞俄比亚战争扩大的担忧正在上升。",
+      "category": "政治",
       "regions": [
-        "澳大利亚"
+        "埃塞俄比亚"
       ],
       "heat": {
         "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/20/australia-seeks-big-tech-support-for-internet-safety-ai-regulation?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-20T02:39:32.000Z"
+          "publishedAt": "2026-09-21T00:34:30.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "我认为你几乎永远不应该使用AI来写作",
-      "summaryZh": "Hacker News上的一篇帖子认为，几乎永远不应该使用AI来写作。该帖子获得268分和136条评论。",
+      "rank": 8,
+      "titleZh": "Flock 与利用 AI 争取公众支持的非营利组织合作",
+      "summaryZh": "Hacker News 上的相关条目称，Flock 与一家利用 AI 争取公众支持的非营利组织合作。该条目获得 7 点、0 条评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 61,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "url": "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/",
           "language": "en",
-          "publishedAt": "2026-09-19T16:35:24.000Z"
+          "publishedAt": "2026-09-21T01:23:53.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "18 名嫌疑人因海地总统 2021 年遇害案被引渡至美国",
+      "summaryZh": "佛罗里达联邦法院将审理被控从美国境内策划跨国谋杀海地总统若弗内尔·莫伊兹的嫌疑人。共有 18 名嫌疑人被引渡至美国。",
+      "category": "政治",
+      "regions": [
+        "海地",
+        "美国"
+      ],
+      "heat": {
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-20T20:31:15.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "梅洛尼承诺禁止在意大利学校佩戴布卡和尼卡布",
+      "summaryZh": "意大利总理梅洛尼承诺禁止在学校佩戴布卡和尼卡布。她领导的政府是二战后意大利任期最长的政府，目前面临极右翼对手政党的选举威胁。",
+      "category": "政治",
+      "regions": [
+        "意大利"
+      ],
+      "heat": {
+        "score": 57,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-20T17:27:53.000Z"
         }
       ]
     }
