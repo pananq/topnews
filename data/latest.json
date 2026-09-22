@@ -1,17 +1,19 @@
 {
-  "generatedAt": "2026-09-21T05:03:41.735Z",
+  "generatedAt": "2026-09-22T05:05:10.221Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "法国就伊朗关闭德黑兰法语中心召见伊朗特使",
-      "summaryZh": "伊朗方面指称该法语中心从事“违反外交公约的非法行为”，并关闭了隶属法国驻德黑兰使馆的法语中心。法国对此表示将采取适当回应措施，并召见伊朗特使。",
+      "titleZh": "英国将为沙特战机提供空中加油以协助应对胡塞武装袭击",
+      "summaryZh": "英国首相安迪·伯纳姆表示，已同意沙特方面提出的为沙特战机提供“防御性”空中加油的请求，以帮助沙特抵御也门胡塞武装的袭击。他称这一军事支持是“限时的”和“防御性的”，不会用于支持沙特对也门叛军的进攻。",
       "category": "政治",
       "regions": [
-        "法国",
-        "伊朗"
+        "英国",
+        "沙特阿拉伯",
+        "也门",
+        "中东"
       ],
       "heat": {
         "score": 100,
@@ -22,59 +24,28 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/22/uk-to-refuel-saudi-jets-to-help-counter-houthi-attacks?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-20T22:06:22.000Z"
+          "publishedAt": "2026-09-22T00:29:28.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/iran-closes-language-center-in-tehran-france-vows-response/a-79348984?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/uk-to-refuel-saudi-jets-amid-conflict-with-yemen-s-houthis/a-79364964?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-21T01:20:00.000Z"
+          "publishedAt": "2026-09-22T04:58:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "法国与加拿大宣布计划加强双边关系",
-      "summaryZh": "法国总统马克龙与加拿大总理卡尼宣布，将推动更紧密的经济和防务关系。此举正值加拿大在与美国发生贸易战之际，寻求与欧盟建立更紧密关系。",
-      "category": "财经",
-      "regions": [
-        "法国",
-        "加拿大",
-        "美国"
-      ],
-      "heat": {
-        "score": 99,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-20T19:28:43.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/canada-france-agree-to-closer-ties-in-defense-economy/a-79348843?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-20T21:29:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "软件沙箱基础知识（2025）",
-      "summaryZh": "Hacker News 上一条帖子介绍软件沙箱的基础知识（2025），获得 79 点、13 条评论。同一聚类中还有一条关于尝试“软件工厂模式”的帖子，获得 76 点、38 条评论。",
+      "titleZh": "数学与人工智能咨询小组",
+      "summaryZh": "Hacker News 上围绕数学与人工智能咨询小组的讨论获得 112 分、54 条评论。同一聚类中还有一篇关于在自有硬件上运行前沿人工智能的文章，获得 128 分、66 条评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 79,
+        "score": 82,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -82,45 +53,148 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+          "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
           "language": "en",
-          "publishedAt": "2026-09-20T18:42:47.000Z"
+          "publishedAt": "2026-09-21T19:17:42.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://lethain.com/software-factory-experiment/",
+          "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
           "language": "en",
-          "publishedAt": "2026-09-20T17:27:11.000Z"
+          "publishedAt": "2026-09-21T18:53:01.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "印度对阵斯里兰卡直播：亚运会女子板球决赛",
+      "summaryZh": "亚运会女子板球决赛由印度对阵斯里兰卡，比赛在日本日进举行。报道提供赛前动态、球队消息、比分与文字直播，开赛时间为格林尼治时间 05:00。",
+      "category": "体育",
+      "regions": [
+        "印度",
+        "斯里兰卡",
+        "日本",
+        "亚洲"
+      ],
+      "heat": {
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/9/22/india-vs-sri-lanka-live-asian-games-womens-cricket-final?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-22T03:22:09.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "德国总理默茨称州选举对其政党是“灾难”但誓言留任",
-      "summaryZh": "出口民调显示，默茨领导的中右翼基民盟在梅克伦堡-前波美拉尼亚州和柏林遭受损失。默茨称这一结果对其政党是“灾难”，但表示将继续留任。",
-      "category": "政治",
+      "titleZh": "特朗普重返联合国，他会说些什么？",
+      "summaryZh": "特朗普在联合国大会一般性辩论中再次露面，背景包括他发起的伊朗战争、以色列违反加沙停火协议，以及外界对美国目标的审视。报道以视频形式提出他将如何表态的问题。",
+      "category": "国际",
       "regions": [
-        "德国"
+        "美国",
+        "伊朗",
+        "以色列",
+        "中东"
       ],
       "heat": {
-        "score": 64,
+        "score": 58,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-21T03:22:44.000Z"
+          "publishedAt": "2026-09-22T00:31:56.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "AI 聊天机器人对金融查询“大多数时候”给出错误答案",
-      "summaryZh": "Hacker News 上的相关条目指出，AI 聊天机器人对金融查询“大多数时候”给出错误答案。该条目获得 13 点、0 条评论。",
+      "titleZh": "中美竞争正在重塑全球贸易，欧洲夹在中间",
+      "summaryZh": "报道称中国国家主席习近平本周将前往华盛顿，无论他与美国总统特朗普的会谈结果如何，欧盟可能仍将困在美国反复无常的贸易政策与北京的出口机器之间。",
+      "category": "财经",
+      "regions": [
+        "美国",
+        "中国",
+        "欧洲",
+        "欧盟"
+      ],
+      "heat": {
+        "score": 55,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-china-rivalry-is-reshaping-global-trade-and-europe-is-caught-in-the-middle/a-79356540?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-21T18:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "罗宾·威廉姆斯的女儿对制作AI视频的粉丝说：“要有羞耻心”",
+      "summaryZh": "罗宾·威廉姆斯的女儿对使用人工智能生成其父亲视频的粉丝公开表达不满，称“要有羞耻心”。该话题在 Hacker News 上获得 77 分、44 条评论。",
+      "category": "科技",
+      "regions": [
+        "全球",
+        "美国"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+          "language": "en",
+          "publishedAt": "2026-09-22T01:24:49.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "巴西大选：卢拉与弗拉维奥·博索纳罗在最新民调中持平",
+      "summaryZh": "最新民调显示，卢拉·伊纳西奥·卢拉·达席尔瓦与弗拉维奥·博索纳罗在巴西大选中支持率持平。卢拉正在参加 10 月举行的选举，寻求第四个非连续任期的巴西总统职位。",
+      "category": "政治",
+      "regions": [
+        "巴西",
+        "南美洲"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/22/brazil-election-lula-and-flavio-bolsonaro-tied-in-latest-polls?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-22T03:03:54.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "AI 编程让 CI 成为瓶颈，我们重做流程以跟上步伐",
+      "summaryZh": "有技术团队表示，人工智能编程使持续集成（CI）成为瓶颈，因此重新设计了自己的 CI 流程以保持效率。该文章在 Hacker News 上获得 178 分、185 条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -134,18 +208,19 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
           "language": "en",
-          "publishedAt": "2026-09-21T04:28:44.000Z"
+          "publishedAt": "2026-09-21T19:23:33.000Z"
         }
       ]
     },
     {
-      "rank": 6,
-      "titleZh": "总统曾想释放 AI 潜力，随后 Anthropic 出现",
-      "summaryZh": "Hacker News 上的相关条目讨论这一话题。该条目获得 8 点、0 条评论。",
+      "rank": 9,
+      "titleZh": "下一个突破性初创公司将来自哪里？Benchmark 全体合伙人在 TechCrunch Disrupt 2026 上发言",
+      "summaryZh": "Benchmark 的全体合伙人将在 TechCrunch Disrupt 2026 主舞台讨论下一个突破性初创公司可能来自哪里。活动还宣布由新一批风险投资人担任 Startup Battlefield 200 的评委，9 月 25 日前注册可节省最多 200 美元。",
       "category": "科技",
       "regions": [
+        "美国",
         "全球"
       ],
       "heat": {
@@ -156,93 +231,30 @@
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
           "language": "en",
-          "publishedAt": "2026-09-21T04:01:31.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "埃塞俄比亚武装组织结成反政府联盟",
-      "summaryZh": "曾经的对手表示将搁置分歧，结成联盟对抗政府。外界对埃塞俄比亚战争扩大的担忧正在上升。",
-      "category": "政治",
-      "regions": [
-        "埃塞俄比亚"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
+          "publishedAt": "2026-09-21T15:00:00.000Z"
+        },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
           "language": "en",
-          "publishedAt": "2026-09-21T00:34:30.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "Flock 与利用 AI 争取公众支持的非营利组织合作",
-      "summaryZh": "Hacker News 上的相关条目称，Flock 与一家利用 AI 争取公众支持的非营利组织合作。该条目获得 7 点、0 条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/",
-          "language": "en",
-          "publishedAt": "2026-09-21T01:23:53.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "18 名嫌疑人因海地总统 2021 年遇害案被引渡至美国",
-      "summaryZh": "佛罗里达联邦法院将审理被控从美国境内策划跨国谋杀海地总统若弗内尔·莫伊兹的嫌疑人。共有 18 名嫌疑人被引渡至美国。",
-      "category": "政治",
-      "regions": [
-        "海地",
-        "美国"
-      ],
-      "heat": {
-        "score": 59,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-20T20:31:15.000Z"
+          "publishedAt": "2026-09-21T14:15:00.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "梅洛尼承诺禁止在意大利学校佩戴布卡和尼卡布",
-      "summaryZh": "意大利总理梅洛尼承诺禁止在学校佩戴布卡和尼卡布。她领导的政府是二战后意大利任期最长的政府，目前面临极右翼对手政党的选举威胁。",
+      "titleZh": "马姆达尼在会面中就白宫记者禁令挑战特朗普",
+      "summaryZh": "特朗普总统在其官邸会见了纽约市长佐兰·马姆达尼，马姆达尼在会面中就白宫禁止记者采访的做法向特朗普提出挑战。此次会面发生在特朗普向联合国大会发表讲话的前一天。",
       "category": "政治",
       "regions": [
-        "意大利"
+        "美国",
+        "纽约"
       ],
       "heat": {
-        "score": 57,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -250,9 +262,9 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/mamdani-challenges-trump-over-white-house-press-ban-during-meeting?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-20T17:27:53.000Z"
+          "publishedAt": "2026-09-22T01:57:51.000Z"
         }
       ]
     }
