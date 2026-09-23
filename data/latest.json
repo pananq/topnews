@@ -1,270 +1,282 @@
 {
-  "generatedAt": "2026-09-22T05:05:10.221Z",
+  "generatedAt": "2026-09-23T04:50:39.857Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "英国将为沙特战机提供空中加油以协助应对胡塞武装袭击",
-      "summaryZh": "英国首相安迪·伯纳姆表示，已同意沙特方面提出的为沙特战机提供“防御性”空中加油的请求，以帮助沙特抵御也门胡塞武装的袭击。他称这一军事支持是“限时的”和“防御性的”，不会用于支持沙特对也门叛军的进攻。",
-      "category": "政治",
+      "titleZh": "1985年前后的16位英特尔8088芯片",
+      "summaryZh": "Hacker News 上出现一篇关于约1985年16位英特尔8088芯片的讨论帖，获得113点热度与14条评论。该帖由用户 rbanffy 发布，属于对早期个人计算机处理器的怀旧与技术回顾。",
+      "category": "科技",
       "regions": [
-        "英国",
-        "沙特阿拉伯",
-        "也门",
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 81,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 81。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/22/uk-to-refuel-saudi-jets-to-help-counter-houthi-attacks?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
           "language": "en",
-          "publishedAt": "2026-09-22T00:29:28.000Z"
+          "publishedAt": "2026-09-22T16:11:34.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/uk-to-refuel-saudi-jets-amid-conflict-with-yemen-s-houthis/a-79364964?maca=en-rss-en-all-1573-rdf",
+          "name": "Hacker News",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
           "language": "en",
-          "publishedAt": "2026-09-22T04:58:00.000Z"
+          "publishedAt": "2026-09-22T23:46:07.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "数学与人工智能咨询小组",
-      "summaryZh": "Hacker News 上围绕数学与人工智能咨询小组的讨论获得 112 分、54 条评论。同一聚类中还有一篇关于在自有硬件上运行前沿人工智能的文章，获得 128 分、66 条评论。",
-      "category": "科技",
+      "titleZh": "马克龙在联合国大会发表讲话，谈及乌克兰、加沙与人工智能",
+      "summaryZh": "法国总统马克龙在纽约联合国大会一般性辩论上发言，这是他作为国家元首的最后一次此类演讲。他呼吁不要向“失败主义精神”和“滥用权力”让步，并强调应“站在联合国一边”以对抗“丛林法则”。在加沙问题上，他批评所谓和平努力，称当地局势是“让我们所有人感到羞耻的一幕”。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "法国",
+        "欧洲",
+        "美国纽约"
       ],
       "heat": {
-        "score": 82,
+        "score": 80,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 80。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-          "language": "en",
-          "publishedAt": "2026-09-21T19:17:42.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260922-ukraine-gaza-ia-ce-qu-il-faut-retenir-du-discours-d-emmanuel-macron-%C3%A0-l-onu",
+          "language": "fr",
+          "publishedAt": "2026-09-22T19:46:22.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-          "language": "en",
-          "publishedAt": "2026-09-21T18:53:01.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260922-emmanuel-macron-%C3%A0-l-onu-ce-qu-il-faut-retenir-de-son-discours",
+          "language": "fr",
+          "publishedAt": "2026-09-22T19:44:01.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260922-gaza-macron-d%C3%A9nonce-devant-l-onu-un-spectacle-qui-nous-fait-honte-%C3%A0-tous",
+          "language": "fr",
+          "publishedAt": "2026-09-22T19:38:44.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "印度对阵斯里兰卡直播：亚运会女子板球决赛",
-      "summaryZh": "亚运会女子板球决赛由印度对阵斯里兰卡，比赛在日本日进举行。报道提供赛前动态、球队消息、比分与文字直播，开赛时间为格林尼治时间 05:00。",
-      "category": "体育",
-      "regions": [
-        "印度",
-        "斯里兰卡",
-        "日本",
-        "亚洲"
-      ],
-      "heat": {
-        "score": 59,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/9/22/india-vs-sri-lanka-live-asian-games-womens-cricket-final?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-22T03:22:09.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "特朗普重返联合国，他会说些什么？",
-      "summaryZh": "特朗普在联合国大会一般性辩论中再次露面，背景包括他发起的伊朗战争、以色列违反加沙停火协议，以及外界对美国目标的审视。报道以视频形式提出他将如何表态的问题。",
+      "titleZh": "联合国大会现场：威胁、交易与激烈演讲",
+      "summaryZh": "来自世界各地的代表团出席了在纽约举行的联合国大会。BBC 以视频形式回顾了会场上的威胁言论、外交交易与情绪激烈的发言。",
       "category": "国际",
       "regions": [
-        "美国",
-        "伊朗",
-        "以色列",
-        "中东"
+        "美国纽约",
+        "全球"
       ],
       "heat": {
         "score": 58,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 58。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-22T00:31:56.000Z"
+          "publishedAt": "2026-09-22T22:33:44.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "曼德海峡为何如此重要？",
+      "summaryZh": "BBC 记者弗兰克·加德纳解释这条狭窄水道为何是石油运输和世界经济的关键通道。报道以视频形式呈现曼德海峡在能源与贸易上的战略地位。",
+      "category": "财经",
+      "regions": [
+        "中东",
+        "全球"
+      ],
+      "heat": {
+        "score": 54,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 54。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c6kgw4xklvx3o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-22T12:57:59.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "中美竞争正在重塑全球贸易，欧洲夹在中间",
-      "summaryZh": "报道称中国国家主席习近平本周将前往华盛顿，无论他与美国总统特朗普的会谈结果如何，欧盟可能仍将困在美国反复无常的贸易政策与北京的出口机器之间。",
-      "category": "财经",
+      "titleZh": "中立场馆、无客队球迷：以色列对爱尔兰比赛为何争议重重",
+      "summaryZh": "BBC 体育梳理了爱尔兰与以色列之间比赛背后的紧张背景，两国关系处于紧绷状态。报道关注比赛安排在中立场馆、且不允许客队球迷到场等争议点。",
+      "category": "体育",
       "regions": [
-        "美国",
-        "中国",
-        "欧洲",
-        "欧盟"
+        "以色列",
+        "爱尔兰",
+        "欧洲"
       ],
       "heat": {
-        "score": 55,
+        "score": 52,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 52。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-china-rivalry-is-reshaping-global-trade-and-europe-is-caught-in-the-middle/a-79356540?maca=en-rss-en-all-1573-rdf",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-21T18:40:00.000Z"
+          "publishedAt": "2026-09-22T14:23:39.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "罗宾·威廉姆斯的女儿对制作AI视频的粉丝说：“要有羞耻心”",
-      "summaryZh": "罗宾·威廉姆斯的女儿对使用人工智能生成其父亲视频的粉丝公开表达不满，称“要有羞耻心”。该话题在 Hacker News 上获得 77 分、44 条评论。",
-      "category": "科技",
+      "titleZh": "伊朗战争实时：特朗普确认在联合国与伊朗举行“非常好的”会面",
+      "summaryZh": "美国总统特朗普表示，美方官员周二在联合国与伊朗代表团举行了“非常好的”会面。据半岛电视台报道，特朗普称此次会谈持续三小时，并给予积极评价。",
+      "category": "政治",
       "regions": [
-        "全球",
-        "美国"
+        "美国",
+        "伊朗",
+        "中东"
       ],
       "heat": {
-        "score": 65,
+        "score": 74,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、 1 个地区信号，且报道集中在过去 24 小时内，热度评分为 74。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-22T01:24:49.000Z"
+          "publishedAt": "2026-09-23T00:00:00.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-22T20:23:48.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "巴西大选：卢拉与弗拉维奥·博索纳罗在最新民调中持平",
-      "summaryZh": "最新民调显示，卢拉·伊纳西奥·卢拉·达席尔瓦与弗拉维奥·博索纳罗在巴西大选中支持率持平。卢拉正在参加 10 月举行的选举，寻求第四个非连续任期的巴西总统职位。",
+      "titleZh": "特朗普在联合国称古巴“将会垮台”，古巴代表团离场",
+      "summaryZh": "特朗普9月22日在联合国大会演讲中将古巴称为“失败国家”，引发古巴代表团愤怒并集体离场抗议。哈瓦那方面将特朗普的言论称为“诽谤”。特朗普还称美国政府希望古巴发生“根本性改变”。",
       "category": "政治",
       "regions": [
-        "巴西",
-        "南美洲"
+        "美国",
+        "古巴",
+        "拉丁美洲"
       ],
       "heat": {
-        "score": 63,
+        "score": 66,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 66。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/22/brazil-election-lula-and-flavio-bolsonaro-tied-in-latest-polls?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-22T03:03:54.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260922-donald-trump-%C3%A0-l-onu-cuba-va-tomber-la-d%C3%A9l%C3%A9gation-quitte-la-salle",
+          "language": "fr",
+          "publishedAt": "2026-09-22T16:33:40.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260922-onu-trump-assure-que-cuba-va-tomber-cr%C3%A9ant-l-indignation-des-diplomates",
+          "language": "fr",
+          "publishedAt": "2026-09-22T16:00:45.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "AI 编程让 CI 成为瓶颈，我们重做流程以跟上步伐",
-      "summaryZh": "有技术团队表示，人工智能编程使持续集成（CI）成为瓶颈，因此重新设计了自己的 CI 流程以保持效率。该文章在 Hacker News 上获得 178 分、185 条评论。",
-      "category": "科技",
+      "titleZh": "特朗普在联合国演讲中威胁“消灭”伊朗，两国官员同期举行场边会晤",
+      "summaryZh": "美国总统特朗普在联大演讲中谈及伊朗，提出究竟会达成和平协议，还是不得不对伊朗采取极端行动。与此同时，美伊两国官员在场边举行了会面。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "美国",
+        "伊朗",
+        "中东"
       ],
       "heat": {
-        "score": 63,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 64。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-21T19:23:33.000Z"
+          "publishedAt": "2026-09-23T02:57:00.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "下一个突破性初创公司将来自哪里？Benchmark 全体合伙人在 TechCrunch Disrupt 2026 上发言",
-      "summaryZh": "Benchmark 的全体合伙人将在 TechCrunch Disrupt 2026 主舞台讨论下一个突破性初创公司可能来自哪里。活动还宣布由新一批风险投资人担任 Startup Battlefield 200 的评委，9 月 25 日前注册可节省最多 200 美元。",
-      "category": "科技",
+      "titleZh": "美伊在联合国大会期间举行调解会谈，讨论结束战争与开放霍尔木兹海峡",
+      "summaryZh": "美国与伊朗在联合国大会期间举行经调解的会谈，议题包括结束战争和开放霍尔木兹海峡。德黑兰方面将外交进展与解除航运封锁、解冻资产挂钩。",
+      "category": "政治",
       "regions": [
         "美国",
-        "全球"
+        "伊朗",
+        "中东"
       ],
       "heat": {
-        "score": 62,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 64。"
       },
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-21T15:00:00.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-          "language": "en",
-          "publishedAt": "2026-09-21T14:15:00.000Z"
+          "publishedAt": "2026-09-23T04:42:15.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "马姆达尼在会面中就白宫记者禁令挑战特朗普",
-      "summaryZh": "特朗普总统在其官邸会见了纽约市长佐兰·马姆达尼，马姆达尼在会面中就白宫禁止记者采访的做法向特朗普提出挑战。此次会面发生在特朗普向联合国大会发表讲话的前一天。",
-      "category": "政治",
+      "titleZh": "五角大楼称过度依赖人工智能导致对伊朗学校的导弹袭击",
+      "summaryZh": "Hacker News 上一条报道称，五角大楼表示过度依赖人工智能是导致对伊朗一所学校发动导弹袭击的因素之一。该帖获得519点热度与255条评论，由用户 devonnull 发布。",
+      "category": "科技",
       "regions": [
         "美国",
-        "纽约"
+        "伊朗",
+        "中东"
       ],
       "heat": {
-        "score": 62,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 64。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/mamdani-challenges-trump-over-white-house-press-ban-during-meeting?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
           "language": "en",
-          "publishedAt": "2026-09-22T01:57:51.000Z"
+          "publishedAt": "2026-09-22T19:03:38.000Z"
         }
       ]
     }
