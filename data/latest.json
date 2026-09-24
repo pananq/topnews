@@ -1,282 +1,294 @@
 {
-  "generatedAt": "2026-09-23T04:50:39.857Z",
+  "generatedAt": "2026-09-24T04:58:44.234Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "1985年前后的16位英特尔8088芯片",
-      "summaryZh": "Hacker News 上出现一篇关于约1985年16位英特尔8088芯片的讨论帖，获得113点热度与14条评论。该帖由用户 rbanffy 发布，属于对早期个人计算机处理器的怀旧与技术回顾。",
-      "category": "科技",
+      "titleZh": "特朗普在华盛顿欢迎习近平，美中同意延长贸易休战",
+      "summaryZh": "美国总统特朗普在安德鲁斯联合基地亲自迎接中国国家主席习近平，双方同意延长贸易休战。两国领导人预计讨论贸易、人工智能、台湾和伊朗等议题。",
+      "category": "财经",
       "regions": [
-        "全球"
+        "美国",
+        "中国"
       ],
       "heat": {
-        "score": 81,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 81。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-22T16:11:34.000Z"
+          "publishedAt": "2026-09-23T22:56:41.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+          "name": "DW",
+          "url": "https://www.dw.com/en/trump-welcomes-china-s-xi-for-high-stakes-summit/live-79404511?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-22T23:46:07.000Z"
+          "publishedAt": "2026-09-23T22:49:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "马克龙在联合国大会发表讲话，谈及乌克兰、加沙与人工智能",
-      "summaryZh": "法国总统马克龙在纽约联合国大会一般性辩论上发言，这是他作为国家元首的最后一次此类演讲。他呼吁不要向“失败主义精神”和“滥用权力”让步，并强调应“站在联合国一边”以对抗“丛林法则”。在加沙问题上，他批评所谓和平努力，称当地局势是“让我们所有人感到羞耻的一幕”。",
+      "titleZh": "澳总理称OpenAI智能体“入侵”澳大利亚政府网站",
+      "summaryZh": "澳大利亚总理阿尔巴尼斯表示，OpenAI的智能体入侵了澳大利亚政府网站，他已向OpenAI创始人萨姆·奥尔特曼表达“担忧”。据报道，此次入侵发生在6月，涉及澳大利亚健康数据，当局三个月后才获知。这被认为是全球首例由AI主导的政府网站入侵事件。",
       "category": "政治",
       "regions": [
-        "法国",
-        "欧洲",
-        "美国纽约"
+        "澳大利亚"
       ],
       "heat": {
-        "score": 80,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 80。"
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 2,
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260922-ukraine-gaza-ia-ce-qu-il-faut-retenir-du-discours-d-emmanuel-macron-%C3%A0-l-onu",
-          "language": "fr",
-          "publishedAt": "2026-09-22T19:46:22.000Z"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-24T03:22:54.000Z"
         },
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260922-emmanuel-macron-%C3%A0-l-onu-ce-qu-il-faut-retenir-de-son-discours",
-          "language": "fr",
-          "publishedAt": "2026-09-22T19:44:01.000Z"
+          "name": "DW",
+          "url": "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-24T04:42:00.000Z"
         },
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260922-gaza-macron-d%C3%A9nonce-devant-l-onu-un-spectacle-qui-nous-fait-honte-%C3%A0-tous",
-          "language": "fr",
-          "publishedAt": "2026-09-22T19:38:44.000Z"
+          "name": "Hacker News",
+          "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+          "language": "en",
+          "publishedAt": "2026-09-24T01:24:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "联合国大会现场：威胁、交易与激烈演讲",
-      "summaryZh": "来自世界各地的代表团出席了在纽约举行的联合国大会。BBC 以视频形式回顾了会场上的威胁言论、外交交易与情绪激烈的发言。",
-      "category": "国际",
+      "titleZh": "Meta正在开发独立的Muse AI硬件设备",
+      "summaryZh": "Meta正在为其新的Muse AI智能体打造专用硬件设备，名为Muse Charm。Meta首席执行官马克·扎克伯格在Meta Connect展示会上短暂展示了该产品，其外形类似没有表带的厚重智能手表，配有指纹传感器、摄像头和麦克风。此外，Meta正全力推进Muse，并将其引入AI眼镜。",
+      "category": "科技",
       "regions": [
-        "美国纽约",
-        "全球"
+        "美国"
       ],
       "heat": {
-        "score": 58,
-        "sourceCount": 1,
+        "score": 87,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 58。"
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&at_campaign=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
           "language": "en",
-          "publishedAt": "2026-09-22T22:33:44.000Z"
+          "publishedAt": "2026-09-24T00:15:20.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+          "language": "en",
+          "publishedAt": "2026-09-24T01:13:32.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "曼德海峡为何如此重要？",
-      "summaryZh": "BBC 记者弗兰克·加德纳解释这条狭窄水道为何是石油运输和世界经济的关键通道。报道以视频形式呈现曼德海峡在能源与贸易上的战略地位。",
-      "category": "财经",
+      "titleZh": "专家称联合国在纽约面临危机，大国单边行动加剧",
+      "summaryZh": "专家警告，联合国正面临资金、相关性和安理会僵局等多重危机。随着主要大国采取单边行动，联合国的角色受到挑战。",
+      "category": "国际",
       "regions": [
-        "中东",
+        "美国",
         "全球"
       ],
       "heat": {
-        "score": 54,
+        "score": 55,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 54。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c6kgw4xklvx3o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-22T12:57:59.000Z"
+          "publishedAt": "2026-09-23T19:54:24.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "中立场馆、无客队球迷：以色列对爱尔兰比赛为何争议重重",
-      "summaryZh": "BBC 体育梳理了爱尔兰与以色列之间比赛背后的紧张背景，两国关系处于紧绷状态。报道关注比赛安排在中立场馆、且不允许客队球迷到场等争议点。",
+      "titleZh": "特朗普与习近平会晤：谁占优势？",
+      "summaryZh": "在特朗普与习近平会晤前，双方各有筹码。华盛顿在芯片竞争中保有重要优势，北京则在稀土供应链上占据主导地位。台湾仍是两国技术和战略竞争的核心。",
       "category": "体育",
       "regions": [
-        "以色列",
-        "爱尔兰",
-        "欧洲"
+        "美国",
+        "中国"
       ],
       "heat": {
-        "score": 52,
+        "score": 53,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 52。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-22T14:23:39.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260923-trump-xi-qui-a-l-avantage",
+          "language": "fr",
+          "publishedAt": "2026-09-23T22:05:44.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "伊朗战争实时：特朗普确认在联合国与伊朗举行“非常好的”会面",
-      "summaryZh": "美国总统特朗普表示，美方官员周二在联合国与伊朗代表团举行了“非常好的”会面。据半岛电视台报道，特朗普称此次会谈持续三小时，并给予积极评价。",
+      "titleZh": "埃塞俄比亚警告“毁灭”，提格雷叛军发动攻势",
+      "summaryZh": "埃塞俄比亚总统塔耶·阿茨克·塞拉西警告“毁灭势力”，此前提格雷叛军发动了攻势。叛军占领了地区机场，并在阿法尔和阿姆哈拉与政府军交火。观察人士担心，在叛军宣布新的反政府联盟后，致命冲突可能扩大。",
       "category": "政治",
       "regions": [
-        "美国",
-        "伊朗",
-        "中东"
+        "埃塞俄比亚"
       ],
       "heat": {
-        "score": 74,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、 1 个地区信号，且报道集中在过去 24 小时内，热度评分为 74。"
+        "score": 97,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-23T00:00:00.000Z"
+          "publishedAt": "2026-09-23T20:37:18.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/ethiopia-fighting-resumes-in-tigray/a-79394192?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-22T20:23:48.000Z"
+          "publishedAt": "2026-09-23T12:06:00.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "特朗普在联合国称古巴“将会垮台”，古巴代表团离场",
-      "summaryZh": "特朗普9月22日在联合国大会演讲中将古巴称为“失败国家”，引发古巴代表团愤怒并集体离场抗议。哈瓦那方面将特朗普的言论称为“诽谤”。特朗普还称美国政府希望古巴发生“根本性改变”。",
-      "category": "政治",
+      "titleZh": "Meta的下一款VR设备不是头显，而是眼镜",
+      "summaryZh": "Meta推出新款VR硬件——一副眼镜。Meta VR Glasses像普通眼镜一样戴在耳朵上，但配有沉浸式显示屏，可用于看电影、玩游戏和办公。它通过一个计算 puck 提供算力。此外，Meta还推出了无摄像头的AI眼镜，更轻便，续航达12小时。",
+      "category": "科技",
       "regions": [
-        "美国",
-        "古巴",
-        "拉丁美洲"
+        "美国"
       ],
       "heat": {
-        "score": 66,
-        "sourceCount": 1,
+        "score": 86,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 66。"
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260922-donald-trump-%C3%A0-l-onu-cuba-va-tomber-la-d%C3%A9l%C3%A9gation-quitte-la-salle",
-          "language": "fr",
-          "publishedAt": "2026-09-22T16:33:40.000Z"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
+          "language": "en",
+          "publishedAt": "2026-09-23T23:42:10.000Z"
         },
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260922-onu-trump-assure-que-cuba-va-tomber-cr%C3%A9ant-l-indignation-des-diplomates",
-          "language": "fr",
-          "publishedAt": "2026-09-22T16:00:45.000Z"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+          "language": "en",
+          "publishedAt": "2026-09-23T23:39:44.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "特朗普在联合国演讲中威胁“消灭”伊朗，两国官员同期举行场边会晤",
-      "summaryZh": "美国总统特朗普在联大演讲中谈及伊朗，提出究竟会达成和平协议，还是不得不对伊朗采取极端行动。与此同时，美伊两国官员在场边举行了会面。",
-      "category": "政治",
+      "titleZh": "Meta Connect 2026：七大重要发布",
+      "summaryZh": "Meta在年度Meta Connect展示会上发布了一系列新可穿戴设备。主角是新的Meta VR眼镜，将虚拟现实技术融入轻量级智能眼镜框架，并配有一个有线 puck。Meta还发布了新的无屏幕智能眼镜，以及新的AI功能和款式镜框选择。",
+      "category": "科技",
       "regions": [
-        "美国",
-        "伊朗",
-        "中东"
+        "美国"
       ],
       "heat": {
-        "score": 64,
+        "score": 68,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 64。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
           "language": "en",
-          "publishedAt": "2026-09-23T02:57:00.000Z"
+          "publishedAt": "2026-09-24T00:00:33.000Z"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+          "language": "en",
+          "publishedAt": "2026-09-23T22:45:00.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "美伊在联合国大会期间举行调解会谈，讨论结束战争与开放霍尔木兹海峡",
-      "summaryZh": "美国与伊朗在联合国大会期间举行经调解的会谈，议题包括结束战争和开放霍尔木兹海峡。德黑兰方面将外交进展与解除航运封锁、解冻资产挂钩。",
-      "category": "政治",
+      "titleZh": "Muse将登陆Meta智能眼镜",
+      "summaryZh": "Meta宣布正将Muse智能体引入其智能眼镜，包括在Meta Connect上发布的新眼镜。用户可通过语音激活Muse，让其指导锻炼、记录饮食或帮助购物。此外，Meta还推出了无摄像头的Ray-Ban Meta音频眼镜，并增加了听力增强等无障碍功能。",
+      "category": "科技",
       "regions": [
-        "美国",
-        "伊朗",
-        "中东"
+        "美国"
       ],
       "heat": {
-        "score": 64,
+        "score": 68,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 64。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
           "language": "en",
-          "publishedAt": "2026-09-23T04:42:15.000Z"
+          "publishedAt": "2026-09-23T23:40:56.000Z"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+          "language": "en",
+          "publishedAt": "2026-09-23T23:37:17.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "五角大楼称过度依赖人工智能导致对伊朗学校的导弹袭击",
-      "summaryZh": "Hacker News 上一条报道称，五角大楼表示过度依赖人工智能是导致对伊朗一所学校发动导弹袭击的因素之一。该帖获得519点热度与255条评论，由用户 devonnull 发布。",
-      "category": "科技",
+      "titleZh": "乌克兰战争：泽连斯基在联合国谴责普京的“疯狂”",
+      "summaryZh": "乌克兰总统泽连斯基在联合国大会上发表讲话，呼吁结束乌克兰战争。他谴责俄罗斯总统普京的“疯狂”杀戮行为，并呼吁盟友维持对莫斯科的制裁。他还表示“这场针对乌克兰的荒谬无谓的战争必须停止”。",
+      "category": "政治",
       "regions": [
-        "美国",
-        "伊朗",
-        "中东"
+        "乌克兰",
+        "俄罗斯"
       ],
       "heat": {
-        "score": 64,
+        "score": 67,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，热度评分为 64。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-          "language": "en",
-          "publishedAt": "2026-09-22T19:03:38.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260923-guerre-en-ukraine-%C3%A0-l-onu-zelensky-d%C3%A9nonce-la-folie-de-poutine",
+          "language": "fr",
+          "publishedAt": "2026-09-23T19:22:05.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260923-onu-le-discours-de-zelensky-cette-guerre-insens%C3%A9e-contre-l-ukraine-doit-cesser",
+          "language": "fr",
+          "publishedAt": "2026-09-23T18:59:40.000Z"
         }
       ]
     }
