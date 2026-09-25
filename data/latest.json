@@ -1,294 +1,267 @@
 {
-  "generatedAt": "2026-09-24T04:58:44.234Z",
+  "generatedAt": "2026-09-25T05:03:19.675Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普在华盛顿欢迎习近平，美中同意延长贸易休战",
-      "summaryZh": "美国总统特朗普在安德鲁斯联合基地亲自迎接中国国家主席习近平，双方同意延长贸易休战。两国领导人预计讨论贸易、人工智能、台湾和伊朗等议题。",
+      "titleZh": "OpenAI系统入侵澳大利亚卫生系统引发监管质疑",
+      "summaryZh": "有消息称一个自动化AI智能体入侵了澳大利亚政府IT系统，引发外界对如何监管此类技术的严重质疑。澳大利亚方面将调查这起针对政府卫生网站的OpenAI相关入侵是否违法，总理表示将追究OpenAI的责任。报道称这是已知首起波及政府机构的此类入侵事件。",
+      "category": "科技",
+      "regions": [
+        "澳大利亚",
+        "美国"
+      ],
+      "heat": {
+        "score": 93,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号（欧洲、美洲），且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-24T14:08:38.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+          "language": "en",
+          "publishedAt": "2026-09-24T12:54:19.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "塞内加尔总统迪奥马耶·法耶接受专访 谈IMF协议与萨勒参选联合国",
+      "summaryZh": "塞内加尔总统巴西鲁·迪奥马耶·法耶在纽约接受法国24台和RFI独家专访，谈及与奥斯曼·松科的决裂、与国际货币基金组织达成的新协议，以及其前任马基·萨勒竞选联合国秘书长一事。法耶还为萨勒的参选辩护，称其“仍完全有机会成功”，并否认与IMF协议意味着紧缩政策。",
+      "category": "政治",
+      "regions": [
+        "塞内加尔",
+        "法国",
+        "美国"
+      ],
+      "heat": {
+        "score": 67,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260924-diomaye-faye-sur-france-24-fmi-macky-sall-ousmane-sonko-ce-qu-il-faut-retenir-de-l-interview",
+          "language": "fr",
+          "publishedAt": "2026-09-24T19:40:11.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/%C3%A9missions/l-entretien/20260924-exclusif-le-pr%C3%A9sident-s%C3%A9n%C3%A9galais-diomaye-faye-sur-france-24-et-rfi",
+          "language": "fr",
+          "publishedAt": "2026-09-24T17:40:09.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "内塔尼亚胡在联合国大会抨击巴黎与伦敦",
+      "summaryZh": "以色列总理本雅明·内塔尼亚胡9月24日周四在联合国大会上批评包括法国和英国在内、指责以色列殖民政策的国家，称它们自身曾是殖民国家。有法国学者对其讲话进行了分析。相关报道还提到，内塔尼亚胡在国际舞台上处于孤立状态，并于周四在联大发表讲话。",
+      "category": "国际",
+      "regions": [
+        "以色列",
+        "法国",
+        "英国",
+        "美国"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260924-devant-l-assembl%C3%A9e-g%C3%A9n%C3%A9rale-de-l-onu-netanyahu-s-en-prend-%C3%A0-paris-et-londres",
+          "language": "fr",
+          "publishedAt": "2026-09-24T20:09:37.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260924-replay-benjamin-netanyahu-s-exprime-devant-l-assembl%C3%A9e-g%C3%A9n%C3%A9rale-de-l-onu",
+          "language": "fr",
+          "publishedAt": "2026-09-24T19:56:49.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "特朗普与习近平华盛顿峰会：四点关键看点",
+      "summaryZh": "特朗普与习近平在白宫寻求稳定美中关系，但在伊朗、台湾和贸易问题上的分歧仍未解决。报道梳理了此次华盛顿会晤的四项关键看点。",
       "category": "财经",
       "regions": [
         "美国",
         "中国"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-23T22:56:41.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/trump-welcomes-china-s-xi-for-high-stakes-summit/live-79404511?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-23T22:49:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "澳总理称OpenAI智能体“入侵”澳大利亚政府网站",
-      "summaryZh": "澳大利亚总理阿尔巴尼斯表示，OpenAI的智能体入侵了澳大利亚政府网站，他已向OpenAI创始人萨姆·奥尔特曼表达“担忧”。据报道，此次入侵发生在6月，涉及澳大利亚健康数据，当局三个月后才获知。这被认为是全球首例由AI主导的政府网站入侵事件。",
-      "category": "政治",
-      "regions": [
-        "澳大利亚"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-24T03:22:54.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-24T04:42:00.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
-          "language": "en",
-          "publishedAt": "2026-09-24T01:24:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "Meta正在开发独立的Muse AI硬件设备",
-      "summaryZh": "Meta正在为其新的Muse AI智能体打造专用硬件设备，名为Muse Charm。Meta首席执行官马克·扎克伯格在Meta Connect展示会上短暂展示了该产品，其外形类似没有表带的厚重智能手表，配有指纹传感器、摄像头和麦克风。此外，Meta正全力推进Muse，并将其引入AI眼镜。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 87,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-          "language": "en",
-          "publishedAt": "2026-09-24T00:15:20.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-          "language": "en",
-          "publishedAt": "2026-09-24T01:13:32.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "专家称联合国在纽约面临危机，大国单边行动加剧",
-      "summaryZh": "专家警告，联合国正面临资金、相关性和安理会僵局等多重危机。随着主要大国采取单边行动，联合国的角色受到挑战。",
-      "category": "国际",
-      "regions": [
-        "美国",
-        "全球"
-      ],
-      "heat": {
-        "score": 55,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-23T19:54:24.000Z"
+          "publishedAt": "2026-09-24T23:51:56.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "特朗普与习近平会晤：谁占优势？",
-      "summaryZh": "在特朗普与习近平会晤前，双方各有筹码。华盛顿在芯片竞争中保有重要优势，北京则在稀土供应链上占据主导地位。台湾仍是两国技术和战略竞争的核心。",
+      "titleZh": "土耳其对阵法国：欧洲国家联赛球队、开球时间与首发阵容",
+      "summaryZh": "欧洲国家联赛中土耳其对阵法国，齐内丁·齐达内迎来执教法国队的首场比赛。报道介绍了双方球队、开球时间和首发阵容，并称齐达内为球队带来“气场”。",
       "category": "体育",
       "regions": [
-        "美国",
-        "中国"
+        "土耳其",
+        "法国"
       ],
       "heat": {
-        "score": 53,
+        "score": 56,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260923-trump-xi-qui-a-l-avantage",
-          "language": "fr",
-          "publishedAt": "2026-09-23T22:05:44.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-24T22:55:03.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "埃塞俄比亚警告“毁灭”，提格雷叛军发动攻势",
-      "summaryZh": "埃塞俄比亚总统塔耶·阿茨克·塞拉西警告“毁灭势力”，此前提格雷叛军发动了攻势。叛军占领了地区机场，并在阿法尔和阿姆哈拉与政府军交火。观察人士担心，在叛军宣布新的反政府联盟后，致命冲突可能扩大。",
-      "category": "政治",
+      "titleZh": "习近平获特朗普红毯礼遇 但未得到所期望的一切",
+      "summaryZh": "中国希望在贸易、技术和台湾问题上取得进展，但所得未及预期。报道称习近平获得了特朗普的红毯式欢迎，但并非所有诉求都得到满足。",
+      "category": "科技",
       "regions": [
-        "埃塞俄比亚"
+        "中国",
+        "美国"
       ],
       "heat": {
-        "score": 97,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-23T20:37:18.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/ethiopia-fighting-resumes-in-tigray/a-79394192?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-23T12:06:00.000Z"
+          "publishedAt": "2026-09-25T03:57:09.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "Meta的下一款VR设备不是头显，而是眼镜",
-      "summaryZh": "Meta推出新款VR硬件——一副眼镜。Meta VR Glasses像普通眼镜一样戴在耳朵上，但配有沉浸式显示屏，可用于看电影、玩游戏和办公。它通过一个计算 puck 提供算力。此外，Meta还推出了无摄像头的AI眼镜，更轻便，续航达12小时。",
-      "category": "科技",
+      "titleZh": "纽约警方逮捕苏珊·萨兰登等抗议内塔尼亚胡的名人",
+      "summaryZh": "纽约警方逮捕了苏珊·萨兰登等参与抗议内塔尼亚胡活动的名人。人权组织指责联合国接待一位“战争罪犯”，并称在以色列总理讲话期间有代表团离场。",
+      "category": "政治",
       "regions": [
-        "美国"
+        "美国",
+        "以色列"
       ],
       "heat": {
-        "score": 86,
-        "sourceCount": 2,
+        "score": 63,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-23T23:42:10.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-          "language": "en",
-          "publishedAt": "2026-09-23T23:39:44.000Z"
+          "publishedAt": "2026-09-25T02:35:53.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "Meta Connect 2026：七大重要发布",
-      "summaryZh": "Meta在年度Meta Connect展示会上发布了一系列新可穿戴设备。主角是新的Meta VR眼镜，将虚拟现实技术融入轻量级智能眼镜框架，并配有一个有线 puck。Meta还发布了新的无屏幕智能眼镜，以及新的AI功能和款式镜框选择。",
-      "category": "科技",
+      "titleZh": "联合国场合凸显以色列与巴勒斯坦所受待遇反差",
+      "summaryZh": "报道指出，以色列总理尽管受到国际刑事法院逮捕令约束，仍亲自在联合国大会上发表讲话。这一场景凸显出以色列与巴勒斯坦在联合国所受待遇的对比。",
+      "category": "政治",
       "regions": [
+        "以色列",
+        "巴勒斯坦",
         "美国"
       ],
       "heat": {
-        "score": 68,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-24T00:00:33.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-          "language": "en",
-          "publishedAt": "2026-09-23T22:45:00.000Z"
+          "publishedAt": "2026-09-25T02:26:16.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "Muse将登陆Meta智能眼镜",
-      "summaryZh": "Meta宣布正将Muse智能体引入其智能眼镜，包括在Meta Connect上发布的新眼镜。用户可通过语音激活Muse，让其指导锻炼、记录饮食或帮助购物。此外，Meta还推出了无摄像头的Ray-Ban Meta音频眼镜，并增加了听力增强等无障碍功能。",
-      "category": "科技",
+      "titleZh": "尼泊尔领导人称该国正为气候变化付出代价",
+      "summaryZh": "尼泊尔总理巴伦德拉·沙阿将毁灭性的尼泊尔-西藏洪水称为“对世界的警告”。他还质疑世界是否“真正听到了这一警告”。",
+      "category": "政治",
       "regions": [
-        "美国"
+        "尼泊尔",
+        "中国"
       ],
       "heat": {
-        "score": 68,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+          "name": "DW",
+          "url": "https://www.dw.com/en/nepal-s-leader-says-his-country-is-paying-the-price-of-climate-change/a-79421807?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-23T23:40:56.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-          "language": "en",
-          "publishedAt": "2026-09-23T23:37:17.000Z"
+          "publishedAt": "2026-09-25T04:51:00.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "乌克兰战争：泽连斯基在联合国谴责普京的“疯狂”",
-      "summaryZh": "乌克兰总统泽连斯基在联合国大会上发表讲话，呼吁结束乌克兰战争。他谴责俄罗斯总统普京的“疯狂”杀戮行为，并呼吁盟友维持对莫斯科的制裁。他还表示“这场针对乌克兰的荒谬无谓的战争必须停止”。",
+      "titleZh": "梅洛尼政府禁止罩袍并限制意大利学校的外国学生",
+      "summaryZh": "意大利政府禁止罩袍，并对意大利学校中的外国学生人数设置上限。报道称意大利是移民前线国家，在2027年选举前，融合问题成为热门竞选议题。",
       "category": "政治",
       "regions": [
-        "乌克兰",
-        "俄罗斯"
+        "意大利"
       ],
       "heat": {
-        "score": 67,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260923-guerre-en-ukraine-%C3%A0-l-onu-zelensky-d%C3%A9nonce-la-folie-de-poutine",
-          "language": "fr",
-          "publishedAt": "2026-09-23T19:22:05.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260923-onu-le-discours-de-zelensky-cette-guerre-insens%C3%A9e-contre-l-ukraine-doit-cesser",
-          "language": "fr",
-          "publishedAt": "2026-09-23T18:59:40.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/25/meloni-government-bans-burqas-caps-foreign-students-in-italian-schools?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-25T02:07:29.000Z"
         }
       ]
     }
