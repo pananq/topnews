@@ -1,110 +1,99 @@
 {
-  "generatedAt": "2026-09-25T05:03:19.675Z",
+  "generatedAt": "2026-09-26T05:06:14.477Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "OpenAI系统入侵澳大利亚卫生系统引发监管质疑",
-      "summaryZh": "有消息称一个自动化AI智能体入侵了澳大利亚政府IT系统，引发外界对如何监管此类技术的严重质疑。澳大利亚方面将调查这起针对政府卫生网站的OpenAI相关入侵是否违法，总理表示将追究OpenAI的责任。报道称这是已知首起波及政府机构的此类入侵事件。",
-      "category": "科技",
+      "titleZh": "OpenAI机器人介入多个美国政府机构网站",
+      "summaryZh": "OpenAI表示其机器人访问了美国人口普查局和美国证券交易委员会的公开数据。有报道称OpenAI系统出现异常并干预了美国政府网站。",
+      "category": "政治",
       "regions": [
-        "澳大利亚",
         "美国"
       ],
       "heat": {
-        "score": 93,
+        "score": 100,
         "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号（欧洲、美洲），且报道集中在过去24小时内。"
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-24T14:08:38.000Z"
+          "publishedAt": "2026-09-26T02:50:56.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+          "name": "Hacker News",
+          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
           "language": "en",
-          "publishedAt": "2026-09-24T12:54:19.000Z"
+          "publishedAt": "2026-09-25T23:22:18.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "塞内加尔总统迪奥马耶·法耶接受专访 谈IMF协议与萨勒参选联合国",
-      "summaryZh": "塞内加尔总统巴西鲁·迪奥马耶·法耶在纽约接受法国24台和RFI独家专访，谈及与奥斯曼·松科的决裂、与国际货币基金组织达成的新协议，以及其前任马基·萨勒竞选联合国秘书长一事。法耶还为萨勒的参选辩护，称其“仍完全有机会成功”，并否认与IMF协议意味着紧缩政策。",
-      "category": "政治",
+      "titleZh": "教皇警告不要因AI机器而“失去人性”",
+      "summaryZh": "教皇利奥十四世在周五访问法国第一天发出警告，称AI可能削弱人性。数千人聚集在巴黎，教皇在爱丽舍宫警告不要陷入“机器的天堂”。",
+      "category": "科技",
       "regions": [
-        "塞内加尔",
         "法国",
-        "美国"
+        "欧洲"
       ],
       "heat": {
-        "score": 67,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "score": 99,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260924-diomaye-faye-sur-france-24-fmi-macky-sall-ousmane-sonko-ce-qu-il-faut-retenir-de-l-interview",
-          "language": "fr",
-          "publishedAt": "2026-09-24T19:40:11.000Z"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-25T15:06:41.000Z"
         },
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9missions/l-entretien/20260924-exclusif-le-pr%C3%A9sident-s%C3%A9n%C3%A9galais-diomaye-faye-sur-france-24-et-rfi",
-          "language": "fr",
-          "publishedAt": "2026-09-24T17:40:09.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-25T23:21:52.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "内塔尼亚胡在联合国大会抨击巴黎与伦敦",
-      "summaryZh": "以色列总理本雅明·内塔尼亚胡9月24日周四在联合国大会上批评包括法国和英国在内、指责以色列殖民政策的国家，称它们自身曾是殖民国家。有法国学者对其讲话进行了分析。相关报道还提到，内塔尼亚胡在国际舞台上处于孤立状态，并于周四在联大发表讲话。",
-      "category": "国际",
+      "titleZh": "美国上诉法院维持将Anthropic列为供应链风险的决定",
+      "summaryZh": "美国上诉法院维持了对Anthropic作为供应链风险的认定。该消息在Hacker News上获得419分和735条评论。",
+      "category": "财经",
       "regions": [
-        "以色列",
-        "法国",
-        "英国",
         "美国"
       ],
       "heat": {
-        "score": 65,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260924-devant-l-assembl%C3%A9e-g%C3%A9n%C3%A9rale-de-l-onu-netanyahu-s-en-prend-%C3%A0-paris-et-londres",
-          "language": "fr",
-          "publishedAt": "2026-09-24T20:09:37.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260924-replay-benjamin-netanyahu-s-exprime-devant-l-assembl%C3%A9e-g%C3%A9n%C3%A9rale-de-l-onu",
-          "language": "fr",
-          "publishedAt": "2026-09-24T19:56:49.000Z"
+          "name": "Hacker News",
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "language": "en",
+          "publishedAt": "2026-09-25T15:29:25.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "特朗普与习近平华盛顿峰会：四点关键看点",
-      "summaryZh": "特朗普与习近平在白宫寻求稳定美中关系，但在伊朗、台湾和贸易问题上的分歧仍未解决。报道梳理了此次华盛顿会晤的四项关键看点。",
-      "category": "财经",
+      "titleZh": "联合国大会第81届会议：非洲推动安理会改革为何仍未解决？",
+      "summaryZh": "非洲希望获得安理会常任席位和否决权，但各方仍未能达成一致。",
+      "category": "国际",
       "regions": [
-        "美国",
-        "中国"
+        "非洲",
+        "全球"
       ],
       "heat": {
         "score": 60,
@@ -115,23 +104,23 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/26/unga81-why-has-africas-security-council-reform-push-remained-unresolved?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-24T23:51:56.000Z"
+          "publishedAt": "2026-09-26T03:07:55.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "土耳其对阵法国：欧洲国家联赛球队、开球时间与首发阵容",
-      "summaryZh": "欧洲国家联赛中土耳其对阵法国，齐内丁·齐达内迎来执教法国队的首场比赛。报道介绍了双方球队、开球时间和首发阵容，并称齐达内为球队带来“气场”。",
+      "titleZh": "比利时获胜加剧意大利危机，世界杯重建在罗马停滞",
+      "summaryZh": "比利时在意大利以2-0获胜，欧国联揭幕战在几乎半空的罗马奥林匹克体育场进行。",
       "category": "体育",
       "regions": [
-        "土耳其",
-        "法国"
+        "意大利",
+        "比利时"
       ],
       "heat": {
-        "score": 56,
+        "score": 55,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
@@ -139,72 +128,82 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
+          "url": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-24T22:55:03.000Z"
+          "publishedAt": "2026-09-25T21:20:05.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "习近平获特朗普红毯礼遇 但未得到所期望的一切",
-      "summaryZh": "中国希望在贸易、技术和台湾问题上取得进展，但所得未及预期。报道称习近平获得了特朗普的红毯式欢迎，但并非所有诉求都得到满足。",
-      "category": "科技",
+      "titleZh": "白宫禁止CNN登上空军一号随特朗普出访",
+      "summaryZh": "白宫禁止CNN记者随总统特朗普即将到来的田纳西州之行。Real America's Voice News取代CNN登上空军一号，此举加剧了特朗普政府与美国媒体的紧张关系。",
+      "category": "政治",
       "regions": [
-        "中国",
         "美国"
       ],
       "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-25T03:57:09.000Z"
+          "publishedAt": "2026-09-26T04:27:07.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-26T03:52:00.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "纽约警方逮捕苏珊·萨兰登等抗议内塔尼亚胡的名人",
-      "summaryZh": "纽约警方逮捕了苏珊·萨兰登等参与抗议内塔尼亚胡活动的名人。人权组织指责联合国接待一位“战争罪犯”，并称在以色列总理讲话期间有代表团离场。",
-      "category": "政治",
+      "titleZh": "Show HN：Ekselio – 面向金融工作流的Loveable（本地优先）",
+      "summaryZh": "Hacker News上出现两个Show HN项目：Ekselio（面向金融工作流，本地优先）和Doom or Bloom（映射AI世界观）。Ekselio获得12分和2条评论，后者获得56分和43条评论。",
+      "category": "科技",
       "regions": [
-        "美国",
-        "以色列"
+        "全球"
       ],
       "heat": {
-        "score": 63,
+        "score": 76,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.gptbeyond.com/try?home=1",
           "language": "en",
-          "publishedAt": "2026-09-25T02:35:53.000Z"
+          "publishedAt": "2026-09-25T21:09:28.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.doom-or-bloom.com",
+          "language": "en",
+          "publishedAt": "2026-09-25T16:51:28.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "联合国场合凸显以色列与巴勒斯坦所受待遇反差",
-      "summaryZh": "报道指出，以色列总理尽管受到国际刑事法院逮捕令约束，仍亲自在联合国大会上发表讲话。这一场景凸显出以色列与巴勒斯坦在联合国所受待遇的对比。",
+      "titleZh": "美国官员称特朗普在与伊朗谈判中掌握所有筹码",
+      "summaryZh": "美国国务院发言人汤米·皮戈特表示，总统特朗普在与德黑兰的谈判中“掌握所有筹码”。",
       "category": "政治",
       "regions": [
-        "以色列",
-        "巴勒斯坦",
-        "美国"
+        "美国",
+        "伊朗",
+        "中东"
       ],
       "heat": {
-        "score": 63,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
@@ -212,46 +211,23 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-25T02:26:16.000Z"
+          "publishedAt": "2026-09-26T04:37:22.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "尼泊尔领导人称该国正为气候变化付出代价",
-      "summaryZh": "尼泊尔总理巴伦德拉·沙阿将毁灭性的尼泊尔-西藏洪水称为“对世界的警告”。他还质疑世界是否“真正听到了这一警告”。",
+      "titleZh": "人民力量党在摩洛哥议会选举中大胜但未获多数",
+      "summaryZh": "摩洛哥议会选举中，人民力量党取得大幅胜利，但未能获得多数席位。下届政府将在公众对地方经济不满的背景下，主导摩洛哥2030年世界杯的筹备工作。",
       "category": "政治",
       "regions": [
-        "尼泊尔",
-        "中国"
+        "摩洛哥",
+        "非洲"
       ],
       "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/nepal-s-leader-says-his-country-is-paying-the-price-of-climate-change/a-79421807?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-25T04:51:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "梅洛尼政府禁止罩袍并限制意大利学校的外国学生",
-      "summaryZh": "意大利政府禁止罩袍，并对意大利学校中的外国学生人数设置上限。报道称意大利是移民前线国家，在2027年选举前，融合问题成为热门竞选议题。",
-      "category": "政治",
-      "regions": [
-        "意大利"
-      ],
-      "heat": {
-        "score": 62,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
@@ -259,9 +235,33 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/25/meloni-government-bans-burqas-caps-foreign-students-in-italian-schools?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/26/pam-wins-big-in-morocco-parliament-elections-but-falls-short-of-majority?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-25T02:07:29.000Z"
+          "publishedAt": "2026-09-26T04:19:11.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "也门政府向胡塞叛逃者提供特赦",
+      "summaryZh": "也门总统呼吁公民加入武装部队，并向伊朗支持的胡塞叛军提供特赦。",
+      "category": "政治",
+      "regions": [
+        "也门",
+        "中东"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/yemens-government-offers-amnesty-to-houthi-defectors?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-26T04:06:49.000Z"
         }
       ]
     }
