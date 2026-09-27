@@ -1,201 +1,13 @@
 {
-  "generatedAt": "2026-09-26T05:06:14.477Z",
+  "generatedAt": "2026-09-27T05:24:05.016Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "OpenAI机器人介入多个美国政府机构网站",
-      "summaryZh": "OpenAI表示其机器人访问了美国人口普查局和美国证券交易委员会的公开数据。有报道称OpenAI系统出现异常并干预了美国政府网站。",
-      "category": "政治",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-26T02:50:56.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-          "language": "en",
-          "publishedAt": "2026-09-25T23:22:18.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "教皇警告不要因AI机器而“失去人性”",
-      "summaryZh": "教皇利奥十四世在周五访问法国第一天发出警告，称AI可能削弱人性。数千人聚集在巴黎，教皇在爱丽舍宫警告不要陷入“机器的天堂”。",
-      "category": "科技",
-      "regions": [
-        "法国",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 99,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-25T15:06:41.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-25T23:21:52.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "美国上诉法院维持将Anthropic列为供应链风险的决定",
-      "summaryZh": "美国上诉法院维持了对Anthropic作为供应链风险的认定。该消息在Hacker News上获得419分和735条评论。",
-      "category": "财经",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-          "language": "en",
-          "publishedAt": "2026-09-25T15:29:25.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "联合国大会第81届会议：非洲推动安理会改革为何仍未解决？",
-      "summaryZh": "非洲希望获得安理会常任席位和否决权，但各方仍未能达成一致。",
-      "category": "国际",
-      "regions": [
-        "非洲",
-        "全球"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/26/unga81-why-has-africas-security-council-reform-push-remained-unresolved?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-26T03:07:55.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "比利时获胜加剧意大利危机，世界杯重建在罗马停滞",
-      "summaryZh": "比利时在意大利以2-0获胜，欧国联揭幕战在几乎半空的罗马奥林匹克体育场进行。",
-      "category": "体育",
-      "regions": [
-        "意大利",
-        "比利时"
-      ],
-      "heat": {
-        "score": 55,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-25T21:20:05.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "白宫禁止CNN登上空军一号随特朗普出访",
-      "summaryZh": "白宫禁止CNN记者随总统特朗普即将到来的田纳西州之行。Real America's Voice News取代CNN登上空军一号，此举加剧了特朗普政府与美国媒体的紧张关系。",
-      "category": "政治",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-26T04:27:07.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-26T03:52:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "Show HN：Ekselio – 面向金融工作流的Loveable（本地优先）",
-      "summaryZh": "Hacker News上出现两个Show HN项目：Ekselio（面向金融工作流，本地优先）和Doom or Bloom（映射AI世界观）。Ekselio获得12分和2条评论，后者获得56分和43条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 76,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.gptbeyond.com/try?home=1",
-          "language": "en",
-          "publishedAt": "2026-09-25T21:09:28.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.doom-or-bloom.com",
-          "language": "en",
-          "publishedAt": "2026-09-25T16:51:28.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "美国官员称特朗普在与伊朗谈判中掌握所有筹码",
-      "summaryZh": "美国国务院发言人汤米·皮戈特表示，总统特朗普在与德黑兰的谈判中“掌握所有筹码”。",
+      "titleZh": "特朗普拒绝伊朗提出的七天内重开霍尔木兹海峡方案",
+      "summaryZh": "美国总统特朗普拒绝了伊朗提出的七天内重开霍尔木兹海峡并结束敌对状态的方案，称该协议“不可接受”。伊朗外长确认了特朗普的表态，同时表示德黑兰正在等待调解方的“最终意见”。相关报道来自 BBC World、Al Jazeera 和 DW 三家媒体。",
       "category": "政治",
       "regions": [
         "美国",
@@ -203,65 +15,251 @@
         "中东"
       ],
       "heat": {
-        "score": 64,
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 2,
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-26T22:15:59.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-27T00:00:00.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/trump-rejects-iran-proposal-to-reopen-strait-of-hormuz/a-79444893?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-26T16:16:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "爱尔兰队将在对阵以色列的比赛中佩戴黑纱",
+      "summaryZh": "爱尔兰共和国球员计划在对阵以色列的比赛中佩戴黑纱，以“纪念加沙冲突中所有失去的生命”。这场在匈牙利举行的国家联赛比赛前，球队推迟的新闻发布会已改在英国时间 14:30 举行，有活动人士呼吁球队抵制该场比赛。",
+      "category": "体育",
+      "regions": [
+        "爱尔兰",
+        "以色列",
+        "匈牙利"
+      ],
+      "heat": {
+        "score": 68,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-26T19:59:00.000Z"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-26T10:44:37.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "旧金山湾区 AI 派对场所被指存在性骚扰与强奸",
+      "summaryZh": "Hacker News 上出现一则帖子，称湾区 AI 派对场所存在性骚扰和强奸指控，该帖获得 24 点和 4 条评论。帖子由用户 lukewarm707 发布。",
+      "category": "科技",
+      "regions": [
+        "美国",
+        "旧金山湾区"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/",
+          "language": "en",
+          "publishedAt": "2026-09-26T22:54:01.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "特朗普称将撤销拜登时期的美国汽车燃油经济性规定",
+      "summaryZh": "美国总统特朗普表示，他将撤销拜登时期针对汽车的燃油经济性规定。他还称将结束引导消费者购买电动汽车的所谓“电动车强制令”。",
+      "category": "财经",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-26T04:37:22.000Z"
+          "publishedAt": "2026-09-26T21:51:56.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "德国外长瓦德富尔在联大期间会见拉夫罗夫",
+      "summaryZh": "德国外长瓦德富尔在联合国大会期间与俄罗斯外长拉夫罗夫会面。这是自 2022 年 2 月俄罗斯发动入侵乌克兰以来双方首次举行此类会晤。",
+      "category": "国际",
+      "regions": [
+        "德国",
+        "俄罗斯",
+        "美国"
+      ],
+      "heat": {
+        "score": 51,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/germany-s-fm-wadephul-meets-lavrov-on-unga-sidelines/live-79366211?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-26T15:17:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "国家联赛：西班牙凭替补在温布利逆转英格兰",
+      "summaryZh": "9 月 26 日国家联赛首轮焦点战中，西班牙在温布利先占优势后被英格兰领先，最终以 3 比 2 逆转取胜。替补登场的巴埃纳和奥亚萨瓦尔进球，英格兰队长哈里·凯恩罚失点球，西班牙将不败纪录延续至 39 场并登上小组榜首。",
+      "category": "体育",
+      "regions": [
+        "西班牙",
+        "英国",
+        "英格兰"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/sports/20260926-ligue-des-nations-l-espagne-renverse-l-angleterre-%C3%A0-wembley-gr%C3%A2ce-%C3%A0-ses-rempla%C3%A7ants",
+          "language": "fr",
+          "publishedAt": "2026-09-26T20:47:44.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "外交最密集的一周是否推动结束美伊战争？",
+      "summaryZh": "联合国大会落幕，外交成果喜忧参半。报道探讨了这轮外交努力是否在结束美伊战争方面取得进展。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "伊朗",
+        "联合国"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-27T01:59:17.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "委内瑞拉在后马杜罗谈判后释放 39 名政治犯",
+      "summaryZh": "委内瑞拉在过渡政府与反对派举行第二轮谈判后释放了 39 名政治犯。报道未提供更多细节。",
+      "category": "政治",
+      "regions": [
+        "委内瑞拉"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/27/venezuela-frees-39-political-prisoners-after-post-maduro-talks?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-27T01:42:46.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "人民力量党在摩洛哥议会选举中大胜但未获多数",
-      "summaryZh": "摩洛哥议会选举中，人民力量党取得大幅胜利，但未能获得多数席位。下届政府将在公众对地方经济不满的背景下，主导摩洛哥2030年世界杯的筹备工作。",
+      "titleZh": "OpenAI 机器人被指干扰多个美国政府机构网站",
+      "summaryZh": "Hacker News 上出现一则帖子，称 OpenAI 的机器人干扰了多个美国政府机构的网站，该帖获得 111 点和 171 条评论。帖子由用户 Betelbuddy 发布。",
       "category": "政治",
       "regions": [
-        "摩洛哥",
-        "非洲"
+        "美国"
       ],
       "heat": {
-        "score": 64,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/26/pam-wins-big-in-morocco-parliament-elections-but-falls-short-of-majority?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
           "language": "en",
-          "publishedAt": "2026-09-26T04:19:11.000Z"
+          "publishedAt": "2026-09-26T14:03:54.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "也门政府向胡塞叛逃者提供特赦",
-      "summaryZh": "也门总统呼吁公民加入武装部队，并向伊朗支持的胡塞叛军提供特赦。",
+      "titleZh": "白宫阻止 CNN 随特朗普乘坐空军一号",
+      "summaryZh": "白宫未允许 CNN 随美国总统特朗普乘坐空军一号。CNN 原定于周六随特朗普前往田纳西州的行程同行。",
       "category": "政治",
       "regions": [
-        "也门",
-        "中东"
+        "美国"
       ],
       "heat": {
-        "score": 64,
+        "score": 59,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/yemens-government-offers-amnesty-to-houthi-defectors?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-26T04:06:49.000Z"
+          "publishedAt": "2026-09-26T19:16:14.000Z"
         }
       ]
     }
