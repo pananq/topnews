@@ -1,88 +1,79 @@
 {
-  "generatedAt": "2026-09-27T05:24:05.016Z",
+  "generatedAt": "2026-09-28T05:30:57.564Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普拒绝伊朗提出的七天内重开霍尔木兹海峡方案",
-      "summaryZh": "美国总统特朗普拒绝了伊朗提出的七天内重开霍尔木兹海峡并结束敌对状态的方案，称该协议“不可接受”。伊朗外长确认了特朗普的表态，同时表示德黑兰正在等待调解方的“最终意见”。相关报道来自 BBC World、Al Jazeera 和 DW 三家媒体。",
+      "titleZh": "塞尔维亚总统武契奇辞职，将竞选总理",
+      "summaryZh": "塞尔维亚总统亚历山大·武契奇已辞去总统职务，将带领执政党参加提前举行的议会选举。他计划竞选总理一职，选举预计下月举行。",
       "category": "政治",
       "regions": [
-        "美国",
-        "伊朗",
-        "中东"
+        "塞尔维亚",
+        "欧洲"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 3,
+        "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-26T22:15:59.000Z"
-        },
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/28-09-sv-serbias-vucic-resigns-to-run-for-pm-sb?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-27T00:00:00.000Z"
+          "publishedAt": "2026-09-28T04:50:46.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/trump-rejects-iran-proposal-to-reopen-strait-of-hormuz/a-79444893?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/serbian-president-aleksandar-vucic-announces-resignation/a-79450358?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-26T16:16:00.000Z"
+          "publishedAt": "2026-09-27T19:32:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "爱尔兰队将在对阵以色列的比赛中佩戴黑纱",
-      "summaryZh": "爱尔兰共和国球员计划在对阵以色列的比赛中佩戴黑纱，以“纪念加沙冲突中所有失去的生命”。这场在匈牙利举行的国家联赛比赛前，球队推迟的新闻发布会已改在英国时间 14:30 举行，有活动人士呼吁球队抵制该场比赛。",
-      "category": "体育",
+      "titleZh": "也门塔伊兹市场遭致命空袭",
+      "summaryZh": "也门塔伊兹市一个市场遭到空袭，造成至少7人死亡、40人受伤。胡塞武装控制的卫生部指责沙特空军犯下“令人发指的罪行”，并誓言报复，但该说法无法独立核实。",
+      "category": "财经",
       "regions": [
-        "爱尔兰",
-        "以色列",
-        "匈牙利"
+        "也门",
+        "中东"
       ],
       "heat": {
-        "score": 68,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 98,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-26T19:59:00.000Z"
+          "publishedAt": "2026-09-27T21:00:55.000Z"
         },
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/yemen-houthis-report-deadly-saudi-strikes-on-taiz-market/a-79450102?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-26T10:44:37.000Z"
+          "publishedAt": "2026-09-27T17:51:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "旧金山湾区 AI 派对场所被指存在性骚扰与强奸",
-      "summaryZh": "Hacker News 上出现一则帖子，称湾区 AI 派对场所存在性骚扰和强奸指控，该帖获得 24 点和 4 条评论。帖子由用户 lukewarm707 发布。",
+      "titleZh": "科技社区讨论AI代理：TinyAIArena与“无流氓AI代理”",
+      "summaryZh": "Hacker News上出现两个关于AI代理的热门讨论：一是展示项目TinyAIArena，可观看AI代理竞争；另一篇题为“没有‘流氓’AI代理”的文章获得352分和248条评论。TinyAIArena获得105分和41条评论。",
       "category": "科技",
       "regions": [
-        "美国",
-        "旧金山湾区"
+        "全球"
       ],
       "heat": {
-        "score": 60,
+        "score": 81,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -90,22 +81,31 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/",
+          "url": "https://tinyaiarena.com/",
           "language": "en",
-          "publishedAt": "2026-09-26T22:54:01.000Z"
+          "publishedAt": "2026-09-27T15:51:28.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "language": "en",
+          "publishedAt": "2026-09-27T16:19:46.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "特朗普称将撤销拜登时期的美国汽车燃油经济性规定",
-      "summaryZh": "美国总统特朗普表示，他将撤销拜登时期针对汽车的燃油经济性规定。他还称将结束引导消费者购买电动汽车的所谓“电动车强制令”。",
-      "category": "财经",
+      "titleZh": "爱尔兰队佩戴黑纱3-0战胜以色列队声援加沙",
+      "summaryZh": "在匈牙利举行的一场欧国联比赛中，爱尔兰队以3-0战胜以色列队。爱尔兰球员佩戴黑色臂章支持巴勒斯坦，赛前低头并拒绝握手。",
+      "category": "体育",
       "regions": [
-        "美国"
+        "爱尔兰",
+        "以色列",
+        "匈牙利",
+        "巴勒斯坦"
       ],
       "heat": {
-        "score": 58,
+        "score": 71,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -113,49 +113,136 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-26T21:51:56.000Z"
+          "publishedAt": "2026-09-28T01:39:02.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-27T21:41:59.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "德国外长瓦德富尔在联大期间会见拉夫罗夫",
-      "summaryZh": "德国外长瓦德富尔在联合国大会期间与俄罗斯外长拉夫罗夫会面。这是自 2022 年 2 月俄罗斯发动入侵乌克兰以来双方首次举行此类会晤。",
+      "titleZh": "尽管停火，以色列继续空袭黎巴嫩南部",
+      "summaryZh": "一架以色列阿帕奇直升机袭击了黎巴嫩南部迈法敦附近的一个商业中心。尽管有停火协议，以色列的袭击仍在继续。",
       "category": "国际",
       "regions": [
-        "德国",
-        "俄罗斯",
-        "美国"
+        "黎巴嫩",
+        "以色列",
+        "中东"
       ],
       "heat": {
-        "score": 51,
+        "score": 56,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/germany-s-fm-wadephul-meets-lavrov-on-unga-sidelines/live-79366211?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-26T15:17:00.000Z"
+          "publishedAt": "2026-09-27T20:57:38.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "国家联赛：西班牙凭替补在温布利逆转英格兰",
-      "summaryZh": "9 月 26 日国家联赛首轮焦点战中，西班牙在温布利先占优势后被英格兰领先，最终以 3 比 2 逆转取胜。替补登场的巴埃纳和奥亚萨瓦尔进球，英格兰队长哈里·凯恩罚失点球，西班牙将不败纪录延续至 39 场并登上小组榜首。",
-      "category": "体育",
+      "titleZh": "AI中的快思考与慢思考：元认知的作用",
+      "summaryZh": "Hacker News上讨论AI元认知的文章《AI中的快思考与慢思考》获得36分和2条评论；另一篇《AI的寒武纪大爆发》获得4分和3条评论。",
+      "category": "科技",
       "regions": [
-        "西班牙",
-        "英国",
-        "英格兰"
+        "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 78,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://arxiv.org/abs/2110.01834",
+          "language": "en",
+          "publishedAt": "2026-09-28T03:23:53.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://debarshibasak.github.io/readables/blogs/cambrian-explosion",
+          "language": "en",
+          "publishedAt": "2026-09-28T00:25:57.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "BBC深入也门前线城市，胡塞武装争夺控制权",
+      "summaryZh": "BBC罕见获准进入也门冲突地区，随亲政府士兵前往前线报道。胡塞武装正在该前线城市争夺控制权。",
+      "category": "政治",
+      "regions": [
+        "也门",
+        "中东"
+      ],
+      "heat": {
+        "score": 76,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-27T21:16:31.000Z"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-27T21:00:06.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "被欠十亿美元英伟达股票",
+      "summaryZh": "Hacker News上一则关于“被欠十亿美元英伟达股票”的帖子引发热议，获得341分和156条评论。",
+      "category": "财经",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 69,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://colo.to/nvidia-stock-narrative.html",
+          "language": "en",
+          "publishedAt": "2026-09-28T02:05:13.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "塞尔维亚总统武契奇辞职，为提前选举铺路",
+      "summaryZh": "塞尔维亚民粹主义总统亚历山大·武契奇周日宣布辞职，结束其第二个也是最后一个五年任期，为提前举行总统选举铺平道路。",
+      "category": "政治",
+      "regions": [
+        "塞尔维亚",
+        "欧洲"
+      ],
+      "heat": {
+        "score": 67,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -163,70 +250,23 @@
       "sources": [
         {
           "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/sports/20260926-ligue-des-nations-l-espagne-renverse-l-angleterre-%C3%A0-wembley-gr%C3%A2ce-%C3%A0-ses-rempla%C3%A7ants",
+          "url": "https://www.france24.com/fr/europe/20260927-le-pr%C3%A9sident-serbe-aleksandar-vucic-d%C3%A9missionne-et-ouvre-la-voie-%C3%A0-des-%C3%A9lections-anticip%C3%A9es",
           "language": "fr",
-          "publishedAt": "2026-09-26T20:47:44.000Z"
+          "publishedAt": "2026-09-27T18:24:18.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "外交最密集的一周是否推动结束美伊战争？",
-      "summaryZh": "联合国大会落幕，外交成果喜忧参半。报道探讨了这轮外交努力是否在结束美伊战争方面取得进展。",
+      "rank": 10,
+      "titleZh": "OpenAI在代理探测美国政府网站后暂停最新模型训练",
+      "summaryZh": "Hacker News上一则消息称，在AI代理探测美国政府网站后，OpenAI暂停了最新模型的训练。该帖子获得16分和1条评论。",
       "category": "政治",
       "regions": [
-        "美国",
-        "伊朗",
-        "联合国"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-27T01:59:17.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "委内瑞拉在后马杜罗谈判后释放 39 名政治犯",
-      "summaryZh": "委内瑞拉在过渡政府与反对派举行第二轮谈判后释放了 39 名政治犯。报道未提供更多细节。",
-      "category": "政治",
-      "regions": [
-        "委内瑞拉"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/27/venezuela-frees-39-political-prisoners-after-post-maduro-talks?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-27T01:42:46.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "OpenAI 机器人被指干扰多个美国政府机构网站",
-      "summaryZh": "Hacker News 上出现一则帖子，称 OpenAI 的机器人干扰了多个美国政府机构的网站，该帖获得 111 点和 171 条评论。帖子由用户 Betelbuddy 发布。",
-      "category": "政治",
-      "regions": [
+        "全球",
         "美国"
       ],
       "heat": {
-        "score": 61,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -234,32 +274,9 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
           "language": "en",
-          "publishedAt": "2026-09-26T14:03:54.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "白宫阻止 CNN 随特朗普乘坐空军一号",
-      "summaryZh": "白宫未允许 CNN 随美国总统特朗普乘坐空军一号。CNN 原定于周六随特朗普前往田纳西州的行程同行。",
-      "category": "政治",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 59,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-26T19:16:14.000Z"
+          "publishedAt": "2026-09-28T01:20:50.000Z"
         }
       ]
     }
