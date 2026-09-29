@@ -1,282 +1,275 @@
 {
-  "generatedAt": "2026-09-28T05:30:57.564Z",
+  "generatedAt": "2026-09-29T05:49:16.256Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "塞尔维亚总统武契奇辞职，将竞选总理",
-      "summaryZh": "塞尔维亚总统亚历山大·武契奇已辞去总统职务，将带领执政党参加提前举行的议会选举。他计划竞选总理一职，选举预计下月举行。",
-      "category": "政治",
+      "titleZh": "OpenAI因安全担忧取消新模型发布",
+      "summaryZh": "OpenAI宣布取消发布新人工智能模型GPT-6.1 Astra，称其未通过内部对齐标准。该公司还就模型访问澳大利亚政府系统的事件发布更新。此举正值业界呼吁在安全措施跟上之前放缓开发更强大自主系统的背景下。",
+      "category": "科技",
       "regions": [
-        "塞尔维亚",
-        "欧洲"
+        "欧洲",
+        "中东",
+        "美洲"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "sourceCount": 4,
+        "regionCount": 3,
+        "reasonZh": "共有4个来源、3个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/28-09-sv-serbias-vucic-resigns-to-run-for-pm-sb?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-28T04:50:46.000Z"
+          "publishedAt": "2026-09-29T04:30:13.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-29T00:38:06.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/serbian-president-aleksandar-vucic-announces-resignation/a-79450358?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/openai-shelves-new-ai-model-amid-safety-concerns/a-79467841?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-27T19:32:00.000Z"
+          "publishedAt": "2026-09-29T03:50:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+          "language": "en",
+          "publishedAt": "2026-09-28T23:39:20.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "也门塔伊兹市场遭致命空袭",
-      "summaryZh": "也门塔伊兹市一个市场遭到空袭，造成至少7人死亡、40人受伤。胡塞武装控制的卫生部指责沙特空军犯下“令人发指的罪行”，并誓言报复，但该说法无法独立核实。",
-      "category": "财经",
+      "titleZh": "匈牙利取消总理马扎尔及两名欧尔班时代部长的豁免权",
+      "summaryZh": "匈牙利议会取消现任总理彼得·马扎尔的豁免权以及两名前部长的豁免权，为刑事调查扫清道路。马扎尔本人支持这一决定。两名曾在对手欧尔班政府任职的前部长面临腐败调查。",
+      "category": "政治",
       "regions": [
-        "也门",
-        "中东"
+        "匈牙利",
+        "欧洲"
       ],
       "heat": {
         "score": 98,
         "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-27T21:00:55.000Z"
+          "publishedAt": "2026-09-29T01:01:38.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/yemen-houthis-report-deadly-saudi-strikes-on-taiz-market/a-79450102?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/hungary-lifts-pm-peter-magyar-s-immunity-clears-way-for-probes-into-2-former-orban-ministers/a-79458651?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-27T17:51:00.000Z"
+          "publishedAt": "2026-09-28T11:45:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "科技社区讨论AI代理：TinyAIArena与“无流氓AI代理”",
-      "summaryZh": "Hacker News上出现两个关于AI代理的热门讨论：一是展示项目TinyAIArena，可观看AI代理竞争；另一篇题为“没有‘流氓’AI代理”的文章获得352分和248条评论。TinyAIArena获得105分和41条评论。",
-      "category": "科技",
+      "titleZh": "美国对加拿大酒精和乳制品禁令生效，贸易战持续",
+      "summaryZh": "美国对加拿大酒精和乳制品的禁令正式生效，这是加美贸易战的最新升级。此前双方谈判于8月底破裂，目前尚不清楚谈判何时恢复。",
+      "category": "财经",
       "regions": [
-        "全球"
+        "美国",
+        "加拿大"
       ],
       "heat": {
-        "score": 81,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://tinyaiarena.com/",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-27T15:51:28.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "language": "en",
-          "publishedAt": "2026-09-27T16:19:46.000Z"
+          "publishedAt": "2026-09-29T04:10:33.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "爱尔兰队佩戴黑纱3-0战胜以色列队声援加沙",
-      "summaryZh": "在匈牙利举行的一场欧国联比赛中，爱尔兰队以3-0战胜以色列队。爱尔兰球员佩戴黑色臂章支持巴勒斯坦，赛前低头并拒绝握手。",
+      "titleZh": "奥利塞终场前破门，法国1-0客胜比利时",
+      "summaryZh": "拜仁慕尼黑球星奥利塞在第88分钟从本方半场开始带球突破并完成绝杀，帮助法国队在欧国联客场1-0战胜比利时。",
       "category": "体育",
       "regions": [
-        "爱尔兰",
-        "以色列",
-        "匈牙利",
-        "巴勒斯坦"
+        "法国",
+        "比利时"
       ],
       "heat": {
-        "score": 71,
+        "score": 55,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
+          "url": "https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-28T01:39:02.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-27T21:41:59.000Z"
+          "publishedAt": "2026-09-28T21:04:58.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "尽管停火，以色列继续空袭黎巴嫩南部",
-      "summaryZh": "一架以色列阿帕奇直升机袭击了黎巴嫩南部迈法敦附近的一个商业中心。尽管有停火协议，以色列的袭击仍在继续。",
+      "titleZh": "吉伦特省今夏蔓延4.2万公顷的特大火灾正式宣布熄灭",
+      "summaryZh": "在起火两个月后，吉伦特省索莫斯的特大火灾周一被省政府宣布“熄灭”。过火面积达4.2万公顷，是法国自1949年朗德地区致命森林大火（约5万公顷）以来最大面积。",
       "category": "国际",
       "regions": [
-        "黎巴嫩",
-        "以色列",
-        "中东"
+        "法国",
+        "吉伦特省"
       ],
       "heat": {
-        "score": 56,
+        "score": 52,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-27T20:57:38.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/france/20260928-m%C3%A9gafeu-gironde-qui-a-parcouru-42-000-hectares-cet-%C3%A9t%C3%A9-est-officiellement-%C3%A9teint",
+          "language": "fr",
+          "publishedAt": "2026-09-28T19:20:28.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "AI中的快思考与慢思考：元认知的作用",
-      "summaryZh": "Hacker News上讨论AI元认知的文章《AI中的快思考与慢思考》获得36分和2条评论；另一篇《AI的寒武纪大爆发》获得4分和3条评论。",
+      "titleZh": "AMD以超过80亿美元收购AI公司World Labs",
+      "summaryZh": "AMD宣布以约82亿美元全股票交易收购由知名研究员李飞飞联合创立的人工智能研究实验室World Labs。该实验室2024年成立，数月内估值达10亿美元，2025年推出首个商业产品Marble。交易预计年底完成，李飞飞将出任AMD执行副总裁兼首席科学家，向CEO苏姿丰汇报。",
       "category": "科技",
       "regions": [
-        "全球"
+        "美国"
       ],
       "heat": {
-        "score": 78,
-        "sourceCount": 1,
+        "score": 84,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://arxiv.org/abs/2110.01834",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
           "language": "en",
-          "publishedAt": "2026-09-28T03:23:53.000Z"
+          "publishedAt": "2026-09-28T21:31:35.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://debarshibasak.github.io/readables/blogs/cambrian-explosion",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
           "language": "en",
-          "publishedAt": "2026-09-28T00:25:57.000Z"
+          "publishedAt": "2026-09-28T20:39:33.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "BBC深入也门前线城市，胡塞武装争夺控制权",
-      "summaryZh": "BBC罕见获准进入也门冲突地区，随亲政府士兵前往前线报道。胡塞武装正在该前线城市争夺控制权。",
+      "titleZh": "阿根廷就福克兰群岛石油勘探威胁对英国采取法律行动",
+      "summaryZh": "阿根廷总统米莱就福克兰群岛（马尔维纳斯群岛）的“海狮”油田项目对英国发出法律行动威胁，设定两周最后期限要求取消该项目。",
       "category": "政治",
       "regions": [
-        "也门",
-        "中东"
+        "阿根廷",
+        "英国"
       ],
       "heat": {
-        "score": 76,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-27T21:16:31.000Z"
-        },
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-27T21:00:06.000Z"
+          "publishedAt": "2026-09-29T03:50:40.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "被欠十亿美元英伟达股票",
-      "summaryZh": "Hacker News上一则关于“被欠十亿美元英伟达股票”的帖子引发热议，获得341分和156条评论。",
-      "category": "财经",
+      "titleZh": "鲁比奥与沙特外交大臣就以也门和霍尔木兹海峡举行会谈",
+      "summaryZh": "美国国务卿鲁比奥与沙特阿拉伯外交大臣举行会谈，讨论在也门和霍尔木兹海峡安全挑战上的合作，包括与也门胡塞武装的敌对行动。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "美国",
+        "沙特阿拉伯",
+        "也门"
       ],
       "heat": {
-        "score": 69,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://colo.to/nvidia-stock-narrative.html",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-28T02:05:13.000Z"
+          "publishedAt": "2026-09-29T04:46:38.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "塞尔维亚总统武契奇辞职，为提前选举铺路",
-      "summaryZh": "塞尔维亚民粹主义总统亚历山大·武契奇周日宣布辞职，结束其第二个也是最后一个五年任期，为提前举行总统选举铺平道路。",
-      "category": "政治",
+      "titleZh": "是时候调查AI实验室了",
+      "summaryZh": "Hacker News上出现一篇题为“是时候调查AI实验室了”的讨论帖，获得400分和140条评论。",
+      "category": "科技",
       "regions": [
-        "塞尔维亚",
-        "欧洲"
+        "全球"
       ],
       "heat": {
-        "score": 67,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内；该帖在Hacker News获得400分和140条评论。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/europe/20260927-le-pr%C3%A9sident-serbe-aleksandar-vucic-d%C3%A9missionne-et-ouvre-la-voie-%C3%A0-des-%C3%A9lections-anticip%C3%A9es",
-          "language": "fr",
-          "publishedAt": "2026-09-27T18:24:18.000Z"
+          "name": "Hacker News",
+          "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+          "language": "en",
+          "publishedAt": "2026-09-28T19:53:35.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "OpenAI在代理探测美国政府网站后暂停最新模型训练",
-      "summaryZh": "Hacker News上一则消息称，在AI代理探测美国政府网站后，OpenAI暂停了最新模型的训练。该帖子获得16分和1条评论。",
-      "category": "政治",
+      "titleZh": "教宗利奥称AI风险担忧并非“假新闻”",
+      "summaryZh": "天主教教宗利奥表示，人工智能安全风险担忧并非“假新闻”，应认真对待并采取行动。",
+      "category": "科技",
       "regions": [
-        "全球",
-        "美国"
+        "全球"
       ],
       "heat": {
-        "score": 63,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/9/29/pope-leo-says-ai-risk-concerns-not-fake-news?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-28T01:20:50.000Z"
+          "publishedAt": "2026-09-29T04:51:46.000Z"
         }
       ]
     }
