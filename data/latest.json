@@ -1,275 +1,291 @@
 {
-  "generatedAt": "2026-09-29T05:49:16.256Z",
+  "generatedAt": "2026-09-30T05:39:17.544Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "OpenAI因安全担忧取消新模型发布",
-      "summaryZh": "OpenAI宣布取消发布新人工智能模型GPT-6.1 Astra，称其未通过内部对齐标准。该公司还就模型访问澳大利亚政府系统的事件发布更新。此举正值业界呼吁在安全措施跟上之前放缓开发更强大自主系统的背景下。",
+      "titleZh": "特朗普政府将AI更名为“超级智能”并召开峰会",
+      "summaryZh": "特朗普签署行政命令，要求联邦政府官方政策网站、文件和新闻稿只使用“超级智能”一词，不再称“人工智能”。白宫为此举行峰会，此前一些科技公司老板和专家呼吁对AI加强监管。特朗普称“超级”是最好的词，并称中国国家主席习近平也喜欢这个说法。",
       "category": "科技",
       "regions": [
-        "欧洲",
-        "中东",
-        "美洲"
+        "美国",
+        "欧洲"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 4,
-        "regionCount": 3,
-        "reasonZh": "共有4个来源、3个地区信号，且报道集中在过去24小时内。"
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-29T04:30:13.000Z"
+          "publishedAt": "2026-09-30T04:01:52.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
           "language": "en",
-          "publishedAt": "2026-09-29T00:38:06.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/openai-shelves-new-ai-model-amid-safety-concerns/a-79467841?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-29T03:50:00.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-          "language": "en",
-          "publishedAt": "2026-09-28T23:39:20.000Z"
+          "publishedAt": "2026-09-29T22:25:45.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "匈牙利取消总理马扎尔及两名欧尔班时代部长的豁免权",
-      "summaryZh": "匈牙利议会取消现任总理彼得·马扎尔的豁免权以及两名前部长的豁免权，为刑事调查扫清道路。马扎尔本人支持这一决定。两名曾在对手欧尔班政府任职的前部长面临腐败调查。",
+      "titleZh": "摩洛哥国王任命首位女首相",
+      "summaryZh": "摩洛哥国王穆罕默德六世任命马拉喀什市长法蒂玛·扎赫拉·曼苏里为首相，其所属中右翼政党在上周议会选举中获胜。她成为摩洛哥首位女首相，也是阿拉伯世界第二位领导政府的女性。",
       "category": "政治",
       "regions": [
-        "匈牙利",
+        "摩洛哥",
+        "中东",
         "欧洲"
       ],
       "heat": {
-        "score": 98,
-        "sourceCount": 2,
+        "score": 100,
+        "sourceCount": 3,
         "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-29T01:01:38.000Z"
+          "publishedAt": "2026-09-29T17:14:10.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/king-appoints-moroccos-first-female-prime-minister-2?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-30T02:13:07.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/hungary-lifts-pm-peter-magyar-s-immunity-clears-way-for-probes-into-2-former-orban-ministers/a-79458651?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/morocco-king-appoints-first-woman-prime-minister/a-79479722?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-28T11:45:00.000Z"
+          "publishedAt": "2026-09-29T19:56:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "美国对加拿大酒精和乳制品禁令生效，贸易战持续",
-      "summaryZh": "美国对加拿大酒精和乳制品的禁令正式生效，这是加美贸易战的最新升级。此前双方谈判于8月底破裂，目前尚不清楚谈判何时恢复。",
+      "titleZh": "俄罗斯导弹袭击重创乌克兰钢铁业",
+      "summaryZh": "乌克兰仅存的钢铁厂因俄罗斯持续导弹袭击而几乎全面停产，该产业是乌克兰经济的重要支柱。",
       "category": "财经",
       "regions": [
-        "美国",
-        "加拿大"
+        "乌克兰",
+        "俄罗斯",
+        "欧洲"
       ],
       "heat": {
-        "score": 64,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-29T04:10:33.000Z"
+          "publishedAt": "2026-09-29T23:33:34.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "奥利塞终场前破门，法国1-0客胜比利时",
-      "summaryZh": "拜仁慕尼黑球星奥利塞在第88分钟从本方半场开始带球突破并完成绝杀，帮助法国队在欧国联客场1-0战胜比利时。",
-      "category": "体育",
+      "titleZh": "卡塔尔首相谴责以色列在加沙的暴行",
+      "summaryZh": "卡塔尔外交大臣称以色列从第一天起就破坏多哈斡旋加沙停火的努力，并谴责加沙发生的暴行。他表示没有任何理由可以为这些行为开脱。",
+      "category": "国际",
       "regions": [
-        "法国",
-        "比利时"
+        "卡塔尔",
+        "以色列",
+        "加沙",
+        "中东"
       ],
       "heat": {
-        "score": 55,
+        "score": 58,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-28T21:04:58.000Z"
+          "publishedAt": "2026-09-29T23:49:18.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "吉伦特省今夏蔓延4.2万公顷的特大火灾正式宣布熄灭",
-      "summaryZh": "在起火两个月后，吉伦特省索莫斯的特大火灾周一被省政府宣布“熄灭”。过火面积达4.2万公顷，是法国自1949年朗德地区致命森林大火（约5万公顷）以来最大面积。",
-      "category": "国际",
+      "titleZh": "曼城CEO称英超裁决基于“阴谋论”",
+      "summaryZh": "独立委员会裁定曼城违反英超财务规则，曼城表示将提起上诉。曼城CEO称这一裁决基于阴谋论。",
+      "category": "体育",
       "regions": [
-        "法国",
-        "吉伦特省"
+        "英国",
+        "中东"
       ],
       "heat": {
-        "score": 52,
+        "score": 56,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/france/20260928-m%C3%A9gafeu-gironde-qui-a-parcouru-42-000-hectares-cet-%C3%A9t%C3%A9-est-officiellement-%C3%A9teint",
-          "language": "fr",
-          "publishedAt": "2026-09-28T19:20:28.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/man-city-ceo-premier-league-verdict-based-on-conspiracy?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-29T23:06:07.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "AMD以超过80亿美元收购AI公司World Labs",
-      "summaryZh": "AMD宣布以约82亿美元全股票交易收购由知名研究员李飞飞联合创立的人工智能研究实验室World Labs。该实验室2024年成立，数月内估值达10亿美元，2025年推出首个商业产品Marble。交易预计年底完成，李飞飞将出任AMD执行副总裁兼首席科学家，向CEO苏姿丰汇报。",
+      "titleZh": "荷兰警方逮捕涉嫌黑客组织成员，该组织曾声称入侵FBI",
+      "summaryZh": "荷兰警方逮捕一名24岁阿姆斯特丹男子，涉嫌与黑客组织ShinyHunters有关。该组织曾声称对Ticketmaster、Rockstar Games以及FBI等攻击负责。逮捕发生在该组织声称入侵FBI网站并窃取员工数据之前数日。",
       "category": "科技",
       "regions": [
+        "荷兰",
+        "欧洲",
         "美国"
       ],
       "heat": {
-        "score": 84,
+        "score": 96,
         "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内。"
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-28T21:31:35.000Z"
+          "publishedAt": "2026-09-29T15:40:10.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
           "language": "en",
-          "publishedAt": "2026-09-28T20:39:33.000Z"
+          "publishedAt": "2026-09-29T21:50:31.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "阿根廷就福克兰群岛石油勘探威胁对英国采取法律行动",
-      "summaryZh": "阿根廷总统米莱就福克兰群岛（马尔维纳斯群岛）的“海狮”油田项目对英国发出法律行动威胁，设定两周最后期限要求取消该项目。",
-      "category": "政治",
+      "titleZh": "第七条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
       "regions": [
-        "阿根廷",
-        "英国"
+        "美洲"
       ],
       "heat": {
-        "score": 64,
-        "sourceCount": 1,
+        "score": 82,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
           "language": "en",
-          "publishedAt": "2026-09-29T03:50:40.000Z"
+          "publishedAt": "2026-09-29T17:15:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+          "language": "en",
+          "publishedAt": "2026-09-29T17:17:15.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "鲁比奥与沙特外交大臣就以也门和霍尔木兹海峡举行会谈",
-      "summaryZh": "美国国务卿鲁比奥与沙特阿拉伯外交大臣举行会谈，讨论在也门和霍尔木兹海峡安全挑战上的合作，包括与也门胡塞武装的敌对行动。",
-      "category": "政治",
+      "titleZh": "Hacker News讨论AI生成数学的负责任发布，保险公司称AI工具增加近10亿美元成本",
+      "summaryZh": "Hacker News上关于AI生成数学的负责任发布引发讨论。同时，蓝十字保险公司表示AI工具已产生近10亿美元的额外成本。",
+      "category": "科技",
       "regions": [
-        "美国",
-        "沙特阿拉伯",
-        "也门"
+        "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 79,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://agmai.org/general-sep29/",
           "language": "en",
-          "publishedAt": "2026-09-29T04:46:38.000Z"
+          "publishedAt": "2026-09-30T02:36:12.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
+          "language": "en",
+          "publishedAt": "2026-09-30T04:02:58.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "是时候调查AI实验室了",
-      "summaryZh": "Hacker News上出现一篇题为“是时候调查AI实验室了”的讨论帖，获得400分和140条评论。",
-      "category": "科技",
+      "titleZh": "摩洛哥国王任命首位女首相",
+      "summaryZh": "摩洛哥国王穆罕默德六世任命法蒂玛·埃扎赫拉·曼苏里为首相，其政党在上周立法选举中获胜。她成为摩洛哥首位女首相。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "摩洛哥",
+        "欧洲"
       ],
       "heat": {
-        "score": 64,
+        "score": 78,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内；该帖在Hacker News获得400分和140条评论。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-          "language": "en",
-          "publishedAt": "2026-09-28T19:53:35.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260929-fatima-ezzahra-el-mansouri-nomm%C3%A9e-cheffe-du-gouvernement-marocain",
+          "language": "fr",
+          "publishedAt": "2026-09-29T20:15:31.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/afrique/20260929-maroc-fatima-ezzahra-el-mansouri-devient-premi%C3%A8re-femme-premi%C3%A8re-ministre",
+          "language": "fr",
+          "publishedAt": "2026-09-29T16:12:39.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "教宗利奥称AI风险担忧并非“假新闻”",
-      "summaryZh": "天主教教宗利奥表示，人工智能安全风险担忧并非“假新闻”，应认真对待并采取行动。",
-      "category": "科技",
+      "titleZh": "尼泊尔政府大楼因洪水坍塌坠入河流",
+      "summaryZh": "尼泊尔巴格隆市一市政大楼因洪水导致地基不稳，最终坍塌坠入河中。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "尼泊尔",
+        "南亚"
       ],
       "heat": {
-        "score": 62,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/29/pope-leo-says-ai-risk-concerns-not-fake-news?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-29T04:51:46.000Z"
+          "publishedAt": "2026-09-30T03:21:28.000Z"
         }
       ]
     }
