@@ -1,186 +1,13 @@
 {
-  "generatedAt": "2026-09-30T05:39:17.544Z",
+  "generatedAt": "2026-10-01T06:03:43.309Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普政府将AI更名为“超级智能”并召开峰会",
-      "summaryZh": "特朗普签署行政命令，要求联邦政府官方政策网站、文件和新闻稿只使用“超级智能”一词，不再称“人工智能”。白宫为此举行峰会，此前一些科技公司老板和专家呼吁对AI加强监管。特朗普称“超级”是最好的词，并称中国国家主席习近平也喜欢这个说法。",
-      "category": "科技",
-      "regions": [
-        "美国",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-30T04:01:52.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-          "language": "en",
-          "publishedAt": "2026-09-29T22:25:45.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "摩洛哥国王任命首位女首相",
-      "summaryZh": "摩洛哥国王穆罕默德六世任命马拉喀什市长法蒂玛·扎赫拉·曼苏里为首相，其所属中右翼政党在上周议会选举中获胜。她成为摩洛哥首位女首相，也是阿拉伯世界第二位领导政府的女性。",
-      "category": "政治",
-      "regions": [
-        "摩洛哥",
-        "中东",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-29T17:14:10.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/king-appoints-moroccos-first-female-prime-minister-2?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-30T02:13:07.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/morocco-king-appoints-first-woman-prime-minister/a-79479722?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-09-29T19:56:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "俄罗斯导弹袭击重创乌克兰钢铁业",
-      "summaryZh": "乌克兰仅存的钢铁厂因俄罗斯持续导弹袭击而几乎全面停产，该产业是乌克兰经济的重要支柱。",
-      "category": "财经",
-      "regions": [
-        "乌克兰",
-        "俄罗斯",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-29T23:33:34.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "卡塔尔首相谴责以色列在加沙的暴行",
-      "summaryZh": "卡塔尔外交大臣称以色列从第一天起就破坏多哈斡旋加沙停火的努力，并谴责加沙发生的暴行。他表示没有任何理由可以为这些行为开脱。",
-      "category": "国际",
-      "regions": [
-        "卡塔尔",
-        "以色列",
-        "加沙",
-        "中东"
-      ],
-      "heat": {
-        "score": 58,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-29T23:49:18.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "曼城CEO称英超裁决基于“阴谋论”",
-      "summaryZh": "独立委员会裁定曼城违反英超财务规则，曼城表示将提起上诉。曼城CEO称这一裁决基于阴谋论。",
-      "category": "体育",
-      "regions": [
-        "英国",
-        "中东"
-      ],
-      "heat": {
-        "score": 56,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/man-city-ceo-premier-league-verdict-based-on-conspiracy?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-09-29T23:06:07.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "荷兰警方逮捕涉嫌黑客组织成员，该组织曾声称入侵FBI",
-      "summaryZh": "荷兰警方逮捕一名24岁阿姆斯特丹男子，涉嫌与黑客组织ShinyHunters有关。该组织曾声称对Ticketmaster、Rockstar Games以及FBI等攻击负责。逮捕发生在该组织声称入侵FBI网站并窃取员工数据之前数日。",
-      "category": "科技",
-      "regions": [
-        "荷兰",
-        "欧洲",
-        "美国"
-      ],
-      "heat": {
-        "score": 96,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-29T15:40:10.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
-          "language": "en",
-          "publishedAt": "2026-09-29T21:50:31.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "第七条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "titleZh": "Reddit因AI机器人限制Old Reddit访问并关闭RSS与公共API",
+      "summaryZh": "Reddit宣布将限制“Old Reddit”体验，要求用户登录并在过去六个月内使用过Old Reddit才能继续访问，以打击抓取和自动化流量。同时，Reddit将终止RSS订阅和公共API访问。",
       "category": "科技",
       "regions": [
         "美洲"
@@ -189,27 +16,125 @@
         "score": 82,
         "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有2个来源（The Verge、TechCrunch）、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+          "url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
           "language": "en",
-          "publishedAt": "2026-09-29T17:15:00.000Z"
+          "publishedAt": "2026-09-30T17:45:00.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+          "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
           "language": "en",
-          "publishedAt": "2026-09-29T17:17:15.000Z"
+          "publishedAt": "2026-09-30T17:45:00.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "Hacker News讨论AI生成数学的负责任发布，保险公司称AI工具增加近10亿美元成本",
-      "summaryZh": "Hacker News上关于AI生成数学的负责任发布引发讨论。同时，蓝十字保险公司表示AI工具已产生近10亿美元的额外成本。",
+      "rank": 2,
+      "titleZh": "普京显示无意停止战争，俄罗斯加大对乌克兰攻势",
+      "summaryZh": "俄罗斯总统普京将发表外交政策演讲，但所有迹象表明全面入侵将继续。",
+      "category": "政治",
+      "regions": [
+        "欧洲",
+        "俄罗斯",
+        "乌克兰"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源（BBC World）、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-09-30T23:10:06.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "2027年非洲杯：东非加紧备战",
+      "summaryZh": "肯尼亚、乌干达和坦桑尼亚只有不到九个月时间准备2027年非洲杯。",
+      "category": "体育",
+      "regions": [
+        "东非",
+        "肯尼亚",
+        "乌干达",
+        "坦桑尼亚"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源（半岛电视台）、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/1/afcon-2027-east-africa-races-to-get-tournament-ready?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-01T03:04:24.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "美联储监察机构澄清鲍威尔，特朗普重启攻击",
+      "summaryZh": "美国总统特朗普在美联储前主席鲍威尔被澄清在央行总部翻修案中无刑事违规后，重新对其发起攻击。",
+      "category": "财经",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 55,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源（法国24）、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260930-le-gendarme-de-la-fed-blanchit-jerome-powell-donald-trump-relance-les-hostilit%C3%A9s",
+          "language": "fr",
+          "publishedAt": "2026-09-30T21:12:35.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "加沙：NGO报告营地条件恶劣，称以色列移动“黄线”",
+      "summaryZh": "丹麦难民理事会指控以色列在加沙实施“长期流离失所政策”，称所谓的“黄线”正向西朝海岸移动，阻止许多人返回家园。",
+      "category": "国际",
+      "regions": [
+        "加沙",
+        "中东"
+      ],
+      "heat": {
+        "score": 55,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源（德国之声）、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-09-30T22:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "CHOMPI便携采样器硬件与软件现已开源",
+      "summaryZh": "CHOMPI便携采样器乐器宣布硬件和软件开源。另有Hacker News讨论“亲爱的软件制造商”。",
       "category": "科技",
       "regions": [
         "全球"
@@ -218,74 +143,116 @@
         "score": 79,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源（Hacker News）、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://agmai.org/general-sep29/",
+          "url": "https://www.chompiclub.com/opensource",
           "language": "en",
-          "publishedAt": "2026-09-30T02:36:12.000Z"
+          "publishedAt": "2026-09-30T17:42:13.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
+          "url": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
           "language": "en",
-          "publishedAt": "2026-09-30T04:02:58.000Z"
+          "publishedAt": "2026-09-30T19:45:38.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "CS240课程AI作弊回顾",
+      "summaryZh": "Hacker News上关于CS240课程AI作弊的回顾讨论，获得103分和91条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源（Hacker News）、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://turkeyland.net/thoughts/ai.php",
+          "language": "en",
+          "publishedAt": "2026-09-30T19:54:29.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "韩国出口因AI热潮创历史新高",
+      "summaryZh": "受半导体需求推动，韩国出口激增83.5%，首次突破1200亿美元。",
+      "category": "科技",
+      "regions": [
+        "韩国",
+        "亚洲"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源（半岛电视台）、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-01T04:08:15.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "摩洛哥国王任命首位女首相",
-      "summaryZh": "摩洛哥国王穆罕默德六世任命法蒂玛·埃扎赫拉·曼苏里为首相，其政党在上周立法选举中获胜。她成为摩洛哥首位女首相。",
+      "titleZh": "特朗普惊叹“以色列水管工”帮助降落迪拜航空航班",
+      "summaryZh": "美国总统特朗普讲述了一名“以色列水管工”帮助降落迪拜航空航班的故事。",
       "category": "政治",
       "regions": [
-        "摩洛哥",
-        "欧洲"
+        "美国",
+        "中东"
       ],
       "heat": {
-        "score": 78,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源（半岛电视台）、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260929-fatima-ezzahra-el-mansouri-nomm%C3%A9e-cheffe-du-gouvernement-marocain",
-          "language": "fr",
-          "publishedAt": "2026-09-29T20:15:31.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/afrique/20260929-maroc-fatima-ezzahra-el-mansouri-devient-premi%C3%A8re-femme-premi%C3%A8re-ministre",
-          "language": "fr",
-          "publishedAt": "2026-09-29T16:12:39.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-09-30T23:50:17.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "尼泊尔政府大楼因洪水坍塌坠入河流",
-      "summaryZh": "尼泊尔巴格隆市一市政大楼因洪水导致地基不稳，最终坍塌坠入河中。",
+      "titleZh": "非军事区地雷爆炸：首尔呼吁平壤对话",
+      "summaryZh": "韩国总统李在明在九月非军事区地雷爆炸导致三名韩国士兵受伤后，呼吁平壤“恢复信任并重启对话”。",
       "category": "政治",
       "regions": [
-        "尼泊尔",
-        "南亚"
+        "朝鲜半岛",
+        "韩国",
+        "朝鲜"
       ],
       "heat": {
-        "score": 64,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源（法国24）、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-09-30T03:21:28.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/asie-pacifique/20261001-explosions-dans-zone-demilitarisee-dmz-president-sud-coreen-joue-apaisement-dialogue-mines-soldats-cor%C3%A9e-nord-lee-jae-myung-blesse",
+          "language": "fr",
+          "publishedAt": "2026-10-01T03:01:58.000Z"
         }
       ]
     }
