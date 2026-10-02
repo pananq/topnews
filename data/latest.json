@@ -1,258 +1,276 @@
 {
-  "generatedAt": "2026-10-01T06:03:43.309Z",
+  "generatedAt": "2026-10-02T05:46:51.978Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "Reddit因AI机器人限制Old Reddit访问并关闭RSS与公共API",
-      "summaryZh": "Reddit宣布将限制“Old Reddit”体验，要求用户登录并在过去六个月内使用过Old Reddit才能继续访问，以打击抓取和自动化流量。同时，Reddit将终止RSS订阅和公共API访问。",
-      "category": "科技",
+      "titleZh": "乌克兰与韩国就朝鲜战俘问题争执升级",
+      "summaryZh": "韩国总统指责乌克兰披露战俘移交协议损害其立场，韩方要求乌克兰就两名朝鲜战俘的移交问题道歉。双方围绕战俘问题爆发外交风波。",
+      "category": "政治",
       "regions": [
-        "美洲"
+        "乌克兰",
+        "韩国",
+        "朝鲜"
       ],
       "heat": {
-        "score": 82,
+        "score": 100,
         "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有2个来源（The Verge、TechCrunch）、1个地区信号，且报道集中在过去24小时内。"
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-30T17:45:00.000Z"
+          "publishedAt": "2026-10-02T02:54:13.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+          "name": "DW",
+          "url": "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-09-30T17:45:00.000Z"
+          "publishedAt": "2026-10-02T04:40:00.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-01T13:57:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "普京显示无意停止战争，俄罗斯加大对乌克兰攻势",
-      "summaryZh": "俄罗斯总统普京将发表外交政策演讲，但所有迹象表明全面入侵将继续。",
-      "category": "政治",
+      "titleZh": "Aweb——面向AI智能体的通信",
+      "summaryZh": "Hacker News上，关于AI智能体通信的项目Aweb获得30点、24条评论；另一篇关于智能体AI身份管理的文章获得70点、23条评论。",
+      "category": "科技",
       "regions": [
-        "欧洲",
-        "俄罗斯",
-        "乌克兰"
+        "全球"
       ],
       "heat": {
-        "score": 61,
+        "score": 78,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源（BBC World）、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://aweb.ai",
           "language": "en",
-          "publishedAt": "2026-09-30T23:10:06.000Z"
+          "publishedAt": "2026-10-01T22:02:31.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+          "language": "en",
+          "publishedAt": "2026-10-01T15:11:10.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "2027年非洲杯：东非加紧备战",
-      "summaryZh": "肯尼亚、乌干达和坦桑尼亚只有不到九个月时间准备2027年非洲杯。",
-      "category": "体育",
+      "titleZh": "瑞士如何在五年内失去20%的冰川冰量",
+      "summaryZh": "瑞士冰川在五年内损失超过5%的冰量，威胁该国阿尔卑斯山经济。",
+      "category": "财经",
       "regions": [
-        "东非",
-        "肯尼亚",
-        "乌干达",
-        "坦桑尼亚"
+        "瑞士"
       ],
       "heat": {
-        "score": 58,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源（半岛电视台）、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/1/afcon-2027-east-africa-races-to-get-tournament-ready?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-01T03:04:24.000Z"
+          "publishedAt": "2026-10-02T04:59:58.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "美联储监察机构澄清鲍威尔，特朗普重启攻击",
-      "summaryZh": "美国总统特朗普在美联储前主席鲍威尔被澄清在央行总部翻修案中无刑事违规后，重新对其发起攻击。",
-      "category": "财经",
+      "titleZh": "以色列无人机在加沙杀死一名巴勒斯坦人，定居者在西岸杀死另一人",
+      "summaryZh": "自2025年10月“停火”开始以来，加沙已有1439名巴勒斯坦人被杀，5052人受伤。以色列无人机在加沙发动袭击，而以色列定居者在西岸造成另一名巴勒斯坦人死亡。",
+      "category": "国际",
       "regions": [
-        "美国"
+        "加沙",
+        "约旦河西岸",
+        "以色列"
       ],
       "heat": {
-        "score": 55,
+        "score": 57,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源（法国24）、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260930-le-gendarme-de-la-fed-blanchit-jerome-powell-donald-trump-relance-les-hostilit%C3%A9s",
-          "language": "fr",
-          "publishedAt": "2026-09-30T21:12:35.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-01T23:44:39.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "加沙：NGO报告营地条件恶劣，称以色列移动“黄线”",
-      "summaryZh": "丹麦难民理事会指控以色列在加沙实施“长期流离失所政策”，称所谓的“黄线”正向西朝海岸移动，阻止许多人返回家园。",
-      "category": "国际",
+      "titleZh": "法国对意大利：欧洲国家联赛——齐达内、奥利塞、埃斯波西托、球队与状态",
+      "summaryZh": "法国在新任主教练齐达内的首场主场比赛中对阵邻国意大利，姆巴佩因伤缺阵。",
+      "category": "体育",
       "regions": [
-        "加沙",
-        "中东"
+        "法国",
+        "意大利"
       ],
       "heat": {
-        "score": 55,
+        "score": 56,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源（德国之声）、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-30T22:10:00.000Z"
+          "publishedAt": "2026-10-01T22:31:30.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "CHOMPI便携采样器硬件与软件现已开源",
-      "summaryZh": "CHOMPI便携采样器乐器宣布硬件和软件开源。另有Hacker News讨论“亲爱的软件制造商”。",
-      "category": "科技",
+      "titleZh": "埃塞俄比亚与厄立特里亚因北部冲突升级而断交",
+      "summaryZh": "埃塞俄比亚军队在北部地区与叛军作战之际，厄立特里亚因亚的斯亚贝巴关闭其驻阿斯马拉大使馆而断绝外交关系。提格雷问题上的争执加剧了两国紧张。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "埃塞俄比亚",
+        "厄立特里亚",
+        "提格雷"
       ],
       "heat": {
-        "score": 79,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源（Hacker News）、1个地区信号，且报道集中在过去24小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.chompiclub.com/opensource",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-30T17:42:13.000Z"
+          "publishedAt": "2026-10-02T05:42:07.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/eritrea-severs-diplomatic-ties-with-ethiopia-in-row-over-tigray?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-30T19:45:38.000Z"
+          "publishedAt": "2026-10-02T04:40:14.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "CS240课程AI作弊回顾",
-      "summaryZh": "Hacker News上关于CS240课程AI作弊的回顾讨论，获得103分和91条评论。",
-      "category": "科技",
+      "titleZh": "关于巴西激烈的总统竞选，你需要知道的一切",
+      "summaryZh": "选民将很快在现任总统路易斯·伊纳西奥·卢拉·达席尔瓦和前总统雅伊尔·博索纳罗之子之间做出选择。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "巴西"
       ],
       "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源（Hacker News）、1个地区信号，且报道集中在过去24小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://turkeyland.net/thoughts/ai.php",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/everything-you-need-to-know-about-brazils-tight-presidential-race?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-09-30T19:54:29.000Z"
+          "publishedAt": "2026-10-02T02:07:49.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "language": "en",
+          "publishedAt": "2026-10-02T00:03:23.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "韩国出口因AI热潮创历史新高",
-      "summaryZh": "受半导体需求推动，韩国出口激增83.5%，首次突破1200亿美元。",
-      "category": "科技",
+      "titleZh": "新加坡政府运营的约会服务如何运作",
+      "summaryZh": "Hacker News上，关于新加坡政府运营的约会服务的文章获得65点、30条评论。",
+      "category": "政治",
       "regions": [
-        "韩国",
-        "亚洲"
+        "新加坡"
       ],
       "heat": {
-        "score": 61,
+        "score": 67,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源（半岛电视台）、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
           "language": "en",
-          "publishedAt": "2026-10-01T04:08:15.000Z"
+          "publishedAt": "2026-10-02T01:56:52.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "特朗普惊叹“以色列水管工”帮助降落迪拜航空航班",
-      "summaryZh": "美国总统特朗普讲述了一名“以色列水管工”帮助降落迪拜航空航班的故事。",
+      "titleZh": "美国就柴油储备向欧洲施压，特朗普威胁出口禁令",
+      "summaryZh": "特朗普总统威胁禁止柴油出口，以在11月选举前缓解美国油价。美国就柴油储备向欧洲施压。",
       "category": "政治",
       "regions": [
         "美国",
-        "中东"
+        "欧洲"
       ],
       "heat": {
-        "score": 60,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源（半岛电视台）、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-09-30T23:50:17.000Z"
+          "publishedAt": "2026-10-02T05:26:06.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "非军事区地雷爆炸：首尔呼吁平壤对话",
-      "summaryZh": "韩国总统李在明在九月非军事区地雷爆炸导致三名韩国士兵受伤后，呼吁平壤“恢复信任并重启对话”。",
+      "titleZh": "首尔警告：若乌克兰不就战俘问题道歉，将采取“进一步行动”",
+      "summaryZh": "韩国总统李在明指责基辅“试图在朝鲜半岛挑起战争”。首尔警告，若乌克兰不就战俘问题道歉，将采取进一步行动。",
       "category": "政治",
       "regions": [
-        "朝鲜半岛",
         "韩国",
+        "乌克兰",
         "朝鲜"
       ],
       "heat": {
-        "score": 60,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源（法国24）、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/asie-pacifique/20261001-explosions-dans-zone-demilitarisee-dmz-president-sud-coreen-joue-apaisement-dialogue-mines-soldats-cor%C3%A9e-nord-lee-jae-myung-blesse",
-          "language": "fr",
-          "publishedAt": "2026-10-01T03:01:58.000Z"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-02T03:09:13.000Z"
         }
       ]
     }
