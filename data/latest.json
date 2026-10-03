@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-02T05:46:51.978Z",
+  "generatedAt": "2026-10-03T05:24:12.220Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "乌克兰与韩国就朝鲜战俘问题争执升级",
-      "summaryZh": "韩国总统指责乌克兰披露战俘移交协议损害其立场，韩方要求乌克兰就两名朝鲜战俘的移交问题道歉。双方围绕战俘问题爆发外交风波。",
+      "titleZh": "美国和澳大利亚在巴西大选前暂停外交业务",
+      "summaryZh": "由于安全威胁，美国和澳大利亚在巴西关键选举日之前暂停了外交业务。美国与澳大利亚宣布从周五起暂停在巴西的领事服务。此举发生在巴西总统选举投票前两天。",
       "category": "政治",
       "regions": [
-        "乌克兰",
-        "韩国",
-        "朝鲜"
+        "巴西",
+        "美国",
+        "澳大利亚"
       ],
       "heat": {
         "score": 100,
@@ -23,34 +23,57 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-02T02:54:13.000Z"
+          "publishedAt": "2026-10-03T00:46:10.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/us-australia-suspend-consular-services-in-brazil/a-79526311?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-02T04:40:00.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-01T13:57:00.000Z"
+          "publishedAt": "2026-10-03T02:24:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "Aweb——面向AI智能体的通信",
-      "summaryZh": "Hacker News上，关于AI智能体通信的项目Aweb获得30点、24条评论；另一篇关于智能体AI身份管理的文章获得70点、23条评论。",
+      "titleZh": "苹果将限制Mac磁盘访问权限，因AI代理风险大幅增加",
+      "summaryZh": "苹果计划对Mac的“完全磁盘访问”权限增加新的限制，以应对AI代理带来的风险。苹果表示，将推出新的控制措施，确保只有用户明确操作才能授予应用这种高级别访问权限。此前有报道称Meta的AI聊天机器人可能在未获明确许可的情况下访问用户信息。",
       "category": "科技",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 83,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+          "language": "en",
+          "publishedAt": "2026-10-02T20:08:40.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+          "language": "en",
+          "publishedAt": "2026-10-02T18:11:27.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "加密货币对外国援助的捕获",
+      "summaryZh": "Hacker News上出现一篇题为“Crypto Capture of Foreign Aid”的帖子，获得91分和35条评论。该帖子由用户bko发布。具体内容未在摘要中提供。",
+      "category": "财经",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 78,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -58,25 +81,66 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://aweb.ai",
+          "url": "https://www.nber.org/papers/w35655",
           "language": "en",
-          "publishedAt": "2026-10-01T22:02:31.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-          "language": "en",
-          "publishedAt": "2026-10-01T15:11:10.000Z"
+          "publishedAt": "2026-10-02T18:14:29.000Z"
         }
       ]
     },
     {
-      "rank": 3,
-      "titleZh": "瑞士如何在五年内失去20%的冰川冰量",
-      "summaryZh": "瑞士冰川在五年内损失超过5%的冰量，威胁该国阿尔卑斯山经济。",
-      "category": "财经",
+      "rank": 4,
+      "titleZh": "印度对巴基斯坦直播：亚运会板球决赛",
+      "summaryZh": "半岛电视台提供亚运会板球金牌赛的实时更新，包括球队新闻、天气预报、预测、掷硬币、比分和文字评论。印度与巴基斯坦将在决赛中对决。",
+      "category": "体育",
       "regions": [
-        "瑞士"
+        "亚洲"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-03T05:09:31.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "巴西卢拉与博索纳罗在竞选接近尾声时吸引数千人",
+      "summaryZh": "巴西总统卢拉·达席尔瓦周五在里约热内卢举行了最后一场竞选集会。随着竞选活动接近尾声，卢拉和博索纳罗都吸引了数千名支持者。",
+      "category": "政治",
+      "regions": [
+        "巴西"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/brazils-lula-and-bolsonaro-draw-thousands-as-campaigns-near-end?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-03T04:43:15.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "G7国家屈服于美国压力，避免毁灭性柴油禁令",
+      "summaryZh": "在G7领导人屈从于美国总统特朗普的要求，释放石油和柴油储备后，原油价格有所回落。G7国家避免了可能造成严重影响的柴油禁令。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "七国集团"
       ],
       "heat": {
         "score": 63,
@@ -87,131 +151,22 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/g7-nations-bow-to-us-pressure-and-avoid-crippling-diesel-ban?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-02T04:59:58.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "以色列无人机在加沙杀死一名巴勒斯坦人，定居者在西岸杀死另一人",
-      "summaryZh": "自2025年10月“停火”开始以来，加沙已有1439名巴勒斯坦人被杀，5052人受伤。以色列无人机在加沙发动袭击，而以色列定居者在西岸造成另一名巴勒斯坦人死亡。",
-      "category": "国际",
-      "regions": [
-        "加沙",
-        "约旦河西岸",
-        "以色列"
-      ],
-      "heat": {
-        "score": 57,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-01T23:44:39.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "法国对意大利：欧洲国家联赛——齐达内、奥利塞、埃斯波西托、球队与状态",
-      "summaryZh": "法国在新任主教练齐达内的首场主场比赛中对阵邻国意大利，姆巴佩因伤缺阵。",
-      "category": "体育",
-      "regions": [
-        "法国",
-        "意大利"
-      ],
-      "heat": {
-        "score": 56,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-01T22:31:30.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "埃塞俄比亚与厄立特里亚因北部冲突升级而断交",
-      "summaryZh": "埃塞俄比亚军队在北部地区与叛军作战之际，厄立特里亚因亚的斯亚贝巴关闭其驻阿斯马拉大使馆而断绝外交关系。提格雷问题上的争执加剧了两国紧张。",
-      "category": "政治",
-      "regions": [
-        "埃塞俄比亚",
-        "厄立特里亚",
-        "提格雷"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-02T05:42:07.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/eritrea-severs-diplomatic-ties-with-ethiopia-in-row-over-tigray?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-02T04:40:14.000Z"
+          "publishedAt": "2026-10-03T03:54:58.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "关于巴西激烈的总统竞选，你需要知道的一切",
-      "summaryZh": "选民将很快在现任总统路易斯·伊纳西奥·卢拉·达席尔瓦和前总统雅伊尔·博索纳罗之子之间做出选择。",
-      "category": "政治",
+      "titleZh": "Show HN：制作了一个开源乐高AI生成器",
+      "summaryZh": "Hacker News上出现一个名为“Show HN: Made an open-source Lego AI generator”的帖子，获得89分和41条评论，由用户antelocnova发布。该帖子展示了一个开源的乐高AI生成器项目。",
+      "category": "科技",
       "regions": [
-        "巴西"
+        "全球"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/everything-you-need-to-know-about-brazils-tight-presidential-race?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-02T02:07:49.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "language": "en",
-          "publishedAt": "2026-10-02T00:03:23.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "新加坡政府运营的约会服务如何运作",
-      "summaryZh": "Hacker News上，关于新加坡政府运营的约会服务的文章获得65点、30条评论。",
-      "category": "政治",
-      "regions": [
-        "新加坡"
-      ],
-      "heat": {
-        "score": 67,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -219,48 +174,68 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+          "url": "https://github.com/anteloc/ldraw-nova",
           "language": "en",
-          "publishedAt": "2026-10-02T01:56:52.000Z"
+          "publishedAt": "2026-10-02T20:00:15.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "澳大利亚汽车冲撞橄榄球球迷致10人受伤",
+      "summaryZh": "在澳大利亚，一辆汽车冲撞橄榄球球迷，造成10人受伤。新南威尔士州警方表示，司机是一名18岁的橄榄球联赛球迷，已被逮捕。",
+      "category": "体育",
+      "regions": [
+        "澳大利亚"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/3/10-injured-after-car-crashes-into-rugby-supporters-in-australia?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-03T04:29:23.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "美国就柴油储备向欧洲施压，特朗普威胁出口禁令",
-      "summaryZh": "特朗普总统威胁禁止柴油出口，以在11月选举前缓解美国油价。美国就柴油储备向欧洲施压。",
-      "category": "政治",
+      "titleZh": "研究发现荷兰王室曾帮助奴隶贸易存续",
+      "summaryZh": "一项深入研究表明，荷兰王室曾帮助奴隶贸易存续。研究还指出，荷兰王室在过去几个世纪从荷兰殖民政策中获得了巨额利润。",
+      "category": "财经",
       "regions": [
-        "美国",
-        "欧洲"
+        "荷兰"
       ],
       "heat": {
-        "score": 65,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-02T05:26:06.000Z"
+          "publishedAt": "2026-10-02T23:43:50.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "首尔警告：若乌克兰不就战俘问题道歉，将采取“进一步行动”",
-      "summaryZh": "韩国总统李在明指责基辅“试图在朝鲜半岛挑起战争”。首尔警告，若乌克兰不就战俘问题道歉，将采取进一步行动。",
-      "category": "政治",
+      "titleZh": "美国路怒杀手判决被撤销，因法庭展示受害者AI视频",
+      "summaryZh": "亚利桑那州上诉法院裁定，在法庭上播放死者受害者的AI信息“越过了界限”。因此，一名美国路怒杀手的判决被撤销。",
+      "category": "科技",
       "regions": [
-        "韩国",
-        "乌克兰",
-        "朝鲜"
+        "美国"
       ],
       "heat": {
-        "score": 64,
+        "score": 59,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -268,9 +243,9 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-02T03:09:13.000Z"
+          "publishedAt": "2026-10-02T23:06:00.000Z"
         }
       ]
     }
