@@ -1,18 +1,17 @@
 {
-  "generatedAt": "2026-10-03T05:24:12.220Z",
+  "generatedAt": "2026-10-04T06:00:08.387Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "美国和澳大利亚在巴西大选前暂停外交业务",
-      "summaryZh": "由于安全威胁，美国和澳大利亚在巴西关键选举日之前暂停了外交业务。美国与澳大利亚宣布从周五起暂停在巴西的领事服务。此举发生在巴西总统选举投票前两天。",
+      "titleZh": "巴西大选：卢拉与博索纳罗竞选收官，选情胶着",
+      "summaryZh": "巴西总统选举首轮投票前，左翼总统卢拉与保守派对手博索纳罗结束竞选活动。最新民调显示卢拉的领先优势正在收窄，两位候选人都难以在周日直接胜出。",
       "category": "政治",
       "regions": [
         "巴西",
-        "美国",
-        "澳大利亚"
+        "拉丁美洲"
       ],
       "heat": {
         "score": 100,
@@ -23,28 +22,28 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-03T00:46:10.000Z"
+          "publishedAt": "2026-10-04T00:07:12.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/us-australia-suspend-consular-services-in-brazil/a-79526311?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-03T02:24:00.000Z"
+          "publishedAt": "2026-10-04T01:26:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "苹果将限制Mac磁盘访问权限，因AI代理风险大幅增加",
-      "summaryZh": "苹果计划对Mac的“完全磁盘访问”权限增加新的限制，以应对AI代理带来的风险。苹果表示，将推出新的控制措施，确保只有用户明确操作才能授予应用这种高级别访问权限。此前有报道称Meta的AI聊天机器人可能在未获明确许可的情况下访问用户信息。",
+      "titleZh": "OpenAI 安全员工辞职并发声示警",
+      "summaryZh": "曾在 OpenAI 负责为每次重大模型发布撰写安全报告的 David Robinson 本周辞职，并在《大西洋月刊》撰文公开警告。他表示行业文化“从根本上已经破裂”，这比单纯增加规则或监管更为深层。",
       "category": "科技",
       "regions": [
         "美国"
       ],
       "heat": {
-        "score": 83,
+        "score": 80,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -52,25 +51,26 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
           "language": "en",
-          "publishedAt": "2026-10-02T20:08:40.000Z"
+          "publishedAt": "2026-10-03T14:31:56.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+          "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
           "language": "en",
-          "publishedAt": "2026-10-02T18:11:27.000Z"
+          "publishedAt": "2026-10-03T16:30:01.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "加密货币对外国援助的捕获",
-      "summaryZh": "Hacker News上出现一篇题为“Crypto Capture of Foreign Aid”的帖子，获得91分和35条评论。该帖子由用户bko发布。具体内容未在摘要中提供。",
+      "titleZh": "津巴布韦人逃离南非排外暴力后艰难重建生活",
+      "summaryZh": "从南非返回津巴布韦的返乡者面临经济困难与支持不足，正努力重建生活。",
       "category": "财经",
       "regions": [
-        "全球"
+        "津巴布韦",
+        "南非"
       ],
       "heat": {
         "score": 61,
@@ -80,43 +80,130 @@
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.nber.org/papers/w35655",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-02T18:14:29.000Z"
+          "publishedAt": "2026-10-04T01:55:46.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "印度对巴基斯坦直播：亚运会板球决赛",
-      "summaryZh": "半岛电视台提供亚运会板球金牌赛的实时更新，包括球队新闻、天气预报、预测、掷硬币、比分和文字评论。印度与巴基斯坦将在决赛中对决。",
-      "category": "体育",
+      "titleZh": "历史学家弗洛里安·路易：认为1991年后帝国主义已消失是种族中心主义",
+      "summaryZh": "法国24台节目《Au Cœur de l'Info》邀请历史学家弗洛里安·路易，讨论特朗普对北大西洋的意图、中国对台湾的主张以及俄罗斯对乌克兰的大规模入侵等现象是否意味着帝国主义回归。他与尼古拉·博普雷共同主编的新书《19至21世纪帝国主义世界史》认为，认为帝国主义在1991年后已消失的看法是种族中心主义的。",
+      "category": "国际",
       "regions": [
-        "亚洲"
+        "法国",
+        "欧洲"
       ],
       "heat": {
-        "score": 60,
+        "score": 52,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-03T05:09:31.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261003-florian-louis-l-id%C3%A9e-que-les-imp%C3%A9rialismes-avaient-disparu-en-1991-%C3%A9tait-ethnocentrique",
+          "language": "fr",
+          "publishedAt": "2026-10-03T19:47:50.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "巴西卢拉与博索纳罗在竞选接近尾声时吸引数千人",
-      "summaryZh": "巴西总统卢拉·达席尔瓦周五在里约热内卢举行了最后一场竞选集会。随着竞选活动接近尾声，卢拉和博索纳罗都吸引了数千名支持者。",
+      "titleZh": "巴西总统选举首轮投票：卢拉与弗拉维奥·博索纳罗势均力敌",
+      "summaryZh": "巴西选民周日前往投票站，在左翼总统卢拉与保守派对手弗拉维奥·博索纳罗之间做出选择，首轮选举预计极为胶着。最新民调显示两人不相上下，均未接近50%的得票率。",
       "category": "政治",
       "regions": [
-        "巴西"
+        "巴西",
+        "拉丁美洲"
+      ],
+      "heat": {
+        "score": 76,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261004-bresil-lula-et-flavio-bolsonaro-presidentielle-bureau-vote-campagne-sondages",
+          "language": "fr",
+          "publishedAt": "2026-10-04T05:18:52.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261003-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-bolsonaro-au-coude-%C3%A0-coude",
+          "language": "fr",
+          "publishedAt": "2026-10-03T09:34:23.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261003-br%C3%A9sil-j-1-avant-l-%C3%A9lection-pr%C3%A9sidentielle",
+          "language": "fr",
+          "publishedAt": "2026-10-03T08:19:16.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "巴西为何指责美国干预其选举？",
+      "summaryZh": "巴西即将举行总统选举，卢拉与博索纳罗围绕主权、安全以及与美国的关系展开交锋。报道以视频形式解释巴西为何指控美国干预选举。",
+      "category": "政治",
+      "regions": [
+        "巴西",
+        "美国"
+      ],
+      "heat": {
+        "score": 70,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-03T13:52:13.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "“街头怒火”：西班牙数十万人抗议住房危机",
+      "summaryZh": "在政府未能推动紧急立法通过议会后，西班牙周六发生超过50场抗议活动。数十万人走上街头，抗议住房危机。",
+      "category": "政治",
+      "regions": [
+        "西班牙",
+        "欧洲"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-04T03:42:15.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "索马里总统：胡塞武装“无力”为也门带来和平",
+      "summaryZh": "索马里总统指责胡塞武装破坏地区稳定，并干扰曼德海峡的航运。他表示，胡塞武装没有能力为也门带来和平。",
+      "category": "政治",
+      "regions": [
+        "索马里",
+        "也门",
+        "中东"
       ],
       "heat": {
         "score": 64,
@@ -127,20 +214,44 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/brazils-lula-and-bolsonaro-draw-thousands-as-campaigns-near-end?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-03T04:43:15.000Z"
+          "publishedAt": "2026-10-04T05:00:40.000Z"
         }
       ]
     },
     {
-      "rank": 6,
-      "titleZh": "G7国家屈服于美国压力，避免毁灭性柴油禁令",
-      "summaryZh": "在G7领导人屈从于美国总统特朗普的要求，释放石油和柴油储备后，原油价格有所回落。G7国家避免了可能造成严重影响的柴油禁令。",
+      "rank": 9,
+      "titleZh": "图解2026年波斯尼亚和黑塞哥维那大选",
+      "summaryZh": "波斯尼亚和黑塞哥维那选民于10月4日前往投票站。报道以地图和图表介绍投票流程、候选人以及此次选举的关键影响。",
+      "category": "政治",
+      "regions": [
+        "波斯尼亚和黑塞哥维那",
+        "巴尔干"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/4/bosnia-general-election-2026-explained-in-maps-and-charts?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-04T04:58:50.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "特朗普在俄亥俄州为共和党助选，对中期选举前景态度强硬",
+      "summaryZh": "美国总统特朗普在俄亥俄州为共和党人举行的集会上表示，他相信即将到来的选举会出现“大惊喜”。报道称他对中期选举前景表现出强硬姿态。",
       "category": "政治",
       "regions": [
         "美国",
-        "七国集团"
+        "俄亥俄州"
       ],
       "heat": {
         "score": 63,
@@ -151,101 +262,9 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/g7-nations-bow-to-us-pressure-and-avoid-crippling-diesel-ban?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-03T03:54:58.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "Show HN：制作了一个开源乐高AI生成器",
-      "summaryZh": "Hacker News上出现一个名为“Show HN: Made an open-source Lego AI generator”的帖子，获得89分和41条评论，由用户antelocnova发布。该帖子展示了一个开源的乐高AI生成器项目。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "language": "en",
-          "publishedAt": "2026-10-02T20:00:15.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "澳大利亚汽车冲撞橄榄球球迷致10人受伤",
-      "summaryZh": "在澳大利亚，一辆汽车冲撞橄榄球球迷，造成10人受伤。新南威尔士州警方表示，司机是一名18岁的橄榄球联赛球迷，已被逮捕。",
-      "category": "体育",
-      "regions": [
-        "澳大利亚"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/3/10-injured-after-car-crashes-into-rugby-supporters-in-australia?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-03T04:29:23.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "研究发现荷兰王室曾帮助奴隶贸易存续",
-      "summaryZh": "一项深入研究表明，荷兰王室曾帮助奴隶贸易存续。研究还指出，荷兰王室在过去几个世纪从荷兰殖民政策中获得了巨额利润。",
-      "category": "财经",
-      "regions": [
-        "荷兰"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-02T23:43:50.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "美国路怒杀手判决被撤销，因法庭展示受害者AI视频",
-      "summaryZh": "亚利桑那州上诉法院裁定，在法庭上播放死者受害者的AI信息“越过了界限”。因此，一名美国路怒杀手的判决被撤销。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 59,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-02T23:06:00.000Z"
+          "publishedAt": "2026-10-04T04:10:17.000Z"
         }
       ]
     }
