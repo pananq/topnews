@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-04T06:00:08.387Z",
+  "generatedAt": "2026-10-05T05:49:02.394Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "巴西大选：卢拉与博索纳罗竞选收官，选情胶着",
-      "summaryZh": "巴西总统选举首轮投票前，左翼总统卢拉与保守派对手博索纳罗结束竞选活动。最新民调显示卢拉的领先优势正在收窄，两位候选人都难以在周日直接胜出。",
+      "titleZh": "巴西大选：博索纳罗超出预期，将与卢拉进入第二轮",
+      "summaryZh": "巴西总统选举首轮投票后，博索纳罗与卢拉均未获得过半选票，选举将进入第二轮。据DW报道，弗拉维奥·博索纳罗以微弱优势领先现任总统卢拉。",
       "category": "政治",
       "regions": [
         "巴西",
@@ -17,254 +17,262 @@
         "score": 100,
         "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-04T00:07:12.000Z"
+          "publishedAt": "2026-10-05T05:08:23.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-04T01:26:00.000Z"
+          "publishedAt": "2026-10-05T00:27:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "OpenAI 安全员工辞职并发声示警",
-      "summaryZh": "曾在 OpenAI 负责为每次重大模型发布撰写安全报告的 David Robinson 本周辞职，并在《大西洋月刊》撰文公开警告。他表示行业文化“从根本上已经破裂”，这比单纯增加规则或监管更为深层。",
+      "titleZh": "特朗普公布“超级智能部队”以监督人工智能政策",
+      "summaryZh": "特朗普宣布成立“超级智能部队”特别工作组，负责监督人工智能政策，并任命国家情报总监为该工作组负责人。此举被视为对人工智能安全争论的最新回应。",
       "category": "科技",
       "regions": [
         "美国"
       ],
       "heat": {
-        "score": 80,
+        "score": 98,
         "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-03T14:31:56.000Z"
+          "publishedAt": "2026-10-05T03:37:41.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+          "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
           "language": "en",
-          "publishedAt": "2026-10-03T16:30:01.000Z"
+          "publishedAt": "2026-10-04T15:15:10.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "津巴布韦人逃离南非排外暴力后艰难重建生活",
-      "summaryZh": "从南非返回津巴布韦的返乡者面临经济困难与支持不足，正努力重建生活。",
-      "category": "财经",
+      "titleZh": "近1500名移民从马来西亚抵达缅甸，无视联合国警告",
+      "summaryZh": "尽管联合国警告缅甸处于活跃战区、条件不安全，马来西亚仍继续大规模驱逐难民。近1500名移民已从马来西亚抵达缅甸。",
+      "category": "国际",
       "regions": [
-        "津巴布韦",
-        "南非"
+        "马来西亚",
+        "缅甸"
       ],
       "heat": {
-        "score": 61,
+        "score": 58,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-04T01:55:46.000Z"
+          "publishedAt": "2026-10-05T01:08:44.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "历史学家弗洛里安·路易：认为1991年后帝国主义已消失是种族中心主义",
-      "summaryZh": "法国24台节目《Au Cœur de l'Info》邀请历史学家弗洛里安·路易，讨论特朗普对北大西洋的意图、中国对台湾的主张以及俄罗斯对乌克兰的大规模入侵等现象是否意味着帝国主义回归。他与尼古拉·博普雷共同主编的新书《19至21世纪帝国主义世界史》认为，认为帝国主义在1991年后已消失的看法是种族中心主义的。",
-      "category": "国际",
+      "titleZh": "爱尔兰与以色列激烈战平，爆出吐口水指控",
+      "summaryZh": "在欧洲国家联赛的一场比赛中，爱尔兰与以色列1-1战平，比赛气氛火爆，并出现吐口水指控。",
+      "category": "体育",
       "regions": [
-        "法国",
-        "欧洲"
+        "爱尔兰",
+        "以色列"
       ],
       "heat": {
-        "score": 52,
+        "score": 58,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261003-florian-louis-l-id%C3%A9e-que-les-imp%C3%A9rialismes-avaient-disparu-en-1991-%C3%A9tait-ethnocentrique",
-          "language": "fr",
-          "publishedAt": "2026-10-03T19:47:50.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spitting-allegations-as-ireland-and-israel-fight-out-ill-tempered-draw?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-05T02:28:48.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "巴西总统选举首轮投票：卢拉与弗拉维奥·博索纳罗势均力敌",
-      "summaryZh": "巴西选民周日前往投票站，在左翼总统卢拉与保守派对手弗拉维奥·博索纳罗之间做出选择，首轮选举预计极为胶着。最新民调显示两人不相上下，均未接近50%的得票率。",
+      "titleZh": "FBI以涉嫌间谍活动逮捕“中国外国代理人”，涉及台湾总统之子",
+      "summaryZh": "美国联邦调查局逮捕了一名加利福尼亚州女子，指控其为中国从事间谍活动，收集台湾总统赖清德之子及其家人的照片和视频并发送给中国官员。该女子在洛杉矶国际机场准备前往中国时被捕。",
       "category": "政治",
       "regions": [
-        "巴西",
-        "拉丁美洲"
+        "美国",
+        "台湾",
+        "中国"
       ],
       "heat": {
-        "score": 76,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20261004-bresil-lula-et-flavio-bolsonaro-presidentielle-bureau-vote-campagne-sondages",
-          "language": "fr",
-          "publishedAt": "2026-10-04T05:18:52.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-05T04:13:20.000Z"
         },
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261003-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-bolsonaro-au-coude-%C3%A0-coude",
-          "language": "fr",
-          "publishedAt": "2026-10-03T09:34:23.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261003-br%C3%A9sil-j-1-avant-l-%C3%A9lection-pr%C3%A9sidentielle",
-          "language": "fr",
-          "publishedAt": "2026-10-03T08:19:16.000Z"
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-fbi-arrests-woman-accused-of-spying-for-china/a-79541849?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-05T03:47:00.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "巴西为何指责美国干预其选举？",
-      "summaryZh": "巴西即将举行总统选举，卢拉与博索纳罗围绕主权、安全以及与美国的关系展开交锋。报道以视频形式解释巴西为何指控美国干预选举。",
+      "titleZh": "巴西总统选举：极右翼弗拉维奥·博索纳罗首轮领先",
+      "summaryZh": "巴西总统选举首轮投票中，前总统雅伊尔·博索纳罗之子、极右翼候选人弗拉维奥·博索纳罗以47%的得票率领先现任总统卢拉的45%。在高度两极分化的巴西，这位参议员可能在第二轮获得小党派候选人的选票支持。",
       "category": "政治",
       "regions": [
-        "巴西",
-        "美国"
+        "巴西"
       ],
       "heat": {
-        "score": 70,
+        "score": 80,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-03T13:52:13.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261005-bresil-presidentielle-flavio-bolsonaro-surprise-lula-premier-tour",
+          "language": "fr",
+          "publishedAt": "2026-10-05T02:17:27.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261004-en-direct-premier-tour-presidentielle-bresil-resultats-estimations-lula-bolsonaro",
+          "language": "fr",
+          "publishedAt": "2026-10-04T18:25:02.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "“街头怒火”：西班牙数十万人抗议住房危机",
-      "summaryZh": "在政府未能推动紧急立法通过议会后，西班牙周六发生超过50场抗议活动。数十万人走上街头，抗议住房危机。",
-      "category": "政治",
+      "titleZh": "Homa：AI集群中TCP的终结 [视频]",
+      "summaryZh": "Hacker News上发布了一段题为“Homa：AI集群中TCP的终结”的视频，获得66分和30条评论。该视频在Hacker News上引发讨论。",
+      "category": "科技",
       "regions": [
-        "西班牙",
-        "欧洲"
+        "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 76,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
           "language": "en",
-          "publishedAt": "2026-10-04T03:42:15.000Z"
+          "publishedAt": "2026-10-04T19:42:25.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+          "language": "en",
+          "publishedAt": "2026-10-04T08:41:58.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "索马里总统：胡塞武装“无力”为也门带来和平",
-      "summaryZh": "索马里总统指责胡塞武装破坏地区稳定，并干扰曼德海峡的航运。他表示，胡塞武装没有能力为也门带来和平。",
-      "category": "政治",
+      "titleZh": "无力感的F1车手对巴林F1软件故障感到沮丧",
+      "summaryZh": "Hacker News上一条关于F1车手因巴林赛事软件故障而感到沮丧的帖子获得159分和93条评论。",
+      "category": "科技",
       "regions": [
-        "索马里",
-        "也门",
-        "中东"
+        "巴林",
+        "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 66,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
           "language": "en",
-          "publishedAt": "2026-10-04T05:00:40.000Z"
+          "publishedAt": "2026-10-05T01:54:08.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "图解2026年波斯尼亚和黑塞哥维那大选",
-      "summaryZh": "波斯尼亚和黑塞哥维那选民于10月4日前往投票站。报道以地图和图表介绍投票流程、候选人以及此次选举的关键影响。",
+      "titleZh": "观看：巴西戏剧性选举如何展开",
+      "summaryZh": "数百万巴西选民周日前往投票站，参加总统选举首轮投票。",
       "category": "政治",
       "regions": [
-        "波斯尼亚和黑塞哥维那",
-        "巴尔干"
+        "巴西"
       ],
       "heat": {
-        "score": 64,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/4/bosnia-general-election-2026-explained-in-maps-and-charts?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-04T04:58:50.000Z"
+          "publishedAt": "2026-10-05T04:51:24.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "特朗普在俄亥俄州为共和党助选，对中期选举前景态度强硬",
-      "summaryZh": "美国总统特朗普在俄亥俄州为共和党人举行的集会上表示，他相信即将到来的选举会出现“大惊喜”。报道称他对中期选举前景表现出强硬姿态。",
+      "titleZh": "巴西总统选举：“两种政治路线在对决”",
+      "summaryZh": "约1.6亿巴西选民周日投票，在左翼总统卢拉和极右翼对手弗拉维奥·博索纳罗之间做出选择。法国24电视台分析称，这场对决被视为对国家定位和国际舞台角色的选择。",
       "category": "政治",
       "regions": [
-        "美国",
-        "俄亥俄州"
+        "巴西"
       ],
       "heat": {
-        "score": 63,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-04T04:10:17.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261004-pr%C3%A9sidentielle-au-br%C3%A9sil-il-y-a-deux-politiques-qui-s-affrontent",
+          "language": "fr",
+          "publishedAt": "2026-10-04T15:27:46.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261004-pr%C3%A9sidentielle-au-br%C3%A9sil-le-duel-lula-bolsonaro-domine-le-scrutin",
+          "language": "fr",
+          "publishedAt": "2026-10-04T14:39:49.000Z"
         }
       ]
     }
