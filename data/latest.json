@@ -1,49 +1,20 @@
 {
-  "generatedAt": "2026-10-05T05:49:02.394Z",
+  "generatedAt": "2026-10-06T06:28:22.001Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "巴西大选：博索纳罗超出预期，将与卢拉进入第二轮",
-      "summaryZh": "巴西总统选举首轮投票后，博索纳罗与卢拉均未获得过半选票，选举将进入第二轮。据DW报道，弗拉维奥·博索纳罗以微弱优势领先现任总统卢拉。",
+      "titleZh": "分离主义政党预计赢得魁北克选举，加拿大团结面临新考验",
+      "summaryZh": "魁北克人党在选举中赢得少数席位，承诺将在未来几年举行独立公投。该党重新执政，并承诺就魁北克从加拿大独立举行第三次公投。",
       "category": "政治",
       "regions": [
-        "巴西",
-        "拉丁美洲"
+        "加拿大",
+        "魁北克"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-05T05:08:23.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-05T00:27:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "特朗普公布“超级智能部队”以监督人工智能政策",
-      "summaryZh": "特朗普宣布成立“超级智能部队”特别工作组，负责监督人工智能政策，并任命国家情报总监为该工作组负责人。此举被视为对人工智能安全争论的最新回应。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 98,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
@@ -51,53 +22,80 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-05T03:37:41.000Z"
+          "publishedAt": "2026-10-06T02:37:46.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/6/secessionist-parti-quebecois-wins-quebec-election-in-canada?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-06T03:11:44.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "第二条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "美洲"
+      ],
+      "heat": {
+        "score": 83,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+          "language": "en",
+          "publishedAt": "2026-10-05T18:08:39.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+          "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
           "language": "en",
-          "publishedAt": "2026-10-04T15:15:10.000Z"
+          "publishedAt": "2026-10-05T20:36:48.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "近1500名移民从马来西亚抵达缅甸，无视联合国警告",
-      "summaryZh": "尽管联合国警告缅甸处于活跃战区、条件不安全，马来西亚仍继续大规模驱逐难民。近1500名移民已从马来西亚抵达缅甸。",
-      "category": "国际",
+      "titleZh": "基于 LSM 树的键值存储更好的时空权衡 [PDF]",
+      "summaryZh": "Hacker News 上发布了一篇关于基于 LSM 树的键值存储时空权衡的论文（PDF），获得25点积分，暂无评论。",
+      "category": "财经",
       "regions": [
-        "马来西亚",
-        "缅甸"
+        "全球"
       ],
       "heat": {
-        "score": 58,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://nivdayan.github.io/dostoevsky.pdf",
           "language": "en",
-          "publishedAt": "2026-10-05T01:08:44.000Z"
+          "publishedAt": "2026-10-05T22:25:47.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "爱尔兰与以色列激烈战平，爆出吐口水指控",
-      "summaryZh": "在欧洲国家联赛的一场比赛中，爱尔兰与以色列1-1战平，比赛气氛火爆，并出现吐口水指控。",
-      "category": "体育",
+      "titleZh": "联合国人权理事会谴责苏丹针对平民的袭击，呼吁停火",
+      "summaryZh": "联合国人权理事会通过决议，谴责苏丹境内针对平民的袭击，并要求立即停火。决议还延长了调查苏丹侵权行为的特派团任期。",
+      "category": "国际",
       "regions": [
-        "爱尔兰",
-        "以色列"
+        "苏丹"
       ],
       "heat": {
-        "score": 58,
+        "score": 59,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
@@ -105,132 +103,44 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spitting-allegations-as-ireland-and-israel-fight-out-ill-tempered-draw?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-05T02:28:48.000Z"
+          "publishedAt": "2026-10-06T02:54:31.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "FBI以涉嫌间谍活动逮捕“中国外国代理人”，涉及台湾总统之子",
-      "summaryZh": "美国联邦调查局逮捕了一名加利福尼亚州女子，指控其为中国从事间谍活动，收集台湾总统赖清德之子及其家人的照片和视频并发送给中国官员。该女子在洛杉矶国际机场准备前往中国时被捕。",
-      "category": "政治",
+      "titleZh": "欧国联：法国队凭借齐达内的调度逆转并惩罚比利时",
+      "summaryZh": "在欧国联比赛中，法国队在法兰西体育场以4比1战胜比利时。比利时先取得领先，但法国队凭借替补登场的谢尔基、奥利塞和杜埃在比赛末段扭转局势。",
+      "category": "体育",
       "regions": [
-        "美国",
-        "台湾",
-        "中国"
+        "法国",
+        "比利时"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+        "score": 51,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-05T04:13:20.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-fbi-arrests-woman-accused-of-spying-for-china/a-79541849?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-05T03:47:00.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/sports/20261005-ligue-nations-france-belgique",
+          "language": "fr",
+          "publishedAt": "2026-10-05T20:37:25.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "巴西总统选举：极右翼弗拉维奥·博索纳罗首轮领先",
-      "summaryZh": "巴西总统选举首轮投票中，前总统雅伊尔·博索纳罗之子、极右翼候选人弗拉维奥·博索纳罗以47%的得票率领先现任总统卢拉的45%。在高度两极分化的巴西，这位参议员可能在第二轮获得小党派候选人的选票支持。",
+      "titleZh": "OpenAI 承认对澳大利亚政府遭黑客攻击的回应“不够好”",
+      "summaryZh": "OpenAI 高管 Jason Kwon 在听证会上表示，公司对澳大利亚政府遭黑客攻击的回应“不够好”。他称公司已在训练环境中增加了“更多预防措施”。",
       "category": "政治",
       "regions": [
-        "巴西"
-      ],
-      "heat": {
-        "score": 80,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20261005-bresil-presidentielle-flavio-bolsonaro-surprise-lula-premier-tour",
-          "language": "fr",
-          "publishedAt": "2026-10-05T02:17:27.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20261004-en-direct-premier-tour-presidentielle-bresil-resultats-estimations-lula-bolsonaro",
-          "language": "fr",
-          "publishedAt": "2026-10-04T18:25:02.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "Homa：AI集群中TCP的终结 [视频]",
-      "summaryZh": "Hacker News上发布了一段题为“Homa：AI集群中TCP的终结”的视频，获得66分和30条评论。该视频在Hacker News上引发讨论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 76,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "language": "en",
-          "publishedAt": "2026-10-04T19:42:25.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-          "language": "en",
-          "publishedAt": "2026-10-04T08:41:58.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "无力感的F1车手对巴林F1软件故障感到沮丧",
-      "summaryZh": "Hacker News上一条关于F1车手因巴林赛事软件故障而感到沮丧的帖子获得159分和93条评论。",
-      "category": "科技",
-      "regions": [
-        "巴林",
-        "全球"
-      ],
-      "heat": {
-        "score": 66,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-          "language": "en",
-          "publishedAt": "2026-10-05T01:54:08.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "观看：巴西戏剧性选举如何展开",
-      "summaryZh": "数百万巴西选民周日前往投票站，参加总统选举首轮投票。",
-      "category": "政治",
-      "regions": [
-        "巴西"
+        "澳大利亚",
+        "美国"
       ],
       "heat": {
         "score": 65,
@@ -241,19 +151,19 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-05T04:51:24.000Z"
+          "publishedAt": "2026-10-06T06:00:53.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "巴西总统选举：“两种政治路线在对决”",
-      "summaryZh": "约1.6亿巴西选民周日投票，在左翼总统卢拉和极右翼对手弗拉维奥·博索纳罗之间做出选择。法国24电视台分析称，这场对决被视为对国家定位和国际舞台角色的选择。",
-      "category": "政治",
+      "rank": 7,
+      "titleZh": "Opus 5.5 智能体发现两种室温磁性半导体候选材料",
+      "summaryZh": "Hacker News 上发布消息称，Opus 5.5 智能体发现了两种室温磁性半导体候选材料。该帖子获得294点积分和195条评论。",
+      "category": "科技",
       "regions": [
-        "巴西"
+        "全球"
       ],
       "heat": {
         "score": 64,
@@ -263,16 +173,81 @@
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261004-pr%C3%A9sidentielle-au-br%C3%A9sil-il-y-a-deux-politiques-qui-s-affrontent",
-          "language": "fr",
-          "publishedAt": "2026-10-04T15:27:46.000Z"
-        },
+          "name": "Hacker News",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "language": "en",
+          "publishedAt": "2026-10-05T21:00:21.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "魁北克分离主义者在选举中获胜，重燃独立运动",
+      "summaryZh": "魁北克人党在选举中获胜，领导人保罗·圣皮埃尔·普拉蒙东誓言未来将举行脱离加拿大的独立公投。",
+      "category": "政治",
+      "regions": [
+        "加拿大",
+        "魁北克"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261004-pr%C3%A9sidentielle-au-br%C3%A9sil-le-duel-lula-bolsonaro-domine-le-scrutin",
-          "language": "fr",
-          "publishedAt": "2026-10-04T14:39:49.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/quebec-separatists-win-election-reviving-push-for-independence?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-06T04:34:16.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "德国新闻：选择党获胜后萨安州议会召开会议",
+      "summaryZh": "在德国萨安州，新一届州议会首次开会，将投票选举由极右翼选择党提名的议长。外交部长警告称，气候危机可能助长极端主义。",
+      "category": "政治",
+      "regions": [
+        "德国",
+        "萨安州"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/germany-news-saxony-anhalt-parliament-sits-after-afd-win/live-79558497?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-06T06:21:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "为期两年的学校实验中使用 Khanmigo 进行 AI 辅导",
+      "summaryZh": "Hacker News 上发布了一项为期两年的学校实验，内容涉及使用 Khanmigo 进行 AI 辅导。该帖子获得60点积分和51条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://edworkingpapers.com/ai26-1551",
+          "language": "en",
+          "publishedAt": "2026-10-06T00:00:45.000Z"
         }
       ]
     }
