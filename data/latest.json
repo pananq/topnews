@@ -1,49 +1,19 @@
 {
-  "generatedAt": "2026-10-06T06:28:22.001Z",
+  "generatedAt": "2026-10-07T06:07:19.428Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "分离主义政党预计赢得魁北克选举，加拿大团结面临新考验",
-      "summaryZh": "魁北克人党在选举中赢得少数席位，承诺将在未来几年举行独立公投。该党重新执政，并承诺就魁北克从加拿大独立举行第三次公投。",
-      "category": "政治",
-      "regions": [
-        "加拿大",
-        "魁北克"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-06T02:37:46.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/6/secessionist-parti-quebecois-wins-quebec-election-in-canada?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-06T03:11:44.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "第二条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "titleZh": "苹果与LG合作推出新智能家居设备，首推门锁、门铃和恒温器",
+      "summaryZh": "据彭博社报道，苹果正与LG合作推出新的智能家居设备，包括视频门铃、恒温器、室内摄像头等。这些产品将使用LG品牌，但会与苹果传闻中的智能家居中枢整合，该中枢预计在10月13日的活动中推出。消息人士称，产品线还包括死栓锁、户外安全摄像头和泛光灯摄像头，部分设备将支持Thread和Matter协议，作为HomeKit平台“正式重启”的一部分。",
       "category": "科技",
       "regions": [
         "美洲"
       ],
       "heat": {
-        "score": 83,
+        "score": 85,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -51,178 +21,224 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+          "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
           "language": "en",
-          "publishedAt": "2026-10-05T18:08:39.000Z"
+          "publishedAt": "2026-10-06T21:39:53.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+          "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
           "language": "en",
-          "publishedAt": "2026-10-05T20:36:48.000Z"
+          "publishedAt": "2026-10-06T22:53:09.000Z"
         }
       ]
     },
     {
-      "rank": 3,
-      "titleZh": "基于 LSM 树的键值存储更好的时空权衡 [PDF]",
-      "summaryZh": "Hacker News 上发布了一篇关于基于 LSM 树的键值存储时空权衡的论文（PDF），获得25点积分，暂无评论。",
-      "category": "财经",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://nivdayan.github.io/dostoevsky.pdf",
-          "language": "en",
-          "publishedAt": "2026-10-05T22:25:47.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "联合国人权理事会谴责苏丹针对平民的袭击，呼吁停火",
-      "summaryZh": "联合国人权理事会通过决议，谴责苏丹境内针对平民的袭击，并要求立即停火。决议还延长了调查苏丹侵权行为的特派团任期。",
-      "category": "国际",
-      "regions": [
-        "苏丹"
-      ],
-      "heat": {
-        "score": 59,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-06T02:54:31.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "欧国联：法国队凭借齐达内的调度逆转并惩罚比利时",
-      "summaryZh": "在欧国联比赛中，法国队在法兰西体育场以4比1战胜比利时。比利时先取得领先，但法国队凭借替补登场的谢尔基、奥利塞和杜埃在比赛末段扭转局势。",
-      "category": "体育",
-      "regions": [
-        "法国",
-        "比利时"
-      ],
-      "heat": {
-        "score": 51,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/sports/20261005-ligue-nations-france-belgique",
-          "language": "fr",
-          "publishedAt": "2026-10-05T20:37:25.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "OpenAI 承认对澳大利亚政府遭黑客攻击的回应“不够好”",
-      "summaryZh": "OpenAI 高管 Jason Kwon 在听证会上表示，公司对澳大利亚政府遭黑客攻击的回应“不够好”。他称公司已在训练环境中增加了“更多预防措施”。",
+      "rank": 2,
+      "titleZh": "在特朗普阴影下走钢丝的共和党候选人",
+      "summaryZh": "部分参加11月选举的共和党候选人正在权衡是否与一位不受欢迎但仍主导党内的总统保持距离。报道称，这些候选人试图在特朗普的影响力与自身选情之间走钢丝。",
       "category": "政治",
       "regions": [
-        "澳大利亚",
         "美国"
       ],
       "heat": {
         "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-06T06:00:53.000Z"
+          "publishedAt": "2026-10-07T05:00:21.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "Opus 5.5 智能体发现两种室温磁性半导体候选材料",
-      "summaryZh": "Hacker News 上发布消息称，Opus 5.5 智能体发现了两种室温磁性半导体候选材料。该帖子获得294点积分和195条评论。",
+      "rank": 3,
+      "titleZh": "以色列的种族灭绝战争三年如何改变加沙",
+      "summaryZh": "战争摧毁了加沙的经济、教育、医疗、基础设施和公共服务，彻底改变了当地生活。报道回顾了以色列的种族灭绝战争三年间对加沙造成的破坏。",
+      "category": "财经",
+      "regions": [
+        "加沙",
+        "中东"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/7/how-three-years-of-israels-genocidal-war-have-changed-gaza?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-07T05:41:54.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "足球：梅西为阿根廷踢完最后一场比赛",
+      "summaryZh": "阿根廷球星梅西在为国家队打入最后一球后告别国际足坛。对阿根廷足球乃至世界足坛而言，这标志着一个时代的结束。",
+      "category": "体育",
+      "regions": [
+        "阿根廷"
+      ],
+      "heat": {
+        "score": 57,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/football-lionel-messi-plays-final-game-for-argentina/a-79570608?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-07T02:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "Penguin Mail：面向Linux的开源Rust邮件客户端，集成AI",
+      "summaryZh": "Hacker News上出现的Penguin Mail是一个面向Linux的开源Rust电子邮件客户端，带有AI功能，获得143分和60条评论。同一聚合中还有OpenTPU，一个由AI开发的开源AI加速器，获得268分和323条评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 84,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "url": "https://penguin-mail.com/",
           "language": "en",
-          "publishedAt": "2026-10-05T21:00:21.000Z"
+          "publishedAt": "2026-10-06T21:59:43.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://github.com/FeSens/openTPU",
+          "language": "en",
+          "publishedAt": "2026-10-06T16:23:25.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "分享数学领域的人工智能进展",
+      "summaryZh": "Hacker News上关于数学领域AI进展的分享获得711分和644条评论。另一篇相关文章称Erdosproblems.com在AI冲击下沦陷，获得99分和39条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 83,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+          "language": "en",
+          "publishedAt": "2026-10-06T22:17:21.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+          "language": "en",
+          "publishedAt": "2026-10-06T12:53:58.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "Show HN：NanoMuse – 面向手机和电脑的开源AI代理",
+      "summaryZh": "Hacker News上展示的NanoMuse是一个面向手机和电脑的开源AI代理。同一聚合中还有另一个展示项目：一个每天运行十项网络任务的AI代理，所有记录均公开。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 72,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://github.com/nano-muse/nanoMuse",
+          "language": "en",
+          "publishedAt": "2026-10-07T03:30:44.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://agentability.org/",
+          "language": "en",
+          "publishedAt": "2026-10-06T22:00:58.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "魁北克分离主义者在选举中获胜，重燃独立运动",
-      "summaryZh": "魁北克人党在选举中获胜，领导人保罗·圣皮埃尔·普拉蒙东誓言未来将举行脱离加拿大的独立公投。",
+      "titleZh": "利比亚议会罢免议长萨利赫，其任职12年后不满情绪加剧",
+      "summaryZh": "位于东部的利比亚议会投票罢免了长期担任议长的阿吉拉·萨利赫，由阿尔-萨利欣·阿卜杜勒纳比·奥贝迪接替。此举发生在民众不满情绪日益加剧之际，萨利赫已任职12年。",
       "category": "政治",
       "regions": [
-        "加拿大",
-        "魁北克"
+        "利比亚",
+        "中东"
       ],
       "heat": {
-        "score": 63,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/quebec-separatists-win-election-reviving-push-for-independence?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-06T04:34:16.000Z"
+          "publishedAt": "2026-10-07T05:12:55.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "德国新闻：选择党获胜后萨安州议会召开会议",
-      "summaryZh": "在德国萨安州，新一届州议会首次开会，将投票选举由极右翼选择党提名的议长。外交部长警告称，气候危机可能助长极端主义。",
+      "titleZh": "德国极右翼AfD在萨克森-安哈尔特州再创历史",
+      "summaryZh": "德国选择党（AfD）的托比亚斯·劳施在萨克森-安哈尔特州议会当选议长，这是二战后极右翼政党首次在德国州议会获得议长职位。德国外长同时警告，气候危机可能助长极端主义。",
       "category": "政治",
       "regions": [
         "德国",
-        "萨安州"
+        "欧洲"
       ],
       "heat": {
         "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/germany-news-saxony-anhalt-parliament-sits-after-afd-win/live-79558497?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/germany-s-far-right-afd-makes-history-again-in-saxony-anhalt/a-79565146?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-06T13:27:00.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf",
           "language": "en",
           "publishedAt": "2026-10-06T06:21:00.000Z"
         }
@@ -230,24 +246,24 @@
     },
     {
       "rank": 10,
-      "titleZh": "为期两年的学校实验中使用 Khanmigo 进行 AI 辅导",
-      "summaryZh": "Hacker News 上发布了一项为期两年的学校实验，内容涉及使用 Khanmigo 进行 AI 辅导。该帖子获得60点积分和51条评论。",
-      "category": "科技",
+      "titleZh": "美国股市创历史新高，投资者继续押注AI",
+      "summaryZh": "美国标普500指数今年上涨14%，创下历史新高，尽管油价高企且美国政府债务遭遇抛售。投资者持续押注人工智能相关股票。",
+      "category": "财经",
       "regions": [
-        "全球"
+        "美国"
       ],
       "heat": {
-        "score": 63,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://edworkingpapers.com/ai26-1551",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-06T00:00:45.000Z"
+          "publishedAt": "2026-10-07T03:27:20.000Z"
         }
       ]
     }
