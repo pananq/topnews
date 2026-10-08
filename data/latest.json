@@ -1,202 +1,44 @@
 {
-  "generatedAt": "2026-10-07T06:07:19.428Z",
+  "generatedAt": "2026-10-08T06:13:01.751Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "苹果与LG合作推出新智能家居设备，首推门锁、门铃和恒温器",
-      "summaryZh": "据彭博社报道，苹果正与LG合作推出新的智能家居设备，包括视频门铃、恒温器、室内摄像头等。这些产品将使用LG品牌，但会与苹果传闻中的智能家居中枢整合，该中枢预计在10月13日的活动中推出。消息人士称，产品线还包括死栓锁、户外安全摄像头和泛光灯摄像头，部分设备将支持Thread和Matter协议，作为HomeKit平台“正式重启”的一部分。",
+      "titleZh": "软件博客中的反模式",
+      "summaryZh": "Hacker News 上关于软件博客反模式的讨论获得 247 分、131 条评论。同一来源还出现一个关于“AI 模型群体思维”的帖子，获得 24 分、7 条评论。",
       "category": "科技",
       "regions": [
-        "美洲"
+        "全球"
       ],
       "heat": {
-        "score": 85,
-        "sourceCount": 2,
+        "score": 77,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
+          "name": "Hacker News",
+          "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
           "language": "en",
-          "publishedAt": "2026-10-06T21:39:53.000Z"
+          "publishedAt": "2026-10-07T13:08:26.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+          "name": "Hacker News",
+          "url": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/",
           "language": "en",
-          "publishedAt": "2026-10-06T22:53:09.000Z"
+          "publishedAt": "2026-10-07T18:08:38.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "在特朗普阴影下走钢丝的共和党候选人",
-      "summaryZh": "部分参加11月选举的共和党候选人正在权衡是否与一位不受欢迎但仍主导党内的总统保持距离。报道称，这些候选人试图在特朗普的影响力与自身选情之间走钢丝。",
+      "titleZh": "以色列期限过后，英国驻东耶路撒冷领事馆标志被拆除",
+      "summaryZh": "以色列外长下令关闭英国驻被占领东耶路撒冷领事馆已满 30 天，领事馆标志被移除。",
       "category": "政治",
       "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-07T05:00:21.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "以色列的种族灭绝战争三年如何改变加沙",
-      "summaryZh": "战争摧毁了加沙的经济、教育、医疗、基础设施和公共服务，彻底改变了当地生活。报道回顾了以色列的种族灭绝战争三年间对加沙造成的破坏。",
-      "category": "财经",
-      "regions": [
-        "加沙",
-        "中东"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/7/how-three-years-of-israels-genocidal-war-have-changed-gaza?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-07T05:41:54.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "足球：梅西为阿根廷踢完最后一场比赛",
-      "summaryZh": "阿根廷球星梅西在为国家队打入最后一球后告别国际足坛。对阿根廷足球乃至世界足坛而言，这标志着一个时代的结束。",
-      "category": "体育",
-      "regions": [
-        "阿根廷"
-      ],
-      "heat": {
-        "score": 57,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/football-lionel-messi-plays-final-game-for-argentina/a-79570608?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-07T02:35:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "Penguin Mail：面向Linux的开源Rust邮件客户端，集成AI",
-      "summaryZh": "Hacker News上出现的Penguin Mail是一个面向Linux的开源Rust电子邮件客户端，带有AI功能，获得143分和60条评论。同一聚合中还有OpenTPU，一个由AI开发的开源AI加速器，获得268分和323条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 84,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://penguin-mail.com/",
-          "language": "en",
-          "publishedAt": "2026-10-06T21:59:43.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://github.com/FeSens/openTPU",
-          "language": "en",
-          "publishedAt": "2026-10-06T16:23:25.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "分享数学领域的人工智能进展",
-      "summaryZh": "Hacker News上关于数学领域AI进展的分享获得711分和644条评论。另一篇相关文章称Erdosproblems.com在AI冲击下沦陷，获得99分和39条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 83,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-          "language": "en",
-          "publishedAt": "2026-10-06T22:17:21.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-          "language": "en",
-          "publishedAt": "2026-10-06T12:53:58.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "Show HN：NanoMuse – 面向手机和电脑的开源AI代理",
-      "summaryZh": "Hacker News上展示的NanoMuse是一个面向手机和电脑的开源AI代理。同一聚合中还有另一个展示项目：一个每天运行十项网络任务的AI代理，所有记录均公开。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 72,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://github.com/nano-muse/nanoMuse",
-          "language": "en",
-          "publishedAt": "2026-10-07T03:30:44.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://agentability.org/",
-          "language": "en",
-          "publishedAt": "2026-10-06T22:00:58.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "利比亚议会罢免议长萨利赫，其任职12年后不满情绪加剧",
-      "summaryZh": "位于东部的利比亚议会投票罢免了长期担任议长的阿吉拉·萨利赫，由阿尔-萨利欣·阿卜杜勒纳比·奥贝迪接替。此举发生在民众不满情绪日益加剧之际，萨利赫已任职12年。",
-      "category": "政治",
-      "regions": [
-        "利比亚",
         "中东"
       ],
       "heat": {
@@ -208,19 +50,113 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-07T05:12:55.000Z"
+          "publishedAt": "2026-10-08T05:06:25.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "德国极右翼AfD在萨克森-安哈尔特州再创历史",
-      "summaryZh": "德国选择党（AfD）的托比亚斯·劳施在萨克森-安哈尔特州议会当选议长，这是二战后极右翼政党首次在德国州议会获得议长职位。德国外长同时警告，气候危机可能助长极端主义。",
+      "rank": 3,
+      "titleZh": "伊朗战争担忧再起，美股下跌，油价波动",
+      "summaryZh": "因中东供应担忧，油价一度上涨，随后因可能释放更多储备而回落。美国股市下跌。",
+      "category": "财经",
+      "regions": [
+        "美国",
+        "中东"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-08T00:33:03.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "全球抗议纪念10月7日袭击，呼吁加沙停火",
+      "summaryZh": "全球多地示威者走上街头，要求停止以色列对加沙和约旦河西岸的袭击。",
+      "category": "国际",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-08T03:25:47.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "她让印度爱上女子板球——如今她的队长时代结束",
+      "summaryZh": "带领印度赢得2025年世界杯历史性胜利的队长已辞去全部三种赛制的队长职务。",
+      "category": "体育",
+      "regions": [
+        "印度"
+      ],
+      "heat": {
+        "score": 57,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-07T23:31:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "帮助阿波罗11号登月的软件先驱玛格丽特·汉密尔顿去世，享年90岁",
+      "summaryZh": "这位先驱计算机科学家领导了NASA阿波罗任务软件的开发，并被授予总统自由勋章。",
+      "category": "科技",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-08T05:10:40.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "德国新闻：英国伯纳姆与默茨将在柏林讨论安全",
+      "summaryZh": "英国首相安迪·伯纳姆访问柏林，启动与德国的联合安全伙伴关系。总统施泰因迈尔正在对法国进行国事访问。",
       "category": "政治",
       "regions": [
         "德国",
+        "英国",
         "欧洲"
       ],
       "heat": {
@@ -232,25 +168,42 @@
       "sources": [
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/germany-s-far-right-afd-makes-history-again-in-saxony-anhalt/a-79565146?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-06T13:27:00.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-06T06:21:00.000Z"
+          "publishedAt": "2026-10-08T05:50:00.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "美国股市创历史新高，投资者继续押注AI",
-      "summaryZh": "美国标普500指数今年上涨14%，创下历史新高，尽管油价高企且美国政府债务遭遇抛售。投资者持续押注人工智能相关股票。",
-      "category": "财经",
+      "rank": 8,
+      "titleZh": "Meta和微软采取措施减少员工使用Claude AI",
+      "summaryZh": "Hacker News 上该帖子获得 332 分、321 条评论，讨论两家公司限制员工使用 Claude AI。",
+      "category": "科技",
       "regions": [
-        "美国"
+        "全球"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+          "language": "en",
+          "publishedAt": "2026-10-07T18:49:40.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "南苏丹选举之路仍不确定",
+      "summaryZh": "南苏丹首次大选定于12月22日。不安全、政治紧张和选民登记未能启动，令可信选举能否举行存疑。",
+      "category": "政治",
+      "regions": [
+        "南苏丹"
       ],
       "heat": {
         "score": 62,
@@ -260,10 +213,34 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-07T03:27:20.000Z"
+          "publishedAt": "2026-10-08T04:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "纽约法院审理9/11家属对沙特阿拉伯的诉讼",
+      "summaryZh": "家属指控与沙特政府有关联的人士帮助了2001年袭击的实施者。沙特否认这一指控。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "沙特阿拉伯"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-07T23:18:40.000Z"
         }
       ]
     }
