@@ -1,48 +1,45 @@
 {
-  "generatedAt": "2026-10-08T06:13:01.751Z",
+  "generatedAt": "2026-10-09T06:16:22.638Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "软件博客中的反模式",
-      "summaryZh": "Hacker News 上关于软件博客反模式的讨论获得 247 分、131 条评论。同一来源还出现一个关于“AI 模型群体思维”的帖子，获得 24 分、7 条评论。",
+      "titleZh": "佐治亚州ICE被拘留者利用设施视频通话软件揭露内部条件",
+      "summaryZh": "佐治亚州农村ICE拘留中心的四名被拘留者利用设施的视频会议软件，揭露了内部条件以及特朗普对移民法庭的敌意接管。在五分钟的视频中，他们描述了一个故意功能失调的法律系统，旨在让他们在私人拥有的、从关押中获利的设施中被困数月或数年。这段视频让这些人付出了代价。",
       "category": "科技",
       "regions": [
-        "全球"
+        "美国",
+        "佐治亚州",
+        "美洲"
       ],
       "heat": {
-        "score": 77,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 98,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video",
           "language": "en",
-          "publishedAt": "2026-10-07T13:08:26.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/",
-          "language": "en",
-          "publishedAt": "2026-10-07T18:08:38.000Z"
+          "publishedAt": "2026-10-08T19:45:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "以色列期限过后，英国驻东耶路撒冷领事馆标志被拆除",
-      "summaryZh": "以色列外长下令关闭英国驻被占领东耶路撒冷领事馆已满 30 天，领事馆标志被移除。",
-      "category": "政治",
+      "titleZh": "曼城指控：穆里尼奥开玩笑称英超案件将比他活得更久",
+      "summaryZh": "何塞·穆里尼奥长期批评曼城的支出，他开玩笑说英超案件可能比他的寿命还长。有俱乐部据报希望获得赔偿，利物浦是首个受影响的对手。",
+      "category": "体育",
       "regions": [
-        "中东"
+        "英国",
+        "欧洲"
       ],
       "heat": {
-        "score": 64,
+        "score": 70,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -50,89 +47,26 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
+          "url": "https://www.aljazeera.com/sports/2026/10/8/man-city-charges-mourinho-jokes-premier-league-case-will-outlast-him?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-08T05:06:25.000Z"
+          "publishedAt": "2026-10-08T23:31:34.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-08T21:49:30.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "伊朗战争担忧再起，美股下跌，油价波动",
-      "summaryZh": "因中东供应担忧，油价一度上涨，随后因可能释放更多储备而回落。美国股市下跌。",
+      "titleZh": "从亚丁到萨那，也门人艰难度日，生活成本飙升",
+      "summaryZh": "随着战斗加剧，也门人面临加深的经济危机，工资未付和物价上涨。",
       "category": "财经",
       "regions": [
-        "美国",
+        "也门",
         "中东"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-08T00:33:03.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "全球抗议纪念10月7日袭击，呼吁加沙停火",
-      "summaryZh": "全球多地示威者走上街头，要求停止以色列对加沙和约旦河西岸的袭击。",
-      "category": "国际",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-08T03:25:47.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "她让印度爱上女子板球——如今她的队长时代结束",
-      "summaryZh": "带领印度赢得2025年世界杯历史性胜利的队长已辞去全部三种赛制的队长职务。",
-      "category": "体育",
-      "regions": [
-        "印度"
-      ],
-      "heat": {
-        "score": 57,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-07T23:31:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "帮助阿波罗11号登月的软件先驱玛格丽特·汉密尔顿去世，享年90岁",
-      "summaryZh": "这位先驱计算机科学家领导了NASA阿波罗任务软件的开发，并被授予总统自由勋章。",
-      "category": "科技",
-      "regions": [
-        "美国"
       ],
       "heat": {
         "score": 63,
@@ -142,22 +76,22 @@
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-08T05:10:40.000Z"
+          "publishedAt": "2026-10-09T05:53:04.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "德国新闻：英国伯纳姆与默茨将在柏林讨论安全",
-      "summaryZh": "英国首相安迪·伯纳姆访问柏林，启动与德国的联合安全伙伴关系。总统施泰因迈尔正在对法国进行国事访问。",
+      "rank": 4,
+      "titleZh": "印度：蟑螂人民党领袖在德里抗议前指控大规模拘留，谴责“紧急状态”",
+      "summaryZh": "蟑螂人民党声称当局在10月10日计划抗议前进行大规模逮捕。创始人“蟑螂”阿比吉特·迪普克指责莫迪政府“恐吓”。",
       "category": "政治",
       "regions": [
-        "德国",
-        "英国",
-        "欧洲"
+        "印度",
+        "德里",
+        "亚洲"
       ],
       "heat": {
         "score": 63,
@@ -168,22 +102,48 @@
       "sources": [
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/india-cockroach-janta-party-leaders-allege-mass-detentions-ahead-of-delhi-protest-decry-emergency/live-79606961?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-08T05:50:00.000Z"
+          "publishedAt": "2026-10-09T06:04:00.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "Meta和微软采取措施减少员工使用Claude AI",
-      "summaryZh": "Hacker News 上该帖子获得 332 分、321 条评论，讨论两家公司限制员工使用 Claude AI。",
+      "rank": 5,
+      "titleZh": "加沙停火以来以色列每90分钟杀死或伤害一名巴勒斯坦人",
+      "summaryZh": "伊斯兰救济组织呼吁全球行动，因为以色列在加沙的致命袭击继续，人道主义状况恶化。",
+      "category": "国际",
+      "regions": [
+        "加沙",
+        "巴勒斯坦",
+        "以色列",
+        "中东"
+      ],
+      "heat": {
+        "score": 56,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-08T22:54:23.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "HN展示：Jevman – AI决策模型玩吃豆人",
+      "summaryZh": "在Hacker News上，有用户展示了Jevman项目，让AI决策模型玩吃豆人游戏。另一个项目将AI代理放在诺基亚110手机上。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 63,
+        "score": 74,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -191,19 +151,26 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+          "url": "https://opper.ai/jevman-benchmark/",
           "language": "en",
-          "publishedAt": "2026-10-07T18:49:40.000Z"
+          "publishedAt": "2026-10-08T16:34:13.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+          "language": "en",
+          "publishedAt": "2026-10-08T14:18:51.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "南苏丹选举之路仍不确定",
-      "summaryZh": "南苏丹首次大选定于12月22日。不安全、政治紧张和选民登记未能启动，令可信选举能否举行存疑。",
+      "rank": 7,
+      "titleZh": "美国密歇根州参议院辩论关键要点：埃尔-赛义德与罗杰斯对决",
+      "summaryZh": "民主党人阿卜杜勒·埃尔-赛义德和共和党人迈克·罗杰斯在参议院竞选中势均力敌。",
       "category": "政治",
       "regions": [
-        "南苏丹"
+        "美国",
+        "密歇根州"
       ],
       "heat": {
         "score": 62,
@@ -213,21 +180,21 @@
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-08T04:20:00.000Z"
+          "publishedAt": "2026-10-09T02:00:31.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "纽约法院审理9/11家属对沙特阿拉伯的诉讼",
-      "summaryZh": "家属指控与沙特政府有关联的人士帮助了2001年袭击的实施者。沙特否认这一指控。",
+      "rank": 8,
+      "titleZh": "西班牙抗议象征87岁的马里卡门去世后引发抗议和辩论",
+      "summaryZh": "数千名抗议者纪念马里卡门·阿巴斯卡尔的生平，西班牙议会的悼念活动引发辩论。",
       "category": "政治",
       "regions": [
-        "美国",
-        "沙特阿拉伯"
+        "西班牙",
+        "欧洲"
       ],
       "heat": {
         "score": 61,
@@ -237,10 +204,56 @@
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-07T23:18:40.000Z"
+          "publishedAt": "2026-10-09T01:15:49.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "AI就绪的生物数据：18亿美元全球承诺",
+      "summaryZh": "在Hacker News上，一项18亿美元的全球承诺旨在推动AI就绪的生物数据。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+          "language": "en",
+          "publishedAt": "2026-10-08T20:46:25.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "HN展示：Edi Life OS – 自托管生活仪表板，配有AI的MCP服务器",
+      "summaryZh": "在Hacker News上，用户展示了Edi Life OS，一个自托管的生活仪表板，包含用于AI的MCP服务器。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://github.com/edrisranjbar/lifeos",
+          "language": "en",
+          "publishedAt": "2026-10-09T00:02:19.000Z"
         }
       ]
     }
