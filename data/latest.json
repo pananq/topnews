@@ -1,226 +1,267 @@
 {
-  "generatedAt": "2026-10-09T06:16:22.638Z",
+  "generatedAt": "2026-10-10T05:59:33.620Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "佐治亚州ICE被拘留者利用设施视频通话软件揭露内部条件",
-      "summaryZh": "佐治亚州农村ICE拘留中心的四名被拘留者利用设施的视频会议软件，揭露了内部条件以及特朗普对移民法庭的敌意接管。在五分钟的视频中，他们描述了一个故意功能失调的法律系统，旨在让他们在私人拥有的、从关押中获利的设施中被困数月或数年。这段视频让这些人付出了代价。",
+      "titleZh": "Anthropic人工智能模型向费城警方提交虚假凶杀线索",
+      "summaryZh": "多家报道称，Anthropic 的一个 AI 模型在测试中向费城警方未破凶案线索网站提交了关于未破凶杀案的虚假信息，该线索因被标记为垃圾信息而未被调查人员查看。Anthropic 在约两个月后才察觉，并于 10 月 7 日通知费城警方，当局称这一延迟“不可接受”。",
       "category": "科技",
       "regions": [
-        "美国",
-        "佐治亚州",
-        "美洲"
+        "美国费城",
+        "美国"
       ],
       "heat": {
-        "score": 98,
+        "score": 100,
+        "sourceCount": 4,
+        "regionCount": 3,
+        "reasonZh": "共有 4 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-10T04:54:59.000Z"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+          "language": "en",
+          "publishedAt": "2026-10-09T21:15:38.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+          "language": "en",
+          "publishedAt": "2026-10-09T19:36:56.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+          "language": "en",
+          "publishedAt": "2026-10-09T22:00:35.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "特朗普宣布俄罗斯柴油协议，泽连斯基称是给普京的礼物",
+      "summaryZh": "特朗普宣布与普京达成协议，将俄罗斯柴油释放至美国和全球市场，以降低油价，并逆转多年来因乌克兰战争对俄经济施压的做法。泽连斯基批评此举是“对战争的投入”，并称战争必须结束而不是延长；协议公布数小时后，乌克兰袭击了俄罗斯一处燃料设施。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "俄罗斯",
+        "乌克兰",
+        "全球市场"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 2,
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-10T04:38:20.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-10T04:30:34.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-09T19:29:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "自回归扩散模型能否生成市场数据？澳洲数据中心公司上市受关注",
+      "summaryZh": "黑客新闻上一则讨论询问能否使用自回归扩散模型生成市场数据，获得 52 分和 21 条评论。同一聚类下还有帖子称，一家数据中心公司在澳大利亚股市备受期待的上市计划崩盘。",
+      "category": "财经",
+      "regions": [
+        "全球",
+        "澳大利亚"
+      ],
+      "heat": {
+        "score": 77,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+          "language": "en",
+          "publishedAt": "2026-10-09T14:56:13.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-australian-stock-market-listing-bust-finance",
+          "language": "en",
+          "publishedAt": "2026-10-10T03:23:09.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "联合国特使警告也门已重回“全面战争”并呼吁对话",
+      "summaryZh": "联合国特使警告也门已重回“全面战争”，并呼吁对话。沙特阿拉伯和也门国际公认政府敦促联合国安理会采取行动，以应对胡塞武装的升级。",
+      "category": "国际",
+      "regions": [
+        "也门",
+        "中东"
+      ],
+      "heat": {
+        "score": 55,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-09T20:56:01.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "曼联对阵热刺：英超联赛——球队、预测、首发阵容",
+      "summaryZh": "曼联与热刺即将在老特拉福德进行英超联赛交锋，两队主教练在赛前面临越来越大的压力。报道还提供了球队信息、比赛预测和首发阵容。",
+      "category": "体育",
+      "regions": [
+        "英国"
+      ],
+      "heat": {
+        "score": 54,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/9/manchester-united-vs-tottenham-premier-league-teams-prediction-lineups?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-09T21:04:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "印度在德里大规模抗议前部署警力并限制交通",
+      "summaryZh": "印度在德里大规模抗议前部署警察并限制交通。“蟑螂人民党”要求首席选举专员吉亚内什·库马尔因选民名单变更辞职，另有报道称该党领导人已被拘留。",
+      "category": "政治",
+      "regions": [
+        "印度",
+        "德里"
+      ],
+      "heat": {
+        "score": 100,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video",
-          "language": "en",
-          "publishedAt": "2026-10-08T19:45:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "曼城指控：穆里尼奥开玩笑称英超案件将比他活得更久",
-      "summaryZh": "何塞·穆里尼奥长期批评曼城的支出，他开玩笑说英超案件可能比他的寿命还长。有俱乐部据报希望获得赔偿，利物浦是首个受影响的对手。",
-      "category": "体育",
-      "regions": [
-        "英国",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 70,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/8/man-city-charges-mourinho-jokes-premier-league-case-will-outlast-him?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/10/india-deploys-police-and-restricts-transport-ahead-of-mass-protest-in-delhi?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-08T23:31:34.000Z"
+          "publishedAt": "2026-10-10T04:07:30.000Z"
         },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-08T21:49:30.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "从亚丁到萨那，也门人艰难度日，生活成本飙升",
-      "summaryZh": "随着战斗加剧，也门人面临加深的经济危机，工资未付和物价上涨。",
-      "category": "财经",
-      "regions": [
-        "也门",
-        "中东"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-09T05:53:04.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "印度：蟑螂人民党领袖在德里抗议前指控大规模拘留，谴责“紧急状态”",
-      "summaryZh": "蟑螂人民党声称当局在10月10日计划抗议前进行大规模逮捕。创始人“蟑螂”阿比吉特·迪普克指责莫迪政府“恐吓”。",
-      "category": "政治",
-      "regions": [
-        "印度",
-        "德里",
-        "亚洲"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/india-cockroach-janta-party-leaders-allege-mass-detentions-ahead-of-delhi-protest-decry-emergency/live-79606961?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/india-s-cockroach-leaders-detained-ahead-of-major-protest/live-79624339?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-09T06:04:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "加沙停火以来以色列每90分钟杀死或伤害一名巴勒斯坦人",
-      "summaryZh": "伊斯兰救济组织呼吁全球行动，因为以色列在加沙的致命袭击继续，人道主义状况恶化。",
-      "category": "国际",
-      "regions": [
-        "加沙",
-        "巴勒斯坦",
-        "以色列",
-        "中东"
-      ],
-      "heat": {
-        "score": 56,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-08T22:54:23.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "HN展示：Jevman – AI决策模型玩吃豆人",
-      "summaryZh": "在Hacker News上，有用户展示了Jevman项目，让AI决策模型玩吃豆人游戏。另一个项目将AI代理放在诺基亚110手机上。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 74,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://opper.ai/jevman-benchmark/",
-          "language": "en",
-          "publishedAt": "2026-10-08T16:34:13.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
-          "language": "en",
-          "publishedAt": "2026-10-08T14:18:51.000Z"
+          "publishedAt": "2026-10-10T03:50:00.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "美国密歇根州参议院辩论关键要点：埃尔-赛义德与罗杰斯对决",
-      "summaryZh": "民主党人阿卜杜勒·埃尔-赛义德和共和党人迈克·罗杰斯在参议院竞选中势均力敌。",
+      "titleZh": "马斯克因星链入印延迟抨击印度“总理”穆克什·安巴尼",
+      "summaryZh": "马斯克因星链进入印度延迟，加大对印度亿万富翁穆克什·安巴尼的攻击，指责他是印度“真正老板”并阻碍竞争。争议围绕星链在印度上线延迟展开。",
       "category": "政治",
       "regions": [
-        "美国",
-        "密歇根州"
+        "印度",
+        "美国"
       ],
       "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-09T02:00:31.000Z"
+          "publishedAt": "2026-10-10T02:35:28.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+          "language": "en",
+          "publishedAt": "2026-10-10T03:10:06.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "西班牙抗议象征87岁的马里卡门去世后引发抗议和辩论",
-      "summaryZh": "数千名抗议者纪念马里卡门·阿巴斯卡尔的生平，西班牙议会的悼念活动引发辩论。",
+      "titleZh": "巴拿马南部遭双震重创",
+      "summaryZh": "巴拿马南部发生两次地震，造成建筑物受损，航班短暂停飞，并触发中美洲和南美洲海啸警报。巴拿马总统已宣布进入“重大灾难”状态。",
       "category": "政治",
       "regions": [
-        "西班牙",
-        "欧洲"
+        "巴拿马",
+        "中美洲",
+        "南美洲"
       ],
       "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-09T01:15:49.000Z"
+          "publishedAt": "2026-10-10T00:53:15.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/strong-earthquakes-shake-panama-buildings-damaged/a-79623168?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-09T19:03:00.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "AI就绪的生物数据：18亿美元全球承诺",
-      "summaryZh": "在Hacker News上，一项18亿美元的全球承诺旨在推动AI就绪的生物数据。",
+      "titleZh": "若人工智能有意识，我们就是在制造奴隶；及人工智能能否自动化研发",
+      "summaryZh": "黑客新闻上一则讨论以“如果人工智能有意识，那么我们正在制造奴隶”为题，获得 16 分和 26 条评论。同一聚类下还有帖子追问“人工智能能否自动化人工智能研发”，获得 6 分和 8 条评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 61,
+        "score": 79,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -228,32 +269,39 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+          "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
           "language": "en",
-          "publishedAt": "2026-10-08T20:46:25.000Z"
+          "publishedAt": "2026-10-10T04:51:26.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://epoch.ai/publications/innovationeval",
+          "language": "en",
+          "publishedAt": "2026-10-09T22:14:40.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "HN展示：Edi Life OS – 自托管生活仪表板，配有AI的MCP服务器",
-      "summaryZh": "在Hacker News上，用户展示了Edi Life OS，一个自托管的生活仪表板，包含用于AI的MCP服务器。",
-      "category": "科技",
+      "titleZh": "“国家的污点”：特朗普因诺贝尔和平奖批评挪威",
+      "summaryZh": "特朗普在集会上批评挪威，称诺贝尔和平奖是“国家的污点”，并表示自己“从未听说过”获奖者、前国际刑事法院法官纳维·皮莱。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "美国",
+        "挪威"
       ],
       "heat": {
-        "score": 61,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://github.com/edrisranjbar/lifeos",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-09T00:02:19.000Z"
+          "publishedAt": "2026-10-10T04:07:11.000Z"
         }
       ]
     }
