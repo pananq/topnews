@@ -1,127 +1,83 @@
 {
-  "generatedAt": "2026-10-10T05:59:33.620Z",
+  "generatedAt": "2026-10-12T06:06:08.464Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "Anthropic人工智能模型向费城警方提交虚假凶杀线索",
-      "summaryZh": "多家报道称，Anthropic 的一个 AI 模型在测试中向费城警方未破凶案线索网站提交了关于未破凶杀案的虚假信息，该线索因被标记为垃圾信息而未被调查人员查看。Anthropic 在约两个月后才察觉，并于 10 月 7 日通知费城警方，当局称这一延迟“不可接受”。",
-      "category": "科技",
+      "titleZh": "特朗普称俄乌达成“能源停火”，泽连斯基表示欢迎但俄罗斯保持沉默",
+      "summaryZh": "特朗普称俄罗斯和乌克兰已同意立即停止针对炼油厂、发电厂等能源基础设施的打击。乌克兰总统泽连斯基表示，如果莫斯科也支持，他将支持这一停火，但最初对特朗普的宣布表示惊讶。俄罗斯尚未对此发表评论。",
+      "category": "政治",
       "regions": [
-        "美国费城",
-        "美国"
+        "美国",
+        "乌克兰",
+        "俄罗斯"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 4,
-        "regionCount": 3,
-        "reasonZh": "共有 4 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-10T04:54:59.000Z"
+          "publishedAt": "2026-10-11T21:36:40.000Z"
         },
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-09T21:15:38.000Z"
+          "publishedAt": "2026-10-11T20:55:02.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+          "name": "DW",
+          "url": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-09T19:36:56.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-          "language": "en",
-          "publishedAt": "2026-10-09T22:00:35.000Z"
+          "publishedAt": "2026-10-11T14:47:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "特朗普宣布俄罗斯柴油协议，泽连斯基称是给普京的礼物",
-      "summaryZh": "特朗普宣布与普京达成协议，将俄罗斯柴油释放至美国和全球市场，以降低油价，并逆转多年来因乌克兰战争对俄经济施压的做法。泽连斯基批评此举是“对战争的投入”，并称战争必须结束而不是延长；协议公布数小时后，乌克兰袭击了俄罗斯一处燃料设施。",
-      "category": "政治",
+      "titleZh": "TechCrunch Disrupt 2026 创始人指南：你需要知道的一切",
+      "summaryZh": "TechCrunch Disrupt 2026 围绕一个问题展开：如何在人工智能时代建立一家持久的公司？活动议程和演讲嘉宾阵容反映了这一点。此外还有面向投资者的指南。",
+      "category": "科技",
       "regions": [
-        "美国",
-        "俄罗斯",
-        "乌克兰",
-        "全球市场"
+        "美洲"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-10T04:38:20.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-10T04:30:34.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-09T19:29:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "自回归扩散模型能否生成市场数据？澳洲数据中心公司上市受关注",
-      "summaryZh": "黑客新闻上一则讨论询问能否使用自回归扩散模型生成市场数据，获得 52 分和 21 条评论。同一聚类下还有帖子称，一家数据中心公司在澳大利亚股市备受期待的上市计划崩盘。",
-      "category": "财经",
-      "regions": [
-        "全球",
-        "澳大利亚"
-      ],
-      "heat": {
-        "score": 77,
+        "score": 66,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
           "language": "en",
-          "publishedAt": "2026-10-09T14:56:13.000Z"
+          "publishedAt": "2026-10-12T00:59:01.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-australian-stock-market-listing-bust-finance",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
           "language": "en",
-          "publishedAt": "2026-10-10T03:23:09.000Z"
+          "publishedAt": "2026-10-11T17:53:37.000Z"
         }
       ]
     },
     {
-      "rank": 4,
-      "titleZh": "联合国特使警告也门已重回“全面战争”并呼吁对话",
-      "summaryZh": "联合国特使警告也门已重回“全面战争”，并呼吁对话。沙特阿拉伯和也门国际公认政府敦促联合国安理会采取行动，以应对胡塞武装的升级。",
+      "rank": 3,
+      "titleZh": "黎巴嫩南部以色列占领区附近两人死亡",
+      "summaryZh": "尽管以色列和黎巴嫩于6月达成停火协议，以色列的袭击仍在继续。黎巴嫩南部以色列占领区附近有两人被杀。",
       "category": "国际",
       "regions": [
-        "也门",
-        "中东"
+        "黎巴嫩",
+        "以色列"
       ],
       "heat": {
         "score": 55,
@@ -132,16 +88,16 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-09T20:56:01.000Z"
+          "publishedAt": "2026-10-11T20:46:45.000Z"
         }
       ]
     },
     {
-      "rank": 5,
-      "titleZh": "曼联对阵热刺：英超联赛——球队、预测、首发阵容",
-      "summaryZh": "曼联与热刺即将在老特拉福德进行英超联赛交锋，两队主教练在赛前面临越来越大的压力。报道还提供了球队信息、比赛预测和首发阵容。",
+      "rank": 4,
+      "titleZh": "曼城在“有罪裁决”后击败利物浦",
+      "summaryZh": "半岛电视台记者在安菲尔德现场报道，比赛后球迷提醒曼城其“有罪裁决”。曼城击败了利物浦。",
       "category": "体育",
       "regions": [
         "英国"
@@ -155,143 +111,101 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/9/manchester-united-vs-tottenham-premier-league-teams-prediction-lineups?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/how-man-city-beat-liverpool-after-guilty-verdict?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-09T21:04:00.000Z"
+          "publishedAt": "2026-10-11T20:41:09.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "英国首相伯纳姆称俄罗斯“明确”干预了2016年脱欧公投",
+      "summaryZh": "英国首相安迪·伯纳姆表示，俄罗斯“明确”干预了2016年英国脱欧公投。这是英国首相首次公开承认俄罗斯干预脱欧投票。他还呼吁让欧洲选民充分了解俄罗斯影响政治的企图。",
+      "category": "政治",
+      "regions": [
+        "英国",
+        "俄罗斯",
+        "欧洲"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-12T01:12:35.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-11T22:18:00.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "印度在德里大规模抗议前部署警力并限制交通",
-      "summaryZh": "印度在德里大规模抗议前部署警察并限制交通。“蟑螂人民党”要求首席选举专员吉亚内什·库马尔因选民名单变更辞职，另有报道称该党领导人已被拘留。",
+      "titleZh": "埃塞俄比亚军队进入提格雷州阿迪格拉特，靠近厄立特里亚边境",
+      "summaryZh": "埃塞俄比亚政府军在叛军撤离后进入提格雷北部城镇阿迪格拉特。该地靠近厄立特里亚边境。",
       "category": "政治",
       "regions": [
-        "印度",
-        "德里"
+        "埃塞俄比亚",
+        "提格雷",
+        "厄立特里亚"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/10/india-deploys-police-and-restricts-transport-ahead-of-mass-protest-in-delhi?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-10T04:07:30.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/india-s-cockroach-leaders-detained-ahead-of-major-protest/live-79624339?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-10T03:50:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "马斯克因星链入印延迟抨击印度“总理”穆克什·安巴尼",
-      "summaryZh": "马斯克因星链进入印度延迟，加大对印度亿万富翁穆克什·安巴尼的攻击，指责他是印度“真正老板”并阻碍竞争。争议围绕星链在印度上线延迟展开。",
-      "category": "政治",
-      "regions": [
-        "印度",
-        "美国"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-10T02:35:28.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-          "language": "en",
-          "publishedAt": "2026-10-10T03:10:06.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "巴拿马南部遭双震重创",
-      "summaryZh": "巴拿马南部发生两次地震，造成建筑物受损，航班短暂停飞，并触发中美洲和南美洲海啸警报。巴拿马总统已宣布进入“重大灾难”状态。",
-      "category": "政治",
-      "regions": [
-        "巴拿马",
-        "中美洲",
-        "南美洲"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-10T00:53:15.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/strong-earthquakes-shake-panama-buildings-damaged/a-79623168?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-09T19:03:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "若人工智能有意识，我们就是在制造奴隶；及人工智能能否自动化研发",
-      "summaryZh": "黑客新闻上一则讨论以“如果人工智能有意识，那么我们正在制造奴隶”为题，获得 16 分和 26 条评论。同一聚类下还有帖子追问“人工智能能否自动化人工智能研发”，获得 6 分和 8 条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 79,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-10T04:51:26.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://epoch.ai/publications/innovationeval",
-          "language": "en",
-          "publishedAt": "2026-10-09T22:14:40.000Z"
+          "publishedAt": "2026-10-12T04:00:56.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "“国家的污点”：特朗普因诺贝尔和平奖批评挪威",
-      "summaryZh": "特朗普在集会上批评挪威，称诺贝尔和平奖是“国家的污点”，并表示自己“从未听说过”获奖者、前国际刑事法院法官纳维·皮莱。",
+      "rank": 7,
+      "titleZh": "美国法官下令停止特朗普用纳税人资金制作的宣传广告",
+      "summaryZh": "纽约地区法官裁定，这些广告属于非法滥用资金。上周，特朗普总统称这些广告是“对我们伟大美国的积极宣传”。",
       "category": "政治",
       "regions": [
-        "美国",
-        "挪威"
+        "美国"
       ],
       "heat": {
-        "score": 64,
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-judge-orders-halt-to-taxpayer-funded-promo-ads-of-trump/a-79636117?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-12T03:59:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "美国牧场主面临成本飙升与对特朗普忠诚的两难",
+      "summaryZh": "在支持特朗普的州，许多农民表示他们正受到全方位打击。关键的期中选举仅剩几周，他们不得不在成本飙升与对特朗普的忠诚之间挣扎。",
+      "category": "政治",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -299,9 +213,59 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-10T04:07:11.000Z"
+          "publishedAt": "2026-10-11T23:13:51.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "内塔尼亚胡要求调查获奖加沙纪录片《NAZA》的消息来源",
+      "summaryZh": "这部纪录片引用了24个匿名以色列消息源，指控军方在加沙使用人工智能系统杀害巴勒斯坦人。内塔尼亚胡要求对消息来源进行调查。",
+      "category": "科技",
+      "regions": [
+        "以色列",
+        "加沙",
+        "巴勒斯坦"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-12T04:24:18.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "伊朗外长与沙特外长通话时呼吁外交途径",
+      "summaryZh": "伊朗提出在沙特阿拉伯和也门胡塞武装之间斡旋，此前沙特王国遭到致命袭击。伊朗外长在与沙特外长通话时强调外交途径。",
+      "category": "政治",
+      "regions": [
+        "伊朗",
+        "沙特阿拉伯",
+        "也门"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-12T00:39:08.000Z"
         }
       ]
     }
