@@ -1,162 +1,121 @@
 {
-  "generatedAt": "2026-10-12T06:06:08.464Z",
+  "generatedAt": "2026-10-13T06:51:21.169Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普称俄乌达成“能源停火”，泽连斯基表示欢迎但俄罗斯保持沉默",
-      "summaryZh": "特朗普称俄罗斯和乌克兰已同意立即停止针对炼油厂、发电厂等能源基础设施的打击。乌克兰总统泽连斯基表示，如果莫斯科也支持，他将支持这一停火，但最初对特朗普的宣布表示惊讶。俄罗斯尚未对此发表评论。",
+      "titleZh": "泽连斯基称特朗普宣布停火以来俄罗斯已袭击六处乌克兰能源设施",
+      "summaryZh": "泽连斯基表示，自特朗普宣布能源停火以来，俄罗斯仍袭击了乌克兰六处能源设施。尽管美方称能源基础设施不会成为打击目标，乌克兰称袭击仍在继续。克里姆林宫表示只会考虑为选举实施一天停火。",
       "category": "政治",
       "regions": [
-        "美国",
         "乌克兰",
-        "俄罗斯"
+        "俄罗斯",
+        "美国",
+        "欧洲"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "sourceCount": 3,
+        "regionCount": 2,
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-11T21:36:40.000Z"
+          "publishedAt": "2026-10-12T21:20:51.000Z"
         },
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-11T20:55:02.000Z"
+          "publishedAt": "2026-10-13T03:11:19.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-11T14:47:00.000Z"
+          "publishedAt": "2026-10-12T11:54:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "TechCrunch Disrupt 2026 创始人指南：你需要知道的一切",
-      "summaryZh": "TechCrunch Disrupt 2026 围绕一个问题展开：如何在人工智能时代建立一家持久的公司？活动议程和演讲嘉宾阵容反映了这一点。此外还有面向投资者的指南。",
-      "category": "科技",
-      "regions": [
-        "美洲"
-      ],
-      "heat": {
-        "score": 66,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "language": "en",
-          "publishedAt": "2026-10-12T00:59:01.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "language": "en",
-          "publishedAt": "2026-10-11T17:53:37.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "黎巴嫩南部以色列占领区附近两人死亡",
-      "summaryZh": "尽管以色列和黎巴嫩于6月达成停火协议，以色列的袭击仍在继续。黎巴嫩南部以色列占领区附近有两人被杀。",
+      "titleZh": "分析：特朗普的能源停火对乌克兰意味着什么？",
+      "summaryZh": "BBC 从基辅报道，乌克兰人正面临又一个电力中断的冬天。特朗普坚称能源停火仍然有效，并称已与泽连斯基和普京达成停止袭击能源设施的共识；但乌克兰报告俄方有新的袭击。",
       "category": "国际",
       "regions": [
-        "黎巴嫩",
-        "以色列"
-      ],
-      "heat": {
-        "score": 55,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-11T20:46:45.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "曼城在“有罪裁决”后击败利物浦",
-      "summaryZh": "半岛电视台记者在安菲尔德现场报道，比赛后球迷提醒曼城其“有罪裁决”。曼城击败了利物浦。",
-      "category": "体育",
-      "regions": [
-        "英国"
-      ],
-      "heat": {
-        "score": 54,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/how-man-city-beat-liverpool-after-guilty-verdict?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-11T20:41:09.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "英国首相伯纳姆称俄罗斯“明确”干预了2016年脱欧公投",
-      "summaryZh": "英国首相安迪·伯纳姆表示，俄罗斯“明确”干预了2016年英国脱欧公投。这是英国首相首次公开承认俄罗斯干预脱欧投票。他还呼吁让欧洲选民充分了解俄罗斯影响政治的企图。",
-      "category": "政治",
-      "regions": [
-        "英国",
+        "乌克兰",
+        "美国",
         "俄罗斯",
         "欧洲"
       ],
       "heat": {
-        "score": 100,
+        "score": 99,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-12T01:12:35.000Z"
+          "publishedAt": "2026-10-12T15:51:30.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-11T22:18:00.000Z"
+          "publishedAt": "2026-10-13T03:30:23.000Z"
         }
       ]
     },
     {
-      "rank": 6,
-      "titleZh": "埃塞俄比亚军队进入提格雷州阿迪格拉特，靠近厄立特里亚边境",
-      "summaryZh": "埃塞俄比亚政府军在叛军撤离后进入提格雷北部城镇阿迪格拉特。该地靠近厄立特里亚边境。",
-      "category": "政治",
+      "rank": 3,
+      "titleZh": "AI 是工具，善用需技巧",
+      "summaryZh": "Hacker News 讨论帖认为 AI 是工具，用好它需要技能。另一篇由 Rich Hickey 所著的文章则提出“AI 不是工具”的观点，引发讨论。",
+      "category": "科技",
       "regions": [
-        "埃塞俄比亚",
-        "提格雷",
-        "厄立特里亚"
+        "全球"
+      ],
+      "heat": {
+        "score": 85,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+          "language": "en",
+          "publishedAt": "2026-10-12T21:40:18.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+          "language": "en",
+          "publishedAt": "2026-10-12T18:00:25.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "IMF：受战争影响，中东和中亚经济将在 2026 年萎缩",
+      "summaryZh": "IMF 表示，受战争影响，中东和中亚经济预计在 2026 年萎缩。受美国-以色列对伊朗战争的影响，伊拉克、巴林、科威特和卡塔尔面临 GDP 两位数的下滑。",
+      "category": "财经",
+      "regions": [
+        "中东",
+        "中亚",
+        "伊拉克",
+        "巴林",
+        "科威特",
+        "卡塔尔",
+        "伊朗"
       ],
       "heat": {
         "score": 63,
@@ -167,45 +126,151 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-12T04:00:56.000Z"
+          "publishedAt": "2026-10-13T05:59:48.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "美国法官下令停止特朗普用纳税人资金制作的宣传广告",
-      "summaryZh": "纽约地区法官裁定，这些广告属于非法滥用资金。上周，特朗普总统称这些广告是“对我们伟大美国的积极宣传”。",
-      "category": "政治",
+      "rank": 5,
+      "titleZh": "C罗在比赛因导弹警报中断后挥舞沙特国旗围巾",
+      "summaryZh": "葡萄牙球星克里斯蒂亚诺·罗纳尔多在利雅得胜利获胜后，挥舞带有沙特国旗的围巾。此前比赛因导弹警报中断。",
+      "category": "体育",
       "regions": [
-        "美国"
+        "沙特阿拉伯",
+        "中东"
       ],
       "heat": {
-        "score": 62,
+        "score": 59,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-judge-orders-halt-to-taxpayer-funded-promo-ads-of-trump/a-79636117?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-clip-ronaldowears-saudi-shawl-ksa?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-12T03:59:00.000Z"
+          "publishedAt": "2026-10-13T04:09:52.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "数千人游行至印度最高法院，要求选举负责人辞职",
+      "summaryZh": "数千名抗议者游行至印度最高法院，要求首席选举专员吉亚内什·库马尔辞职。此前德里经历混乱周末，数千名抗议者被警方拘留。反对党正加大施压。",
+      "category": "政治",
+      "regions": [
+        "印度",
+        "德里"
+      ],
+      "heat": {
+        "score": 85,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-12T15:19:17.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/india-news-opposition-parties-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-12T09:38:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "第七条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "美洲"
+      ],
+      "heat": {
+        "score": 81,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+          "language": "en",
+          "publishedAt": "2026-10-12T17:00:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "language": "en",
+          "publishedAt": "2026-10-12T17:56:56.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "美国牧场主面临成本飙升与对特朗普忠诚的两难",
-      "summaryZh": "在支持特朗普的州，许多农民表示他们正受到全方位打击。关键的期中选举仅剩几周，他们不得不在成本飙升与对特朗普的忠诚之间挣扎。",
+      "titleZh": "研究称 AI 模型可证明地隐藏任意能力",
+      "summaryZh": "Hacker News 上一条讨论指出，AI 模型能够可证明地隐藏任意能力。该帖获得 136 分和 70 条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://arxiv.org/abs/2610.13928",
+          "language": "en",
+          "publishedAt": "2026-10-13T02:07:08.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "IMF：AI 股票崩盘威胁危及全球金融稳定",
+      "summaryZh": "IMF 表示，AI 相关股票崩盘的威胁可能危及全球金融稳定。该内容在 Hacker News 上引发讨论，获 34 分和 14 条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+          "language": "en",
+          "publishedAt": "2026-10-13T05:57:32.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "美国中期选举的胜负关键在哪里",
+      "summaryZh": "BBC 深入分析美国中期选举前的关键民调、选情和议题。这场选举将定义特朗普总统任期的最后两年。",
       "category": "政治",
       "regions": [
         "美国"
       ],
       "heat": {
-        "score": 61,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -213,59 +278,9 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-11T23:13:51.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "内塔尼亚胡要求调查获奖加沙纪录片《NAZA》的消息来源",
-      "summaryZh": "这部纪录片引用了24个匿名以色列消息源，指控军方在加沙使用人工智能系统杀害巴勒斯坦人。内塔尼亚胡要求对消息来源进行调查。",
-      "category": "科技",
-      "regions": [
-        "以色列",
-        "加沙",
-        "巴勒斯坦"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-12T04:24:18.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "伊朗外长与沙特外长通话时呼吁外交途径",
-      "summaryZh": "伊朗提出在沙特阿拉伯和也门胡塞武装之间斡旋，此前沙特王国遭到致命袭击。伊朗外长在与沙特外长通话时强调外交途径。",
-      "category": "政治",
-      "regions": [
-        "伊朗",
-        "沙特阿拉伯",
-        "也门"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-12T00:39:08.000Z"
+          "publishedAt": "2026-10-13T05:02:44.000Z"
         }
       ]
     }
