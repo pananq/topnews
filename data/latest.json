@@ -1,19 +1,17 @@
 {
-  "generatedAt": "2026-10-13T06:51:21.169Z",
+  "generatedAt": "2026-10-14T04:59:57.121Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "泽连斯基称特朗普宣布停火以来俄罗斯已袭击六处乌克兰能源设施",
-      "summaryZh": "泽连斯基表示，自特朗普宣布能源停火以来，俄罗斯仍袭击了乌克兰六处能源设施。尽管美方称能源基础设施不会成为打击目标，乌克兰称袭击仍在继续。克里姆林宫表示只会考虑为选举实施一天停火。",
-      "category": "政治",
+      "titleZh": "OpenAI员工因在会议室安装窃听设备被捕",
+      "summaryZh": "OpenAI一名员工被发现在公司会议室安装监听设备，随后被捕。该员工为35岁沙特籍工程师Abdulrahman Alfozan，被控使用设备拦截口头通信。FBI局长表示，其目的是获取公司超级智能技术的敏感通信。",
+      "category": "科技",
       "regions": [
-        "乌克兰",
-        "俄罗斯",
         "美国",
-        "欧洲"
+        "沙特阿拉伯"
       ],
       "heat": {
         "score": 100,
@@ -23,99 +21,56 @@
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-12T21:20:51.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-13T03:11:19.000Z"
-        },
-        {
           "name": "DW",
-          "url": "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-12T11:54:00.000Z"
+          "publishedAt": "2026-10-13T21:24:00.000Z"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+          "language": "en",
+          "publishedAt": "2026-10-13T20:45:25.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+          "language": "en",
+          "publishedAt": "2026-10-13T20:59:11.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "分析：特朗普的能源停火对乌克兰意味着什么？",
-      "summaryZh": "BBC 从基辅报道，乌克兰人正面临又一个电力中断的冬天。特朗普坚称能源停火仍然有效，并称已与泽连斯基和普京达成停止袭击能源设施的共识；但乌克兰报告俄方有新的袭击。",
-      "category": "国际",
+      "titleZh": "泽连斯基称俄罗斯袭击基辅关键发电厂",
+      "summaryZh": "乌克兰总统泽连斯基表示，俄罗斯对基辅一座关键发电厂发动了弹道导弹袭击。他称袭击没有提前预警。",
+      "category": "政治",
       "regions": [
         "乌克兰",
-        "美国",
-        "俄罗斯",
-        "欧洲"
+        "俄罗斯"
       ],
       "heat": {
-        "score": 99,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-12T15:51:30.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-13T03:30:23.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "AI 是工具，善用需技巧",
-      "summaryZh": "Hacker News 讨论帖认为 AI 是工具，用好它需要技能。另一篇由 Rich Hickey 所著的文章则提出“AI 不是工具”的观点，引发讨论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 85,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-12T21:40:18.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-          "language": "en",
-          "publishedAt": "2026-10-12T18:00:25.000Z"
+          "publishedAt": "2026-10-14T04:36:06.000Z"
         }
       ]
     },
     {
-      "rank": 4,
-      "titleZh": "IMF：受战争影响，中东和中亚经济将在 2026 年萎缩",
-      "summaryZh": "IMF 表示，受战争影响，中东和中亚经济预计在 2026 年萎缩。受美国-以色列对伊朗战争的影响，伊拉克、巴林、科威特和卡塔尔面临 GDP 两位数的下滑。",
+      "rank": 3,
+      "titleZh": "新加坡经济在AI热潮中增长超过5%",
+      "summaryZh": "根据政府初步估计，新加坡第三季度GDP同比增长5.4%。这一增长主要受人工智能热潮推动。",
       "category": "财经",
       "regions": [
-        "中东",
-        "中亚",
-        "伊拉克",
-        "巴林",
-        "科威特",
-        "卡塔尔",
-        "伊朗"
+        "新加坡"
       ],
       "heat": {
         "score": 63,
@@ -126,20 +81,21 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-13T05:59:48.000Z"
+          "publishedAt": "2026-10-14T04:25:02.000Z"
         }
       ]
     },
     {
-      "rank": 5,
-      "titleZh": "C罗在比赛因导弹警报中断后挥舞沙特国旗围巾",
-      "summaryZh": "葡萄牙球星克里斯蒂亚诺·罗纳尔多在利雅得胜利获胜后，挥舞带有沙特国旗的围巾。此前比赛因导弹警报中断。",
-      "category": "体育",
+      "rank": 4,
+      "titleZh": "以色列袭击加沙致一人死亡，约旦河西岸记者受伤",
+      "summaryZh": "停火一年后，加沙近三分之二地区处于以色列控制之下，内塔尼亚胡誓言控制约旦河西岸。以色列袭击在加沙造成一人死亡，并在被占领的约旦河西岸打伤记者。",
+      "category": "国际",
       "regions": [
-        "沙特阿拉伯",
-        "中东"
+        "加沙",
+        "约旦河西岸",
+        "以色列"
       ],
       "heat": {
         "score": 59,
@@ -150,52 +106,45 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-clip-ronaldowears-saudi-shawl-ksa?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-13T04:09:52.000Z"
+          "publishedAt": "2026-10-14T00:45:16.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "拜仁的迈克尔·奥利塞因“超级愚蠢”的黄牌在几秒内被罚下",
+      "summaryZh": "拜仁慕尼黑在欧冠联赛中3-3战平维京。但迈克尔·奥利塞在几秒内因两次犯规被红牌罚下。",
+      "category": "体育",
+      "regions": [
+        "德国"
+      ],
+      "heat": {
+        "score": 56,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-13T22:56:24.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "数千人游行至印度最高法院，要求选举负责人辞职",
-      "summaryZh": "数千名抗议者游行至印度最高法院，要求首席选举专员吉亚内什·库马尔辞职。此前德里经历混乱周末，数千名抗议者被警方拘留。反对党正加大施压。",
-      "category": "政治",
-      "regions": [
-        "印度",
-        "德里"
-      ],
-      "heat": {
-        "score": 85,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-12T15:19:17.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/india-news-opposition-parties-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-12T09:38:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "第七条科技要闻",
+      "titleZh": "第六条科技要闻",
       "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "科技",
       "regions": [
         "美洲"
       ],
       "heat": {
-        "score": 81,
+        "score": 83,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -203,71 +152,54 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+          "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
           "language": "en",
-          "publishedAt": "2026-10-12T17:00:00.000Z"
+          "publishedAt": "2026-10-13T18:30:00.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
           "language": "en",
-          "publishedAt": "2026-10-12T17:56:56.000Z"
+          "publishedAt": "2026-10-13T18:30:03.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "Character.ai已启动自愿第11章破产保护",
+      "summaryZh": "根据Hacker News上的帖子，Character.ai已启动自愿第11章破产保护。该帖子获得313点，274条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 79,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://blog.character.ai/an-update-on-character-ai/",
+          "language": "en",
+          "publishedAt": "2026-10-13T07:28:34.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50081189",
+          "language": "en",
+          "publishedAt": "2026-10-14T01:14:37.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "研究称 AI 模型可证明地隐藏任意能力",
-      "summaryZh": "Hacker News 上一条讨论指出，AI 模型能够可证明地隐藏任意能力。该帖获得 136 分和 70 条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://arxiv.org/abs/2610.13928",
-          "language": "en",
-          "publishedAt": "2026-10-13T02:07:08.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "IMF：AI 股票崩盘威胁危及全球金融稳定",
-      "summaryZh": "IMF 表示，AI 相关股票崩盘的威胁可能危及全球金融稳定。该内容在 Hacker News 上引发讨论，获 34 分和 14 条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-          "language": "en",
-          "publishedAt": "2026-10-13T05:57:32.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "美国中期选举的胜负关键在哪里",
-      "summaryZh": "BBC 深入分析美国中期选举前的关键民调、选情和议题。这场选举将定义特朗普总统任期的最后两年。",
+      "titleZh": "联合国官员称刚果民主共和国和平出现“机会之窗”",
+      "summaryZh": "联合国特使表示，刚果民主共和国和平出现“机会之窗”。他赞扬外交努力取得的进展，尽管安全和人道主义局势不断恶化。",
       "category": "政治",
       "regions": [
-        "美国"
+        "刚果民主共和国"
       ],
       "heat": {
         "score": 64,
@@ -277,10 +209,56 @@
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-13T05:02:44.000Z"
+          "publishedAt": "2026-10-14T03:57:24.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "我构建了一个工具来追踪AI领袖的言论及其观点在视频中的变化",
+      "summaryZh": "一名用户在Hacker News上分享了自己构建的工具，用于追踪AI领袖的言论及其观点在视频中的变化。该帖子获得50点，29条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://blumify.io/people",
+          "language": "en",
+          "publishedAt": "2026-10-14T01:09:13.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "Show HN：Pulse Local，一款AI模型在你的机器上运行的Mac预算应用",
+      "summaryZh": "用户在Hacker News上展示了一款名为Pulse Local的Mac预算应用，其AI模型在本地机器上运行。该帖子获得85点，49条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://pulseos.finance",
+          "language": "en",
+          "publishedAt": "2026-10-13T23:13:23.000Z"
         }
       ]
     }
