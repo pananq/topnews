@@ -1,147 +1,16 @@
 {
-  "generatedAt": "2026-10-14T04:59:57.121Z",
+  "generatedAt": "2026-10-15T04:48:30.622Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "OpenAI员工因在会议室安装窃听设备被捕",
-      "summaryZh": "OpenAI一名员工被发现在公司会议室安装监听设备，随后被捕。该员工为35岁沙特籍工程师Abdulrahman Alfozan，被控使用设备拦截口头通信。FBI局长表示，其目的是获取公司超级智能技术的敏感通信。",
+      "titleZh": "YouTube为AI生成歌曲添加新标签",
+      "summaryZh": "YouTube正在为使用AI“修改或完全生成”的曲目添加“Made with AI”标签，做法类似其视频的AI标签。该标签将出现在播放器页面，涵盖完全由AI生成或部分涉及AI创作（如作曲和声乐）的歌曲，以应对AI生成音乐涌入流媒体平台。",
       "category": "科技",
       "regions": [
-        "美国",
-        "沙特阿拉伯"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-13T21:24:00.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-          "language": "en",
-          "publishedAt": "2026-10-13T20:45:25.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-          "language": "en",
-          "publishedAt": "2026-10-13T20:59:11.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "泽连斯基称俄罗斯袭击基辅关键发电厂",
-      "summaryZh": "乌克兰总统泽连斯基表示，俄罗斯对基辅一座关键发电厂发动了弹道导弹袭击。他称袭击没有提前预警。",
-      "category": "政治",
-      "regions": [
-        "乌克兰",
-        "俄罗斯"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-14T04:36:06.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "新加坡经济在AI热潮中增长超过5%",
-      "summaryZh": "根据政府初步估计，新加坡第三季度GDP同比增长5.4%。这一增长主要受人工智能热潮推动。",
-      "category": "财经",
-      "regions": [
-        "新加坡"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-14T04:25:02.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "以色列袭击加沙致一人死亡，约旦河西岸记者受伤",
-      "summaryZh": "停火一年后，加沙近三分之二地区处于以色列控制之下，内塔尼亚胡誓言控制约旦河西岸。以色列袭击在加沙造成一人死亡，并在被占领的约旦河西岸打伤记者。",
-      "category": "国际",
-      "regions": [
-        "加沙",
-        "约旦河西岸",
-        "以色列"
-      ],
-      "heat": {
-        "score": 59,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-14T00:45:16.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "拜仁的迈克尔·奥利塞因“超级愚蠢”的黄牌在几秒内被罚下",
-      "summaryZh": "拜仁慕尼黑在欧冠联赛中3-3战平维京。但迈克尔·奥利塞在几秒内因两次犯规被红牌罚下。",
-      "category": "体育",
-      "regions": [
-        "德国"
-      ],
-      "heat": {
-        "score": 56,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-13T22:56:24.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "第六条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "科技",
-      "regions": [
-        "美洲"
+        "全球"
       ],
       "heat": {
         "score": 83,
@@ -152,22 +21,98 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
           "language": "en",
-          "publishedAt": "2026-10-13T18:30:00.000Z"
+          "publishedAt": "2026-10-14T18:22:56.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+          "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
           "language": "en",
-          "publishedAt": "2026-10-13T18:30:03.000Z"
+          "publishedAt": "2026-10-14T18:23:46.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "Character.ai已启动自愿第11章破产保护",
-      "summaryZh": "根据Hacker News上的帖子，Character.ai已启动自愿第11章破产保护。该帖子获得313点，274条评论。",
+      "rank": 2,
+      "titleZh": "哥伦比亚数千人游行反对右翼政府强硬政策",
+      "summaryZh": "数千人在波哥大等城市游行，反对总统阿贝拉多·德拉埃斯普列亚的政策。这位自8月上任的总统与华盛顿立场一致，试图废除前任古斯塔沃·佩特罗的社会改革，并签署法令修改警察在抗议中的干预规程，引发布局紧张。",
+      "category": "政治",
+      "regions": [
+        "哥伦比亚"
+      ],
+      "heat": {
+        "score": 69,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261015-colombie-des-milliers-de-manifestants-dans-la-rue-contre-le-durcissement-du-gouvernement-de-droite",
+          "language": "fr",
+          "publishedAt": "2026-10-15T00:12:54.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261014-des-milliers-de-colombiens-descendent-dans-la-rue-pour-d%C3%A9noncer-abelardo-de-la-espriella",
+          "language": "fr",
+          "publishedAt": "2026-10-14T19:05:32.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "Anthropic在上市前向投资者提示收入激增",
+      "summaryZh": "Anthropic在股票市场首次公开募股前向投资者强调其收入大幅增长。与此同时，一些投资者对AI基础设施的巨额支出感到担忧。",
+      "category": "财经",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-15T04:19:17.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "皇马欧冠客场3-1落后逆转罗马，4-3取胜",
+      "summaryZh": "皇家马德里在欧冠比赛中客场对阵罗马，从1-3落后实现逆转，最终4-3取胜。这场经典战役缓解了主帅穆里尼奥的压力，他曾在罗马执教。",
+      "category": "体育",
+      "regions": [
+        "意大利",
+        "西班牙"
+      ],
+      "heat": {
+        "score": 56,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-14T21:50:01.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "Hacker News讨论AI识别特征与亚洲芯片股下跌",
+      "summaryZh": "在Hacker News上，一篇题为“Has AI tells”的帖子获得97分和82条评论，引发关于AI识别特征的讨论。同一来源还出现一篇关于亚洲芯片股下跌和AI融资担忧的帖子，获得11分。",
       "category": "科技",
       "regions": [
         "全球"
@@ -181,25 +126,51 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://blog.character.ai/an-update-on-character-ai/",
+          "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
           "language": "en",
-          "publishedAt": "2026-10-13T07:28:34.000Z"
+          "publishedAt": "2026-10-14T16:52:42.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50081189",
+          "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
           "language": "en",
-          "publishedAt": "2026-10-14T01:14:37.000Z"
+          "publishedAt": "2026-10-15T02:29:41.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "联合国官员称刚果民主共和国和平出现“机会之窗”",
-      "summaryZh": "联合国特使表示，刚果民主共和国和平出现“机会之窗”。他赞扬外交努力取得的进展，尽管安全和人道主义局势不断恶化。",
+      "rank": 6,
+      "titleZh": "马斯克称美国政府可能是乌克兰无人机速度放缓的幕后推手",
+      "summaryZh": "马斯克表示美国政府可能是导致乌克兰无人机速度放缓的原因。乌克兰方面称星链访问已改善，但仍面临速度限制，干扰其战场“任务”。",
       "category": "政治",
       "regions": [
-        "刚果民主共和国"
+        "乌克兰",
+        "美国"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-15T04:30:08.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "阿根廷总统米莱支持特朗普参加美国中期选举，称投票对西方至关重要",
+      "summaryZh": "阿根廷总统米莱在华盛顿接受奖项时表态支持特朗普，并称美国中期选举对西方至关重要。他还表示保守派在拉丁美洲“不能退让一寸”。",
+      "category": "政治",
+      "regions": [
+        "阿根廷",
+        "美国",
+        "拉丁美洲"
       ],
       "heat": {
         "score": 64,
@@ -210,16 +181,40 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-14T03:57:24.000Z"
+          "publishedAt": "2026-10-15T03:50:14.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "阿尔巴尼亚司法部起火，教育抗议者引发骚乱",
+      "summaryZh": "数百名学生加入地拉那的反政府抗议，要求教育改革。抗议活动演变为骚乱，导致司法部起火。",
+      "category": "政治",
+      "regions": [
+        "阿尔巴尼亚",
+        "地拉那"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/albanian-ministry-of-justice-on-fire-as-education-protesters-riot?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-15T03:30:42.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "我构建了一个工具来追踪AI领袖的言论及其观点在视频中的变化",
-      "summaryZh": "一名用户在Hacker News上分享了自己构建的工具，用于追踪AI领袖的言论及其观点在视频中的变化。该帖子获得50点，29条评论。",
+      "titleZh": "专家：遏制与监控失败导致AI黑客报道",
+      "summaryZh": "专家指出，AI黑客相关报道应归咎于遏制与监控的失败。该话题在Hacker News上获得854分和488条评论，引发广泛讨论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -233,16 +228,16 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://blumify.io/people",
+          "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
           "language": "en",
-          "publishedAt": "2026-10-14T01:09:13.000Z"
+          "publishedAt": "2026-10-14T17:45:23.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "Show HN：Pulse Local，一款AI模型在你的机器上运行的Mac预算应用",
-      "summaryZh": "用户在Hacker News上展示了一款名为Pulse Local的Mac预算应用，其AI模型在本地机器上运行。该帖子获得85点，49条评论。",
+      "titleZh": "银行正试图脱手刚承销的AI数据中心债务",
+      "summaryZh": "银行正在试图转让它们刚刚承销的AI数据中心债务。该话题在Hacker News上获得346分和237条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -256,9 +251,9 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://pulseos.finance",
+          "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
           "language": "en",
-          "publishedAt": "2026-10-13T23:13:23.000Z"
+          "publishedAt": "2026-10-14T18:32:52.000Z"
         }
       ]
     }
