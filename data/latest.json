@@ -1,243 +1,252 @@
 {
-  "generatedAt": "2026-10-16T04:38:36.160Z",
+  "generatedAt": "2026-10-17T04:35:58.366Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "Meta 与 Apple 合作，让 Muse AI 模型在 Mac 上运行更佳",
-      "summaryZh": "Meta 发布 Muse Spark Open AI 模型，称其为美国迄今最强大的开放权重模型。该模型是同类中首个可利用两台 Apple M5 Ultra Mac Studio 和最新 MLX 框架在桌面本地运行的模型。Meta 与 Apple 通常在竞争，此次共同支持该发布。",
-      "category": "科技",
+      "titleZh": "巴西亚马孙毁林量创纪录下降，关键选举临近",
+      "summaryZh": "巴西亚马孙雨林毁林量出现创纪录下降，较一年前减少42%。这一变化发生在关键选举决选前，被视为对卢拉的提振。报道提到，亚马孙雨林是应对气候变化的重要缓冲，而前总统博索纳罗任内毁林曾扩大。",
+      "category": "政治",
       "regions": [
-        "美国"
+        "巴西",
+        "亚马孙地区"
       ],
       "heat": {
-        "score": 84,
+        "score": 100,
         "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-15T18:15:36.000Z"
+          "publishedAt": "2026-10-17T02:33:09.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-15T20:04:53.000Z"
+          "publishedAt": "2026-10-17T02:49:21.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "中国要求以色列停止‘强制建立’西岸定居点",
-      "summaryZh": "中国外长表示，巴勒斯坦问题是本世纪最大的历史不公。中国呼吁以色列停止强制建立西岸定居点。",
-      "category": "政治",
+      "titleZh": "美国90%工作时间用于AI基准覆盖不佳的任务",
+      "summaryZh": "Hacker News讨论指出，美国劳动者约90%的工作时间花在AI基准未能很好覆盖的任务上。该帖获得442分和385条评论，引发对AI能力评估与实际工作差距的关注。",
+      "category": "科技",
       "regions": [
-        "中东"
+        "美国"
       ],
       "heat": {
         "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内；帖子在Hacker News获得较高互动。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
           "language": "en",
-          "publishedAt": "2026-10-16T02:56:21.000Z"
+          "publishedAt": "2026-10-16T17:08:38.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "欧盟峰会聚焦中国、乌克兰与欧盟预算",
-      "summaryZh": "欧盟领导人将在布鲁塞尔开会，审议遏制欧盟对华巨额贸易逆差的措施。他们还将寻求就下一份欧盟预算达成进一步协议，以应对明年的一些重大选举。",
+      "titleZh": "Show HN：Stoke Money——围绕现金流预测打造的个人理财应用",
+      "summaryZh": "Stoke Money在Hacker News展示，是一款围绕现金流预测构建的个人理财应用。该帖获得25分和19条评论。",
       "category": "财经",
       "regions": [
-        "欧洲"
+        "全球"
       ],
       "heat": {
-        "score": 53,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-rdf",
+          "name": "Hacker News",
+          "url": "https://stoke.money",
           "language": "en",
-          "publishedAt": "2026-10-15T14:37:00.000Z"
+          "publishedAt": "2026-10-16T18:54:47.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "阿根廷学生因米莱紧缩政策在校园抗议",
-      "summaryZh": "阿根廷学生因米莱的紧缩政策在校园抗议。法官因政府未能为大学提供资金而对其处以罚款，抗议米莱削减开支的活动演变为暴力。",
-      "category": "政治",
+      "titleZh": "意大利部长称特朗普限制对乌支持“完全错误”",
+      "summaryZh": "意大利国防部长吉多·克罗塞托对BBC表示，特朗普限制对乌克兰的支持“完全错误”。他称，美国这样做可能 prolong 俄罗斯的全面入侵，而不是帮助结束战争。",
+      "category": "国际",
       "regions": [
-        "阿根廷"
+        "意大利",
+        "美国",
+        "乌克兰",
+        "欧洲"
       ],
       "heat": {
-        "score": 63,
+        "score": 59,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-16T02:11:33.000Z"
+          "publishedAt": "2026-10-16T23:54:35.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "胡塞武装导弹袭击也门总统府，致五人死亡",
-      "summaryZh": "也门新闻部长称，弹道导弹击中马希格宫，造成五人死亡，总理和其他部长未受伤。",
-      "category": "政治",
+      "titleZh": "利兹联对阵曼联：英超球队、预测与首发阵容",
+      "summaryZh": "英超利兹联与曼联即将交手，曼联近期状态低迷，还遭遇利桑德罗·马丁内斯的风波。报道称，曼联将面对状态回升的对手利兹联。",
+      "category": "体育",
       "regions": [
-        "也门"
+        "英国",
+        "英格兰"
       ],
       "heat": {
-        "score": 62,
+        "score": 57,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-15T23:38:46.000Z"
+          "publishedAt": "2026-10-16T22:53:26.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "美国参议员和选举办公室收到含‘可疑物质’的信件",
-      "summaryZh": "多个州确认成为邮寄目标，包括俄克拉荷马州、俄亥俄州和路易斯安那州。这些信件寄往美国参议员和选举办公室，内含可疑物质。",
+      "titleZh": "比亚返回后喀麦隆民众等待政府改组",
+      "summaryZh": "比亚在出国10周后返回喀麦隆，但尚未任命新政府或副总统。喀麦隆民众正在等待政府改组。",
       "category": "政治",
       "regions": [
-        "美国"
+        "喀麦隆"
       ],
       "heat": {
-        "score": 62,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-15T22:46:49.000Z"
+          "publishedAt": "2026-10-17T03:14:28.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "法国总统选举前学生抗议是否被操纵？",
-      "summaryZh": "法国总理暗示学生愤怒正被武器化，工会和其他抗议者准备上街。此时正值法国总统选举前夕。",
+      "titleZh": "也门被围困的塔伊兹医疗危机加剧",
+      "summaryZh": "也门塔伊兹遭围困，医疗危机正在加剧。胡塞武装与国际承认的政府之间交战，加深了人道主义危机。",
       "category": "政治",
       "regions": [
-        "法国"
+        "也门",
+        "塔伊兹"
       ],
       "heat": {
         "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-15T23:25:06.000Z"
+          "publishedAt": "2026-10-17T01:37:07.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "缅甸政变领导人转任总统，战火中赢回邻国",
-      "summaryZh": "东盟领导人正在接纳敏昂莱，但批评人士警告称，这助长了仍在轰炸平民的军队。尽管战事持续，缅甸政变领导人转任总统后赢得邻国支持。",
+      "titleZh": "特朗普暂停对俄新制裁",
+      "summaryZh": "特朗普以国家利益为由，签署豁免国会投票通过对俄罗斯实施的制裁。这意味着新的对俄制裁被搁置。",
       "category": "政治",
       "regions": [
-        "缅甸",
-        "东南亚"
+        "美国",
+        "俄罗斯"
       ],
       "heat": {
         "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-16T01:34:47.000Z"
+          "publishedAt": "2026-10-17T02:09:00.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "阿根廷大学拨款法抗议活动爆发冲突",
-      "summaryZh": "布宜诺斯艾利斯的抗议者要求政府实施增加大学拨款的法律。抗议活动演变为冲突。",
+      "titleZh": "特朗普以“穆罕默德”玩笑嘲讽中东姓名",
+      "summaryZh": "特朗普在讲话中开玩笑说，如果不确定某人的中东名字，就直接说“穆罕默德”。相关言论引发关注。",
       "category": "政治",
       "regions": [
-        "阿根廷"
+        "美国",
+        "中东"
       ],
       "heat": {
-        "score": 62,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-16T01:19:25.000Z"
+          "publishedAt": "2026-10-16T23:55:57.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "伊拉克议会批准扎伊迪内阁，经济担忧加剧",
-      "summaryZh": "伊拉克议会最终确定了关键部长任命，此时距扎伊迪政府上任已五个月。在经济担忧加剧之际，议会批准了扎伊迪的内阁。",
+      "titleZh": "也门政府称胡塞武装向亚丁机场发射两枚导弹",
+      "summaryZh": "也门政府表示，胡塞武装向亚丁机场发射了两枚导弹。袭击发生之际，也门政府军称在马里布取得进展，并表示在24小时内“消灭”430名胡塞武装人员。",
       "category": "政治",
       "regions": [
-        "伊拉克"
+        "也门",
+        "亚丁",
+        "马里布"
       ],
       "heat": {
-        "score": 62,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-16T00:31:18.000Z"
+          "publishedAt": "2026-10-16T21:56:07.000Z"
         }
       ]
     }
