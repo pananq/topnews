@@ -1,252 +1,264 @@
 {
-  "generatedAt": "2026-10-17T04:35:58.366Z",
+  "generatedAt": "2026-10-18T04:41:16.920Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "巴西亚马孙毁林量创纪录下降，关键选举临近",
-      "summaryZh": "巴西亚马孙雨林毁林量出现创纪录下降，较一年前减少42%。这一变化发生在关键选举决选前，被视为对卢拉的提振。报道提到，亚马孙雨林是应对气候变化的重要缓冲，而前总统博索纳罗任内毁林曾扩大。",
+      "titleZh": "加拿大军事基地发生致命火灾",
+      "summaryZh": "加拿大国防部长麦金蒂表示，这起事件造成人员伤亡，总理称其为“严重事件”。阿尔伯塔省一处军事基地报告发生大火，目前起火原因尚不清楚。",
       "category": "政治",
       "regions": [
-        "巴西",
-        "亚马孙地区"
+        "加拿大",
+        "阿尔伯塔省"
       ],
       "heat": {
-        "score": 100,
+        "score": 96,
         "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-17T02:33:09.000Z"
+          "publishedAt": "2026-10-18T04:00:50.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-17T02:49:21.000Z"
+          "publishedAt": "2026-10-18T02:08:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "美国90%工作时间用于AI基准覆盖不佳的任务",
-      "summaryZh": "Hacker News讨论指出，美国劳动者约90%的工作时间花在AI基准未能很好覆盖的任务上。该帖获得442分和385条评论，引发对AI能力评估与实际工作差距的关注。",
+      "titleZh": "TikTok封禁马斯克纪录片账号",
+      "summaryZh": "在亚历克斯·吉布尼的马斯克纪录片更广泛上映前，TikTok封禁了该片的社交媒体账号。TikTok未立即回应置评请求，发行方被告知将面临“永久封禁”。有报道称，这部四小时纪录片持续遭遇社交媒体平台阻力。",
       "category": "科技",
       "regions": [
-        "美国"
+        "美国",
+        "全球"
       ],
       "heat": {
-        "score": 63,
-        "sourceCount": 1,
+        "score": 84,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内；帖子在Hacker News获得较高互动。"
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
           "language": "en",
-          "publishedAt": "2026-10-16T17:08:38.000Z"
+          "publishedAt": "2026-10-17T19:32:23.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+          "language": "en",
+          "publishedAt": "2026-10-17T20:55:52.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "Show HN：Stoke Money——围绕现金流预测打造的个人理财应用",
-      "summaryZh": "Stoke Money在Hacker News展示，是一款围绕现金流预测构建的个人理财应用。该帖获得25分和19条评论。",
+      "titleZh": "突尼斯经济危机加深，美好生活承诺消退",
+      "summaryZh": "失业、公共服务失灵和成本上升正在加剧突尼斯全国范围的生活困难。报道指出，突尼斯经济危机持续加深，民众对更好生活的期待正在消退。",
       "category": "财经",
       "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://stoke.money",
-          "language": "en",
-          "publishedAt": "2026-10-16T18:54:47.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "意大利部长称特朗普限制对乌支持“完全错误”",
-      "summaryZh": "意大利国防部长吉多·克罗塞托对BBC表示，特朗普限制对乌克兰的支持“完全错误”。他称，美国这样做可能 prolong 俄罗斯的全面入侵，而不是帮助结束战争。",
-      "category": "国际",
-      "regions": [
-        "意大利",
-        "美国",
-        "乌克兰",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 59,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-16T23:54:35.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "利兹联对阵曼联：英超球队、预测与首发阵容",
-      "summaryZh": "英超利兹联与曼联即将交手，曼联近期状态低迷，还遭遇利桑德罗·马丁内斯的风波。报道称，曼联将面对状态回升的对手利兹联。",
-      "category": "体育",
-      "regions": [
-        "英国",
-        "英格兰"
-      ],
-      "heat": {
-        "score": 57,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-16T22:53:26.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "比亚返回后喀麦隆民众等待政府改组",
-      "summaryZh": "比亚在出国10周后返回喀麦隆，但尚未任命新政府或副总统。喀麦隆民众正在等待政府改组。",
-      "category": "政治",
-      "regions": [
-        "喀麦隆"
+        "突尼斯"
       ],
       "heat": {
         "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-17T03:14:28.000Z"
+          "publishedAt": "2026-10-18T04:14:42.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "美国驻耶路撒冷大使馆是为以色列还是美国？",
+      "summaryZh": "节目讨论美国驻耶路撒冷大使馆的角色，并追问其服务对象是以色列还是美国。内容还涉及自2022年以来在约旦河西岸被杀害的九名美国人事件缘由。",
+      "category": "国际",
+      "regions": [
+        "耶路撒冷",
+        "约旦河西岸",
+        "美国"
+      ],
+      "heat": {
+        "score": 55,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-17T18:41:30.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "Meta删除可能允许抓取新闻网站内容的条款",
+      "summaryZh": "在遭到反对后，Meta再次更新条款，删除暗示其可抓取网站内容包括新闻网站内容用于训练AI的表述。Meta发言人称，更新条款并不代表其网络抓取方式发生变化。",
+      "category": "科技",
+      "regions": [
+        "美国",
+        "全球"
+      ],
+      "heat": {
+        "score": 83,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+          "language": "en",
+          "publishedAt": "2026-10-17T15:04:36.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "language": "en",
+          "publishedAt": "2026-10-17T21:31:32.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "塞内加尔前总统麦基·萨勒退出联合国秘书长竞选",
+      "summaryZh": "在首轮指示性投票未达成共识后，塞内加尔前总统麦基·萨勒周六在社交网络宣布退出联合国领导人竞选。他表示，此举旨在“促进产生一位共识候选人”。",
+      "category": "政治",
+      "regions": [
+        "塞内加尔",
+        "联合国"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261017-onu-macky-sall-retire-senegal-candidature-poste-secr%C3%A9taire-g%C3%A9n%C3%A9ral",
+          "language": "fr",
+          "publishedAt": "2026-10-17T13:21:27.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "也门被围困的塔伊兹医疗危机加剧",
-      "summaryZh": "也门塔伊兹遭围困，医疗危机正在加剧。胡塞武装与国际承认的政府之间交战，加深了人道主义危机。",
+      "titleZh": "特朗普豁免多项对俄制裁，与泽连斯基争执加剧",
+      "summaryZh": "美国总统以“国家安全”关切为由，暂时终止国会最近通过的多项对莫斯科限制。此举发生在其与泽连斯基争执加剧之际。",
       "category": "政治",
       "regions": [
-        "也门",
-        "塔伊兹"
+        "美国",
+        "俄罗斯",
+        "乌克兰"
       ],
       "heat": {
-        "score": 62,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-17T01:37:07.000Z"
+          "publishedAt": "2026-10-18T01:10:25.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "特朗普暂停对俄新制裁",
-      "summaryZh": "特朗普以国家利益为由，签署豁免国会投票通过对俄罗斯实施的制裁。这意味着新的对俄制裁被搁置。",
+      "titleZh": "刚果（金）前总统卡比拉加入叛乱引发担忧",
+      "summaryZh": "刚果（金）前总统约瑟夫·卡比拉加入叛乱，令东部刚果战争与和平前景面临新的疑问。当地担忧情绪正在加剧。",
       "category": "政治",
       "regions": [
-        "美国",
-        "俄罗斯"
+        "刚果（金）"
       ],
       "heat": {
-        "score": 62,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-17T02:09:00.000Z"
+          "publishedAt": "2026-10-18T02:21:48.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "特朗普以“穆罕默德”玩笑嘲讽中东姓名",
-      "summaryZh": "特朗普在讲话中开玩笑说，如果不确定某人的中东名字，就直接说“穆罕默德”。相关言论引发关注。",
+      "titleZh": "欧洲外交官在约旦河西岸遭以色列定居者袭击",
+      "summaryZh": "欧洲外交官在约旦河西岸遭到以色列定居者袭击。以色列军方谴责暴力，但总理办公室称这是“抹黑”行动的一部分。",
       "category": "政治",
       "regions": [
-        "美国",
-        "中东"
+        "约旦河西岸",
+        "以色列",
+        "欧洲"
       ],
       "heat": {
-        "score": 61,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-16T23:55:57.000Z"
+          "publishedAt": "2026-10-17T23:52:38.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "也门政府称胡塞武装向亚丁机场发射两枚导弹",
-      "summaryZh": "也门政府表示，胡塞武装向亚丁机场发射了两枚导弹。袭击发生之际，也门政府军称在马里布取得进展，并表示在24小时内“消灭”430名胡塞武装人员。",
-      "category": "政治",
+      "titleZh": "微软与卡内基梅隆大学合作培训早期职业软件工程师",
+      "summaryZh": "微软与卡内基梅隆大学合作，面向早期职业软件工程师开展培训。Hacker News上该消息获得64分和75条评论。",
+      "category": "科技",
       "regions": [
-        "也门",
-        "亚丁",
-        "马里布"
+        "美国"
       ],
       "heat": {
-        "score": 60,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
           "language": "en",
-          "publishedAt": "2026-10-16T21:56:07.000Z"
+          "publishedAt": "2026-10-17T18:45:07.000Z"
         }
       ]
     }
