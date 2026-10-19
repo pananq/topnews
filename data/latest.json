@@ -1,20 +1,165 @@
 {
-  "generatedAt": "2026-10-18T04:41:16.920Z",
+  "generatedAt": "2026-10-19T04:49:30.494Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "加拿大军事基地发生致命火灾",
-      "summaryZh": "加拿大国防部长麦金蒂表示，这起事件造成人员伤亡，总理称其为“严重事件”。阿尔伯塔省一处军事基地报告发生大火，目前起火原因尚不清楚。",
+      "titleZh": "Anthropic 宣布将 5% 股份投入“公共利益基金”",
+      "summaryZh": "Anthropic 宣布将把公司 5% 的股份投入一个“公共利益基金”，此举正值其为大规模上市铺路。报道称，该基金可能用于向非政府组织捐款，以及向特定人群直接分配资金。",
+      "category": "财经",
+      "regions": [
+        "美国",
+        "全球"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 3,
+        "reasonZh": "共有 3 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-19T04:30:59.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-19T03:23:54.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "language": "en",
+          "publishedAt": "2026-10-18T20:37:40.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "特朗普为放宽对俄制裁辩护并抨击泽连斯基",
+      "summaryZh": "美国总统特朗普为豁免部分对俄制裁辩护，并再次指责乌克兰总统泽连斯基不希望结束战争。相关言论出现之际，泽连斯基正与华盛顿特使会谈，美对莫斯科政策引发新的紧张。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "俄罗斯",
+        "乌克兰"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-19T03:10:05.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-19T00:26:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "Hacker News 讨论：软件背后的人与个人软件工厂",
+      "summaryZh": "Hacker News 上出现关于“软件背后的人”和“个人软件工厂是浪费时间”的讨论。两条帖子分别获得 369 分、144 条评论和 69 分、66 条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 83,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+          "language": "en",
+          "publishedAt": "2026-10-18T16:32:00.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
+          "language": "en",
+          "publishedAt": "2026-10-18T19:02:11.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "西撒哈拉：波利萨里奥阵线质疑联合国特使",
+      "summaryZh": "在西撒哈拉全民公投特派团授权是否延长表决前两周，波利萨里奥阵线发表声明，质疑联合国个人特使斯塔凡·德米斯图拉的处理方式。该独立运动称，与特使的方法存在深刻分歧。",
+      "category": "国际",
+      "regions": [
+        "西撒哈拉",
+        "北非",
+        "联合国"
+      ],
+      "heat": {
+        "score": 54,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261018-sahara-occidental-le-polisario-conteste-l-envoy%C3%A9-sp%C3%A9cial-de-l-onu",
+          "language": "fr",
+          "publishedAt": "2026-10-18T21:27:56.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "克拉伦斯·西多夫在科林蒂安发布会上谈及种族灭绝",
+      "summaryZh": "克拉伦斯·西多夫在科林蒂安首次新闻发布会上谈到全球仍在发生的种族灭绝和冲突。他表示，在這些问题持续之际，足球必须被放在适当的视角中看待。",
+      "category": "体育",
+      "regions": [
+        "巴西",
+        "全球"
+      ],
+      "heat": {
+        "score": 54,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-18T19:12:30.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "加拿大军事基地大火致四人死亡、数十人受伤",
+      "summaryZh": "加拿大阿尔伯塔省一处军事基地发生重大火灾，造成 4 人死亡，39 人住院，至少 19 人情况危重。总理卡尼表示，军方和应急人员整夜在“难以想象的最恶劣条件”下灭火。",
       "category": "政治",
       "regions": [
         "加拿大",
         "阿尔伯塔省"
       ],
       "heat": {
-        "score": 96,
+        "score": 93,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -22,134 +167,48 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-18T04:00:50.000Z"
+          "publishedAt": "2026-10-18T23:06:09.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-18T02:08:00.000Z"
+          "publishedAt": "2026-10-18T23:43:00.000Z"
         }
       ]
     },
     {
-      "rank": 2,
-      "titleZh": "TikTok封禁马斯克纪录片账号",
-      "summaryZh": "在亚历克斯·吉布尼的马斯克纪录片更广泛上映前，TikTok封禁了该片的社交媒体账号。TikTok未立即回应置评请求，发行方被告知将面临“永久封禁”。有报道称，这部四小时纪录片持续遭遇社交媒体平台阻力。",
-      "category": "科技",
-      "regions": [
-        "美国",
-        "全球"
-      ],
-      "heat": {
-        "score": 84,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-          "language": "en",
-          "publishedAt": "2026-10-17T19:32:23.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
-          "language": "en",
-          "publishedAt": "2026-10-17T20:55:52.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "突尼斯经济危机加深，美好生活承诺消退",
-      "summaryZh": "失业、公共服务失灵和成本上升正在加剧突尼斯全国范围的生活困难。报道指出，突尼斯经济危机持续加深，民众对更好生活的期待正在消退。",
-      "category": "财经",
-      "regions": [
-        "突尼斯"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-18T04:14:42.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "美国驻耶路撒冷大使馆是为以色列还是美国？",
-      "summaryZh": "节目讨论美国驻耶路撒冷大使馆的角色，并追问其服务对象是以色列还是美国。内容还涉及自2022年以来在约旦河西岸被杀害的九名美国人事件缘由。",
-      "category": "国际",
-      "regions": [
-        "耶路撒冷",
-        "约旦河西岸",
-        "美国"
-      ],
-      "heat": {
-        "score": 55,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-17T18:41:30.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "Meta删除可能允许抓取新闻网站内容的条款",
-      "summaryZh": "在遭到反对后，Meta再次更新条款，删除暗示其可抓取网站内容包括新闻网站内容用于训练AI的表述。Meta发言人称，更新条款并不代表其网络抓取方式发生变化。",
-      "category": "科技",
-      "regions": [
-        "美国",
-        "全球"
-      ],
-      "heat": {
-        "score": 83,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-          "language": "en",
-          "publishedAt": "2026-10-17T15:04:36.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-          "language": "en",
-          "publishedAt": "2026-10-17T21:31:32.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "塞内加尔前总统麦基·萨勒退出联合国秘书长竞选",
-      "summaryZh": "在首轮指示性投票未达成共识后，塞内加尔前总统麦基·萨勒周六在社交网络宣布退出联合国领导人竞选。他表示，此举旨在“促进产生一位共识候选人”。",
+      "rank": 7,
+      "titleZh": "法国经历暴力周末后政府面临压力",
+      "summaryZh": "法国围绕生活成本和公共服务困境的抗议活动出现骚乱，使政府面临政治压力。报道称，周末的广泛暴力事件加剧了法国国内的政治紧张。",
       "category": "政治",
       "regions": [
-        "塞内加尔",
-        "联合国"
+        "法国"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-19T04:16:46.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "卢拉与博索纳罗在巴西总统决选首场辩论中交锋",
+      "summaryZh": "巴西总统卢拉与对手博索纳罗在 10 月 25 日投票前一周的首场总统决选辩论中互相发动猛烈攻击。报道称，双方在辩论中展开密集交锋。",
+      "category": "政治",
+      "regions": [
+        "巴西"
       ],
       "heat": {
         "score": 64,
@@ -159,70 +218,22 @@
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20261017-onu-macky-sall-retire-senegal-candidature-poste-secr%C3%A9taire-g%C3%A9n%C3%A9ral",
-          "language": "fr",
-          "publishedAt": "2026-10-17T13:21:27.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "特朗普豁免多项对俄制裁，与泽连斯基争执加剧",
-      "summaryZh": "美国总统以“国家安全”关切为由，暂时终止国会最近通过的多项对莫斯科限制。此举发生在其与泽连斯基争执加剧之际。",
-      "category": "政治",
-      "regions": [
-        "美国",
-        "俄罗斯",
-        "乌克兰"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-18T01:10:25.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "刚果（金）前总统卡比拉加入叛乱引发担忧",
-      "summaryZh": "刚果（金）前总统约瑟夫·卡比拉加入叛乱，令东部刚果战争与和平前景面临新的疑问。当地担忧情绪正在加剧。",
-      "category": "政治",
-      "regions": [
-        "刚果（金）"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-18T02:21:48.000Z"
+          "publishedAt": "2026-10-19T04:27:00.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "欧洲外交官在约旦河西岸遭以色列定居者袭击",
-      "summaryZh": "欧洲外交官在约旦河西岸遭到以色列定居者袭击。以色列军方谴责暴力，但总理办公室称这是“抹黑”行动的一部分。",
+      "titleZh": "特朗普称暂停对俄制裁是为维持和平谈判",
+      "summaryZh": "美国总统特朗普表示，暂停部分对俄制裁是为了让和平谈判继续推进。报道称，他在多项对俄制裁原定生效前两天将其阻止。",
       "category": "政治",
       "regions": [
-        "约旦河西岸",
-        "以色列",
-        "欧洲"
+        "美国",
+        "俄罗斯",
+        "乌克兰"
       ],
       "heat": {
         "score": 62,
@@ -233,19 +244,21 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-17T23:52:38.000Z"
+          "publishedAt": "2026-10-18T23:20:15.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "微软与卡内基梅隆大学合作培训早期职业软件工程师",
-      "summaryZh": "微软与卡内基梅隆大学合作，面向早期职业软件工程师开展培训。Hacker News上该消息获得64分和75条评论。",
-      "category": "科技",
+      "titleZh": "伊朗战争直播：德黑兰称内塔尼亚胡寻求更多战争，也门战斗加剧",
+      "summaryZh": "伊朗外长阿拉格齐称，以色列总理内塔尼亚胡在选举前寻求更多战争。与此同时，也门战斗出现加剧。",
+      "category": "政治",
       "regions": [
-        "美国"
+        "伊朗",
+        "以色列",
+        "也门"
       ],
       "heat": {
         "score": 61,
@@ -255,10 +268,10 @@
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-17T18:45:07.000Z"
+          "publishedAt": "2026-10-18T23:59:34.000Z"
         }
       ]
     }
