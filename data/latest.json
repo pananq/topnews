@@ -1,179 +1,244 @@
 {
-  "generatedAt": "2026-10-22T04:57:30.588Z",
+  "generatedAt": "2026-10-23T04:59:11.215Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "全球大量网站因PHP严重漏洞下线 紧急安全更新发布",
-      "summaryZh": "人工智能在广泛使用的PHP编程语言中发现两个漏洞，被称为人工智能迄今发现的最重大漏洞。PHP被约70%的网站使用，此次事件触发罕见的全球网络安全应急响应，多地网站受影响下线。",
+      "titleZh": "Canva 推出首个自研 AI 图像模型 Canva Craft，先规划再生成",
+      "summaryZh": "Canva 发布其首款图像生成模型 Canva Craft，直接与 OpenAI、微软和谷歌的图像模型竞争。该模型采用两阶段架构，先生成设计方案再生成图像，以提升精确度、一致性和可控性。它可生成最高 2K 分辨率、超过 30 种宽高比的图像，适用于社交媒体内容、营销素材及写实场景、数字艺术等。",
       "category": "科技",
       "regions": [
+        "美洲",
         "全球"
       ],
       "heat": {
-        "score": 100,
+        "score": 84,
         "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内，热度评分为100。"
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
           "language": "en",
-          "publishedAt": "2026-10-21T19:54:57.000Z"
+          "publishedAt": "2026-10-22T21:51:25.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
           "language": "en",
-          "publishedAt": "2026-10-22T00:10:27.000Z"
+          "publishedAt": "2026-10-22T19:00:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "美国驻加使馆指责加拿大干预中期选举",
-      "summaryZh": "美国驻加拿大大使馆在中期选举前指责加拿大干预选举，并提到加拿大关税、政治会晤和反特朗普广告作为证据。加拿大总理卡尼驳斥这一说法，指出是美国先对加拿大采取贸易行动。",
+      "titleZh": "委内瑞拉民众要求举行选举，近两年来首次全国性抗议",
+      "summaryZh": "委内瑞拉民众举行近两年来的首次全国性抗议，要求举行选举。在前总统马杜罗被美军抓获后，尚未确定决定其继任者的日期。",
       "category": "政治",
       "regions": [
-        "美国",
-        "加拿大"
+        "委内瑞拉",
+        "中东"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内，热度评分为100。"
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-22T03:05:28.000Z"
-        },
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-21T23:52:21.000Z"
+          "publishedAt": "2026-10-23T03:12:12.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "德国教练许尔策勒在英超执教表现亮眼",
-      "summaryZh": "法比安·许尔策勒自2024年起执教布莱顿，在英超取得出色成绩。他在德国曾被质疑为“笔记本电脑教练”，但在英格兰场上场下人气不断上升。",
-      "category": "体育",
-      "regions": [
-        "英国",
-        "德国"
-      ],
-      "heat": {
-        "score": 76,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内，热度评分为76。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/football-german-coach-hürzeler-flying-high-in-premier-league/a-79714763?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-21T06:52:00.000Z"
-        },
-        {
-          "name": "DW Deutsch",
-          "url": "https://www.dw.com/de/fußball-deutscher-trainer-hürzeler-hebt-in-der-premier-league-ab/a-79721281?maca=de-rss-de-all-1119-rdf",
-          "language": "de",
-          "publishedAt": "2026-10-21T11:46:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "提格雷恢复日常生活 但更广泛战争担忧犹存",
-      "summaryZh": "默克莱重新开放，但局势不稳定和经济困难持续，民众得到的缓解有限。与此同时，对更大范围战争的担忧仍然存在。",
+      "titleZh": "索尼退出超高清蓝光播放器市场，实体媒体收缩持续",
+      "summaryZh": "索尼退出超高清蓝光播放器市场，延续其从实体媒体领域的撤退趋势。该消息在 Hacker News 上获得 28 分和 8 条评论。",
       "category": "财经",
       "regions": [
-        "埃塞俄比亚",
-        "非洲之角"
+        "全球"
       ],
       "heat": {
         "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内，热度评分为62。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-exits-uhd-blu-ray-player-market-as-pull-back-from-physical-media-continues",
           "language": "en",
-          "publishedAt": "2026-10-22T02:08:05.000Z"
+          "publishedAt": "2026-10-22T22:14:48.000Z"
         }
       ]
     },
     {
-      "rank": 5,
-      "titleZh": "卡塔尔与法国呼吁开放霍尔木兹海峡并落实加沙停火",
-      "summaryZh": "卡塔尔和法国领导人强调需要恢复霍尔木兹海峡的航行自由。双方还呼吁落实加沙停火。",
+      "rank": 4,
+      "titleZh": "监控与“持续偏执”：西方外交官向 BBC 讲述战时钟莫斯科的生活",
+      "summaryZh": "西方外交官向 BBC 描述在战时莫斯科的工作与生活，称受到监控并处于“持续偏执”之中。官员们将自俄罗斯全面入侵乌克兰以来在俄工作比作冷战时期。",
       "category": "国际",
       "regions": [
-        "中东"
+        "欧洲",
+        "俄罗斯"
       ],
       "heat": {
         "score": 59,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内，热度评分为59。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-22T01:45:48.000Z"
+          "publishedAt": "2026-10-22T23:16:20.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "哈里·凯恩：拜仁慕尼黑前锋能否赢得金球奖？",
+      "summaryZh": "拜仁慕尼黑前锋哈里·凯恩是足球界最负盛名个人奖项的明显领跑者，该奖项将于下周一揭晓。尽管德甲联赛竞争并不均衡，凯恩在德甲的表现仍有进一步提升。",
+      "category": "体育",
+      "regions": [
+        "欧洲",
+        "德国"
+      ],
+      "heat": {
+        "score": 46,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-22T08:33:00.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "特斯拉称车主明年可把自有车辆加入自动驾驶出租车队",
-      "summaryZh": "特斯拉在第三季度财报电话会上表示，车主可在2027年第二季度将自有车辆加入其自动驾驶出租车队。自动驾驶负责人称，Cybercab与Model Y使用相同软件。另有报道称，特斯拉计划年底前开始销售Cybercab，尽管联邦监管机构正在调查该车是否符合安全标准。",
+      "titleZh": "AI 算力成为“新石油”，需要新的市场机制",
+      "summaryZh": "Hacker News 讨论认为 AI 算力正成为类似石油的关键资源，需要建立新的市场机制。同一话题下还有关于“AI 与科学公地圈占”的讨论，获得 126 分和 74 条评论。",
       "category": "科技",
       "regions": [
-        "美国",
-        "北美"
+        "全球"
       ],
       "heat": {
-        "score": 87,
-        "sourceCount": 2,
+        "score": 82,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内，热度评分为87。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "name": "Hacker News",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
           "language": "en",
-          "publishedAt": "2026-10-21T23:36:31.000Z"
+          "publishedAt": "2026-10-22T23:45:16.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+          "name": "Hacker News",
+          "url": "https://arxiv.org/abs/2610.27251",
           "language": "en",
-          "publishedAt": "2026-10-22T00:17:54.000Z"
+          "publishedAt": "2026-10-22T18:28:16.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "什么是PHP？为何引发全球网络安全紧急应对",
-      "summaryZh": "人工智能发现PHP编程语言中长期隐藏的编程缺陷，触发罕见的全球网络安全响应。",
+      "titleZh": "获奖 AI 文学与 AI 界面微交互提示词",
+      "summaryZh": "Hacker News 上出现关于获奖 AI 文学的讨论，获得 59 分和 66 条评论。同时有用户展示面向 AI 的界面微交互提示词项目，获得 74 分和 42 条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 81,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://jamesyu.org/award-winning-ai-literature/",
+          "language": "en",
+          "publishedAt": "2026-10-22T18:28:26.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.typeui.sh/micro-interactions",
+          "language": "en",
+          "publishedAt": "2026-10-22T18:32:57.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "大语言模型使大规模形式化软件验证变得可行",
+      "summaryZh": "Hacker News 讨论指出，大语言模型正让形式化软件验证在更大规模上变得可行。该话题获得 216 分和 119 条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.anthropic.com/research/formal-verification",
+          "language": "en",
+          "publishedAt": "2026-10-22T22:54:43.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "胡塞武装袭击扰乱航班，数千印度朝圣者滞留沙特",
+      "summaryZh": "在胡塞武装袭击升级导致航班中断的情况下，数千名印度朝圣者滞留在沙特阿拉伯。印度政府表示正在安排他们返回。",
+      "category": "政治",
+      "regions": [
+        "印度",
+        "沙特阿拉伯",
+        "中东"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/india-news-thousands-of-indian-pilgrims-stranded-in-saudi-arabia-as-houthi-attacks-disrupt-flights-government-facilitating-return/live-79738437?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-23T04:46:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "OpenShell：面向自主 AI 智能体集群的安全私有运行时",
+      "summaryZh": "Hacker News 上介绍了一个名为 OpenShell 的项目，定位为面向大量自主 AI 智能体集群的安全、私有运行时环境。该帖子获得 342 分和 181 条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -182,87 +247,14 @@
         "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内，热度评分为63。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://github.com/NVIDIA/OpenShell",
           "language": "en",
-          "publishedAt": "2026-10-22T03:48:50.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "哥伦比亚总统清理国家博物馆中“宣扬共产主义”作品",
-      "summaryZh": "哥伦比亚极右翼总统德拉埃斯普列利亚表示，将对文化机构发起“反革命”。国家博物馆中宣扬“共产主义”的作品被清理。",
-      "category": "政治",
-      "regions": [
-        "哥伦比亚",
-        "南美洲"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内，热度评分为62。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-22T01:09:40.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "小布什之弟在得州参议院选举中支持民主党人塔拉里科",
-      "summaryZh": "尼尔·布什表示，因对共和党候选人帕克斯顿有所保留，他投票支持民主党人詹姆斯·塔拉里科。",
-      "category": "政治",
-      "regions": [
-        "美国",
-        "得克萨斯州"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内，热度评分为62。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-22T01:01:52.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "俄罗斯同意恢复乌克兰和谈后 基辅遭导弹袭击",
-      "summaryZh": "莫斯科表示“原则上准备”恢复和平谈判，美国总统特朗普称世界“最接近”结束战争。随后基辅遭到导弹袭击。",
-      "category": "政治",
-      "regions": [
-        "乌克兰",
-        "俄罗斯",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内，热度评分为61。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-21T21:27:41.000Z"
+          "publishedAt": "2026-10-22T17:44:06.000Z"
         }
       ]
     }
