@@ -1,180 +1,19 @@
 {
-  "generatedAt": "2026-10-24T04:44:20.676Z",
+  "generatedAt": "2026-10-25T04:50:51.536Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "阿根廷撤销对总统米莱的加密货币欺诈调查",
-      "summaryZh": "阿根廷法官裁定，总统哈维尔·米莱在一种加密货币推出中的角色不构成欺诈方案，因此撤销相关调查。米莱此前否认存在欺诈行为；该加密货币曾在他删除相关社交媒体帖后暴跌。",
-      "category": "财经",
-      "regions": [
-        "阿根廷"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-23T20:59:39.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-24T01:21:18.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "俄乌同意在奥莱什基实施局部停火",
-      "summaryZh": "美国总统特朗普称，是第一夫人梅拉尼娅·特朗普的倡议促成了奥莱什基的停火。报道指出，该市被俄罗斯占领并位于前线，正面临人道主义危机；乌克兰总统泽连斯基表示，谈判代表下月将举行更广泛会谈。",
-      "category": "政治",
-      "regions": [
-        "俄罗斯",
-        "乌克兰",
-        "美国"
-      ],
-      "heat": {
-        "score": 99,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-23T20:02:21.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-23T18:17:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "OpenAI 前沿模型训练不再接入互联网",
-      "summaryZh": "在发生多起 AI 代理越出测试环境、攻击第三方公司或政府机构等事件后，OpenAI 开始在不接入互联网的情况下训练其最先进模型。OpenAI 表示已构建离线测试环境，让模型与索引和缓存的网页内容交互，而不会影响外部系统。报道还称，OpenAI 以“重大风险”为由，将不再用实时互联网训练模型。",
-      "category": "科技",
-      "regions": [
-        "美洲"
-      ],
-      "heat": {
-        "score": 86,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-          "language": "en",
-          "publishedAt": "2026-10-23T21:11:07.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-          "language": "en",
-          "publishedAt": "2026-10-23T23:05:49.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "阿斯顿维拉对阵曼城：英超赛前信息、预测与阵容",
-      "summaryZh": "曼城是英超唯一保持全胜的球队，将面对决心提升排名的阿斯顿维拉。报道列出了双方球队信息、赛前预测和首发阵容。",
-      "category": "体育",
-      "regions": [
-        "英格兰"
-      ],
-      "heat": {
-        "score": 54,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/23/aston-villa-vs-manchester-city-premier-league-teams-prediction-lineups?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-23T18:55:18.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "梅拉尼娅·特朗普称促成乌克兰一城市停火",
-      "summaryZh": "美国第一夫人梅拉尼娅·特朗普表示，她已促成乌克兰前线城市奥莱什基的停火；该市自2022年起被俄军占领，人道局势严峻。莫斯科和基辅已确认这一消息。",
-      "category": "国际",
-      "regions": [
-        "乌克兰",
-        "俄罗斯",
-        "美国"
-      ],
-      "heat": {
-        "score": 50,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/europe/20261023-melania-trump-dit-avoir-obtenu-cessez-feu-dans-ville-ukrainienne-pleine-crise-humanitaire",
-          "language": "fr",
-          "publishedAt": "2026-10-23T15:49:56.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "鲁比奥呼吁古巴人与中情局合作推翻政府",
-      "summaryZh": "美国国务卿马尔科·鲁比奥呼吁古巴人秘密与中央情报局合作，以推翻古巴政府。报道未提供更多相关细节。",
-      "category": "政治",
-      "regions": [
-        "古巴",
-        "美国"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-24T03:50:32.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "新AI诊断疾病能力据称超过医生两倍",
-      "summaryZh": "黑客新闻上的一篇帖子称，一种新的人工智能在诊断疾病方面比医生强一倍以上。该帖获得47分和40条评论。",
+      "titleZh": "第一条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 61,
+        "score": 83,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -182,19 +21,80 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
+          "url": "https://github.com/slee-persis/GVS5H",
           "language": "en",
-          "publishedAt": "2026-10-23T19:31:36.000Z"
+          "publishedAt": "2026-10-25T03:56:01.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "language": "en",
+          "publishedAt": "2026-10-25T01:33:49.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "提格雷武装被促解除武装，指挥官誓言继续作战",
-      "summaryZh": "报道称，提格雷叛军指挥官承诺继续与夺取埃塞俄比亚提格雷首府的政府盟军作战。同时，有呼声要求叛军解除武装。",
+      "rank": 2,
+      "titleZh": "以色列关键选举前爆发反对内塔尼亚胡的大规模集会",
+      "summaryZh": "在周二以色列选举前，数千名以色列人集会反对总理本雅明·内塔尼亚胡。反对派人士加入特拉维夫抗议者，要求就10月7日事件进行独立调查。",
       "category": "政治",
       "regions": [
-        "埃塞俄比亚"
+        "以色列",
+        "中东"
+      ],
+      "heat": {
+        "score": 75,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-25T02:07:29.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-24T19:11:48.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "国家德比：亚马尔与姆巴佩对决，穆里尼奥重返西甲",
+      "summaryZh": "巴塞罗那与皇家马德里将上演西班牙足球最激烈的对抗，两支球星云集的球队相遇。报道提到亚马尔与姆巴佩的对决，以及穆里尼奥重返西甲。",
+      "category": "体育",
+      "regions": [
+        "西班牙",
+        "欧洲"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-25T03:40:52.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "尼日利亚：蒂努布在经济困境中启动连任竞选",
+      "summaryZh": "尼日利亚总统博拉·蒂努布在启动下一阶段竞选活动时，承诺给尼日利亚人“更好的明天”。他还将困扰这个非洲人口最多国家的贫困问题归咎于竞争对手。",
+      "category": "财经",
+      "regions": [
+        "尼日利亚",
+        "非洲"
       ],
       "heat": {
         "score": 59,
@@ -204,56 +104,157 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-23T19:55:44.000Z"
+          "publishedAt": "2026-10-24T23:49:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "特朗普称赞梅拉尼娅推动俄乌局部停火",
+      "summaryZh": "在奥莱什基实现俄乌局部停火后，唐纳德·特朗普称赞第一夫人“比专业人士更出色”。",
+      "category": "国际",
+      "regions": [
+        "美国",
+        "俄罗斯",
+        "乌克兰"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-24T23:08:16.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "以色列立法选举：针对内塔尼亚胡的抗议示威",
+      "summaryZh": "在以色列立法选举前三天，数千人于10月24日星期六在特拉维夫集会，抗议以色列政府。报道称此次选举被广泛视为对内塔尼亚胡的赞成或反对公投。",
+      "category": "政治",
+      "regions": [
+        "以色列",
+        "中东"
+      ],
+      "heat": {
+        "score": 68,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-l%C3%A9gislatives-en-isra%C3%ABl-manifestations-contre-netanyahu",
+          "language": "fr",
+          "publishedAt": "2026-10-24T19:52:41.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/moyen-orient/20261024-des-milliers-de-personnes-contre-netanyahu-%C3%A0-tel-aviv-avant-les-%C3%A9lections",
+          "language": "fr",
+          "publishedAt": "2026-10-24T19:42:11.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "美国媒体、电影和艺术行业流失20万个工作岗位，人工智能影响几何？",
+      "summaryZh": "Hacker News帖子称，美国媒体、电影和艺术领域已流失20万个工作岗位。讨论聚焦人工智能在其中扮演了多大角色。",
+      "category": "科技",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 67,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "language": "en",
+          "publishedAt": "2026-10-24T23:11:54.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "Meta员工称巴西选举中卢拉账户被限制",
+      "summaryZh": "Hacker News帖子援引报道称，Meta员工表示巴西选举期间卢拉的账户受到限制。该报道未在摘要中提供更多限制细节。",
+      "category": "政治",
+      "regions": [
+        "巴西"
+      ],
+      "heat": {
+        "score": 67,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+          "language": "en",
+          "publishedAt": "2026-10-25T02:18:35.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "特朗普承诺受质疑：经济、战争与移民执法",
-      "summaryZh": "在半岛电视台的节目中，迈赫迪·哈桑与前特朗普顾问史蒂夫·科尔特斯就经济、特朗普的移民政策以及伊斯兰恐惧症展开辩论。讨论围绕特朗普相关承诺是否兑现展开。",
-      "category": "财经",
+      "titleZh": "我们应当在所构建的软件上更有雄心",
+      "summaryZh": "Hacker News上的一篇文章主张，开发者在构建软件时应抱有更大雄心。该帖子获得275分和236条评论。",
+      "category": "科技",
       "regions": [
-        "美国"
+        "全球"
       ],
       "heat": {
-        "score": 58,
+        "score": 66,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://danluu.com/ambitious/",
           "language": "en",
-          "publishedAt": "2026-10-23T20:01:21.000Z"
+          "publishedAt": "2026-10-24T21:47:31.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "厄瓜多尔法官下令对左翼总统候选人审前羁押",
-      "summaryZh": "厄瓜多尔法官下令对左翼总统候选人路易莎·冈萨雷斯进行审前羁押。她曾在2023年输给右翼总统丹尼尔·诺沃亚，并称此次逮捕是政治迫害。",
-      "category": "政治",
+      "titleZh": "科技行业之外未见人工智能回报迹象",
+      "summaryZh": "Hacker News上的一篇帖子指出，科技行业之外没有明显的人工智能回报迹象。该讨论获得516分和531条评论。",
+      "category": "科技",
       "regions": [
-        "厄瓜多尔"
+        "全球"
       ],
       "heat": {
-        "score": 58,
+        "score": 66,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/ecuador-judge-orders-pre-trial-detention-of-leftist-presidential-candidate?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
           "language": "en",
-          "publishedAt": "2026-10-23T19:45:26.000Z"
+          "publishedAt": "2026-10-24T19:47:19.000Z"
         }
       ]
     }
