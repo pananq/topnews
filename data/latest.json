@@ -1,76 +1,82 @@
 {
-  "generatedAt": "2026-10-25T04:50:51.536Z",
+  "generatedAt": "2026-10-26T04:55:19.438Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "第一条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "titleZh": "阿波罗经济学家称人工智能对多数企业带来“零财务回报”",
+      "summaryZh": "阿波罗全球管理公司的一名经济学家表示，尽管人工智能领域投资巨大且热度高涨，但对科技行业以外的美国企业而言，这项技术带来的财务回报几乎为零。该观点经 TechCrunch 报道后在 Hacker News 引发讨论，获得数十点热度与数十条评论。",
       "category": "科技",
       "regions": [
+        "美国",
         "全球"
       ],
       "heat": {
-        "score": 83,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://github.com/slee-persis/GVS5H",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
           "language": "en",
-          "publishedAt": "2026-10-25T03:56:01.000Z"
+          "publishedAt": "2026-10-25T16:57:32.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
           "language": "en",
-          "publishedAt": "2026-10-25T01:33:49.000Z"
+          "publishedAt": "2026-10-25T22:49:06.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "以色列关键选举前爆发反对内塔尼亚胡的大规模集会",
-      "summaryZh": "在周二以色列选举前，数千名以色列人集会反对总理本雅明·内塔尼亚胡。反对派人士加入特拉维夫抗议者，要求就10月7日事件进行独立调查。",
+      "titleZh": "卢拉感谢巴西青年助其赢得历史性选举",
+      "summaryZh": "巴西总统卢拉·达席尔瓦赢得前所未有的第四个任期，并向支持他的年轻选民表示感谢。半岛电视台另一篇报道总结称，这场决选过程戏剧性十足，伴随投票混乱与外部干预指控。",
       "category": "政治",
       "regions": [
-        "以色列",
-        "中东"
+        "巴西",
+        "拉丁美洲"
       ],
       "heat": {
-        "score": 75,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-25T02:07:29.000Z"
+          "publishedAt": "2026-10-26T03:14:26.000Z"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-24T19:11:48.000Z"
+          "publishedAt": "2026-10-26T02:59:50.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+          "language": "en",
+          "publishedAt": "2026-10-25T21:08:28.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "国家德比：亚马尔与姆巴佩对决，穆里尼奥重返西甲",
-      "summaryZh": "巴塞罗那与皇家马德里将上演西班牙足球最激烈的对抗，两支球星云集的球队相遇。报道提到亚马尔与姆巴佩的对决，以及穆里尼奥重返西甲。",
-      "category": "体育",
+      "titleZh": "Show HN：我把员工头像放进标普500市值气泡图",
+      "summaryZh": "一位开发者在 Hacker News 发布“Show HN”项目，将企业员工置于标普500成分股的市值气泡图中进行可视化展示。该帖获得 171 点热度与 47 条评论。",
+      "category": "财经",
       "regions": [
-        "西班牙",
-        "欧洲"
+        "全球"
       ],
       "heat": {
         "score": 60,
@@ -80,49 +86,140 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://bigwhalehunting.com/workforce/",
           "language": "en",
-          "publishedAt": "2026-10-25T03:40:52.000Z"
+          "publishedAt": "2026-10-25T15:05:39.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "尼日利亚：蒂努布在经济困境中启动连任竞选",
-      "summaryZh": "尼日利亚总统博拉·蒂努布在启动下一阶段竞选活动时，承诺给尼日利亚人“更好的明天”。他还将困扰这个非洲人口最多国家的贫困问题归咎于竞争对手。",
-      "category": "财经",
+      "titleZh": "法国：巴黎披上NFL色彩",
+      "summaryZh": "10月25日（周日），法兰西体育场首次承办美国职业橄榄球大联盟（NFL）常规赛，对阵双方为新奥尔良圣徒队与匹兹堡钢人队。球迷从新奥尔良、匹兹堡以及法国和其他欧洲国家赶来观赛，法国24台记者现场采访了部分球迷。",
+      "category": "体育",
       "regions": [
-        "尼日利亚",
-        "非洲"
+        "法国",
+        "欧洲",
+        "美国"
       ],
       "heat": {
-        "score": 59,
+        "score": 50,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-24T23:49:00.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261025-france-paris-aux-couleurs-de-la-nfl",
+          "language": "fr",
+          "publishedAt": "2026-10-25T16:57:32.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "特朗普称赞梅拉尼娅推动俄乌局部停火",
-      "summaryZh": "在奥莱什基实现俄乌局部停火后，唐纳德·特朗普称赞第一夫人“比专业人士更出色”。",
-      "category": "国际",
+      "titleZh": "塞尔维亚庆祝学生支持的运动赢得历史性选举",
+      "summaryZh": "贝尔格莱德多地爆发庆祝活动，塞尔维亚学生支持的运动宣称在选举中取得重大胜利。德国之声报道称，长期执政的领导人武契奇已承认在议会选举中败给这一学生领导的政治运动。",
+      "category": "政治",
       "regions": [
-        "美国",
-        "俄罗斯",
-        "乌克兰"
+        "塞尔维亚",
+        "欧洲"
       ],
       "heat": {
-        "score": 58,
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-26T00:58:21.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-25T21:07:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "巴西左翼总统卢拉击败保守派挑战者弗拉维奥·博索纳罗赢得连任",
+      "summaryZh": "巴西左翼总统卢拉在总统选举第二轮投票中击败右翼挑战者弗拉维奥·博索纳罗，赢得又一个任期，得票率超过51.79%。弗拉维奥·博索纳罗拒绝承认结果，并宣布将寻求“取消选举”。",
+      "category": "政治",
+      "regions": [
+        "巴西",
+        "拉丁美洲"
+      ],
+      "heat": {
+        "score": 91,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-26T03:45:00.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261026-bresil-victoire-lula-quatrieme-mandat-flavio-bolsonaro",
+          "language": "fr",
+          "publishedAt": "2026-10-26T00:17:47.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "以色列在选举日关闭约旦河西岸过境点，镇压行动升级",
+      "summaryZh": "以色列国防军宣布，在周二选举前限制巴勒斯坦工人的行动，并将在选举日关闭以色列与所占约旦河西岸之间的所有陆路过境点。此前上周五发生袭击事件，两名以色列士兵身亡。",
+      "category": "政治",
+      "regions": [
+        "以色列",
+        "巴勒斯坦",
+        "中东"
+      ],
+      "heat": {
+        "score": 84,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-25T05:15:52.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-25T13:09:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "国际社会回应卢拉赢得巴西总统选举",
+      "summaryZh": "多国领导人和政治人物对卢拉连任巴西总统表示祝贺。半岛电视台同时报道称，卢拉在首轮意外失利后实现反击，最终击败极右翼对手弗拉维奥·博索纳罗。",
+      "category": "政治",
+      "regions": [
+        "巴西",
+        "全球"
+      ],
+      "heat": {
+        "score": 77,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -130,98 +227,28 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-24T23:08:16.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "以色列立法选举：针对内塔尼亚胡的抗议示威",
-      "summaryZh": "在以色列立法选举前三天，数千人于10月24日星期六在特拉维夫集会，抗议以色列政府。报道称此次选举被广泛视为对内塔尼亚胡的赞成或反对公投。",
-      "category": "政治",
-      "regions": [
-        "以色列",
-        "中东"
-      ],
-      "heat": {
-        "score": 68,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-l%C3%A9gislatives-en-isra%C3%ABl-manifestations-contre-netanyahu",
-          "language": "fr",
-          "publishedAt": "2026-10-24T19:52:41.000Z"
+          "publishedAt": "2026-10-26T03:50:12.000Z"
         },
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/moyen-orient/20261024-des-milliers-de-personnes-contre-netanyahu-%C3%A0-tel-aviv-avant-les-%C3%A9lections",
-          "language": "fr",
-          "publishedAt": "2026-10-24T19:42:11.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "美国媒体、电影和艺术行业流失20万个工作岗位，人工智能影响几何？",
-      "summaryZh": "Hacker News帖子称，美国媒体、电影和艺术领域已流失20万个工作岗位。讨论聚焦人工智能在其中扮演了多大角色。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 67,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-24T23:11:54.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "Meta员工称巴西选举中卢拉账户被限制",
-      "summaryZh": "Hacker News帖子援引报道称，Meta员工表示巴西选举期间卢拉的账户受到限制。该报道未在摘要中提供更多限制细节。",
-      "category": "政治",
-      "regions": [
-        "巴西"
-      ],
-      "heat": {
-        "score": 67,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
-          "language": "en",
-          "publishedAt": "2026-10-25T02:18:35.000Z"
+          "publishedAt": "2026-10-26T00:16:29.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "我们应当在所构建的软件上更有雄心",
-      "summaryZh": "Hacker News上的一篇文章主张，开发者在构建软件时应抱有更大雄心。该帖子获得275分和236条评论。",
-      "category": "科技",
+      "titleZh": "最终计票完成后卢拉宣布赢得选举",
+      "summaryZh": "在最终选票统计完成后，卢拉被确认赢得巴西总统选举。该消息在 Hacker News 上引发热议，获得 233 点热度与 224 条评论。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "巴西"
       ],
       "heat": {
-        "score": 66,
+        "score": 69,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -229,32 +256,38 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://danluu.com/ambitious/",
+          "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
           "language": "en",
-          "publishedAt": "2026-10-24T21:47:31.000Z"
+          "publishedAt": "2026-10-26T00:31:07.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "科技行业之外未见人工智能回报迹象",
-      "summaryZh": "Hacker News上的一篇帖子指出，科技行业之外没有明显的人工智能回报迹象。该讨论获得516分和531条评论。",
-      "category": "科技",
+      "titleZh": "2026年中期选举：奥巴马为民主党助选并抨击特朗普",
+      "summaryZh": "美国前总统奥巴马在俄亥俄州的一场集会上为民主党站台，并指责现任总统特朗普发动了一场“不必要的”伊朗战争。在中期选举不到十天之际，奥巴马一天内奔走两个州，呼吁选民积极投票支持民主党。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "美国"
       ],
       "heat": {
-        "score": 66,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "language": "en",
-          "publishedAt": "2026-10-24T19:47:19.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261025-midterms-2026-obama-fait-campagne-pour-les-d%C3%A9mocrates-et-%C3%A9pingle-trump",
+          "language": "fr",
+          "publishedAt": "2026-10-25T17:13:45.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261025-midterms-2026-barack-obama-en-campagne-pour-les-d%C3%A9mocrates",
+          "language": "fr",
+          "publishedAt": "2026-10-25T14:37:26.000Z"
         }
       ]
     }
