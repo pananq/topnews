@@ -1,293 +1,255 @@
 {
-  "generatedAt": "2026-10-26T04:55:19.438Z",
+  "generatedAt": "2026-10-27T05:12:56.546Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "阿波罗经济学家称人工智能对多数企业带来“零财务回报”",
-      "summaryZh": "阿波罗全球管理公司的一名经济学家表示，尽管人工智能领域投资巨大且热度高涨，但对科技行业以外的美国企业而言，这项技术带来的财务回报几乎为零。该观点经 TechCrunch 报道后在 Hacker News 引发讨论，获得数十点热度与数十条评论。",
+      "titleZh": "俄方在赫尔松地区停止打击，奥莱什基局部停火生效",
+      "summaryZh": "据半岛电视台和德国之声报道，一项由美国第一夫人梅拉尼娅·特朗普促成的局部停火已经生效，俄方停止对乌克兰赫尔松地区奥莱什基的打击。停火将允许当地开展人员撤离和援助物资运送。德国之声称，奥莱什基仍有约2000人受困，食品和药品严重短缺。",
+      "category": "国际",
+      "regions": [
+        "乌克兰",
+        "俄罗斯",
+        "美国"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-27T02:29:00.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-27T03:52:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "AI公司Anthropic提交IPO申请，寻求融资1000亿美元",
+      "summaryZh": "德国之声报道，人工智能公司Anthropic已提交首次公开募股文件，这可能成为史上规模最大的IPO之一。TechCrunch指出，文件显示其收入快速上升、亏损扩大，企业客户采用度较高，并采用特殊治理结构以保持创始人控制权和AI安全使命。",
+      "category": "科技",
+      "regions": [
+        "美国",
+        "欧洲"
+      ],
+      "heat": {
+        "score": 93,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-26T18:22:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+          "language": "en",
+          "publishedAt": "2026-10-26T14:35:22.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "“买入、借贷、持有至死”财富策略市场规模已达5万亿美元",
+      "summaryZh": "Hacker News上的一则帖子讨论称，“买入、借贷、持有至死”的财富策略已发展成一个规模达5万亿美元的市场。该帖子获得29分和7条评论。",
+      "category": "财经",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.wsj.com/finance/the-buy-borrow-and-die-wealth-strategy-has-become-a-5-trillion-market-d9149a9d",
+          "language": "en",
+          "publishedAt": "2026-10-27T01:30:08.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "以色列举行大选，右倾趋势主导这场关键选举",
+      "summaryZh": "半岛电视台报道，以色列选民前往投票站，这场选举被视为对该国具有关键意义。内塔尼亚胡寻求以极右翼联盟领导人的身份延续执政，对手主要是以右翼为主的阵营。",
+      "category": "政治",
+      "regions": [
+        "以色列",
+        "中东"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-27T04:44:14.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "Jay-Z将登上超级碗中场秀表演",
+      "summaryZh": "据BBC报道，说唱歌手Jay-Z将在超级碗中场秀演出。他多年来参与该演出相关工作，但此前从未在NFL冠军赛上表演。",
+      "category": "体育",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-27T05:05:15.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "以色列2026年大选直播：内塔尼亚胡在关键投票中面临严峻考验",
+      "summaryZh": "半岛电视台直播报道显示，数百万以色列选民参加投票。此次选举被广泛称为以色列历史上影响最为重大的一次选举。",
+      "category": "政治",
+      "regions": [
+        "以色列",
+        "中东"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-27T04:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "巴西大选：德国总理默茨等多国领导人祝贺卢拉胜选",
+      "summaryZh": "德国之声报道，巴西总统卢拉出人意料地击败极右翼挑战者弗拉维奥·博索纳罗。博索纳罗所属政党已承认卢拉的选举胜利。多国领导人包括德国总理默茨向卢拉表示祝贺。",
+      "category": "政治",
+      "regions": [
+        "巴西",
+        "欧洲"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-27T04:46:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "GLM-5.3 Workers AI模型出现跨请求KV缓存暴露问题（155条响应）",
+      "summaryZh": "Hacker News上一则帖子指出，GLM-5.3 Workers AI模型存在跨请求的KV缓存暴露问题，涉及155条响应。该帖子获得103分和33条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+          "language": "en",
+          "publishedAt": "2026-10-26T22:41:48.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "OpenAI称AI在数学、计算机科学和物理学领域取得发现",
+      "summaryZh": "半岛电视台报道，OpenAI宣布其AI在数学、计算机科学和物理学领域取得发现。这是近期一系列由AI取得科学突破声明中的最新一例。",
       "category": "科技",
       "regions": [
         "美国",
         "全球"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-          "language": "en",
-          "publishedAt": "2026-10-25T16:57:32.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-          "language": "en",
-          "publishedAt": "2026-10-25T22:49:06.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "卢拉感谢巴西青年助其赢得历史性选举",
-      "summaryZh": "巴西总统卢拉·达席尔瓦赢得前所未有的第四个任期，并向支持他的年轻选民表示感谢。半岛电视台另一篇报道总结称，这场决选过程戏剧性十足，伴随投票混乱与外部干预指控。",
-      "category": "政治",
-      "regions": [
-        "巴西",
-        "拉丁美洲"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-26T03:14:26.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-26T02:59:50.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-          "language": "en",
-          "publishedAt": "2026-10-25T21:08:28.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "Show HN：我把员工头像放进标普500市值气泡图",
-      "summaryZh": "一位开发者在 Hacker News 发布“Show HN”项目，将企业员工置于标普500成分股的市值气泡图中进行可视化展示。该帖获得 171 点热度与 47 条评论。",
-      "category": "财经",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 60,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://bigwhalehunting.com/workforce/",
-          "language": "en",
-          "publishedAt": "2026-10-25T15:05:39.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "法国：巴黎披上NFL色彩",
-      "summaryZh": "10月25日（周日），法兰西体育场首次承办美国职业橄榄球大联盟（NFL）常规赛，对阵双方为新奥尔良圣徒队与匹兹堡钢人队。球迷从新奥尔良、匹兹堡以及法国和其他欧洲国家赶来观赛，法国24台记者现场采访了部分球迷。",
-      "category": "体育",
-      "regions": [
-        "法国",
-        "欧洲",
-        "美国"
-      ],
-      "heat": {
-        "score": 50,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261025-france-paris-aux-couleurs-de-la-nfl",
-          "language": "fr",
-          "publishedAt": "2026-10-25T16:57:32.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "塞尔维亚庆祝学生支持的运动赢得历史性选举",
-      "summaryZh": "贝尔格莱德多地爆发庆祝活动，塞尔维亚学生支持的运动宣称在选举中取得重大胜利。德国之声报道称，长期执政的领导人武契奇已承认在议会选举中败给这一学生领导的政治运动。",
-      "category": "政治",
-      "regions": [
-        "塞尔维亚",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-26T00:58:21.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-25T21:07:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "巴西左翼总统卢拉击败保守派挑战者弗拉维奥·博索纳罗赢得连任",
-      "summaryZh": "巴西左翼总统卢拉在总统选举第二轮投票中击败右翼挑战者弗拉维奥·博索纳罗，赢得又一个任期，得票率超过51.79%。弗拉维奥·博索纳罗拒绝承认结果，并宣布将寻求“取消选举”。",
-      "category": "政治",
-      "regions": [
-        "巴西",
-        "拉丁美洲"
-      ],
-      "heat": {
-        "score": 91,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-26T03:45:00.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20261026-bresil-victoire-lula-quatrieme-mandat-flavio-bolsonaro",
-          "language": "fr",
-          "publishedAt": "2026-10-26T00:17:47.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "以色列在选举日关闭约旦河西岸过境点，镇压行动升级",
-      "summaryZh": "以色列国防军宣布，在周二选举前限制巴勒斯坦工人的行动，并将在选举日关闭以色列与所占约旦河西岸之间的所有陆路过境点。此前上周五发生袭击事件，两名以色列士兵身亡。",
-      "category": "政治",
-      "regions": [
-        "以色列",
-        "巴勒斯坦",
-        "中东"
-      ],
-      "heat": {
-        "score": 84,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-25T05:15:52.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-25T13:09:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "国际社会回应卢拉赢得巴西总统选举",
-      "summaryZh": "多国领导人和政治人物对卢拉连任巴西总统表示祝贺。半岛电视台同时报道称，卢拉在首轮意外失利后实现反击，最终击败极右翼对手弗拉维奥·博索纳罗。",
-      "category": "政治",
-      "regions": [
-        "巴西",
-        "全球"
-      ],
-      "heat": {
-        "score": 77,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-26T03:50:12.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-26T00:16:29.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "最终计票完成后卢拉宣布赢得选举",
-      "summaryZh": "在最终选票统计完成后，卢拉被确认赢得巴西总统选举。该消息在 Hacker News 上引发热议，获得 233 点热度与 224 条评论。",
-      "category": "政治",
-      "regions": [
-        "巴西"
-      ],
-      "heat": {
-        "score": 69,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
-          "language": "en",
-          "publishedAt": "2026-10-26T00:31:07.000Z"
+          "publishedAt": "2026-10-27T05:01:13.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "2026年中期选举：奥巴马为民主党助选并抨击特朗普",
-      "summaryZh": "美国前总统奥巴马在俄亥俄州的一场集会上为民主党站台，并指责现任总统特朗普发动了一场“不必要的”伊朗战争。在中期选举不到十天之际，奥巴马一天内奔走两个州，呼吁选民积极投票支持民主党。",
+      "titleZh": "特朗普建议将大西洋改名为“美国洋”",
+      "summaryZh": "半岛电视台报道，美国总统特朗普在共和党集会上提出将大西洋改名为“美国洋”的建议。",
       "category": "政治",
       "regions": [
         "美国"
       ],
       "heat": {
-        "score": 65,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261025-midterms-2026-obama-fait-campagne-pour-les-d%C3%A9mocrates-et-%C3%A9pingle-trump",
-          "language": "fr",
-          "publishedAt": "2026-10-25T17:13:45.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261025-midterms-2026-barack-obama-en-campagne-pour-les-d%C3%A9mocrates",
-          "language": "fr",
-          "publishedAt": "2026-10-25T14:37:26.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-suggests-renaming-the-atlantic-ocean-the-american?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-27T02:17:06.000Z"
         }
       ]
     }
