@@ -1,18 +1,17 @@
 {
-  "generatedAt": "2026-10-27T05:12:56.546Z",
+  "generatedAt": "2026-10-28T05:50:42.234Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "俄方在赫尔松地区停止打击，奥莱什基局部停火生效",
-      "summaryZh": "据半岛电视台和德国之声报道，一项由美国第一夫人梅拉尼娅·特朗普促成的局部停火已经生效，俄方停止对乌克兰赫尔松地区奥莱什基的打击。停火将允许当地开展人员撤离和援助物资运送。德国之声称，奥莱什基仍有约2000人受困，食品和药品严重短缺。",
-      "category": "国际",
+      "titleZh": "以色列选举出口民调：阿拉伯政党有望创纪录赢得席位",
+      "summaryZh": "出口民调显示，以色列阿拉伯政党有望在选举中赢得创纪录席位，以色列巴勒斯坦公民的投票率早期迹象约为80%。德国之声报道称，亲内塔尼亚胡与反内塔尼亚胡阵营的部分结果几乎持平，暂无明确赢家，最终计票可能需数日。",
+      "category": "政治",
       "regions": [
-        "乌克兰",
-        "俄罗斯",
-        "美国"
+        "以色列",
+        "中东"
       ],
       "heat": {
         "score": 100,
@@ -23,58 +22,64 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-27T02:29:00.000Z"
+          "publishedAt": "2026-10-28T00:43:56.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/israel-election-exit-polls-show-no-clear-winner-with-netanyahu-s-fate-unclear/live-79713839?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-27T03:52:00.000Z"
+          "publishedAt": "2026-10-28T02:53:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "AI公司Anthropic提交IPO申请，寻求融资1000亿美元",
-      "summaryZh": "德国之声报道，人工智能公司Anthropic已提交首次公开募股文件，这可能成为史上规模最大的IPO之一。TechCrunch指出，文件显示其收入快速上升、亏损扩大，企业客户采用度较高，并采用特殊治理结构以保持创始人控制权和AI安全使命。",
-      "category": "科技",
+      "titleZh": "哈里·凯恩获得2026年金球奖",
+      "summaryZh": "拜仁慕尼黑前锋哈里·凯恩赢得足球界最负盛名的个人奖项，击败姆巴佩和亚马尔。相关报道称，凯恩转会德甲后进一步发展，并因此获得奖励。",
+      "category": "体育",
       "regions": [
-        "美国",
-        "欧洲"
+        "欧洲",
+        "德国"
       ],
       "heat": {
-        "score": 93,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 1,
+        "reasonZh": "共有3个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-26T18:22:00.000Z"
+          "publishedAt": "2026-10-27T14:11:00.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-          "language": "en",
-          "publishedAt": "2026-10-26T14:35:22.000Z"
+          "name": "DW Deutsch",
+          "url": "https://www.dw.com/de/bayern-stürmer-harry-kane-gewinnt-den-ballon-d-or/a-79760904?maca=de-rss-de-all-1119-rdf",
+          "language": "de",
+          "publishedAt": "2026-10-27T07:29:00.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261027-football-l-attaquant-anglais-harry-kane-remporte-le-ballon-d-or-2026",
+          "language": "fr",
+          "publishedAt": "2026-10-27T14:41:36.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "“买入、借贷、持有至死”财富策略市场规模已达5万亿美元",
-      "summaryZh": "Hacker News上的一则帖子讨论称，“买入、借贷、持有至死”的财富策略已发展成一个规模达5万亿美元的市场。该帖子获得29分和7条评论。",
-      "category": "财经",
+      "titleZh": "Survival LLM：可在个人电脑上运行的人工智能助手与应急资料库",
+      "summaryZh": "Hacker News上发布的项目“Survival LLM”定位为可在用户自有电脑上运行的人工智能助手和应急资料库。该帖获得269分和120条评论。",
+      "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
@@ -82,23 +87,23 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.wsj.com/finance/the-buy-borrow-and-die-wealth-strategy-has-become-a-5-trillion-market-d9149a9d",
+          "url": "https://www.brangus.io/survival-llm",
           "language": "en",
-          "publishedAt": "2026-10-27T01:30:08.000Z"
+          "publishedAt": "2026-10-27T19:55:06.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "以色列举行大选，右倾趋势主导这场关键选举",
-      "summaryZh": "半岛电视台报道，以色列选民前往投票站，这场选举被视为对该国具有关键意义。内塔尼亚胡寻求以极右翼联盟领导人的身份延续执政，对手主要是以右翼为主的阵营。",
-      "category": "政治",
+      "titleZh": "全球股市上涨，投资者继续押注人工智能",
+      "summaryZh": "亚洲股市上涨，跟随华尔街的涨势。报道称，投资者继续押注人工智能。",
+      "category": "财经",
       "regions": [
-        "以色列",
-        "中东"
+        "全球",
+        "亚洲"
       ],
       "heat": {
-        "score": 64,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
@@ -106,22 +111,23 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-27T04:44:14.000Z"
+          "publishedAt": "2026-10-28T03:14:31.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "Jay-Z将登上超级碗中场秀表演",
-      "summaryZh": "据BBC报道，说唱歌手Jay-Z将在超级碗中场秀演出。他多年来参与该演出相关工作，但此前从未在NFL冠军赛上表演。",
-      "category": "体育",
+      "titleZh": "官员称乌克兰赫尔松地区停火延长",
+      "summaryZh": "官员表示，乌克兰赫尔松地区停火已延长。停火原计划针对奥列什基滞留居民，俄罗斯和乌克兰均称未报告违反停火的情况。",
+      "category": "国际",
       "regions": [
-        "美国"
+        "乌克兰",
+        "欧洲"
       ],
       "heat": {
-        "score": 62,
+        "score": 57,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
@@ -129,20 +135,75 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-27T05:05:15.000Z"
+          "publishedAt": "2026-10-27T22:11:08.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "以色列2026年大选直播：内塔尼亚胡在关键投票中面临严峻考验",
-      "summaryZh": "半岛电视台直播报道显示，数百万以色列选民参加投票。此次选举被广泛称为以色列历史上影响最为重大的一次选举。",
+      "titleZh": "以色列选举对加沙和更广泛世界意味着什么？",
+      "summaryZh": "BBC外交记者在耶路撒冷报道投票情况。半岛电视台称暂无明确获胜者，结果出炉后以色列总统赫尔佐格将授权他认为最有可能组阁的人选。",
+      "category": "政治",
+      "regions": [
+        "以色列",
+        "加沙",
+        "中东"
+      ],
+      "heat": {
+        "score": 99,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-27T10:17:36.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-10-27T23:06:47.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "以色列选举投票胶着，接下来会发生什么？",
+      "summaryZh": "以色列选举投票结束，但没有明确赢家。报道关注投票结束后的后续走向。",
       "category": "政治",
       "regions": [
         "以色列",
         "中东"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-28T04:22:59.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "美国中期选举前，印度为何对特朗普态度转冷",
+      "summaryZh": "文章称，在莫迪支持特朗普七年后，新德里可能希望美国中期选举中的失利让总统受到制约。",
+      "category": "政治",
+      "regions": [
+        "印度",
+        "美国"
       ],
       "heat": {
         "score": 64,
@@ -153,43 +214,42 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss",
+          "url": "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-27T04:30:00.000Z"
+          "publishedAt": "2026-10-28T05:43:40.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "巴西大选：德国总理默茨等多国领导人祝贺卢拉胜选",
-      "summaryZh": "德国之声报道，巴西总统卢拉出人意料地击败极右翼挑战者弗拉维奥·博索纳罗。博索纳罗所属政党已承认卢拉的选举胜利。多国领导人包括德国总理默茨向卢拉表示祝贺。",
+      "rank": 9,
+      "titleZh": "拓展与GSA合作，将Claude引入各级政府",
+      "summaryZh": "Hacker News帖子介绍与GSA扩大合作，把Claude带到各级政府。该帖获得35分和27条评论。",
       "category": "政治",
       "regions": [
-        "巴西",
-        "欧洲"
+        "美国"
       ],
       "heat": {
-        "score": 63,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf",
+          "name": "Hacker News",
+          "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
           "language": "en",
-          "publishedAt": "2026-10-27T04:46:00.000Z"
+          "publishedAt": "2026-10-27T22:23:37.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "GLM-5.3 Workers AI模型出现跨请求KV缓存暴露问题（155条响应）",
-      "summaryZh": "Hacker News上一则帖子指出，GLM-5.3 Workers AI模型存在跨请求的KV缓存暴露问题，涉及155条响应。该帖子获得103分和33条评论。",
-      "category": "科技",
+      "rank": 10,
+      "titleZh": "美国政府被指隐瞒有关监控美国人的秘密法院裁决",
+      "summaryZh": "Hacker News帖子称，美国政府隐瞒了一项关于其如何监控美国人的秘密法院裁决。该帖获得882分和312条评论。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "美国"
       ],
       "heat": {
         "score": 63,
@@ -200,56 +260,9 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+          "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
           "language": "en",
-          "publishedAt": "2026-10-26T22:41:48.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "OpenAI称AI在数学、计算机科学和物理学领域取得发现",
-      "summaryZh": "半岛电视台报道，OpenAI宣布其AI在数学、计算机科学和物理学领域取得发现。这是近期一系列由AI取得科学突破声明中的最新一例。",
-      "category": "科技",
-      "regions": [
-        "美国",
-        "全球"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-27T05:01:13.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "特朗普建议将大西洋改名为“美国洋”",
-      "summaryZh": "半岛电视台报道，美国总统特朗普在共和党集会上提出将大西洋改名为“美国洋”的建议。",
-      "category": "政治",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-suggests-renaming-the-atlantic-ocean-the-american?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-27T02:17:06.000Z"
+          "publishedAt": "2026-10-27T14:06:42.000Z"
         }
       ]
     }
