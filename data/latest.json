@@ -1,283 +1,267 @@
 {
-  "generatedAt": "2026-10-29T05:55:12.018Z",
+  "generatedAt": "2026-10-30T05:56:12.577Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "AI 高管或与公众脱节，难以面向大众构建产品",
-      "summaryZh": "TechCrunch 报道称，科技领袖在炫耀用 AI 与家人联系时，暴露了与普通公众的脱节。Hacker News 上也出现同一话题讨论。",
+      "titleZh": "谷歌市值暴跌5000亿美元，AI担忧震动华尔街",
+      "summaryZh": "谷歌披露其AI搜索摘要正在影响广告收入后，投资者受到惊吓，股价跌至六个月低点。报道称其市值蒸发5000亿美元，华尔街对AI的担忧随之加剧。",
       "category": "科技",
       "regions": [
-        "全球",
-        "美洲"
+        "美国",
+        "全球"
       ],
       "heat": {
         "score": 100,
         "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "热度依据：共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度信号显示2个来源、2个地区，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-28T15:53:52.000Z"
+          "publishedAt": "2026-10-29T22:17:52.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+          "language": "en",
+          "publishedAt": "2026-10-29T22:22:13.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "以色列选举部分结果显示内塔尼亚胡阵营领先但未过半",
-      "summaryZh": "部分计票结果显示，内塔尼亚胡所属利库德集团及盟友预计在 120 席议会中赢得 53 席。多家媒体报道称，目前没有明确赢家，组阁谈判可能艰难。",
-      "category": "政治",
+      "titleZh": "币安遭黑客攻击，疑为史上最大加密货币窃案",
+      "summaryZh": "币安在疑似黑客攻击后暂停部分交易和提现，多家加密公司冻结了数十亿美元资金。分析公司称攻击由朝鲜黑客组织TraderTraitor实施，有报道估计被盗金额达63亿美元，但完整损失尚不清楚。",
+      "category": "财经",
       "regions": [
-        "以色列",
-        "中东"
+        "全球"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "热度依据：共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "sourceCount": 4,
+        "regionCount": 3,
+        "reasonZh": "输入热度信号显示4个来源、3个地区，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-28T20:24:39.000Z"
+          "publishedAt": "2026-10-30T05:15:16.000Z"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-29T00:01:07.000Z"
+          "publishedAt": "2026-10-30T00:29:24.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-more-than-80-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/binance-crypto-platform-suspends-trades-amid-suspected-hack/a-79803280?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-10-28T12:55:00.000Z"
+          "publishedAt": "2026-10-30T00:55:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+          "language": "en",
+          "publishedAt": "2026-10-29T22:27:23.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "塞尔维亚称一名塞尔维亚人在以色列使馆外袭击警官后被击毙",
-      "summaryZh": "当局称，贝尔格莱德以色列使馆外发生袭击，一名未成年男性被警方击毙，该人正受安全部门监控。塞尔维亚内政部长表示，事件后警方启动最高恐怖警报。",
-      "category": "国际",
+      "titleZh": "特朗普在停机坪怒斥记者“你看起来糟透了”",
+      "summaryZh": "美国总统特朗普在停机坪对一名记者的外貌发火。报道称特朗普对记者说出“你看起来糟透了”。",
+      "category": "政治",
       "regions": [
-        "塞尔维亚",
-        "以色列"
+        "美国"
       ],
       "heat": {
-        "score": 80,
-        "sourceCount": 2,
+        "score": 63,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "热度依据：共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度信号显示1个来源、1个地区，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/you-look-like-hell-trump-lashes-out-at-reporter-in-tarmac-tirade?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-28T10:17:54.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-28T08:48:00.000Z"
+          "publishedAt": "2026-10-30T04:31:16.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "人权组织称苏丹达尔富尔市场遭袭致 100 多人死亡",
-      "summaryZh": "Al Jazeera 报道，人权组织称达尔富尔一市场遭袭，造成 100 多人死亡。目击者称袭击击中平民店主和 RSF 武装人员，妇女和儿童遇难。",
-      "category": "财经",
+      "titleZh": "赫尔松短暂平静，居民担忧战事再起",
+      "summaryZh": "临时停火给赫尔松带来罕见安静，居民得以一窥正常生活。但居民担心战斗恢复后的前景。",
+      "category": "国际",
       "regions": [
-        "苏丹",
-        "达尔富尔"
+        "乌克兰"
       ],
       "heat": {
-        "score": 61,
+        "score": 56,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "热度依据：共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度信号显示1个来源、1个地区，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-29T02:48:38.000Z"
+          "publishedAt": "2026-10-29T20:05:57.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "非洲首届青奥会在塞内加尔开幕，希望与审视并存",
-      "summaryZh": "塞内加尔承办非洲首届青奥会，2700 名年轻运动员在达喀尔、迪亚米亚迪奥和萨利参赛。报道指出，赛事带来自豪与希望，也引发关于成本、权利和遗产的问题。",
+      "titleZh": "皇马与巴萨为西班牙列车事故遇难者致哀",
+      "summaryZh": "西班牙足球俱乐部为周三列车相撞事故遇难者默哀一分钟。皇家马德里和巴塞罗那均参与悼念。",
       "category": "体育",
       "regions": [
-        "塞内加尔",
-        "非洲"
+        "西班牙"
       ],
       "heat": {
-        "score": 45,
+        "score": 54,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "热度依据：共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度信号显示1个来源、1个地区，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/africa-s-first-youth-olympics-open-in-senegal-amid-hope-and-scrutiny/a-79760478?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/real-madrid-and-fc-barcelona-honour-spain-train-crash-victims?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-28T09:08:00.000Z"
+          "publishedAt": "2026-10-29T20:42:03.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "巴西弗拉维奥·博索纳罗选举失败后何去何从",
-      "summaryZh": "Al Jazeera 报道，这位特朗普的极右翼盟友在选举失败后携妻儿前往迈阿密。DW 报道称，弗拉维奥·博索纳罗抵达美国并自称巴西的“领导人”，尽管他在周日总统决选中落败。",
-      "category": "政治",
+      "titleZh": "Rivian R2成为公司最畅销车型",
+      "summaryZh": "Rivian公布2026年第三季度营收21.55亿美元，同比增长38%。其中汽车业务营收15.5亿美元，软件与订阅服务营收6.05亿美元。R2 SUV已超过公司其他电动车，成为最畅销车型，公司年内第二次上调对华尔街的业绩指引。",
+      "category": "科技",
       "regions": [
-        "巴西",
         "美国"
       ],
       "heat": {
-        "score": 100,
+        "score": 83,
         "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "热度依据：共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "regionCount": 1,
+        "reasonZh": "输入热度信号显示2个来源、1个地区，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
           "language": "en",
-          "publishedAt": "2026-10-28T20:38:01.000Z"
+          "publishedAt": "2026-10-29T20:02:00.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-all-1573-rdf",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
           "language": "en",
-          "publishedAt": "2026-10-28T22:26:00.000Z"
+          "publishedAt": "2026-10-29T20:02:03.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "苹果全配触屏 MacBook Pro 售价达 14549 美元",
-      "summaryZh": "The Verge 报道，苹果新款触屏 MacBook Pro 基础版 14 英寸起价 2899 美元、16 英寸起价 3399 美元。若选配所有高端硬件，价格分别升至 14249 美元和 14549 美元。TechCrunch 称其将笔记本定价推向新极端。",
+      "titleZh": "在《我的世界》和《Mindustry》中运行AI智能体集群",
+      "summaryZh": "Hacker News帖子称在《我的世界》和《Mindustry》中运行AI智能体集群。该帖子获得239分和81条评论。",
       "category": "科技",
       "regions": [
-        "美国",
         "全球"
       ],
       "heat": {
-        "score": 95,
-        "sourceCount": 2,
+        "score": 64,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "热度依据：共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度信号显示1个来源、1个地区，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+          "name": "Hacker News",
+          "url": "https://labs.ycombinator.com/projects/games/index.html",
           "language": "en",
-          "publishedAt": "2026-10-28T20:12:44.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-          "language": "en",
-          "publishedAt": "2026-10-28T22:47:50.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-          "language": "en",
-          "publishedAt": "2026-10-28T17:26:10.000Z"
+          "publishedAt": "2026-10-29T21:40:28.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "土耳其的利比亚突破能否重塑东地中海外交",
-      "summaryZh": "Al Jazeera 分析称，安卡拉在利比亚获得昔日对手对海上边界协议的支持。但报道指出，其他外交考验仍然存在。",
+      "titleZh": "底特律加油站为何以特朗普名义出售折扣燃油？",
+      "summaryZh": "由特朗普推广的加油站在底特律以折扣价出售燃油。报道称此举正值美国人应对油价上涨。",
       "category": "政治",
       "regions": [
-        "土耳其",
-        "利比亚",
-        "东地中海"
+        "美国"
       ],
       "heat": {
-        "score": 64,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "热度依据：共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度信号显示1个来源、1个地区，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news-analysis/2026/10/29/can-turkiyes-libya-breakthrough-reshape-eastern-mediterranean-diplomacy?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/why-are-detroit-gas-stations-selling-discounted-fuel-in-trumps-name?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-29T05:29:20.000Z"
+          "publishedAt": "2026-10-30T03:31:30.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "法官驳回特朗普阻止加州“非公民”选票的努力",
-      "summaryZh": "Al Jazeera 报道，一名法官驳回特朗普相关努力。报道还称，政府在 13 个州发出 100 多份传票，加大对涉嫌非公民选民的查找。",
+      "titleZh": "莫迪政府财政部长丈夫质疑印度选举公正性",
+      "summaryZh": "莫迪政府财政部长的丈夫加入反对选民名单修订的大规模抗议。报道称其对选举公正性提出质疑。",
       "category": "政治",
       "regions": [
-        "美国",
-        "加利福尼亚州"
+        "印度"
       ],
       "heat": {
-        "score": 64,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "热度依据：共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度信号显示1个来源、1个地区，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/judge-rejects-trump-effort-to-block-california-noncitizen-ballots?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-29T05:06:23.000Z"
+          "publishedAt": "2026-10-30T02:41:18.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "纽约时报在 Cooking 应用中加入更多 AI 功能，用户反应冷淡",
-      "summaryZh": "Hacker News 讨论指出，纽约时报为其 Cooking 应用增加更多 AI 功能，但用户并不热情。该帖获得 48 分和 87 条评论。",
-      "category": "科技",
+      "titleZh": "内塔尼亚胡未获多数席位，攻击以色列阿拉伯政党",
+      "summaryZh": "以色列总理内塔尼亚胡指责巴勒斯坦裔以色列政党选举舞弊。此前其阵营未达到多数席位。",
+      "category": "政治",
       "regions": [
-        "美国",
-        "全球"
+        "以色列"
       ],
       "heat": {
-        "score": 64,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "热度依据：共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度信号显示1个来源、1个地区，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-29T00:16:08.000Z"
+          "publishedAt": "2026-10-30T02:40:26.000Z"
         }
       ]
     }
