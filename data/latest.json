@@ -1,267 +1,272 @@
 {
-  "generatedAt": "2026-10-30T05:56:12.577Z",
+  "generatedAt": "2026-10-31T05:52:28.230Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "谷歌市值暴跌5000亿美元，AI担忧震动华尔街",
-      "summaryZh": "谷歌披露其AI搜索摘要正在影响广告收入后，投资者受到惊吓，股价跌至六个月低点。报道称其市值蒸发5000亿美元，华尔街对AI的担忧随之加剧。",
-      "category": "科技",
+      "titleZh": "波兰最高法院控制权对峙 警方部署",
+      "summaryZh": "波兰政府暂停两名高级法官并推动对他们提出刑事指控，引发围绕最高宪法法庭控制权的对峙。警方在法院外部署，抗议者与警察发生冲突。总理图斯克为解职法院院长辩护，称此举旨在“恢复法治”。",
+      "category": "政治",
       "regions": [
-        "美国",
-        "全球"
+        "波兰",
+        "欧洲"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 2,
+        "sourceCount": 3,
         "regionCount": 2,
-        "reasonZh": "输入热度信号显示2个来源、2个地区，且报道集中在过去24小时内。"
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-29T22:17:52.000Z"
+          "publishedAt": "2026-10-31T01:11:43.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-29T22:22:13.000Z"
+          "publishedAt": "2026-10-30T23:19:42.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-30T23:22:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "币安遭黑客攻击，疑为史上最大加密货币窃案",
-      "summaryZh": "币安在疑似黑客攻击后暂停部分交易和提现，多家加密公司冻结了数十亿美元资金。分析公司称攻击由朝鲜黑客组织TraderTraitor实施，有报道估计被盗金额达63亿美元，但完整损失尚不清楚。",
-      "category": "财经",
+      "titleZh": "乌克兰罕见停火期间 俄占奥列什基数百人撤离",
+      "summaryZh": "在乌克兰一次罕见停火期间，数百人从俄罗斯占领的奥列什基撤离。报道称仍有数百人留在前线城镇，尽管危险仍在。半岛电视台称此次局部停火由梅拉尼娅·特朗普斡旋。",
+      "category": "国际",
       "regions": [
-        "全球"
+        "乌克兰",
+        "欧洲"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 4,
-        "regionCount": 3,
-        "reasonZh": "输入热度信号显示4个来源、3个地区，且报道集中在过去24小时内。"
+        "score": 99,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-30T05:15:16.000Z"
+          "publishedAt": "2026-10-30T16:26:11.000Z"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-30T00:29:24.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/binance-crypto-platform-suspends-trades-amid-suspected-hack/a-79803280?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-30T00:55:00.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-          "language": "en",
-          "publishedAt": "2026-10-29T22:27:23.000Z"
+          "publishedAt": "2026-10-31T02:44:38.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "特朗普在停机坪怒斥记者“你看起来糟透了”",
-      "summaryZh": "美国总统特朗普在停机坪对一名记者的外貌发火。报道称特朗普对记者说出“你看起来糟透了”。",
-      "category": "政治",
+      "titleZh": "币安试图追回与朝鲜有关黑客攻击中被盗的63亿美元",
+      "summaryZh": "币安表示正试图追回一起与朝鲜有关的黑客攻击中被盗的63亿美元。该公司称攻击复杂，据信是同类中最大规模，并已暂停交易以调查疑似入侵。",
+      "category": "科技",
       "regions": [
-        "美国"
+        "全球",
+        "朝鲜"
       ],
       "heat": {
-        "score": 63,
-        "sourceCount": 1,
+        "score": 87,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "输入热度信号显示1个来源、1个地区，且报道集中在过去24小时内。"
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/you-look-like-hell-trump-lashes-out-at-reporter-in-tarmac-tirade?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-30T04:31:16.000Z"
+          "publishedAt": "2026-10-30T21:13:14.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-10-30T15:37:00.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "赫尔松短暂平静，居民担忧战事再起",
-      "summaryZh": "临时停火给赫尔松带来罕见安静，居民得以一窥正常生活。但居民担心战斗恢复后的前景。",
-      "category": "国际",
+      "titleZh": "美国科技股大幅下跌 人工智能支出接近1万亿美元",
+      "summaryZh": "美国科技股大幅下跌，英特尔股价继续走低，以科技股为主的纳斯达克开盘创两个多月来最低水平。报道将市场表现与人工智能支出接近1万亿美元的背景下联系起来。",
+      "category": "财经",
       "regions": [
-        "乌克兰"
+        "美国"
       ],
       "heat": {
-        "score": 56,
+        "score": 58,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "输入热度信号显示1个来源、1个地区，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-29T20:05:57.000Z"
+          "publishedAt": "2026-10-30T20:34:46.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "皇马与巴萨为西班牙列车事故遇难者致哀",
-      "summaryZh": "西班牙足球俱乐部为周三列车相撞事故遇难者默哀一分钟。皇家马德里和巴塞罗那均参与悼念。",
+      "titleZh": "非洲足联改口 非洲杯恢复每两年举办",
+      "summaryZh": "非洲足联宣布改口，维持非洲国家杯每两年举办一次，而非每四年。该决定由执行委员会一致通过。报道还提出这是否是政治决定，以及未来非洲国家联赛的前景问题。",
       "category": "体育",
       "regions": [
-        "西班牙"
+        "非洲"
       ],
       "heat": {
-        "score": 54,
+        "score": 52,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "输入热度信号显示1个来源、1个地区，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/real-madrid-and-fc-barcelona-honour-spain-train-crash-victims?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-29T20:42:03.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261030-caf-r%C3%A9trop%C3%A9dale-can-se-jouera-de-nouveau-tous-deux-ans",
+          "language": "fr",
+          "publishedAt": "2026-10-30T20:27:23.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "Rivian R2成为公司最畅销车型",
-      "summaryZh": "Rivian公布2026年第三季度营收21.55亿美元，同比增长38%。其中汽车业务营收15.5亿美元，软件与订阅服务营收6.05亿美元。R2 SUV已超过公司其他电动车，成为最畅销车型，公司年内第二次上调对华尔街的业绩指引。",
-      "category": "科技",
+      "titleZh": "教皇利奥十四世成为首位在美国选举中投票的教皇",
+      "summaryZh": "出生于芝加哥的教皇利奥十四世通过邮寄选票参加美国中期选举投票，成为首位在美国选举中投票的教皇。此次中期选举将决定美国国会控制权。报道称他与特朗普关系紧张。",
+      "category": "政治",
       "regions": [
-        "美国"
+        "美国",
+        "梵蒂冈"
       ],
       "heat": {
-        "score": 83,
+        "score": 100,
         "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "输入热度信号显示2个来源、1个地区，且报道集中在过去24小时内。"
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-29T20:02:00.000Z"
+          "publishedAt": "2026-10-30T14:48:22.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-29T20:02:03.000Z"
+          "publishedAt": "2026-10-31T01:31:44.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "在《我的世界》和《Mindustry》中运行AI智能体集群",
-      "summaryZh": "Hacker News帖子称在《我的世界》和《Mindustry》中运行AI智能体集群。该帖子获得239分和81条评论。",
-      "category": "科技",
+      "titleZh": "西班牙列车灾难阴影笼罩桑切斯连任前景",
+      "summaryZh": "西班牙首相桑切斯在提前大选前数周遭遇一系列危机，列车灾难令其连任前景蒙上阴影。报道称危机接连冲击其选情。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "西班牙"
       ],
       "heat": {
-        "score": 64,
+        "score": 66,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "输入热度信号显示1个来源、1个地区，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://labs.ycombinator.com/projects/games/index.html",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-29T21:40:28.000Z"
+          "publishedAt": "2026-10-31T05:44:21.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "底特律加油站为何以特朗普名义出售折扣燃油？",
-      "summaryZh": "由特朗普推广的加油站在底特律以折扣价出售燃油。报道称此举正值美国人应对油价上涨。",
+      "titleZh": "约瑟夫·卡比拉从总统到反叛领袖",
+      "summaryZh": "报道梳理约瑟夫·卡比拉如何从刚果（金）总统转变为反叛运动领袖。文章探讨他发起新的反叛运动对刚果（金）意味着什么。",
       "category": "政治",
       "regions": [
-        "美国"
+        "刚果（金）",
+        "非洲"
       ],
       "heat": {
-        "score": 63,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "输入热度信号显示1个来源、1个地区，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/why-are-detroit-gas-stations-selling-discounted-fuel-in-trumps-name?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-30T03:31:30.000Z"
+          "publishedAt": "2026-10-31T04:32:07.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "莫迪政府财政部长丈夫质疑印度选举公正性",
-      "summaryZh": "莫迪政府财政部长的丈夫加入反对选民名单修订的大规模抗议。报道称其对选举公正性提出质疑。",
+      "titleZh": "俄罗斯《新报》在谋杀、逮捕和压力中被迫关闭",
+      "summaryZh": "俄罗斯最知名的调查性报纸正在关闭，员工指责政府将其扼杀。报道提到该报在经历谋杀、逮捕和压力后走向终结。",
       "category": "政治",
       "regions": [
-        "印度"
+        "俄罗斯"
       ],
       "heat": {
-        "score": 62,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "输入热度信号显示1个来源、1个地区，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-30T02:41:18.000Z"
+          "publishedAt": "2026-10-31T03:27:21.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "内塔尼亚胡未获多数席位，攻击以色列阿拉伯政党",
-      "summaryZh": "以色列总理内塔尼亚胡指责巴勒斯坦裔以色列政党选举舞弊。此前其阵营未达到多数席位。",
+      "titleZh": "阿拉斯加参议员候选人否认知晓“两名丹·沙利文”参选计谋",
+      "summaryZh": "竞选连任的共和党现任参议员及其盟友指责民主党招募第二名丹·沙利文参加竞选，以混淆选民。该参议员候选人否认事先知晓这一指称中的安排。",
       "category": "政治",
       "regions": [
-        "以色列"
+        "美国",
+        "阿拉斯加"
       ],
       "heat": {
         "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "输入热度信号显示1个来源、1个地区，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-30T02:40:26.000Z"
+          "publishedAt": "2026-10-31T00:29:58.000Z"
         }
       ]
     }
