@@ -1,212 +1,77 @@
 {
-  "generatedAt": "2026-10-31T05:52:28.230Z",
+  "generatedAt": "2026-11-01T06:16:41.770Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "波兰最高法院控制权对峙 警方部署",
-      "summaryZh": "波兰政府暂停两名高级法官并推动对他们提出刑事指控，引发围绕最高宪法法庭控制权的对峙。警方在法院外部署，抗议者与警察发生冲突。总理图斯克为解职法院院长辩护，称此举旨在“恢复法治”。",
-      "category": "政治",
+      "titleZh": "币安称已覆盖63亿美元黑客事件90%损失，FBI指朝鲜所为",
+      "summaryZh": "加密货币公司币安表示，在一宗规模达63亿美元的黑客攻击后，已覆盖其中90%的损失。美国联邦调查局称朝鲜应对此次黑客事件负责。相关报道由BBC World与Al Jazeera两家来源发出。",
+      "category": "财经",
       "regions": [
-        "波兰",
-        "欧洲"
+        "朝鲜",
+        "美国",
+        "全球"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 3,
+        "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-31T01:11:43.000Z"
+          "publishedAt": "2026-10-31T22:11:45.000Z"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-30T23:19:42.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-30T23:22:00.000Z"
+          "publishedAt": "2026-11-01T02:28:38.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "乌克兰罕见停火期间 俄占奥列什基数百人撤离",
-      "summaryZh": "在乌克兰一次罕见停火期间，数百人从俄罗斯占领的奥列什基撤离。报道称仍有数百人留在前线城镇，尽管危险仍在。半岛电视台称此次局部停火由梅拉尼娅·特朗普斡旋。",
-      "category": "国际",
+      "titleZh": "Hacker News热议：AI文本水印与质量损失",
+      "summaryZh": "Hacker News上出现关于AI文本水印及其带来的质量损失的技术讨论帖，获得43点、8条评论。同一时段另有题为“AI让我无家可归”的帖子，获得13点、10条评论。",
+      "category": "科技",
       "regions": [
-        "乌克兰",
-        "欧洲"
+        "全球"
       ],
       "heat": {
-        "score": 99,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 79,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
           "language": "en",
-          "publishedAt": "2026-10-30T16:26:11.000Z"
+          "publishedAt": "2026-10-31T21:50:13.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
           "language": "en",
-          "publishedAt": "2026-10-31T02:44:38.000Z"
+          "publishedAt": "2026-11-01T02:38:11.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "币安试图追回与朝鲜有关黑客攻击中被盗的63亿美元",
-      "summaryZh": "币安表示正试图追回一起与朝鲜有关的黑客攻击中被盗的63亿美元。该公司称攻击复杂，据信是同类中最大规模，并已暂停交易以调查疑似入侵。",
-      "category": "科技",
-      "regions": [
-        "全球",
-        "朝鲜"
-      ],
-      "heat": {
-        "score": 87,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-30T21:13:14.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-10-30T15:37:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "美国科技股大幅下跌 人工智能支出接近1万亿美元",
-      "summaryZh": "美国科技股大幅下跌，英特尔股价继续走低，以科技股为主的纳斯达克开盘创两个多月来最低水平。报道将市场表现与人工智能支出接近1万亿美元的背景下联系起来。",
-      "category": "财经",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 58,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-30T20:34:46.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "非洲足联改口 非洲杯恢复每两年举办",
-      "summaryZh": "非洲足联宣布改口，维持非洲国家杯每两年举办一次，而非每四年。该决定由执行委员会一致通过。报道还提出这是否是政治决定，以及未来非洲国家联赛的前景问题。",
-      "category": "体育",
-      "regions": [
-        "非洲"
-      ],
-      "heat": {
-        "score": 52,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261030-caf-r%C3%A9trop%C3%A9dale-can-se-jouera-de-nouveau-tous-deux-ans",
-          "language": "fr",
-          "publishedAt": "2026-10-30T20:27:23.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "教皇利奥十四世成为首位在美国选举中投票的教皇",
-      "summaryZh": "出生于芝加哥的教皇利奥十四世通过邮寄选票参加美国中期选举投票，成为首位在美国选举中投票的教皇。此次中期选举将决定美国国会控制权。报道称他与特朗普关系紧张。",
+      "titleZh": "民主党在得州屡屡受挫，塔拉里科能否扭转局势？",
+      "summaryZh": "BBC报道称，得克萨斯州这场耗资5亿美元的参议院选战可能是美国中期选举中最受关注的一场，其意义远超国会控制权归属。报道以民主党人在得州的历史失利为背景，关注候选人塔拉里科能否改变局面。",
       "category": "政治",
       "regions": [
         "美国",
-        "梵蒂冈"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-30T14:48:22.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-10-31T01:31:44.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "西班牙列车灾难阴影笼罩桑切斯连任前景",
-      "summaryZh": "西班牙首相桑切斯在提前大选前数周遭遇一系列危机，列车灾难令其连任前景蒙上阴影。报道称危机接连冲击其选情。",
-      "category": "政治",
-      "regions": [
-        "西班牙"
-      ],
-      "heat": {
-        "score": 66,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-31T05:44:21.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "约瑟夫·卡比拉从总统到反叛领袖",
-      "summaryZh": "报道梳理约瑟夫·卡比拉如何从刚果（金）总统转变为反叛运动领袖。文章探讨他发起新的反叛运动对刚果（金）意味着什么。",
-      "category": "政治",
-      "regions": [
-        "刚果（金）",
-        "非洲"
+        "得克萨斯州"
       ],
       "heat": {
         "score": 65,
@@ -217,22 +82,47 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-31T04:32:07.000Z"
+          "publishedAt": "2026-11-01T06:03:57.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "俄罗斯《新报》在谋杀、逮捕和压力中被迫关闭",
-      "summaryZh": "俄罗斯最知名的调查性报纸正在关闭，员工指责政府将其扼杀。报道提到该报在经历谋杀、逮捕和压力后走向终结。",
-      "category": "政治",
+      "rank": 4,
+      "titleZh": "奥列什基撤离人员抵达后与亲人动情团聚",
+      "summaryZh": "在临时停火后，奥列什基撤离居民乘巴士和救护车抵达乌克兰北部与白俄罗斯接壤地区。BBC记者丹·约翰逊记录了撤离人员与亲人团聚的场面。",
+      "category": "国际",
       "regions": [
-        "俄罗斯"
+        "乌克兰",
+        "白俄罗斯"
       ],
       "heat": {
-        "score": 63,
+        "score": 54,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-10-31T16:55:47.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "罗杰斯在埃尔-赛义德生日送上“讽刺礼篮”",
+      "summaryZh": "密歇根州共和党参议院候选人迈克·罗杰斯以讽刺性礼篮嘲弄民主党对手阿卜杜勒·埃尔-赛义德，事件发生在其生日当天。相关内容由Al Jazeera视频报道呈现。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "密歇根州"
+      ],
+      "heat": {
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -240,20 +130,19 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/rogers-cynical-gift-basket-for-el-sayed-on-his-birthday?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-10-31T03:27:21.000Z"
+          "publishedAt": "2026-11-01T05:21:16.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "阿拉斯加参议员候选人否认知晓“两名丹·沙利文”参选计谋",
-      "summaryZh": "竞选连任的共和党现任参议员及其盟友指责民主党招募第二名丹·沙利文参加竞选，以混淆选民。该参议员候选人否认事先知晓这一指称中的安排。",
+      "rank": 6,
+      "titleZh": "印度反对派将举行大型集会，要求选举专员辞职",
+      "summaryZh": "印度反对派计划举行大规模集会，要求选举负责人辞职。此举背景是围绕选民名册修订工作的抗议持续升温，有人担忧多达1.3亿选民可能被排除在名册之外。",
       "category": "政治",
       "regions": [
-        "美国",
-        "阿拉斯加"
+        "印度"
       ],
       "heat": {
         "score": 62,
@@ -264,9 +153,104 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-31T00:29:58.000Z"
+          "publishedAt": "2026-11-01T00:12:07.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "关于结束美伊战争的最新外交努力",
+      "summaryZh": "美国与伊朗外长均表示，通过外交途径结束战争仍有可能。Al Jazeera梳理了围绕结束美国对伊朗战争的最新进展。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "伊朗",
+        "中东"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-01T03:24:02.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "数千人在以色列集会，呼吁组建“犹太-阿拉伯”联盟赶内塔尼亚胡下台",
+      "summaryZh": "数千名以色列民众举行集会，呼吁组建“犹太-阿拉伯”联盟以取代内塔尼亚胡。作为对立一方，内塔尼亚胡的支持者也举行抗议，要求以色列不应与“恐怖分子”共同组阁。",
+      "category": "政治",
+      "regions": [
+        "以色列"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-01T02:05:40.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "塔拉里科校园集会人气旺盛，能否赢得年轻选民？",
+      "summaryZh": "Al Jazeera记者在得州农工大学参加了民主党参议院候选人詹姆斯·塔拉里科的挤满现场的集会。报道关注他能否借此赢得年轻选民支持。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "得克萨斯州"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-01T01:14:47.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "波兰总统就法院僵局举行危机磋商",
+      "summaryZh": "围绕波兰宪法法院政治化问题的争议持续加深，各方均未显示退让迹象。波兰总统为此举行危机磋商。",
+      "category": "政治",
+      "regions": [
+        "波兰"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-01T00:30:59.000Z"
         }
       ]
     }
