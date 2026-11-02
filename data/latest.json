@@ -1,256 +1,266 @@
 {
-  "generatedAt": "2026-11-01T06:16:41.770Z",
+  "generatedAt": "2026-11-02T06:18:00.621Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "币安称已覆盖63亿美元黑客事件90%损失，FBI指朝鲜所为",
-      "summaryZh": "加密货币公司币安表示，在一宗规模达63亿美元的黑客攻击后，已覆盖其中90%的损失。美国联邦调查局称朝鲜应对此次黑客事件负责。相关报道由BBC World与Al Jazeera两家来源发出。",
-      "category": "财经",
+      "titleZh": "币安遭63亿美元黑客攻击，FBI指朝鲜幕后，币安承担九成损失",
+      "summaryZh": "加密货币交易所币安在10月29日遭遇约63亿美元的黑客攻击，联邦调查局指称朝鲜应对此事负责，并将相关活动命名为“TraderTraitor”。FBI称，其观测到相关行为者正把代币兑换为以太坊，并为后续洗钱做准备。币安方面已承担约九成损失。",
+      "category": "科技",
       "regions": [
         "朝鲜",
-        "美国",
-        "全球"
+        "美国"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 2,
+        "sourceCount": 3,
         "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有3个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-10-31T22:11:45.000Z"
+          "publishedAt": "2026-11-01T13:11:37.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-01T02:28:38.000Z"
+          "publishedAt": "2026-11-01T07:33:00.000Z"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+          "language": "en",
+          "publishedAt": "2026-11-01T14:33:11.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "Hacker News热议：AI文本水印与质量损失",
-      "summaryZh": "Hacker News上出现关于AI文本水印及其带来的质量损失的技术讨论帖，获得43点、8条评论。同一时段另有题为“AI让我无家可归”的帖子，获得13点、10条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 79,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-          "language": "en",
-          "publishedAt": "2026-10-31T21:50:13.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
-          "language": "en",
-          "publishedAt": "2026-11-01T02:38:11.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "民主党在得州屡屡受挫，塔拉里科能否扭转局势？",
-      "summaryZh": "BBC报道称，得克萨斯州这场耗资5亿美元的参议院选战可能是美国中期选举中最受关注的一场，其意义远超国会控制权归属。报道以民主党人在得州的历史失利为背景，关注候选人塔拉里科能否改变局面。",
-      "category": "政治",
-      "regions": [
-        "美国",
-        "得克萨斯州"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-01T06:03:57.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "奥列什基撤离人员抵达后与亲人动情团聚",
-      "summaryZh": "在临时停火后，奥列什基撤离居民乘巴士和救护车抵达乌克兰北部与白俄罗斯接壤地区。BBC记者丹·约翰逊记录了撤离人员与亲人团聚的场面。",
-      "category": "国际",
-      "regions": [
-        "乌克兰",
-        "白俄罗斯"
-      ],
-      "heat": {
-        "score": 54,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-10-31T16:55:47.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "罗杰斯在埃尔-赛义德生日送上“讽刺礼篮”",
-      "summaryZh": "密歇根州共和党参议院候选人迈克·罗杰斯以讽刺性礼篮嘲弄民主党对手阿卜杜勒·埃尔-赛义德，事件发生在其生日当天。相关内容由Al Jazeera视频报道呈现。",
+      "titleZh": "密歇根州参议院选战：民主党人转而支持共和党候选人，党内爆发争执",
+      "summaryZh": "在密歇根州关键的参议院选举中，民主党人海莉·史蒂文斯在角逐民主党参议员提名失利后，公开支持共和党候选人迈克·罗杰斯，一名民主党高层称这是“卑鄙的背叛”。美国总统特朗普则称赞史蒂文斯，并邀请她加入共和党。",
       "category": "政治",
       "regions": [
         "美国",
         "密歇根州"
       ],
       "heat": {
-        "score": 64,
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-02T01:45:42.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-02T01:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "西撒哈拉：联合国特派团任务终止",
+      "summaryZh": "负责监督1991年西撒哈拉停火协议的联合国特派团在运行35年后，于11月1日结束任务。由于安理会未能达成一致，其任期延长案未能获得表决通过；据报俄罗斯否决了美国提出的一项有利于摩洛哥自治方案的决议草案。摩洛哥对事态进展表示欢迎，并要求西撒哈拉全民投票特派团（MINURSO）撤离其领土。",
+      "category": "国际",
+      "regions": [
+        "西撒哈拉",
+        "摩洛哥",
+        "联合国"
+      ],
+      "heat": {
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-sahara-occidental-fin-de-la-mission-onusienne",
+          "language": "fr",
+          "publishedAt": "2026-11-01T16:37:50.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/afrique/20261101-onu-officialise-liquidation-mission-sahara-occidental",
+          "language": "fr",
+          "publishedAt": "2026-11-01T16:08:43.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "数万人为不丹“正念之城”建造108座佛塔",
+      "summaryZh": "不丹正在建设一座以“正念”为主题的城市，以推动经济增长，并吸引更多年轻人留在本国。数万人参与了为该城市建造108座佛教佛塔的活动。",
+      "category": "财经",
+      "regions": [
+        "不丹"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/rogers-cynical-gift-basket-for-el-sayed-on-his-birthday?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-01T05:21:16.000Z"
+          "publishedAt": "2026-11-02T01:31:21.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "基米·安东内利在墨西哥城成为F1史上最年轻世界冠军",
+      "summaryZh": "意大利新秀车手基米·安东内利在墨西哥城大奖赛中获得第三名，以20岁68天的年龄赢得车手总冠军。他由此成为一级方程式赛车史上最年轻的世界冠军。",
+      "category": "体育",
+      "regions": [
+        "墨西哥",
+        "意大利"
+      ],
+      "heat": {
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-02T03:51:57.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "印度反对派将举行大型集会，要求选举专员辞职",
-      "summaryZh": "印度反对派计划举行大规模集会，要求选举负责人辞职。此举背景是围绕选民名册修订工作的抗议持续升温，有人担忧多达1.3亿选民可能被排除在名册之外。",
-      "category": "政治",
+      "titleZh": "阿波罗经济学家称人工智能对多数企业带来“零财务回报”",
+      "summaryZh": "阿波罗经济学家表示，人工智能对大多数企业而言带来了“零财务回报”。该观点在Hacker News上引发讨论，获得213点积分和210条评论。",
+      "category": "科技",
       "regions": [
-        "印度"
+        "全球"
       ],
       "heat": {
-        "score": 62,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
           "language": "en",
-          "publishedAt": "2026-11-01T00:12:07.000Z"
+          "publishedAt": "2026-11-01T22:10:45.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "关于结束美伊战争的最新外交努力",
-      "summaryZh": "美国与伊朗外长均表示，通过外交途径结束战争仍有可能。Al Jazeera梳理了围绕结束美国对伊朗战争的最新进展。",
-      "category": "政治",
+      "titleZh": "充斥错误的AI同人百科正在搅浑游戏文化",
+      "summaryZh": "有讨论指出，由人工智能生成的游戏同人百科词条错误众多，正在搅浑游戏文化的信息环境。该话题在Hacker News上获得60点积分和40条评论。",
+      "category": "科技",
       "regions": [
-        "美国",
-        "伊朗",
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 62,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
           "language": "en",
-          "publishedAt": "2026-11-01T03:24:02.000Z"
+          "publishedAt": "2026-11-02T01:47:07.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "数千人在以色列集会，呼吁组建“犹太-阿拉伯”联盟赶内塔尼亚胡下台",
-      "summaryZh": "数千名以色列民众举行集会，呼吁组建“犹太-阿拉伯”联盟以取代内塔尼亚胡。作为对立一方，内塔尼亚胡的支持者也举行抗议，要求以色列不应与“恐怖分子”共同组阁。",
+      "titleZh": "南卡罗来纳州共和党人挑战特朗普的参议院人选，有人发起“写选拉尔夫”",
+      "summaryZh": "在特朗普支持参议员达琳·格雷厄姆之际，南卡罗来纳州一些共和党人对其参议院人选提出挑战。一个保守派团体正转而支持另一名候选人，并推动“写选拉尔夫”行动。",
       "category": "政治",
       "regions": [
-        "以色列"
+        "美国",
+        "南卡罗来纳州"
       ],
       "heat": {
-        "score": 62,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-01T02:05:40.000Z"
+          "publishedAt": "2026-11-02T04:31:02.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "塔拉里科校园集会人气旺盛，能否赢得年轻选民？",
-      "summaryZh": "Al Jazeera记者在得州农工大学参加了民主党参议院候选人詹姆斯·塔拉里科的挤满现场的集会。报道关注他能否借此赢得年轻选民支持。",
+      "titleZh": "保加利亚产生首位民选女总统",
+      "summaryZh": "伊利亚娜·约托娃赢得保加利亚总统选举第二轮投票。她由此成为保加利亚首位民选女性总统。",
       "category": "政治",
       "regions": [
-        "美国",
-        "得克萨斯州"
+        "保加利亚"
       ],
       "heat": {
-        "score": 61,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-01T01:14:47.000Z"
+          "publishedAt": "2026-11-02T04:25:56.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "波兰总统就法院僵局举行危机磋商",
-      "summaryZh": "围绕波兰宪法法院政治化问题的争议持续加深，各方均未显示退让迹象。波兰总统为此举行危机磋商。",
+      "titleZh": "拳王阿里的女儿和外孙为埃尔-赛义德背书",
+      "summaryZh": "已故拳王穆罕默德·阿里的女儿及其儿子公开支持阿卜杜勒·埃尔-赛义德竞选美国参议员。该背书出现在埃尔-赛义德参与参议院选战之际。",
       "category": "政治",
       "regions": [
-        "波兰"
+        "美国"
       ],
       "heat": {
-        "score": 61,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/muhammad-alis-daughter-and-grandson-endorse-el-sayed?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-01T00:30:59.000Z"
+          "publishedAt": "2026-11-02T03:17:41.000Z"
         }
       ]
     }
