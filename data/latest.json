@@ -1,266 +1,275 @@
 {
-  "generatedAt": "2026-11-02T06:18:00.621Z",
+  "generatedAt": "2026-11-03T06:55:07.245Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "币安遭63亿美元黑客攻击，FBI指朝鲜幕后，币安承担九成损失",
-      "summaryZh": "加密货币交易所币安在10月29日遭遇约63亿美元的黑客攻击，联邦调查局指称朝鲜应对此事负责，并将相关活动命名为“TraderTraitor”。FBI称，其观测到相关行为者正把代币兑换为以太坊，并为后续洗钱做准备。币安方面已承担约九成损失。",
+      "titleZh": "欧洲七国超市冰柜遭网络攻击",
+      "summaryZh": "欧洲七国数十家超市的冰箱和冰柜遭网络攻击，据报温度一度升至50摄氏度，大量食品被迫丢弃。Hacker News也报道称，欧洲超市冰柜遭遇了第二起疑似网络攻击。",
       "category": "科技",
       "regions": [
-        "朝鲜",
-        "美国"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "共有3个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-01T13:11:37.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-01T07:33:00.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-          "language": "en",
-          "publishedAt": "2026-11-01T14:33:11.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "密歇根州参议院选战：民主党人转而支持共和党候选人，党内爆发争执",
-      "summaryZh": "在密歇根州关键的参议院选举中，民主党人海莉·史蒂文斯在角逐民主党参议员提名失利后，公开支持共和党候选人迈克·罗杰斯，一名民主党高层称这是“卑鄙的背叛”。美国总统特朗普则称赞史蒂文斯，并邀请她加入共和党。",
-      "category": "政治",
-      "regions": [
-        "美国",
-        "密歇根州"
+        "欧洲"
       ],
       "heat": {
         "score": 100,
         "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-02T01:45:42.000Z"
+          "publishedAt": "2026-11-02T17:38:11.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-02T01:25:00.000Z"
+          "publishedAt": "2026-11-02T17:34:58.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+          "language": "en",
+          "publishedAt": "2026-11-02T11:50:13.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "特朗普拟将卢旺达和南非移出美国贸易优惠安排",
+      "summaryZh": "特朗普政府称南非和卢旺达违反AGOA免税贸易倡议规则，计划将两国从这一美国对撒哈拉以南非洲经济接触的核心安排中移除。此举距卢旺达国防部遭美国财政部制裁仅约一周。",
+      "category": "财经",
+      "regions": [
+        "美国",
+        "南非",
+        "卢旺达",
+        "撒哈拉以南非洲"
+      ],
+      "heat": {
+        "score": 91,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-03T03:00:36.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-11-02T21:40:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "西撒哈拉：联合国特派团任务终止",
-      "summaryZh": "负责监督1991年西撒哈拉停火协议的联合国特派团在运行35年后，于11月1日结束任务。由于安理会未能达成一致，其任期延长案未能获得表决通过；据报俄罗斯否决了美国提出的一项有利于摩洛哥自治方案的决议草案。摩洛哥对事态进展表示欢迎，并要求西撒哈拉全民投票特派团（MINURSO）撤离其领土。",
-      "category": "国际",
+      "titleZh": "得州参议院候选人帕克斯顿与塔拉里科作最后拉票",
+      "summaryZh": "得克萨斯州参议院候选人肯·帕克斯顿（共和党）和詹姆斯·塔拉里科（民主党）在周二选举前作最后公开露面。两人正进行最后的竞选呼吁。",
+      "category": "政治",
       "regions": [
-        "西撒哈拉",
-        "摩洛哥",
-        "联合国"
+        "美国得克萨斯州"
       ],
       "heat": {
-        "score": 62,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-sahara-occidental-fin-de-la-mission-onusienne",
-          "language": "fr",
-          "publishedAt": "2026-11-01T16:37:50.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/afrique/20261101-onu-officialise-liquidation-mission-sahara-occidental",
-          "language": "fr",
-          "publishedAt": "2026-11-01T16:08:43.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/texas-senate-candidates-paxton-and-talarico-make-final-appeals?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-03T05:12:40.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "数万人为不丹“正念之城”建造108座佛塔",
-      "summaryZh": "不丹正在建设一座以“正念”为主题的城市，以推动经济增长，并吸引更多年轻人留在本国。数万人参与了为该城市建造108座佛教佛塔的活动。",
-      "category": "财经",
+      "titleZh": "以军行动在加沙致四人死亡，第五名巴勒斯坦人伤重不治",
+      "summaryZh": "报道称以军行动在加沙杀死四名巴勒斯坦人，另有第五名巴勒斯坦人因伤势死亡。自去年10月美国斡旋的“停火”生效以来，加沙已有近1600名巴勒斯坦人被杀。",
+      "category": "国际",
       "regions": [
-        "不丹"
+        "加沙",
+        "巴勒斯坦",
+        "以色列"
       ],
       "heat": {
         "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-02T01:31:21.000Z"
+          "publishedAt": "2026-11-03T05:02:34.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "基米·安东内利在墨西哥城成为F1史上最年轻世界冠军",
-      "summaryZh": "意大利新秀车手基米·安东内利在墨西哥城大奖赛中获得第三名，以20岁68天的年龄赢得车手总冠军。他由此成为一级方程式赛车史上最年轻的世界冠军。",
+      "titleZh": "南非：非国大在市政选举中面临选民不满",
+      "summaryZh": "南非选民周三投票改选市政委员会，France 24在东开普省曼德拉湾选举前夕报道执政党非洲人国民大会面临的选民不满。同一节目还提到刚果（金）反对派人物Prince Epenge被关押在Makala监狱加剧朝野紧张，以及达喀尔2026青奥会游泳项目。",
       "category": "体育",
       "regions": [
-        "墨西哥",
-        "意大利"
+        "南非"
       ],
       "heat": {
-        "score": 59,
+        "score": 52,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-02T03:51:57.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261102-afrique-du-sud-l-anc-face-au-m%C3%A9contentement-des-%C3%A9lecteurs-aux-municipales",
+          "language": "fr",
+          "publishedAt": "2026-11-02T22:31:41.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "阿波罗经济学家称人工智能对多数企业带来“零财务回报”",
-      "summaryZh": "阿波罗经济学家表示，人工智能对大多数企业而言带来了“零财务回报”。该观点在Hacker News上引发讨论，获得213点积分和210条评论。",
+      "titleZh": "苹果称无法预测iPhone Duo供应何时充足",
+      "summaryZh": "苹果CEO约翰·特努斯对路透表示，公司正努力尽快向更多客户交付，但目前无法预测供需何时平衡。苹果上月以1999美元推出首款折叠屏iPhone Duo，预购迅速售罄，部分发货预计要到2027年。",
       "category": "科技",
       "regions": [
-        "全球"
+        "全球",
+        "美国"
       ],
       "heat": {
-        "score": 65,
-        "sourceCount": 1,
+        "score": 85,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
           "language": "en",
-          "publishedAt": "2026-11-01T22:10:45.000Z"
+          "publishedAt": "2026-11-02T22:56:11.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+          "language": "en",
+          "publishedAt": "2026-11-02T23:25:32.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "充斥错误的AI同人百科正在搅浑游戏文化",
-      "summaryZh": "有讨论指出，由人工智能生成的游戏同人百科词条错误众多，正在搅浑游戏文化的信息环境。该话题在Hacker News上获得60点积分和40条评论。",
+      "titleZh": "AI时代的“无我数学”引发讨论",
+      "summaryZh": "Hacker News上“Egoless Mathematics in the AI Era”获144分和98条评论，成为该聚类代表帖。聚类中还收录“AI如何造成美国经济失衡”的链接，但该帖仅4分、0条评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 78,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
           "language": "en",
-          "publishedAt": "2026-11-02T01:47:07.000Z"
+          "publishedAt": "2026-11-02T18:54:44.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
+          "language": "en",
+          "publishedAt": "2026-11-03T05:58:27.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "南卡罗来纳州共和党人挑战特朗普的参议院人选，有人发起“写选拉尔夫”",
-      "summaryZh": "在特朗普支持参议员达琳·格雷厄姆之际，南卡罗来纳州一些共和党人对其参议院人选提出挑战。一个保守派团体正转而支持另一名候选人，并推动“写选拉尔夫”行动。",
-      "category": "政治",
+      "titleZh": "英特尔股价跌势加剧，3.5万亿美元芯片股抛售蔓延",
+      "summaryZh": "Hacker News帖子称，随着规模达3.5万亿美元的芯片股抛售蔓延，英特尔股价崩跌进一步恶化。该帖获182分、133条评论。",
+      "category": "科技",
       "regions": [
-        "美国",
-        "南卡罗来纳州"
+        "全球",
+        "美国"
       ],
       "heat": {
-        "score": 63,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
           "language": "en",
-          "publishedAt": "2026-11-02T04:31:02.000Z"
+          "publishedAt": "2026-11-03T00:08:53.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "保加利亚产生首位民选女总统",
-      "summaryZh": "伊利亚娜·约托娃赢得保加利亚总统选举第二轮投票。她由此成为保加利亚首位民选女性总统。",
-      "category": "政治",
+      "titleZh": "朝鲜否认主导创纪录的63亿美元币安黑客事件",
+      "summaryZh": "朝鲜否认与创纪录的63亿美元币安被盗事件有关。美国政府和网络分析人士将此次黑客攻击归咎于平壤。",
+      "category": "科技",
       "regions": [
-        "保加利亚"
+        "朝鲜",
+        "美国",
+        "全球"
       ],
       "heat": {
         "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-02T04:25:56.000Z"
+          "publishedAt": "2026-11-03T06:22:29.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "拳王阿里的女儿和外孙为埃尔-赛义德背书",
-      "summaryZh": "已故拳王穆罕默德·阿里的女儿及其儿子公开支持阿卜杜勒·埃尔-赛义德竞选美国参议员。该背书出现在埃尔-赛义德参与参议院选战之际。",
+      "titleZh": "埃尔-赛义德与罗杰斯举行对决集会，激烈竞选进入尾声",
+      "summaryZh": "美国参议院民主党候选人埃尔-赛义德与罗杰斯在竞选接近尾声时分别举行集会。海莉·史蒂文斯谈及她为何撤回对民主党提名人埃尔-赛义德的支持。",
       "category": "政治",
       "regions": [
         "美国"
       ],
       "heat": {
-        "score": 62,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/muhammad-alis-daughter-and-grandson-endorse-el-sayed?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/11/3/el-sayed-rogers-hold-dueling-rallies-as-bitter-campaign-comes-to-a-close?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-02T03:17:41.000Z"
+          "publishedAt": "2026-11-03T04:15:08.000Z"
         }
       ]
     }
