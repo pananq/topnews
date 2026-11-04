@@ -1,275 +1,288 @@
 {
-  "generatedAt": "2026-11-03T06:55:07.245Z",
+  "generatedAt": "2026-11-04T06:35:44.350Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "欧洲七国超市冰柜遭网络攻击",
-      "summaryZh": "欧洲七国数十家超市的冰箱和冰柜遭网络攻击，据报温度一度升至50摄氏度，大量食品被迫丢弃。Hacker News也报道称，欧洲超市冰柜遭遇了第二起疑似网络攻击。",
+      "titleZh": "谷歌允许学校禁用其AI工具，但拒绝AI将失去搜索服务",
+      "summaryZh": "谷歌表示，学校如果选择全面限制AI，将无法再使用谷歌搜索，因为AI功能已整合进搜索引擎。Hacker News上的相关讨论获得较高关注。",
       "category": "科技",
       "regions": [
-        "欧洲"
+        "美国",
+        "全球"
       ],
       "heat": {
         "score": 100,
         "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
           "language": "en",
-          "publishedAt": "2026-11-02T17:38:11.000Z"
-        },
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-02T17:34:58.000Z"
+          "publishedAt": "2026-11-03T16:30:34.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
           "language": "en",
-          "publishedAt": "2026-11-02T11:50:13.000Z"
+          "publishedAt": "2026-11-03T15:25:47.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "特朗普拟将卢旺达和南非移出美国贸易优惠安排",
-      "summaryZh": "特朗普政府称南非和卢旺达违反AGOA免税贸易倡议规则，计划将两国从这一美国对撒哈拉以南非洲经济接触的核心安排中移除。此举距卢旺达国防部遭美国财政部制裁仅约一周。",
-      "category": "财经",
+      "titleZh": "南卡罗来纳州近三十年来首次选出民主党参议员",
+      "summaryZh": "安妮·安德鲁斯预计击败达琳·格雷厄姆，赢得南卡罗来纳州参议院席位。报道称格雷厄姆由特朗普挑选，接替已故兄长林赛·格雷厄姆的席位；此次结果被视为重大冷门。",
+      "category": "政治",
       "regions": [
         "美国",
-        "南非",
-        "卢旺达",
-        "撒哈拉以南非洲"
+        "南卡罗来纳州"
       ],
       "heat": {
-        "score": 91,
+        "score": 100,
         "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-03T03:00:36.000Z"
+          "publishedAt": "2026-11-04T03:24:34.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/democrat-annie-andrews-flips-south-carolinas-senate-seat?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-02T21:40:00.000Z"
+          "publishedAt": "2026-11-04T03:39:58.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "得州参议院候选人帕克斯顿与塔拉里科作最后拉票",
-      "summaryZh": "得克萨斯州参议院候选人肯·帕克斯顿（共和党）和詹姆斯·塔拉里科（民主党）在周二选举前作最后公开露面。两人正进行最后的竞选呼吁。",
-      "category": "政治",
+      "titleZh": "Binance称虚假面试被用于63亿美元加密货币黑客攻击",
+      "summaryZh": "Binance称，黑客通过合法求职平台接触一名工程师，并安排虚假面试、冒充公司代表。公司复盘称，攻击还涉及被篡改的安装程序和内部AI工具，最终造成约63亿美元加密货币被盗。",
+      "category": "财经",
       "regions": [
-        "美国得克萨斯州"
+        "全球"
       ],
       "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 97,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/texas-senate-candidates-paxton-and-talarico-make-final-appeals?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-03T05:12:40.000Z"
+          "publishedAt": "2026-11-03T16:19:29.000Z"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+          "language": "en",
+          "publishedAt": "2026-11-03T22:04:02.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "以军行动在加沙致四人死亡，第五名巴勒斯坦人伤重不治",
-      "summaryZh": "报道称以军行动在加沙杀死四名巴勒斯坦人，另有第五名巴勒斯坦人因伤势死亡。自去年10月美国斡旋的“停火”生效以来，加沙已有近1600名巴勒斯坦人被杀。",
-      "category": "国际",
+      "titleZh": "特内里费前锋德米格尔球场碰撞后心脏骤停去世，欧冠比赛和球迷致哀",
+      "summaryZh": "西班牙乙级联赛俱乐部特内里费前锋赫苏斯·德米格尔在与对方门将碰撞后心脏骤停去世。俱乐部表示悲痛，欧冠比赛和特内里费球迷举行悼念。",
+      "category": "体育",
       "regions": [
-        "加沙",
-        "巴勒斯坦",
-        "以色列"
+        "西班牙",
+        "欧洲"
       ],
       "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 95,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds?traffic_source=rss",
+          "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-03T05:02:34.000Z"
+          "publishedAt": "2026-11-04T05:49:43.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/football-spanish-player-dies-on-after-cardiac-arrest-on-the-pitch/a-79839398?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-11-03T11:52:00.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "南非：非国大在市政选举中面临选民不满",
-      "summaryZh": "南非选民周三投票改选市政委员会，France 24在东开普省曼德拉湾选举前夕报道执政党非洲人国民大会面临的选民不满。同一节目还提到刚果（金）反对派人物Prince Epenge被关押在Makala监狱加剧朝野紧张，以及达喀尔2026青奥会游泳项目。",
-      "category": "体育",
+      "titleZh": "奥索夫预计保住佐治亚州参议院席位",
+      "summaryZh": "乔恩·奥索夫预计在佐治亚州赢得连任，为民主党保住一个关键参议院席位。BBC称，他被视为2028年民主党总统提名的潜在有力竞争者。",
+      "category": "政治",
       "regions": [
-        "南非"
+        "美国",
+        "佐治亚州"
       ],
       "heat": {
-        "score": 52,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261102-afrique-du-sud-l-anc-face-au-m%C3%A9contentement-des-%C3%A9lecteurs-aux-municipales",
-          "language": "fr",
-          "publishedAt": "2026-11-02T22:31:41.000Z"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-04T02:38:07.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-04T03:25:17.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "苹果称无法预测iPhone Duo供应何时充足",
-      "summaryZh": "苹果CEO约翰·特努斯对路透表示，公司正努力尽快向更多客户交付，但目前无法预测供需何时平衡。苹果上月以1999美元推出首款折叠屏iPhone Duo，预购迅速售罄，部分发货预计要到2027年。",
-      "category": "科技",
+      "titleZh": "特朗普称将终止对以色列38亿美元年度军援，外界存疑",
+      "summaryZh": "特朗普表示计划在年底前停止向以色列提供每年38亿美元的军事援助，但称美国仍会向以色列出售武器。报道提到外界对此存疑，并称特朗普表示民主党候选人在中期选举中利用美国对以军援攻击共和党人。",
+      "category": "政治",
       "regions": [
-        "全球",
-        "美国"
+        "美国",
+        "以色列",
+        "中东"
       ],
       "heat": {
-        "score": 85,
+        "score": 100,
         "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-02T22:56:11.000Z"
+          "publishedAt": "2026-11-04T01:13:49.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-02T23:25:32.000Z"
+          "publishedAt": "2026-11-04T00:21:00.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "AI时代的“无我数学”引发讨论",
-      "summaryZh": "Hacker News上“Egoless Mathematics in the AI Era”获144分和98条评论，成为该聚类代表帖。聚类中还收录“AI如何造成美国经济失衡”的链接，但该帖仅4分、0条评论。",
-      "category": "科技",
+      "titleZh": "民主党人乔什·特克翻转艾奥瓦州参议院席位",
+      "summaryZh": "乔什·特克击败共和党人、美国众议员阿什利·欣森，翻转艾奥瓦州参议院席位。同一来源还报道，罗伊·库珀击败迈克尔·沃特利，为民主党翻转北卡罗来纳州参议院席位。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "美国",
+        "艾奥瓦州",
+        "北卡罗来纳州"
       ],
       "heat": {
-        "score": 78,
+        "score": 77,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-02T18:54:44.000Z"
+          "publishedAt": "2026-11-04T04:55:10.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-03T05:58:27.000Z"
+          "publishedAt": "2026-11-04T01:36:33.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "英特尔股价跌势加剧，3.5万亿美元芯片股抛售蔓延",
-      "summaryZh": "Hacker News帖子称，随着规模达3.5万亿美元的芯片股抛售蔓延，英特尔股价崩跌进一步恶化。该帖获182分、133条评论。",
-      "category": "科技",
+      "titleZh": "詹姆斯·塔拉里科成为1988年以来首位赢得得州参议院席位的民主党人",
+      "summaryZh": "詹姆斯·塔拉里科赢得得克萨斯州参议院席位，成为自1988年以来首位赢得该席位的民主党人。一名专家对BBC称，民主党在得州的胜利是“血洗”。",
+      "category": "政治",
       "regions": [
-        "全球",
+        "美国",
+        "得克萨斯州"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-04T05:39:36.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "佛罗里达州选出首位黑人州长，共和党人唐纳德斯获特朗普支持",
+      "summaryZh": "共和党人拜伦·唐纳德斯在特朗普支持下当选佛罗里达州州长，将成为该州首位黑人州长。BBC称，共和党人在该州抵挡住了民主党人的攻势。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "佛罗里达州"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-04T05:04:46.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "分析：民主党在历史性夜晚重划特朗普政治版图",
+      "summaryZh": "BBC分析称，民主党在历史性选举夜晚取得重大进展，改写了特朗普的政治版图。一年前被视为摇摆州的两场参议院选举，结果成为民主党稳赢。",
+      "category": "政治",
+      "regions": [
         "美国"
       ],
       "heat": {
         "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
-          "language": "en",
-          "publishedAt": "2026-11-03T00:08:53.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "朝鲜否认主导创纪录的63亿美元币安黑客事件",
-      "summaryZh": "朝鲜否认与创纪录的63亿美元币安被盗事件有关。美国政府和网络分析人士将此次黑客攻击归咎于平壤。",
-      "category": "科技",
-      "regions": [
-        "朝鲜",
-        "美国",
-        "全球"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-03T06:22:29.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "埃尔-赛义德与罗杰斯举行对决集会，激烈竞选进入尾声",
-      "summaryZh": "美国参议院民主党候选人埃尔-赛义德与罗杰斯在竞选接近尾声时分别举行集会。海莉·史蒂文斯谈及她为何撤回对民主党提名人埃尔-赛义德的支持。",
-      "category": "政治",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/3/el-sayed-rogers-hold-dueling-rallies-as-bitter-campaign-comes-to-a-close?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-03T04:15:08.000Z"
+          "publishedAt": "2026-11-04T06:14:20.000Z"
         }
       ]
     }
