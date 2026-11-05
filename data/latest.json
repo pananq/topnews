@@ -1,166 +1,16 @@
 {
-  "generatedAt": "2026-11-04T06:35:44.350Z",
+  "generatedAt": "2026-11-05T06:56:03.002Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "谷歌允许学校禁用其AI工具，但拒绝AI将失去搜索服务",
-      "summaryZh": "谷歌表示，学校如果选择全面限制AI，将无法再使用谷歌搜索，因为AI功能已整合进搜索引擎。Hacker News上的相关讨论获得较高关注。",
-      "category": "科技",
-      "regions": [
-        "美国",
-        "全球"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-          "language": "en",
-          "publishedAt": "2026-11-03T16:30:34.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "language": "en",
-          "publishedAt": "2026-11-03T15:25:47.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "南卡罗来纳州近三十年来首次选出民主党参议员",
-      "summaryZh": "安妮·安德鲁斯预计击败达琳·格雷厄姆，赢得南卡罗来纳州参议院席位。报道称格雷厄姆由特朗普挑选，接替已故兄长林赛·格雷厄姆的席位；此次结果被视为重大冷门。",
+      "titleZh": "万斯尖锐批评选举失利归咎伊朗战争，与特朗普保持微妙平衡",
+      "summaryZh": "美国副总统万斯对共和党中期选举失利作出尖锐评估，并将部分原因归咎于伊朗战争。报道称，这一表态被视为近年现任总统与副总统之间最明显的分歧之一。特朗普也表示，伊朗战争可能影响了中期选举结果。",
       "category": "政治",
       "regions": [
         "美国",
-        "南卡罗来纳州"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-04T03:24:34.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/democrat-annie-andrews-flips-south-carolinas-senate-seat?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-04T03:39:58.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "Binance称虚假面试被用于63亿美元加密货币黑客攻击",
-      "summaryZh": "Binance称，黑客通过合法求职平台接触一名工程师，并安排虚假面试、冒充公司代表。公司复盘称，攻击还涉及被篡改的安装程序和内部AI工具，最终造成约63亿美元加密货币被盗。",
-      "category": "财经",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 97,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-03T16:19:29.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-          "language": "en",
-          "publishedAt": "2026-11-03T22:04:02.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "特内里费前锋德米格尔球场碰撞后心脏骤停去世，欧冠比赛和球迷致哀",
-      "summaryZh": "西班牙乙级联赛俱乐部特内里费前锋赫苏斯·德米格尔在与对方门将碰撞后心脏骤停去世。俱乐部表示悲痛，欧冠比赛和特内里费球迷举行悼念。",
-      "category": "体育",
-      "regions": [
-        "西班牙",
-        "欧洲"
-      ],
-      "heat": {
-        "score": 95,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-04T05:49:43.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/football-spanish-player-dies-on-after-cardiac-arrest-on-the-pitch/a-79839398?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-03T11:52:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "奥索夫预计保住佐治亚州参议院席位",
-      "summaryZh": "乔恩·奥索夫预计在佐治亚州赢得连任，为民主党保住一个关键参议院席位。BBC称，他被视为2028年民主党总统提名的潜在有力竞争者。",
-      "category": "政治",
-      "regions": [
-        "美国",
-        "佐治亚州"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-04T02:38:07.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-04T03:25:17.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "特朗普称将终止对以色列38亿美元年度军援，外界存疑",
-      "summaryZh": "特朗普表示计划在年底前停止向以色列提供每年38亿美元的军事援助，但称美国仍会向以色列出售武器。报道提到外界对此存疑，并称特朗普表示民主党候选人在中期选举中利用美国对以军援攻击共和党人。",
-      "category": "政治",
-      "regions": [
-        "美国",
-        "以色列",
         "中东"
       ],
       "heat": {
@@ -171,31 +21,164 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-04T01:13:49.000Z"
+          "publishedAt": "2026-11-05T03:47:56.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-04T00:21:00.000Z"
+          "publishedAt": "2026-11-04T23:30:01.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "Nothing预告下月发布无屏幕AI设备",
+      "summaryZh": "Nothing首席执行官裴宇在社交平台X上表示，公司首款AI原生设备将于12月发布。该设备没有新屏幕，也不是应用形式，强调个性化和关怀设计。公司称该产品旨在利用AI提升生产力。",
+      "category": "科技",
+      "regions": [
+        "美洲"
+      ],
+      "heat": {
+        "score": 83,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+          "language": "en",
+          "publishedAt": "2026-11-04T18:26:07.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+          "language": "en",
+          "publishedAt": "2026-11-04T22:13:16.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "巴西一场足球赛出示53张红牌创世界纪录",
+      "summaryZh": "在巴西一场20岁以下足球比赛中爆发大规模斗殴，裁判向球员和工作人员共出示53张红牌。报道称，这创下世界纪录。",
+      "category": "体育",
+      "regions": [
+        "巴西",
+        "南美洲"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/world-record-53-red-cards-shown-in-brazil-football-match?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-05T03:48:19.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "巴伐利亚政治家胡贝特·艾万格被发现死于柏林酒店",
+      "summaryZh": "艾万格是巴伐利亚州经济部长、右翼民粹主义自由选民党主席。他被发现死于柏林一家酒店，死因和具体情况尚不清楚。",
+      "category": "财经",
+      "regions": [
+        "德国",
+        "欧洲"
+      ],
+      "heat": {
+        "score": 56,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/bavarian-politician-hubert-aiwanger-found-dead-in-berlin-hotel/a-79859115?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-11-04T21:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "美国中期选举要点与新西兰选情受关注",
+      "summaryZh": "美国中期选举中，民主党取得一些重大胜利和历史性突破，并获得总统特朗普祝贺。另一篇报道称，新西兰正迎来胜负难料的选举，小党派掌握关键，主要竞争者预计难以单独获得多数。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "新西兰",
+        "大洋洲"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-04T14:05:42.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-05T06:34:50.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "以色列反对派批评“有毒的内塔尼亚胡”，称美中期选举结果示警",
+      "summaryZh": "在美国民主党赢得国会中期选举后，以色列反对派抨击总理内塔尼亚胡“有毒”。内塔尼亚胡的对手称，美国中期选举结果表明，以色列“无法承受”让内塔尼亚胡继续执政。",
+      "category": "政治",
+      "regions": [
+        "以色列",
+        "美国",
+        "中东"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-05T05:39:31.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "民主党人乔什·特克翻转艾奥瓦州参议院席位",
-      "summaryZh": "乔什·特克击败共和党人、美国众议员阿什利·欣森，翻转艾奥瓦州参议院席位。同一来源还报道，罗伊·库珀击败迈克尔·沃特利，为民主党翻转北卡罗来纳州参议院席位。",
+      "titleZh": "叙利亚与沙特签署防务合作协定，并同意4.03亿美元贷款",
+      "summaryZh": "叙利亚总统沙拉访问利雅得期间，叙利亚与沙特阿拉伯签署防务合作协定，并同意提供4.03亿美元贷款。这是沙拉不到一个月内第二次访问利雅得。",
       "category": "政治",
       "regions": [
-        "美国",
-        "艾奥瓦州",
-        "北卡罗来纳州"
+        "叙利亚",
+        "沙特阿拉伯",
+        "中东"
       ],
       "heat": {
-        "score": 77,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
@@ -203,86 +186,79 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-04T04:55:10.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-04T01:36:33.000Z"
+          "publishedAt": "2026-11-05T03:46:13.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "詹姆斯·塔拉里科成为1988年以来首位赢得得州参议院席位的民主党人",
-      "summaryZh": "詹姆斯·塔拉里科赢得得克萨斯州参议院席位，成为自1988年以来首位赢得该席位的民主党人。一名专家对BBC称，民主党在得州的胜利是“血洗”。",
-      "category": "政治",
-      "regions": [
-        "美国",
-        "得克萨斯州"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-04T05:39:36.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "佛罗里达州选出首位黑人州长，共和党人唐纳德斯获特朗普支持",
-      "summaryZh": "共和党人拜伦·唐纳德斯在特朗普支持下当选佛罗里达州州长，将成为该州首位黑人州长。BBC称，共和党人在该州抵挡住了民主党人的攻势。",
-      "category": "政治",
-      "regions": [
-        "美国",
-        "佛罗里达州"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-04T05:04:46.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "分析：民主党在历史性夜晚重划特朗普政治版图",
-      "summaryZh": "BBC分析称，民主党在历史性选举夜晚取得重大进展，改写了特朗普的政治版图。一年前被视为摇摆州的两场参议院选举，结果成为民主党稳赢。",
+      "titleZh": "密西西比和阿拉斯加参议院选举结果为何延迟",
+      "summaryZh": "阿拉斯加参议院结果可能由排序复选投票决定，而密西西比选情极为胶着。报道解释了两地计票和结果公布延迟的原因。",
       "category": "政治",
       "regions": [
         "美国"
       ],
       "heat": {
-        "score": 65,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-04T06:14:20.000Z"
+          "publishedAt": "2026-11-05T03:13:08.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "否认选举结果者在关键摇摆州州长竞选中落败",
+      "summaryZh": "在关键摇摆州，否认选举结果的候选人输掉州长选举。州领导人可对选举管理产生重要影响，这可能波及2028年总统选举。",
+      "category": "政治",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-05T02:06:07.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "以色列总统赫尔佐格接受选举结果，启动组阁磋商",
+      "summaryZh": "赫尔佐格接受选举结果，并就可能组建政府展开磋商。此举打击内塔尼亚胡试图质疑选举正当性的努力；内塔尼亚胡及其盟友在选举中失去多数。",
+      "category": "政治",
+      "regions": [
+        "以色列",
+        "中东"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-05T01:53:30.000Z"
         }
       ]
     }
