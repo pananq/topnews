@@ -1,17 +1,18 @@
 {
-  "generatedAt": "2026-11-08T06:12:01.610Z",
+  "generatedAt": "2026-11-09T06:45:35.859Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "巴拉圭前总统因银行倒闭被控",
-      "summaryZh": "巴拉圭前总统圣地亚哥·培尼亚因银行倒闭危机被弹劾下台后，面临检方指控并出庭。报道称，这场银行业危机导致数百万人无法取用资金。",
-      "category": "财经",
+      "titleZh": "教皇告诉阿根廷总统米莱：领导人应知道权力的界限",
+      "summaryZh": "教皇利奥十四世在与阿根廷总统米莱同场讲话时，敦促阿根廷保护民主。报道称，他还就紧缩、社会福利和政治分歧向米莱传递信息，强调经济增长应惠及穷人。",
+      "category": "政治",
       "regions": [
-        "巴拉圭",
-        "南美洲"
+        "阿根廷",
+        "南美洲",
+        "欧洲"
       ],
       "heat": {
         "score": 100,
@@ -21,102 +22,66 @@
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-07T19:17:22.000Z"
+          "publishedAt": "2026-11-09T04:52:34.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-paraguay-former-president-detained-appears?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-07T20:08:47.000Z"
+          "publishedAt": "2026-11-09T01:35:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "以色列总统授权艾森科特尝试组阁",
-      "summaryZh": "以色列总统赫尔佐格选择反对党领导人加迪·艾森科特尝试组建下一届政府，而非现任总理内塔尼亚胡。此前选举中双方阵营均未获得多数，艾森科特需争取至少61个议席。",
-      "category": "政治",
+      "titleZh": "英伟达调查黄仁勋与一名疑似中国间谍的关系",
+      "summaryZh": "英伟达董事会宣布启动独立调查，此前有报道称创始人兼首席执行官黄仁勋成为外国情报行动的目标。公司称由独立董事委员会和外部独立律师监督调查；黄仁勋在一份备忘录中承认发生婚外情。耶鲁的杰弗里·索南菲尔德认为黄仁勋能否继续担任首席执行官“大约五五开”。",
+      "category": "科技",
       "regions": [
-        "以色列",
-        "中东"
+        "美国",
+        "中国"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 97,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
           "language": "en",
-          "publishedAt": "2026-11-07T22:19:59.000Z"
+          "publishedAt": "2026-11-08T20:22:39.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
           "language": "en",
-          "publishedAt": "2026-11-07T23:45:45.000Z"
+          "publishedAt": "2026-11-09T05:26:29.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
           "language": "en",
-          "publishedAt": "2026-11-07T20:26:58.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-07T19:56:00.000Z"
+          "publishedAt": "2026-11-08T21:00:11.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "梅朗雄在竞选集会上提出“全部改变”",
-      "summaryZh": "法国“不屈法国”总统候选人让-吕克·梅朗雄在竞选集会上表示，他唯一合理的提议是“全部改变”。他在勒布尔歇介绍该党总统竞选纲领。",
-      "category": "科技",
+      "titleZh": "亚洲股市在科技股遭抛售后反弹",
+      "summaryZh": "在民主党于美国中期选举取得大胜引发科技股抛售后，亚洲股市出现回升。报道称市场随之反弹。",
+      "category": "财经",
       "regions": [
-        "法国",
-        "欧洲"
+        "亚洲",
+        "美国"
       ],
       "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-m%C3%A9lenchon-je-n-ai-qu-une-chose-raisonnable-%C3%A0-vous-proposer-il-faut-tout-changer-1",
-          "language": "fr",
-          "publishedAt": "2026-11-07T17:18:42.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-m%C3%A9lenchon-je-n-ai-qu-une-chose-raisonnable-%C3%A0-vous-proposer-il-faut-tout-changer",
-          "language": "fr",
-          "publishedAt": "2026-11-07T17:08:52.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "埃及足协因丑闻解雇国家队主帅哈桑",
-      "summaryZh": "埃及足协解雇国家队主教练霍萨姆·哈桑，结束其执教。报道称此举与“妻子们丑闻”有关。",
-      "category": "体育",
-      "regions": [
-        "埃及",
-        "非洲"
-      ],
-      "heat": {
-        "score": 58,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -124,44 +89,20 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_egypt-sacks-winning-football-coach-after-scandal-071126?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-08T03:04:28.000Z"
+          "publishedAt": "2026-11-09T04:03:02.000Z"
         }
       ]
     },
     {
-      "rank": 5,
-      "titleZh": "美国悬赏2000万美元征集伊朗核计划信息",
-      "summaryZh": "美国悬赏2000万美元征集与伊朗核计划有关的信息。报道提到，特朗普多次提出可能再次打击伊朗核设施。",
-      "category": "国际",
-      "regions": [
-        "美国",
-        "伊朗",
-        "中东"
-      ],
-      "heat": {
-        "score": 55,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-07T18:14:38.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "特朗普邀UFC负责人怀特出任白宫新闻秘书",
-      "summaryZh": "特朗普向UFC首席执行官达纳·怀特提供白宫新闻秘书职位。怀特表示将于周一与特朗普会面讨论，尚未正式接受或拒绝。",
+      "rank": 4,
+      "titleZh": "德国总理默茨将提名艾格纳为德国首位女性总统",
+      "summaryZh": "德国总理弗里德里希·默茨宣布将提名巴伐利亚州议会议长伊尔瑟·艾格纳为联邦总统。艾格纳属于基社盟，若当选将成为首位担任该职位的女性。",
       "category": "政治",
       "regions": [
-        "美国"
+        "德国",
+        "欧洲"
       ],
       "heat": {
         "score": 100,
@@ -172,28 +113,29 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-08T03:12:44.000Z"
+          "publishedAt": "2026-11-08T23:39:47.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/germany-chancellor-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-07T19:46:00.000Z"
+          "publishedAt": "2026-11-08T19:43:00.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "中期选举后民主党下一步受关注",
-      "summaryZh": "中期选举后，特朗普所属共和党失去国会两院多数席位。报道称总统仍拥有很大权力，而民主党尚未就如何运用自身优势达成一致。",
+      "rank": 5,
+      "titleZh": "南非地方选举：非国大遭遇历来最差表现",
+      "summaryZh": "南非执政党非洲人国民大会在市政选举中跌至历来最差成绩。选民将水电短缺归咎于非国大。",
       "category": "政治",
       "regions": [
-        "美国"
+        "南非",
+        "非洲"
       ],
       "heat": {
-        "score": 93,
+        "score": 95,
         "sourceCount": 2,
         "regionCount": 2,
         "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
@@ -201,56 +143,72 @@
       "sources": [
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-07T14:15:00.000Z"
+          "publishedAt": "2026-11-08T17:35:00.000Z"
         },
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
           "language": "en",
-          "publishedAt": "2026-11-07T15:00:00.000Z"
+          "publishedAt": "2026-11-08T18:00:04.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "以色列总统让艾森科特尝试组建政府",
-      "summaryZh": "法国24报道，以色列总统赫尔佐格选择内塔尼亚胡的主要对手加迪·艾森科特尝试组建新政府。此前立法选举没有明确结果，双方均未获得绝对多数。艾森科特面临在分裂政坛中争取至少61名议员支持的难题。",
-      "category": "政治",
+      "rank": 6,
+      "titleZh": "苹果将工程师每日人工智能预算限制在200美元",
+      "summaryZh": "据Hacker News讨论，苹果对工程师使用人工智能设定了每天200美元的预算上限。该帖子获得43分和36条评论。",
+      "category": "科技",
       "regions": [
-        "以色列",
-        "中东"
+        "美国"
       ],
       "heat": {
-        "score": 79,
+        "score": 66,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-isra%C3%ABl-gadi-eisenkot-charg%C3%A9-de-former-un-gouvernement",
-          "language": "fr",
-          "publishedAt": "2026-11-07T20:43:02.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/moyen-orient/20261107-isra%C3%ABl-gadi-eisenkot-rival-de-benjamin-netanyahu-sera-charg%C3%A9-de-former-le-prochain-gouvernement",
-          "language": "fr",
-          "publishedAt": "2026-11-07T19:41:47.000Z"
+          "name": "Hacker News",
+          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+          "language": "en",
+          "publishedAt": "2026-11-09T05:30:11.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "哥伦比亚陆军基地遭无人机袭击致3死16伤",
-      "summaryZh": "哥伦比亚一处陆军基地遭无人机袭击，造成3名士兵死亡、16人受伤。哥伦比亚总统德拉埃斯普列利亚表示，袭击发生在圣罗莎德尔苏尔，幕后人员将无处藏身。",
+      "rank": 7,
+      "titleZh": "我不认为人工智能泡沫存在",
+      "summaryZh": "Hacker News上的一篇讨论文章对人工智能泡沫是否存在提出质疑，认为相关泡沫论缺乏说服力。该帖子获得158分和212条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+          "language": "en",
+          "publishedAt": "2026-11-08T23:44:36.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "在以色列，艾森科特邀请内塔尼亚胡的利库德集团加入联盟",
+      "summaryZh": "以色列中间派前高级军官加迪·艾森科特正式受命组建下一届政府，他呼吁团结应对一场“历史性危机”，并认为内塔尼亚胡应负责。他表示愿意与利库德集团议员以及斯莫特里赫的极右翼政党组成联盟。",
       "category": "政治",
       "regions": [
-        "哥伦比亚",
-        "南美洲"
+        "以色列",
+        "中东"
       ],
       "heat": {
         "score": 64,
@@ -260,20 +218,26 @@
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-08T04:56:37.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/moyen-orient/20261108-en-isra%C3%ABl-eisenkot-invite-le-likoud-de-netanyahu-%C3%A0-participer-%C3%A0-une-coalition",
+          "language": "fr",
+          "publishedAt": "2026-11-08T17:12:03.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/moyen-orient/20261107-isra%C3%ABl-gadi-eisenkot-rival-de-benjamin-netanyahu-sera-charg%C3%A9-de-former-le-prochain-gouvernement",
+          "language": "fr",
+          "publishedAt": "2026-11-08T15:13:35.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "微软研究院AI Frontiers团队被指走向终结",
-      "summaryZh": "有讨论指出，微软研究院的AI Frontiers团队走向终结。该话题在Hacker News上获得432分和258条评论。",
-      "category": "科技",
+      "rank": 9,
+      "titleZh": "玩笑还是试探？特朗普为何提出让UFC的达纳·怀特担任新闻秘书",
+      "summaryZh": "特朗普提出让UFC总裁达纳·怀特担任白宫新闻秘书，引发外界猜测这是玩笑还是试探。怀特是特朗普的亲密朋友并曾支持其竞选总统，但从未担任政府职务。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "美国"
       ],
       "heat": {
         "score": 63,
@@ -283,10 +247,33 @@
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://hunch.net/?p=13764006",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-07T18:02:17.000Z"
+          "publishedAt": "2026-11-09T05:02:16.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "特朗普称驱逐政策对选民来说“过于强硬”",
+      "summaryZh": "美国总统特朗普表示，其驱逐政策可能是共和党在中期选举中大幅失势的原因之一。他称该政策对选民来说“过于强硬”。",
+      "category": "政治",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-11-09T06:14:00.000Z"
         }
       ]
     }
