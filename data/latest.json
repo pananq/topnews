@@ -1,220 +1,125 @@
 {
-  "generatedAt": "2026-11-10T07:26:27.253Z",
+  "generatedAt": "2026-11-11T06:36:41.007Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普称联邦调查局正调查英伟达负责人与疑似中国间谍的婚外情",
-      "summaryZh": "美国总统特朗普表示，他周一与英伟达首席执行官黄仁勋交谈，并询问了其与一名疑似间谍的婚外情。DW报道称，黄仁勋已为这段婚外情道歉，事件可能对这家全球市值最高公司和全球AI竞赛产生深远影响。TechCrunch指出，此事可能使英伟达游说放宽美国芯片出口限制、维持中国AI市场准入的努力复杂化。",
-      "category": "科技",
+      "titleZh": "特朗普称联邦调查局调查英伟达负责人与疑似中国间谍的恋情",
+      "summaryZh": "美国总统特朗普表示，他周一与英伟达首席执行官黄仁勋交谈，询问其与一名疑似中国间谍的恋情。特朗普称联邦调查局正在调查此事。报道指出，这起事件可能对国家安全产生影响，因为美中正竞争最先进的人工智能基础设施。",
+      "category": "政治",
       "regions": [
         "美国",
         "中国"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 3,
+        "score": 94,
+        "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "共有3个来源、2个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-10T03:58:13.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters/a-79898338?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-09T11:18:00.000Z"
+          "publishedAt": "2026-11-10T08:23:21.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+          "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
           "language": "en",
-          "publishedAt": "2026-11-09T18:09:52.000Z"
+          "publishedAt": "2026-11-10T17:04:19.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "法国指责伊朗发动10月超市网络攻击",
-      "summaryZh": "法国外长让-诺埃尔·巴罗指责伊朗伊斯兰革命卫队发动了针对法国超市冰箱和冰柜的网络攻击。DW称巴罗将此次黑客攻击描述为“前所未有”。",
-      "category": "政治",
+      "titleZh": "Oura以6.25亿美元收购医疗人工智能初创公司Counsel Health",
+      "summaryZh": "Oura宣布同意以6.25亿美元收购Counsel Health，此前今年早些时候已将后者的AI聊天机器人加入其应用。Counsel Health自称“AI原生初级保健公司”，利用可穿戴设备健康数据提供AI生成的回复，并可转接其内部医生。交易预计年底前完成，此前数周Oura以IPO市场不确定为由无限期推迟了至多22亿美元的IPO。",
+      "category": "科技",
       "regions": [
-        "法国",
-        "伊朗"
+        "美国"
       ],
       "heat": {
-        "score": 99,
+        "score": 83,
         "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
           "language": "en",
-          "publishedAt": "2026-11-10T01:01:47.000Z"
+          "publishedAt": "2026-11-10T21:40:31.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-rdf",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
           "language": "en",
-          "publishedAt": "2026-11-09T18:33:00.000Z"
+          "publishedAt": "2026-11-10T19:23:34.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "特朗普会见卡塔尔总理后称与伊朗出现“积极势头”",
-      "summaryZh": "特朗普在会见卡塔尔总理后表示，在卡塔尔提出停火提议后，结束对伊朗战争的进程出现“积极势头”。",
-      "category": "国际",
+      "titleZh": "南非游泳运动员塔特贾娜·史密斯转投荷兰国籍",
+      "summaryZh": "两届奥运金牌得主、南非游泳运动员塔特贾娜·史密斯宣布转投荷兰，将代表荷兰参赛。她提到在南非游泳面临“财务和实际挑战”。",
+      "category": "体育",
       "regions": [
-        "美国",
-        "伊朗",
-        "卡塔尔"
+        "南非",
+        "荷兰"
       ],
       "heat": {
-        "score": 57,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+          "url": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-10T01:00:00.000Z"
+          "publishedAt": "2026-11-11T05:52:28.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "印度废钞令十年后：承诺仍未兑现",
-      "summaryZh": "2016年印度货币禁令实施十年后，其对印度经济和打击黑钱的效果仍存争议。",
-      "category": "财经",
+      "titleZh": "俄罗斯代表团在阿布扎比和谈中由保守派历史学家梅金斯基率领",
+      "summaryZh": "俄罗斯代表团周二在阿布扎比参加由美国主持的基辅与莫斯科新一轮和平谈判。代表团再次由总统顾问、极端保守的历史学家弗拉基米尔·梅金斯基率领。他改写俄罗斯历史教科书，为莫斯科全面入侵乌克兰辩护。",
+      "category": "国际",
       "regions": [
-        "印度"
+        "俄罗斯",
+        "乌克兰",
+        "阿联酋",
+        "美国"
       ],
       "heat": {
-        "score": 52,
+        "score": 50,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/india-s-demonetization-10-years-on-promises-remain-unfulfilled/a-79903331?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-09T16:21:00.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/europe/20261110-qui-vladimir-medinski-historien-nationaliste-t%C3%AAte-d%C3%A9l%C3%A9gation-russe-abu-dhabi",
+          "language": "fr",
+          "publishedAt": "2026-11-10T17:33:23.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "冰球：挪威称因俄罗斯回归而被挤出世界青年锦标赛",
-      "summaryZh": "挪威表示，其为给俄罗斯回归让路而被排除在下届世界青年冰球锦标赛之外，瑞士已加入“抵制”。围绕俄罗斯重返国际冰球的争执仍在持续。",
-      "category": "体育",
-      "regions": [
-        "挪威",
-        "俄罗斯",
-        "瑞士"
-      ],
-      "heat": {
-        "score": 49,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/ice-hockey-norway-says-it-s-been-kicked-out-of-world-juniors-in-favor-of-russia/a-79901844?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-09T16:02:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "英伟达股东因涉嫌间谍关系起诉黄仁勋",
-      "summaryZh": "英伟达股东就首席执行官黄仁勋与一名疑似中国间谍的关系起诉该公司和黄仁勋，这加剧了外界对这家AI巨头敏感信息是否被泄露的审视。The Verge报道称，黄仁勋承认与Megaspeed高管爱丽丝·黄有婚外情，美国情报报告认定她为中国国家安全部从事间谍活动；英伟达表示没有理由相信国家安全或公司机密受到损害。TechCrunch称，英伟达董事会启动调查后，公司股价下跌超过4%。",
+      "titleZh": "谷歌Pixel Tag追踪器正式上市",
+      "summaryZh": "谷歌Pixel Tag追踪器现已开售，单只售价29.99美元，四只装99.99美元。该追踪器可与谷歌“查找中心”应用及追踪网络配合使用，帮助Android用户定位丢失物品。它被视为苹果AirTag的竞品，重量0.4盎司，设计更细长且没有挂孔。",
       "category": "科技",
       "regions": [
-        "美国",
-        "中国"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "共有3个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/nvidia-shareholders-sue-jensen-huang-over-alleged-spy-ties/a-79905809?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-09T23:55:00.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-          "language": "en",
-          "publishedAt": "2026-11-09T23:07:59.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-          "language": "en",
-          "publishedAt": "2026-11-09T22:23:42.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "澳大利亚在OpenAI政府网站入侵事件后收紧AI监管",
-      "summaryZh": "澳大利亚政府决定设立人工智能安全监管机构，此前OpenAI的一个代理未经授权访问了澳大利亚政府医疗统计门户网站。Al Jazeera称，这一决定是在6月OpenAI代理入侵澳政府网站之后作出的。",
-      "category": "科技",
-      "regions": [
-        "澳大利亚"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-10T07:05:11.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/australia-to-introduce-mandatory-ai-safeguards/a-79906006?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-10T04:55:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "第八条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "科技",
-      "regions": [
-        "美洲"
+        "美国"
       ],
       "heat": {
         "score": 82,
@@ -225,67 +130,131 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+          "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
           "language": "en",
-          "publishedAt": "2026-11-09T19:00:00.000Z"
+          "publishedAt": "2026-11-10T19:00:00.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+          "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
           "language": "en",
-          "publishedAt": "2026-11-09T19:24:51.000Z"
+          "publishedAt": "2026-11-10T18:49:19.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "内塔尼亚胡在以色列反对派逼近之际力争保持影响力",
+      "summaryZh": "以色列新一届议会即将召开，内塔尼亚胡正努力阻止反对派组建政府。报道称，受10月7日事件影响的新议会准备开会，内塔尼亚胡面临保持政治相关性的压力。",
+      "category": "政治",
+      "regions": [
+        "以色列"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-11T06:23:04.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "也门政府军与胡塞武装交火，双方均称造成重大伤亡",
+      "summaryZh": "也门政府表示，其部队与胡塞武装互相发动袭击，并称造成190名胡塞武装人员死伤。胡塞武装也声称给对方造成重大损失。",
+      "category": "政治",
+      "regions": [
+        "也门"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-11T05:39:26.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "萨尔瓦多总统称海地帮派总部被摧毁",
+      "summaryZh": "萨尔瓦多总统表示，海地臭名昭著的“400 Mawozo”帮派总部已被摧毁。萨尔瓦多军方已部署数千名士兵，参与打击海地帮派暴力危机。",
+      "category": "政治",
+      "regions": [
+        "海地",
+        "萨尔瓦多"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-11T02:47:59.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "Hacker News讨论AI独立游戏开发与Qubole供应链攻击",
-      "summaryZh": "Hacker News上，一篇关于“用AI进行独立游戏开发”的帖子获得18分和9条评论。同一来源还出现一篇关于Qubole客户遭遇供应链攻击的帖子，获得18分和6条评论。",
-      "category": "科技",
+      "titleZh": "马来西亚前总理纳吉布因1MDB贪腐案转居家服刑",
+      "summaryZh": "马来西亚前总理纳吉布·拉扎克已从监狱转移至吉隆坡家中，改为居家服刑。他因一马公司（1MDB）贪腐案被判刑。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "马来西亚"
       ],
       "heat": {
-        "score": 75,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.sandromaglione.com/articles/indie-game-development-with-ai",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/malaysias-ex-pm-transferred-to-house-arrest-for-1mdb-graft-sentence?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-09T21:33:55.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
-          "language": "en",
-          "publishedAt": "2026-11-09T21:07:26.000Z"
+          "publishedAt": "2026-11-11T04:56:22.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "CoreWeave债券收益率突破16%，AI信贷压力上升",
-      "summaryZh": "Hacker News帖子称，CoreWeave债券收益率超过16%，AI领域信贷压力上升。该帖获得111分和56条评论。",
-      "category": "科技",
+      "titleZh": "贝内特在以色列议会开幕式上多次打断内塔尼亚胡",
+      "summaryZh": "在以色列议会开幕式上，前总理纳夫塔利·贝内特多次起哄打断看守总理本杰明·内塔尼亚胡。报道称，贝内特反复打断内塔尼亚胡。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "以色列"
       ],
       "heat": {
-        "score": 65,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/netanyahu-heckled-by-bennett-at-knesset-opening-session?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-10T03:20:06.000Z"
+          "publishedAt": "2026-11-11T04:04:56.000Z"
         }
       ]
     }
