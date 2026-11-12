@@ -1,260 +1,285 @@
 {
-  "generatedAt": "2026-11-11T06:36:41.007Z",
+  "generatedAt": "2026-11-12T07:19:34.653Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普称联邦调查局调查英伟达负责人与疑似中国间谍的恋情",
-      "summaryZh": "美国总统特朗普表示，他周一与英伟达首席执行官黄仁勋交谈，询问其与一名疑似中国间谍的恋情。特朗普称联邦调查局正在调查此事。报道指出，这起事件可能对国家安全产生影响，因为美中正竞争最先进的人工智能基础设施。",
-      "category": "政治",
+      "titleZh": "英伟达董事会据报考虑罢免黄仁勋",
+      "summaryZh": "据媒体报道，英伟达董事会正准备就首席执行官黄仁勋的去留进行表决，可能罢免这位公司联合创始人。相关报道称，起因涉及他与一名下属高管的婚外情传闻，以及他与一名被指为中国间谍的女性存在关系的说法。美国国会众议院共和党人已要求黄仁勋出席闭门简报会作出说明。",
+      "category": "科技",
       "regions": [
         "美国",
-        "中国"
+        "欧洲"
       ],
       "heat": {
-        "score": 94,
-        "sourceCount": 2,
+        "score": 100,
+        "sourceCount": 3,
         "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度显示共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内，涉及公司治理、国家安全与国会问询等多重议题。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-10T08:23:21.000Z"
+          "publishedAt": "2026-11-12T00:01:00.000Z"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+          "language": "en",
+          "publishedAt": "2026-11-11T22:44:36.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
           "language": "en",
-          "publishedAt": "2026-11-10T17:04:19.000Z"
+          "publishedAt": "2026-11-11T19:22:22.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "Oura以6.25亿美元收购医疗人工智能初创公司Counsel Health",
-      "summaryZh": "Oura宣布同意以6.25亿美元收购Counsel Health，此前今年早些时候已将后者的AI聊天机器人加入其应用。Counsel Health自称“AI原生初级保健公司”，利用可穿戴设备健康数据提供AI生成的回复，并可转接其内部医生。交易预计年底前完成，此前数周Oura以IPO市场不确定为由无限期推迟了至多22亿美元的IPO。",
-      "category": "科技",
+      "titleZh": "印度尼西亚副总统辞职，执政联盟现裂痕",
+      "summaryZh": "印度尼西亚副总统吉布兰·拉卡布明·拉卡宣布辞职，其父为前总统佐科·维多多。报道称，此次辞职与外界对其海外教育资历的质疑及相关争议有关。此事发生在总统普拉博沃与前任佐科关系出现裂痕的敏感时期。",
+      "category": "政治",
       "regions": [
-        "美国"
+        "印度尼西亚",
+        "东南亚"
       ],
       "heat": {
-        "score": 83,
+        "score": 100,
         "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "regionCount": 2,
+        "reasonZh": "输入热度显示共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内，涉及该国最高层人事变动与执政联盟稳定。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-10T21:40:31.000Z"
+          "publishedAt": "2026-11-11T16:38:07.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-10T19:23:34.000Z"
+          "publishedAt": "2026-11-12T06:38:01.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-12T02:22:48.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "南非游泳运动员塔特贾娜·史密斯转投荷兰国籍",
-      "summaryZh": "两届奥运金牌得主、南非游泳运动员塔特贾娜·史密斯宣布转投荷兰，将代表荷兰参赛。她提到在南非游泳面临“财务和实际挑战”。",
-      "category": "体育",
+      "titleZh": "英伟达股价大跌，因董事会将讨论黄仁勋去留",
+      "summaryZh": "在媒体报道英伟达董事会将讨论首席执行官黄仁勋的未来后，这家芯片巨头股价下跌超过 8%。有报道称，董事会最早可能在周三晚间就这位任职 33 年的创始人兼首席执行官的去留作出决定。",
+      "category": "财经",
       "regions": [
-        "南非",
-        "荷兰"
+        "美国",
+        "全球"
       ],
       "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 99,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "输入热度显示共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内，事件直接影响全球人工智能芯片供应链与资本市场。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-11T05:52:28.000Z"
+          "publishedAt": "2026-11-12T00:43:26.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+          "language": "en",
+          "publishedAt": "2026-11-11T23:28:45.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "俄罗斯代表团在阿布扎比和谈中由保守派历史学家梅金斯基率领",
-      "summaryZh": "俄罗斯代表团周二在阿布扎比参加由美国主持的基辅与莫斯科新一轮和平谈判。代表团再次由总统顾问、极端保守的历史学家弗拉基米尔·梅金斯基率领。他改写俄罗斯历史教科书，为莫斯科全面入侵乌克兰辩护。",
-      "category": "国际",
+      "titleZh": "法国记者格莱兹被拘500天，家属期盼总统特赦",
+      "summaryZh": "法国记者克里斯托夫·格莱兹在阿尔及利亚已被拘留 500 天，并因“为恐怖主义辩护”罪名被判刑。其亲属当天获法国外交部长巴罗接见，希望争取总统特赦。巴黎还举办了一场足球赛以示声援。",
+      "category": "体育",
       "regions": [
-        "俄罗斯",
-        "乌克兰",
-        "阿联酋",
-        "美国"
+        "法国",
+        "阿尔及利亚"
       ],
       "heat": {
-        "score": 50,
+        "score": 52,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度显示共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，涉及法国与阿尔及利亚之间的领事与司法争议。"
       },
       "sources": [
         {
           "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/europe/20261110-qui-vladimir-medinski-historien-nationaliste-t%C3%AAte-d%C3%A9l%C3%A9gation-russe-abu-dhabi",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261111-les-proches-du-journaliste-christophe-gleizes-esp%C3%A8rent-une-gr%C3%A2ce-pr%C3%A9sidentielle",
           "language": "fr",
-          "publishedAt": "2026-11-10T17:33:23.000Z"
+          "publishedAt": "2026-11-11T21:37:52.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "谷歌Pixel Tag追踪器正式上市",
-      "summaryZh": "谷歌Pixel Tag追踪器现已开售，单只售价29.99美元，四只装99.99美元。该追踪器可与谷歌“查找中心”应用及追踪网络配合使用，帮助Android用户定位丢失物品。它被视为苹果AirTag的竞品，重量0.4盎司，设计更细长且没有挂孔。",
-      "category": "科技",
+      "titleZh": "民主党人斯科特·科洛姆赢得密西西比州联邦参议员选举",
+      "summaryZh": "民主党人斯科特·科洛姆击败共和党人辛迪·海德-史密斯，赢得密西西比州联邦参议员席位。他是该南部州 140 多年来首位当选美国联邦参议员的黑人。多家媒体的预测显示，这是一次历史性的冷门胜利。",
+      "category": "政治",
       "regions": [
         "美国"
       ],
       "heat": {
-        "score": 82,
+        "score": 93,
         "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度显示共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内，选举结果具有历史意义并影响美国国会席位格局。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-10T19:00:00.000Z"
+          "publishedAt": "2026-11-12T04:00:30.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+          "name": "DW",
+          "url": "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-10T18:49:19.000Z"
+          "publishedAt": "2026-11-11T23:33:00.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "内塔尼亚胡在以色列反对派逼近之际力争保持影响力",
-      "summaryZh": "以色列新一届议会即将召开，内塔尼亚胡正努力阻止反对派组建政府。报道称，受10月7日事件影响的新议会准备开会，内塔尼亚胡面临保持政治相关性的压力。",
-      "category": "政治",
+      "titleZh": "Hacker News 热议：人工智能、开发活动与软件工程成效",
+      "summaryZh": "Hacker News 上一则讨论人工智能如何影响软件开发活动与实际成效的帖子获得 113 分、103 条评论。同一聚合条目下还包含一条关于微软 Defender 被指未经许可上传用户未发布软件的帖子。",
+      "category": "科技",
       "regions": [
-        "以色列"
+        "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 79,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度显示共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，为技术社区当日活跃讨论话题。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://cabird.com/talks/shipping-faster/",
           "language": "en",
-          "publishedAt": "2026-11-11T06:23:04.000Z"
+          "publishedAt": "2026-11-11T16:33:28.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://garrettstimpson.ca/posts/2026/11/11/caught-microsoft-red-handed-with-hodometer/",
+          "language": "en",
+          "publishedAt": "2026-11-12T01:27:10.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "也门政府军与胡塞武装交火，双方均称造成重大伤亡",
-      "summaryZh": "也门政府表示，其部队与胡塞武装互相发动袭击，并称造成190名胡塞武装人员死伤。胡塞武装也声称给对方造成重大损失。",
-      "category": "政治",
+      "titleZh": "美联航禁止 AI 代理替旅客订机票",
+      "summaryZh": "美联航宣布禁止人工智能代理代表旅客预订机票。该消息在 Hacker News 上引发大量讨论，获得 514 分、504 条评论。",
+      "category": "科技",
       "regions": [
-        "也门"
+        "美国",
+        "全球"
       ],
       "heat": {
-        "score": 64,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度显示共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，社区互动量高，涉及 AI 代理应用边界。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
           "language": "en",
-          "publishedAt": "2026-11-11T05:39:26.000Z"
+          "publishedAt": "2026-11-11T21:24:35.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "萨尔瓦多总统称海地帮派总部被摧毁",
-      "summaryZh": "萨尔瓦多总统表示，海地臭名昭著的“400 Mawozo”帮派总部已被摧毁。萨尔瓦多军方已部署数千名士兵，参与打击海地帮派暴力危机。",
+      "titleZh": "内塔尼亚胡的政治遗产：人格化政治重塑以色列民主",
+      "summaryZh": "报道分析称，内塔尼亚胡为维系政治生存而展开的博弈，使以色列议会开幕变成互相辱骂与尖锐对立的场面。文章认为，这种人格化政治正在重塑以色列的民主运作方式。",
       "category": "政治",
       "regions": [
-        "海地",
-        "萨尔瓦多"
+        "以色列",
+        "中东"
       ],
       "heat": {
-        "score": 63,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度显示共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，涉及以色列政坛走向与民主制度议题。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-11T02:47:59.000Z"
+          "publishedAt": "2026-11-12T06:49:45.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "马来西亚前总理纳吉布因1MDB贪腐案转居家服刑",
-      "summaryZh": "马来西亚前总理纳吉布·拉扎克已从监狱转移至吉隆坡家中，改为居家服刑。他因一马公司（1MDB）贪腐案被判刑。",
+      "titleZh": "法国仪仗队成员晕倒，马克龙上前协助",
+      "summaryZh": "在斯洛伐克总统佩莱格里尼抵达爱丽舍宫时，一名法国荣誉卫队成员突然晕倒。现场画面显示，法国总统马克龙随即上前协助。",
       "category": "政治",
       "regions": [
-        "马来西亚"
+        "法国",
+        "斯洛伐克"
       ],
       "heat": {
         "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度显示共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，属外交场合突发事件并获视频传播。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/malaysias-ex-pm-transferred-to-house-arrest-for-1mdb-graft-sentence?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-11T04:56:22.000Z"
+          "publishedAt": "2026-11-12T05:11:15.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "贝内特在以色列议会开幕式上多次打断内塔尼亚胡",
-      "summaryZh": "在以色列议会开幕式上，前总理纳夫塔利·贝内特多次起哄打断看守总理本杰明·内塔尼亚胡。报道称，贝内特反复打断内塔尼亚胡。",
+      "titleZh": "印度政府批准在新德里兴建3.4亿美元博物馆",
+      "summaryZh": "印度政府批准在德里建设耗资 3.4 亿美元的“Yuge Yugeen Bharat 博物馆”。官方称，该馆将拥有全球“最大”的博物馆展示面积。",
       "category": "政治",
       "regions": [
-        "以色列"
+        "印度"
       ],
       "heat": {
         "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "输入热度显示共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，属印度政府重大公共文化支出决定。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/netanyahu-heckled-by-bennett-at-knesset-opening-session?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/india-news-modi-government-approves-340-million-museum-in-delhi/live-79925477?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-11T04:04:56.000Z"
+          "publishedAt": "2026-11-12T06:43:00.000Z"
         }
       ]
     }
