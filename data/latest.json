@@ -1,285 +1,279 @@
 {
-  "generatedAt": "2026-11-12T07:19:34.653Z",
+  "generatedAt": "2026-11-13T06:52:52.622Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "英伟达董事会据报考虑罢免黄仁勋",
-      "summaryZh": "据媒体报道，英伟达董事会正准备就首席执行官黄仁勋的去留进行表决，可能罢免这位公司联合创始人。相关报道称，起因涉及他与一名下属高管的婚外情传闻，以及他与一名被指为中国间谍的女性存在关系的说法。美国国会众议院共和党人已要求黄仁勋出席闭门简报会作出说明。",
+      "titleZh": "英伟达首席执行官黄仁勋辞职，公司前景受关注",
+      "summaryZh": "英国广播公司报道称，黄仁勋辞职后，外界关注这对英伟达和人工智能业务意味着什么。科技媒体称，英伟达在相关报道后宣布黄仁勋辞任首席执行官，科技界人士对此有不同反应；另有报道讨论英伟达对开源人工智能的支持是否会受影响。",
       "category": "科技",
       "regions": [
         "美国",
-        "欧洲"
+        "全球"
       ],
       "heat": {
         "score": 100,
         "sourceCount": 3,
         "regionCount": 2,
-        "reasonZh": "输入热度显示共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内，涉及公司治理、国家安全与国会问询等多重议题。"
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-rdf",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-12T00:01:00.000Z"
+          "publishedAt": "2026-11-12T19:33:37.000Z"
         },
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+          "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
           "language": "en",
-          "publishedAt": "2026-11-11T22:44:36.000Z"
+          "publishedAt": "2026-11-12T21:45:00.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
           "language": "en",
-          "publishedAt": "2026-11-11T19:22:22.000Z"
+          "publishedAt": "2026-11-12T18:39:23.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "印度尼西亚副总统辞职，执政联盟现裂痕",
-      "summaryZh": "印度尼西亚副总统吉布兰·拉卡布明·拉卡宣布辞职，其父为前总统佐科·维多多。报道称，此次辞职与外界对其海外教育资历的质疑及相关争议有关。此事发生在总统普拉博沃与前任佐科关系出现裂痕的敏感时期。",
-      "category": "政治",
+      "titleZh": "美国联邦调查局称朝鲜黑客借虚假视频通话窃取4亿美元加密货币",
+      "summaryZh": "英国广播公司报道，美国联邦调查局称朝鲜黑客利用“面部窃取”手法，在18个月内使900多名受害者受骗。德国之声报道，美国查封了与朝鲜骗局相关的服务器，并着手查封从币安流出的12亿美元。",
+      "category": "财经",
       "regions": [
-        "印度尼西亚",
-        "东南亚"
+        "朝鲜",
+        "美国",
+        "全球"
       ],
       "heat": {
-        "score": 100,
+        "score": 94,
         "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "输入热度显示共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内，涉及该国最高层人事变动与执政联盟稳定。"
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-11T16:38:07.000Z"
+          "publishedAt": "2026-11-13T02:48:29.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-disrupts-north-korea-s-400-million-crypto-scam-fbi-says/a-79935957?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-12T06:38:01.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-12T02:22:48.000Z"
+          "publishedAt": "2026-11-13T04:19:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "英伟达股价大跌，因董事会将讨论黄仁勋去留",
-      "summaryZh": "在媒体报道英伟达董事会将讨论首席执行官黄仁勋的未来后，这家芯片巨头股价下跌超过 8%。有报道称，董事会最早可能在周三晚间就这位任职 33 年的创始人兼首席执行官的去留作出决定。",
-      "category": "财经",
-      "regions": [
-        "美国",
-        "全球"
-      ],
-      "heat": {
-        "score": 99,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "输入热度显示共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内，事件直接影响全球人工智能芯片供应链与资本市场。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-12T00:43:26.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-          "language": "en",
-          "publishedAt": "2026-11-11T23:28:45.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "法国记者格莱兹被拘500天，家属期盼总统特赦",
-      "summaryZh": "法国记者克里斯托夫·格莱兹在阿尔及利亚已被拘留 500 天，并因“为恐怖主义辩护”罪名被判刑。其亲属当天获法国外交部长巴罗接见，希望争取总统特赦。巴黎还举办了一场足球赛以示声援。",
-      "category": "体育",
-      "regions": [
-        "法国",
-        "阿尔及利亚"
-      ],
-      "heat": {
-        "score": 52,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "输入热度显示共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，涉及法国与阿尔及利亚之间的领事与司法争议。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261111-les-proches-du-journaliste-christophe-gleizes-esp%C3%A8rent-une-gr%C3%A2ce-pr%C3%A9sidentielle",
-          "language": "fr",
-          "publishedAt": "2026-11-11T21:37:52.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "民主党人斯科特·科洛姆赢得密西西比州联邦参议员选举",
-      "summaryZh": "民主党人斯科特·科洛姆击败共和党人辛迪·海德-史密斯，赢得密西西比州联邦参议员席位。他是该南部州 140 多年来首位当选美国联邦参议员的黑人。多家媒体的预测显示，这是一次历史性的冷门胜利。",
+      "titleZh": "塔拉里科借特朗普政治遗产呼吁两党改革",
+      "summaryZh": "半岛电视台报道，得克萨斯州当选民主党参议员詹姆斯·塔拉里科敦促本党与特朗普总统合作。报道称，他在争取两党改革时诉诸特朗普的政治遗产。",
       "category": "政治",
       "regions": [
         "美国"
       ],
       "heat": {
-        "score": 93,
-        "sourceCount": 2,
+        "score": 63,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "输入热度显示共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内，选举结果具有历史意义并影响美国国会席位格局。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/talarico-appeals-to-trumps-legacy-in-bid-for-bipartisan-reforms?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-12T04:00:30.000Z"
-        },
+          "publishedAt": "2026-11-13T04:36:45.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "哈里·凯恩打破出场纪录，英格兰晋级欧国联淘汰赛",
+      "summaryZh": "半岛电视台报道，哈里·凯恩打破英格兰队出场纪录，英格兰队晋级欧国联八强。英格兰队在A3组升至西班牙之后排名第二，确认获得明年3月淘汰赛席位。",
+      "category": "体育",
+      "regions": [
+        "英国",
+        "欧洲"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/13/harry-kane-england-appearance-record-126-croatia-nations-league-quarterfinals?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-11T23:33:00.000Z"
+          "publishedAt": "2026-11-13T05:38:36.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "国际特赦组织称联合国未阻止南苏丹屠杀",
+      "summaryZh": "法国24电视台报道，国际特赦组织发布报告称，南苏丹当局和联合国南苏丹特派团事先知道3月1日阿比埃姆诺姆将发生屠杀。当天武装袭击造成213人死亡，联合国否认相关指控。",
+      "category": "国际",
+      "regions": [
+        "南苏丹",
+        "联合国"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261113-amnesty-affirme-que-l-onu-n-a-pas-emp%C3%AAch%C3%A9-un-massacre-au-soudan-du-sud",
+          "language": "fr",
+          "publishedAt": "2026-11-13T04:44:37.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "Hacker News 热议：人工智能、开发活动与软件工程成效",
-      "summaryZh": "Hacker News 上一则讨论人工智能如何影响软件开发活动与实际成效的帖子获得 113 分、103 条评论。同一聚合条目下还包含一条关于微软 Defender 被指未经许可上传用户未发布软件的帖子。",
+      "titleZh": "微软电子邮件服务持续宕机",
+      "summaryZh": "科技媒体称，自美国东部时间周四下午1点前起，全球多地用户报告无法通过网页或应用访问微软电子邮件服务。微软表示部分基础设施在多个地区出现高负载，可能是连接错误的原因，并称部分365商业服务也可能受影响。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 79,
-        "sourceCount": 1,
+        "score": 84,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "输入热度显示共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，为技术社区当日活跃讨论话题。"
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://cabird.com/talks/shipping-faster/",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
           "language": "en",
-          "publishedAt": "2026-11-11T16:33:28.000Z"
+          "publishedAt": "2026-11-12T23:24:13.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://garrettstimpson.ca/posts/2026/11/11/caught-microsoft-red-handed-with-hodometer/",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
           "language": "en",
-          "publishedAt": "2026-11-12T01:27:10.000Z"
+          "publishedAt": "2026-11-12T19:03:39.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "美联航禁止 AI 代理替旅客订机票",
-      "summaryZh": "美联航宣布禁止人工智能代理代表旅客预订机票。该消息在 Hacker News 上引发大量讨论，获得 514 分、504 条评论。",
+      "titleZh": "健康穿戴公司推出带“已验证心跳”的社交网络",
+      "summaryZh": "科技媒体称，健康穿戴设备公司推出社交网络，会员可分享睡眠、恢复和锻炼数据，以及活动、成就和带图片文字的“时刻”。公司称该平台强调真实用户和“已验证心跳”，并认为这区别于充斥人工智能、自动账号和机器人的其他社交平台。",
       "category": "科技",
       "regions": [
         "美国",
         "全球"
       ],
       "heat": {
-        "score": 65,
-        "sourceCount": 1,
+        "score": 83,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "输入热度显示共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，社区互动量高，涉及 AI 代理应用边界。"
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
           "language": "en",
-          "publishedAt": "2026-11-11T21:24:35.000Z"
+          "publishedAt": "2026-11-12T23:43:22.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
+          "language": "en",
+          "publishedAt": "2026-11-12T16:00:00.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "内塔尼亚胡的政治遗产：人格化政治重塑以色列民主",
-      "summaryZh": "报道分析称，内塔尼亚胡为维系政治生存而展开的博弈，使以色列议会开幕变成互相辱骂与尖锐对立的场面。文章认为，这种人格化政治正在重塑以色列的民主运作方式。",
-      "category": "政治",
+      "titleZh": "谷歌新模型提升复杂问题理解能力",
+      "summaryZh": "科技媒体称，谷歌表示新一代双子座4氢模型能更好回答多部分问题、难懂错别字和高度具体请求，并能拆解问题逐项回应。该模型已在搜索、双子座应用、开发平台和商业服务中上线，并成为人工智能模式默认模型，用于处理人工智能概览中的高难度问题。",
+      "category": "科技",
       "regions": [
-        "以色列",
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 64,
-        "sourceCount": 1,
+        "score": 83,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "输入热度显示共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，涉及以色列政坛走向与民主制度议题。"
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy?traffic_source=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
           "language": "en",
-          "publishedAt": "2026-11-12T06:49:45.000Z"
+          "publishedAt": "2026-11-12T21:55:32.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+          "language": "en",
+          "publishedAt": "2026-11-12T19:27:45.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "法国仪仗队成员晕倒，马克龙上前协助",
-      "summaryZh": "在斯洛伐克总统佩莱格里尼抵达爱丽舍宫时，一名法国荣誉卫队成员突然晕倒。现场画面显示，法国总统马克龙随即上前协助。",
-      "category": "政治",
+      "titleZh": "Edge0-145B：在个人电脑上实现前沿人工智能能力",
+      "summaryZh": "黑客新闻上的相关帖子获得189分和49条评论。帖子标题称Edge0-145B可在个人电脑上提供前沿人工智能能力。",
+      "category": "科技",
       "regions": [
-        "法国",
-        "斯洛伐克"
+        "全球"
       ],
       "heat": {
         "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "输入热度显示共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，属外交场合突发事件并获视频传播。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
           "language": "en",
-          "publishedAt": "2026-11-12T05:11:15.000Z"
+          "publishedAt": "2026-11-12T23:06:17.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "印度政府批准在新德里兴建3.4亿美元博物馆",
-      "summaryZh": "印度政府批准在德里建设耗资 3.4 亿美元的“Yuge Yugeen Bharat 博物馆”。官方称，该馆将拥有全球“最大”的博物馆展示面积。",
-      "category": "政治",
+      "titleZh": "人工智能正使苹果应用审核流程对合成器开发者更艰难",
+      "summaryZh": "黑客新闻上的相关帖子称，人工智能正把苹果应用审核流程变成合成器开发者的噩梦。该帖子获得152分和147条评论。",
+      "category": "科技",
       "regions": [
-        "印度"
+        "全球",
+        "美国"
       ],
       "heat": {
         "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "输入热度显示共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内，属印度政府重大公共文化支出决定。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/india-news-modi-government-approves-340-million-museum-in-delhi/live-79925477?maca=en-rss-en-all-1573-rdf",
+          "name": "Hacker News",
+          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
           "language": "en",
-          "publishedAt": "2026-11-12T06:43:00.000Z"
+          "publishedAt": "2026-11-12T21:09:49.000Z"
         }
       ]
     }
