@@ -1,83 +1,71 @@
 {
-  "generatedAt": "2026-11-13T06:52:52.622Z",
+  "generatedAt": "2026-11-14T06:35:32.228Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "英伟达首席执行官黄仁勋辞职，公司前景受关注",
-      "summaryZh": "英国广播公司报道称，黄仁勋辞职后，外界关注这对英伟达和人工智能业务意味着什么。科技媒体称，英伟达在相关报道后宣布黄仁勋辞任首席执行官，科技界人士对此有不同反应；另有报道讨论英伟达对开源人工智能的支持是否会受影响。",
+      "titleZh": "黄仁勋丑闻给亲商的新加坡带来棘手难题",
+      "summaryZh": "报道指出，这起丑闻令外界聚焦新加坡作为芯片枢纽的成功，以及其作为涉嫌非法交易地点的角色。TechCrunch 另称，黄仁勋因婚外情从英伟达辞职，此事可能在中美竞逐先进 AI 基础设施之际产生国家安全层面的影响。",
       "category": "科技",
       "regions": [
+        "新加坡",
         "美国",
-        "全球"
+        "中国"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 3,
+        "score": 96,
+        "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-12T19:33:37.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
-          "language": "en",
-          "publishedAt": "2026-11-12T21:45:00.000Z"
+          "publishedAt": "2026-11-13T23:00:31.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
           "language": "en",
-          "publishedAt": "2026-11-12T18:39:23.000Z"
+          "publishedAt": "2026-11-13T15:58:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "美国联邦调查局称朝鲜黑客借虚假视频通话窃取4亿美元加密货币",
-      "summaryZh": "英国广播公司报道，美国联邦调查局称朝鲜黑客利用“面部窃取”手法，在18个月内使900多名受害者受骗。德国之声报道，美国查封了与朝鲜骗局相关的服务器，并着手查封从币安流出的12亿美元。",
+      "titleZh": "英伟达董事在黄仁勋丑闻曝光前数周抛售近10亿美元股票",
+      "summaryZh": "据 Hacker News 上的讨论，一名英伟达董事在黄仁勋丑闻曝光前数周出售了价值近 10 亿美元的股票。该帖获得 160 分、34 条评论。",
       "category": "财经",
       "regions": [
-        "朝鲜",
-        "美国",
         "全球"
       ],
       "heat": {
-        "score": 94,
-        "sourceCount": 2,
+        "score": 66,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
           "language": "en",
-          "publishedAt": "2026-11-13T02:48:29.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-disrupts-north-korea-s-400-million-crypto-scam-fbi-says/a-79935957?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-13T04:19:00.000Z"
+          "publishedAt": "2026-11-14T02:21:36.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "塔拉里科借特朗普政治遗产呼吁两党改革",
-      "summaryZh": "半岛电视台报道，得克萨斯州当选民主党参议员詹姆斯·塔拉里科敦促本党与特朗普总统合作。报道称，他在争取两党改革时诉诸特朗普的政治遗产。",
+      "titleZh": "德国情报机构获得广泛新权力",
+      "summaryZh": "德国议会通过立法，赋予情报机构广泛的新权力。此举发生在莱比锡-哈勒机场一起被挫败的袭击数月之后，柏林方面将该袭击与俄罗斯相联系。",
       "category": "政治",
       "regions": [
-        "美国"
+        "德国",
+        "俄罗斯"
       ],
       "heat": {
         "score": 63,
@@ -88,20 +76,20 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/talarico-appeals-to-trumps-legacy-in-bid-for-bipartisan-reforms?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-13T04:36:45.000Z"
+          "publishedAt": "2026-11-14T04:41:11.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "哈里·凯恩打破出场纪录，英格兰晋级欧国联淘汰赛",
-      "summaryZh": "半岛电视台报道，哈里·凯恩打破英格兰队出场纪录，英格兰队晋级欧国联八强。英格兰队在A3组升至西班牙之后排名第二，确认获得明年3月淘汰赛席位。",
+      "titleZh": "门将奥沃诺在德米格尔死亡事件后被禁赛12场",
+      "summaryZh": "奥沃诺与德米格尔于 11 月 2 日在西班牙第二级别联赛安道尔 FC 对阵特内里费的比赛中相撞。事后奥沃诺被处以 12 场禁赛。",
       "category": "体育",
       "regions": [
-        "英国",
-        "欧洲"
+        "西班牙",
+        "安道尔"
       ],
       "heat": {
         "score": 60,
@@ -112,46 +100,51 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/13/harry-kane-england-appearance-record-126-croatia-nations-league-quarterfinals?traffic_source=rss",
+          "url": "https://www.aljazeera.com/sports/2026/11/14/jesus-de-miguel-death-goalkeeper-owono-12-match-ban-collision-tenerife-andorra?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-13T05:38:36.000Z"
+          "publishedAt": "2026-11-14T05:59:49.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "国际特赦组织称联合国未阻止南苏丹屠杀",
-      "summaryZh": "法国24电视台报道，国际特赦组织发布报告称，南苏丹当局和联合国南苏丹特派团事先知道3月1日阿比埃姆诺姆将发生屠杀。当天武装袭击造成213人死亡，联合国否认相关指控。",
-      "category": "国际",
+      "titleZh": "第五条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
       "regions": [
-        "南苏丹",
-        "联合国"
+        "全球"
       ],
       "heat": {
-        "score": 58,
+        "score": 83,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261113-amnesty-affirme-que-l-onu-n-a-pas-emp%C3%AAch%C3%A9-un-massacre-au-soudan-du-sud",
-          "language": "fr",
-          "publishedAt": "2026-11-13T04:44:37.000Z"
+          "name": "Hacker News",
+          "url": "https://status.claude.com/incidents/nn11wk485zfn",
+          "language": "en",
+          "publishedAt": "2026-11-13T10:18:13.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://claude.com/resources/articles/projects-redesigned",
+          "language": "en",
+          "publishedAt": "2026-11-14T00:28:11.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "微软电子邮件服务持续宕机",
-      "summaryZh": "科技媒体称，自美国东部时间周四下午1点前起，全球多地用户报告无法通过网页或应用访问微软电子邮件服务。微软表示部分基础设施在多个地区出现高负载，可能是连接错误的原因，并称部分365商业服务也可能受影响。",
+      "titleZh": "第六条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "科技",
       "regions": [
-        "全球"
+        "美洲"
       ],
       "heat": {
-        "score": 84,
+        "score": 82,
         "sourceCount": 2,
         "regionCount": 1,
         "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -159,121 +152,109 @@
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
           "language": "en",
-          "publishedAt": "2026-11-12T23:24:13.000Z"
+          "publishedAt": "2026-11-13T20:45:10.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
           "language": "en",
-          "publishedAt": "2026-11-12T19:03:39.000Z"
+          "publishedAt": "2026-11-13T16:00:12.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "健康穿戴公司推出带“已验证心跳”的社交网络",
-      "summaryZh": "科技媒体称，健康穿戴设备公司推出社交网络，会员可分享睡眠、恢复和锻炼数据，以及活动、成就和带图片文字的“时刻”。公司称该平台强调真实用户和“已验证心跳”，并认为这区别于充斥人工智能、自动账号和机器人的其他社交平台。",
+      "titleZh": "英伟达被指通过资助 AI 初创公司购买其 GPU 来人为制造稀缺",
+      "summaryZh": "Hacker News 上的一个帖子称，英伟达通过资助 AI 初创公司购买其 GPU，被指人为制造了稀缺。该帖获得 313 分、158 条评论。",
       "category": "科技",
       "regions": [
-        "美国",
         "全球"
       ],
       "heat": {
-        "score": 83,
-        "sourceCount": 2,
+        "score": 68,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+          "name": "Hacker News",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
           "language": "en",
-          "publishedAt": "2026-11-12T23:43:22.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
-          "language": "en",
-          "publishedAt": "2026-11-12T16:00:00.000Z"
+          "publishedAt": "2026-11-14T02:52:59.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "谷歌新模型提升复杂问题理解能力",
-      "summaryZh": "科技媒体称，谷歌表示新一代双子座4氢模型能更好回答多部分问题、难懂错别字和高度具体请求，并能拆解问题逐项回应。该模型已在搜索、双子座应用、开发平台和商业服务中上线，并成为人工智能模式默认模型，用于处理人工智能概览中的高难度问题。",
+      "titleZh": "关于9·11以来最长地面停飞令的已知信息",
+      "summaryZh": "美国官员表示，此次中断是由老旧设备过载造成，并非网络攻击或微软服务故障。报道梳理了这起 9·11 以来最长地面停飞事件的已知情况。",
       "category": "科技",
       "regions": [
-        "全球"
+        "美国"
       ],
       "heat": {
-        "score": 83,
-        "sourceCount": 2,
+        "score": 62,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-12T21:55:32.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-          "language": "en",
-          "publishedAt": "2026-11-12T19:27:45.000Z"
+          "publishedAt": "2026-11-14T03:45:21.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "Edge0-145B：在个人电脑上实现前沿人工智能能力",
-      "summaryZh": "黑客新闻上的相关帖子获得189分和49条评论。帖子标题称Edge0-145B可在个人电脑上提供前沿人工智能能力。",
-      "category": "科技",
+      "titleZh": "特朗普将会晤习近平与普京，举行核军控三方会谈",
+      "summaryZh": "白宫表示，特朗普总统下周将在深圳敦促习近平和普京讨论削减核武库。一名美国高级官员预计不会达成协议。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "美国",
+        "中国",
+        "俄罗斯"
       ],
       "heat": {
-        "score": 63,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+          "name": "DW",
+          "url": "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-12T23:06:17.000Z"
+          "publishedAt": "2026-11-14T04:11:00.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "人工智能正使苹果应用审核流程对合成器开发者更艰难",
-      "summaryZh": "黑客新闻上的相关帖子称，人工智能正把苹果应用审核流程变成合成器开发者的噩梦。该帖子获得152分和147条评论。",
-      "category": "科技",
+      "titleZh": "将军被捕、副总统受威胁：总统之子助推乌干达接班猜测",
+      "summaryZh": "报道称，这名 52 岁将军的挑衅性帖子和军事威胁加剧了有关家族式接班的传言。事态涉及多名将军被捕以及对副总统的威胁。",
+      "category": "政治",
       "regions": [
-        "全球",
-        "美国"
+        "乌干达"
       ],
       "heat": {
-        "score": 63,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-12T21:09:49.000Z"
+          "publishedAt": "2026-11-14T00:03:52.000Z"
         }
       ]
     }
