@@ -1,254 +1,270 @@
 {
-  "generatedAt": "2026-11-15T06:43:29.122Z",
+  "generatedAt": "2026-11-16T06:41:24.520Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "泽连斯基称美方提出以乌克兰放弃顿巴斯换取北约成员资格",
-      "summaryZh": "乌克兰总统泽连斯基表示，美国提出了乌克兰放弃顿巴斯地区、以换取北约成员资格的设想。美方尚未证实这一说法，一名美国官员对BBC表示“许多想法仍在讨论中”。另据德国之声报道，泽连斯基还称相关安全协议可能交由公投决定。",
+      "titleZh": "捷克民众集会反对公共媒体资助改革",
+      "summaryZh": "捷克民众举行集会，反对政府计划改变公共媒体资助方式。抗议者认为此举会压制媒体自由，政府则称广播机构需要削减成本。报道提到布拉格出现抗议，并有数十万人参与反对废除广播费的活动。",
       "category": "政治",
       "regions": [
-        "乌克兰",
-        "美国",
+        "捷克",
         "欧洲"
       ],
       "heat": {
-        "score": 88,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内。"
+        "score": 100,
+        "sourceCount": 3,
+        "regionCount": 2,
+        "reasonZh": "共有 3 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-14T22:37:25.000Z"
+          "publishedAt": "2026-11-15T21:03:40.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-16T00:26:32.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/czechia-scores-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-14T11:40:00.000Z"
+          "publishedAt": "2026-11-15T19:12:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "黄仁勋离开英伟达引发亚洲多国政府回应",
-      "summaryZh": "据The Verge报道，曾在CES上风光登场的英伟达CEO黄仁勋已离开公司，此前他被指牵涉两起芯片走私丑闻，并被指存在婚外情。据TechCrunch报道，亚洲多国政府对此作出反应，部分国家着手确认芯片供应承诺，其他国家则在评估对本地项目的影响或应对相关调查。",
+      "titleZh": "苹果启动新研究以提升人工智能健康工具有效性",
+      "summaryZh": "苹果宣布开展一项新研究，旨在更好了解人们如何使用对话式人工智能健康工具，以及这些回答的实际有用性。研究将与一个面向医疗专业人员的临床人工智能平台合作，参与者通过新应用提出医疗问题并按准确性、细节和相关性等标准评价回答。该应用已开放下载，报名从当天开始。",
       "category": "科技",
       "regions": [
-        "美国",
-        "亚洲"
+        "美国"
       ],
       "heat": {
-        "score": 79,
+        "score": 87,
         "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+          "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
           "language": "en",
-          "publishedAt": "2026-11-14T12:00:00.000Z"
+          "publishedAt": "2026-11-16T01:26:56.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
           "language": "en",
-          "publishedAt": "2026-11-14T16:34:15.000Z"
+          "publishedAt": "2026-11-16T01:30:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "2027年非洲杯预选赛：阿尔及利亚小胜多哥，巩固小组头名",
-      "summaryZh": "在2027年非洲杯预选赛第三轮比赛中，阿尔及利亚以1比0小胜多哥。球队长时间在最后一击上受阻，最终在比赛末段由哈吉·穆萨传中、本塞拜尼头球破门打破僵局。这场小胜让阿尔及利亚以7分继续位居小组第一。",
-      "category": "体育",
+      "titleZh": "美国众议院议员股票交易能否跑赢市场？对 8,900 笔交易的检验",
+      "summaryZh": "黑客新闻上有一篇帖子讨论对 8,900 笔众议院议员股票交易进行检验，评估这些交易是否跑赢市场。该帖子获得 112 分和 119 条评论。",
+      "category": "财经",
       "regions": [
-        "阿尔及利亚",
-        "多哥",
-        "非洲"
+        "美国"
       ],
       "heat": {
-        "score": 64,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/sports/20261114-%C3%A9liminatoires-de-la-can-2027-l-alg%C3%A9rie-cale-contre-le-togo-mais-reste-en-t%C3%AAte-de-son-groupe",
-          "language": "fr",
-          "publishedAt": "2026-11-14T21:00:23.000Z"
+          "name": "Hacker News",
+          "url": "https://arkanumdata.com/research/house-trades",
+          "language": "en",
+          "publishedAt": "2026-11-15T19:46:02.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "全民基本收入能否成为人工智能经济的解决方案？",
-      "summaryZh": "德国之声报道称，人工智能带来的经济冲击规模之大，甚至让保守派政客也开始谈论全民基本收入。但经济学家对此并不信服，倡议人士则认为需要提出更深层的问题。",
-      "category": "财经",
+      "titleZh": "巴西女子联赛决赛爆发斗殴",
+      "summaryZh": "巴西 20 岁以下女子联赛决赛中，对阵双方球员发生拳脚冲突。报道称比赛期间爆发了斗殴。",
+      "category": "体育",
       "regions": [
-        "全球"
+        "巴西"
       ],
       "heat": {
-        "score": 61,
+        "score": 56,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/could-universal-basic-income-be-part-of-the-solution-in-an-ai-economy/a-79941597?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/brawl-erupts-in-brazils-womens-league-final?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-15T05:36:00.000Z"
+          "publishedAt": "2026-11-15T23:46:37.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "秘密投票与否决权：下一任联合国秘书长将如何选出？",
-      "summaryZh": "目前没有明显的领跑者，八名候选人正在争取联合国安理会的推荐。报道解析了遴选过程中涉及的秘密投票与否决权机制。",
+      "titleZh": "谁能迫使以色列执行加沙停火协议？",
+      "summaryZh": "半岛电视台节目讨论谁能迫使以色列落实加沙停火协议。报道提到风暴袭击巴勒斯坦地区，同时以色列限制援助进入。",
       "category": "国际",
       "regions": [
-        "全球"
+        "以色列",
+        "巴勒斯坦",
+        "加沙"
       ],
       "heat": {
-        "score": 61,
+        "score": 55,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-15T06:11:00.000Z"
+          "publishedAt": "2026-11-15T20:37:43.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "法官暂时阻止特朗普关闭华盛顿高尔夫球场进行改造",
-      "summaryZh": "一名法官暂时阻止了特朗普关闭华盛顿特区东波托马克高尔夫球场以进行改造的计划。这是针对该计划持续数月法律挑战的最新进展。",
+      "titleZh": "胡塞武装在也门推进，政府军调动保卫亚丁",
+      "summaryZh": "胡塞武装在也门的推进威胁政府最后据点之一。与也门政府和沙特结盟的部队正加强临时首都亚丁的控制，以应对伊朗支持的胡塞武装逼近。",
       "category": "政治",
       "regions": [
-        "美国"
+        "也门",
+        "亚丁"
       ],
       "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-15T03:21:04.000Z"
+          "publishedAt": "2026-11-16T02:22:29.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-11-15T23:29:00.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "纽约民主社会主义者呼吁奥卡西奥-科尔特斯竞选美国总统",
-      "summaryZh": "纽约市民主社会主义者（NYC-DSA）代表大会通过决议，正式呼吁国会议员奥卡西奥-科尔特斯参加2028年总统竞选。",
-      "category": "政治",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-15T04:44:57.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "内塔尼亚胡公开呼吁艾森科特组建联合政府",
-      "summaryZh": "以色列总理内塔尼亚胡向反对派领导人加迪·艾森科特发出公开呼吁，要求组建联合政府。",
-      "category": "政治",
-      "regions": [
-        "以色列",
-        "中东"
-      ],
-      "heat": {
-        "score": 61,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-15T01:33:11.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "软件职位名称的“家谱图”",
-      "summaryZh": "Hacker News上题为《软件职位名称的家谱》的帖子获得272分、132条评论，由用户umerf发布。",
+      "titleZh": "黑客新闻讨论谷歌人工智能订阅价值与智能体设计合成器",
+      "summaryZh": "黑客新闻上有帖子认为谷歌人工智能订阅服务不值得，另有帖子讨论由智能体人工智能设计模拟合成器。两条帖子分别获得 7 分和 12 分。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 61,
+        "score": 75,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+          "url": "https://www.reddit.com/r/google_antigravity/comments/1xx9nl3/google_ai_ultra_subscription_not_worth_it/",
           "language": "en",
-          "publishedAt": "2026-11-14T17:45:19.000Z"
+          "publishedAt": "2026-11-16T04:59:22.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+          "language": "en",
+          "publishedAt": "2026-11-16T01:28:10.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "海地遇刺前领导人遗孀登记参加总统选举",
+      "summaryZh": "海地遇刺前总统若弗内尔·莫伊兹的遗孀已登记参加总统选举。自 2021 年莫伊兹遇刺前以来，海地尚未举行选举。",
+      "category": "政治",
+      "regions": [
+        "海地"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-16T05:06:59.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "Linux 的诞生被视为对稳健软件架构和工具的拒绝",
+      "summaryZh": "黑客新闻上有帖子讨论 Linux 的诞生是对稳健软件架构和工具的一种拒绝。该帖子获得 37 分和 37 条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 65,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://twitter.com/GrapheneOS/status/2122079826257588569",
+          "language": "en",
+          "publishedAt": "2026-11-16T03:58:04.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "电信升级作业如何引发美国航班混乱",
-      "summaryZh": "美国官员表示，此次航班混乱由老旧设备过载造成，并非网络攻击。报道梳理了电信升级作业与航班受影响之间的关联。",
-      "category": "科技",
+      "titleZh": "海地遇害领导人莫伊兹遗孀将角逐总统选举",
+      "summaryZh": "马蒂娜·莫伊兹是海地十年来首次总统选举的 33 名登记候选人之一。报道称她将参选。",
+      "category": "政治",
       "regions": [
-        "美国"
+        "海地"
       ],
       "heat": {
-        "score": 59,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-14T23:11:27.000Z"
+          "publishedAt": "2026-11-16T05:38:52.000Z"
         }
       ]
     }
