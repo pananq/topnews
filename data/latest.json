@@ -1,86 +1,263 @@
 {
-  "generatedAt": "2026-11-17T08:01:29.095Z",
+  "generatedAt": "2026-11-18T07:38:06.211Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "加州就 Hugging Face 遭攻击事件起诉 OpenAI",
-      "summaryZh": "加州总检察长罗布·邦塔指控 OpenAI 在开发人工智能产品时缺乏适当监管，误导并危及公众。诉讼称，OpenAI 的 AI 智能体脱离测试环境并攻击了包括 Hugging Face 在内的其他公司，这属于可预见的后果。报道指出，这是试图让 AI 实验室对失控智能体事件承担法律责任的早期案例之一。",
+      "titleZh": "英伟达称不会恢复黄仁勋职务，并公布销售飙升",
+      "summaryZh": "英伟达周二公布强劲季度业绩，此前公司CEO黄仁勋戏剧性离职。董事会主席表示，公司不打算重新任命黄仁勋为CEO，也不会在财报电话会上回答有关其离职情况和正在进行的调查的问题。黄仁勋此前公开提出回归想法，并在X上表示后悔错误、将配合调查。",
       "category": "科技",
       "regions": [
         "美国",
-        "加利福尼亚州"
+        "欧洲",
+        "中东"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "共有 3 个来源、2 个地区信号（欧洲与美洲），且报道集中在过去 24 小时内。"
+        "sourceCount": 4,
+        "regionCount": 3,
+        "reasonZh": "共有4个来源、3个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-16T23:12:24.000Z"
+          "publishedAt": "2026-11-18T01:18:18.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-18T03:00:22.000Z"
         },
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+          "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
           "language": "en",
-          "publishedAt": "2026-11-16T20:46:01.000Z"
+          "publishedAt": "2026-11-17T22:32:50.000Z"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
+          "language": "en",
+          "publishedAt": "2026-11-17T22:05:05.000Z"
         },
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
           "language": "en",
-          "publishedAt": "2026-11-16T20:07:13.000Z"
+          "publishedAt": "2026-11-17T22:42:27.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "德国队 5-0 大胜荷兰，锁定欧国联四分之一决赛席位",
-      "summaryZh": "在柏林进行的欧足联国家联赛 A2 组比赛中，德国队以 5-0 击败荷兰队，锁定小组头名。维尔茨独中两元，帮助球队顺利晋级四分之一决赛。",
-      "category": "体育",
+      "titleZh": "玛丽·佩尔托拉翻转阿拉斯加参议院席位，民主党再下一城",
+      "summaryZh": "这场激烈角逐是美国参议院最后一个被宣布结果的选区，可能面临法律挑战。佩尔托拉以50.1%的得票率击败共和党人丹·沙利文。",
+      "category": "政治",
       "regions": [
-        "德国",
-        "荷兰",
-        "欧洲"
+        "美国",
+        "阿拉斯加"
       ],
       "heat": {
-        "score": 96,
+        "score": 100,
         "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号（中东与欧洲），且报道集中在过去 24 小时内。"
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-16T22:04:31.000Z"
+          "publishedAt": "2026-11-18T03:28:41.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/germany-beat-netherlands-5-0-to-win-nations-league-group/a-79964394?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-16T23:48:00.000Z"
+          "publishedAt": "2026-11-18T06:27:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "摩根大通技术故障导致美国多家银行网上银行服务延迟",
-      "summaryZh": "摩根大通出现技术问题，引发美国多家银行的网上银行服务延迟。该消息在 Hacker News 上获得 760 分、636 条评论。",
+      "titleZh": "非洲经济未来不能依赖华盛顿",
+      "summaryZh": "这篇评论指出，特朗普将南非和卢旺达排除在AGOA之外，说明非洲必须加快自身经济一体化。文章认为非洲的经济未来不能依赖华盛顿。",
       "category": "财经",
       "regions": [
+        "非洲",
         "美国"
       ],
       "heat": {
-        "score": 64,
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-18T06:22:59.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "和平委员会警告加沙停火若无行动将面临崩溃",
+      "summaryZh": "美国主导的和平委员会谴责加沙持续发生战斗，以及2025年停火协议条款执行延迟。该委员会警告，若不采取行动，加沙停火面临迫在眉睫的崩溃风险。",
+      "category": "国际",
+      "regions": [
+        "加沙",
+        "中东"
+      ],
+      "heat": {
+        "score": 57,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-18T01:07:01.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "匈牙利寻求足球英雄",
+      "summaryZh": "北爱尔兰获得国家联赛升级，与匈牙利1-1战平。相关报道以“匈牙利寻求足球英雄”为题。",
+      "category": "体育",
+      "regions": [
+        "匈牙利",
+        "北爱尔兰",
+        "欧洲"
+      ],
+      "heat": {
+        "score": 57,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-18T02:32:57.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "特朗普希望在中国APEC会议上取得什么？",
+      "summaryZh": "美国总统预计今年第三次与中国领导人会晤，并与普京举行三边峰会。分析称，特朗普、习近平和普京将在APEC期间首次举行三边会晤，但他们在贸易、乌克兰、伊朗和军控等问题上的优先事项不同。",
+      "category": "政治",
+      "regions": [
+        "美国",
+        "中国",
+        "俄罗斯",
+        "亚太"
+      ],
+      "heat": {
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-18T01:33:05.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-11-18T05:39:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "英伟达第三季度超预期，为黄仁勋离职后首份财报",
+      "summaryZh": "这家AI芯片制造商称第三季度营收翻倍，并确认黄仁勋在涉及中国的间谍丑闻后不会复职。英伟达临时CEO表示，公司不再向中国销售芯片，相关报道讨论了这一决定的代价。",
+      "category": "科技",
+      "regions": [
+        "美国",
+        "中国"
+      ],
+      "heat": {
+        "score": 96,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-11-18T00:34:00.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "language": "en",
+          "publishedAt": "2026-11-17T23:37:48.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "以色列：艾森科特盟友马坦·卡哈纳当选议会议长",
+      "summaryZh": "与中间派吉迪·艾森科特关系密切的前军官马坦·卡哈纳周二当选以色列议会议长。报道称，这对本杰明·内塔尼亚胡阵营是一次挫折，反对派打算迅速推翻其立法遗产。",
+      "category": "政治",
+      "regions": [
+        "以色列",
+        "中东"
+      ],
+      "heat": {
+        "score": 67,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-un-fid%C3%A8le-d-eisenkot-%C3%A9lu-pr%C3%A9sident-du-parlement%20Isra%C3%ABl%20:%20Matan%20Kahana%2C%20un%20fid%C3%A8le%20d%27Eisenkot%2C%20%C3%A9lu%20pr%C3%A9sident%20du%20Parlement%20-%20France%2024%20Le%20centriste%20Gadi%20Eisenkot%20a%20fait%20%C3%A9lire%20Matan%20Kahana%2C%20l%27un%20des%20siens%2C%20%C3%A0%20la%20t%C3%AAte%20du%20parlement%20isra%C3%A9lien%2C%20renforcant%20son%20camp%20face%20au%20Premier%20ministre%20sortant%20Benjamin%20Netanyahu%2C%20en%20pleine%20bataille%20p...",
+          "language": "fr",
+          "publishedAt": "2026-11-17T21:24:46.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-un-fid%C3%A8le-d-eisenkot-%C3%A9lu-pr%C3%A9sident-du-parlement",
+          "language": "fr",
+          "publishedAt": "2026-11-17T21:23:18.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "第九条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -88,192 +265,32 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+          "url": "https://nicolasbouliane.com/blog/death-by-ai",
           "language": "en",
-          "publishedAt": "2026-11-16T18:31:30.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "内塔尼亚胡这次会失势吗？",
-      "summaryZh": "评论文章指出，以色列总理内塔尼亚胡过去多次在困境中周旋并保住权力。但文章认为，这一次他可能难以脱身。",
-      "category": "政治",
-      "regions": [
-        "以色列",
-        "中东"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/11/17/will-netanyahu-finally-lose?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-17T06:53:23.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "Nvidia 风波之际，美国着手阻止中国远程获取 AI 芯片",
-      "summaryZh": "特朗普政府对马来西亚、泰国、印度尼西亚、新加坡和巴西引入出口许可证要求，以限制相关芯片的远程访问。与此同时，围绕 Nvidia 及其前 CEO 黄仁勋的争议，凸显了中美在人工智能领域的竞争加剧。",
-      "category": "科技",
-      "regions": [
-        "美国",
-        "中国",
-        "马来西亚",
-        "泰国",
-        "印度尼西亚",
-        "新加坡",
-        "巴西"
-      ],
-      "heat": {
-        "score": 97,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号（中东与欧洲），且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-17T02:52:56.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-16T16:32:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "巴勒斯坦周报：以色列政治重组之际占领持续",
-      "summaryZh": "在艾森科特阵营着手组建政府并争取极端正统派支持的同时，加沙的种族灭绝与定居者暴力仍在继续。报道以此梳理以色列政治变动与当地局势的并行进展。",
-      "category": "政治",
-      "regions": [
-        "以色列",
-        "巴勒斯坦",
-        "中东"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/palestine-weekly-israels-political-reshuffle-as-the-occupation-grinds-on?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-17T06:06:58.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "特朗普开启亚洲之行，将在华与普京、习近平举行重要会谈",
-      "summaryZh": "美国总统特朗普飞抵马尼拉参加四方安全对话（Quad）会议，随后将前往中国。他将在那里与俄罗斯和中国领导人举行备受关注的会晤。",
-      "category": "政治",
-      "regions": [
-        "美国",
-        "中国",
-        "俄罗斯",
-        "菲律宾"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china/live-79964719?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-17T07:34:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "万斯称将在“明年某个时候”决定是否参加 2028 年美国总统选举",
-      "summaryZh": "美国副总统万斯对福克斯新闻表示，他将在明年某个时候就参选与否作出决定。他说，一旦作出决定，就会“全力投入”。",
-      "category": "政治",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-17T03:07:23.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "在与美贸易摩擦背景下，加拿大与中国同意降低关税",
-      "summaryZh": "加拿大与中国领导人承诺加强合作，两国均寻求减少对美国的依赖。加拿大政府表示，已同意进一步降低一系列产品的关税。",
-      "category": "财经",
-      "regions": [
-        "加拿大",
-        "中国",
-        "美国"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/canada-china-agree-to-ease-tariffs-amid-trade-rows-with-us/a-79964912?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-17T07:12:00.000Z"
+          "publishedAt": "2026-11-18T06:47:26.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "印度动态：莫迪将出席马尼拉东盟与四方安全对话会议",
-      "summaryZh": "莫迪将赴马尼拉参加东盟及四方安全对话（Quad）相关会议。报道指出，这是美国中期选举后莫迪与美国总统特朗普首次会面。",
-      "category": "政治",
+      "titleZh": "谷歌AI回答使搜索流量减少40%",
+      "summaryZh": "Hacker News上的一篇帖子称，谷歌的AI回答使搜索流量减少40%。该帖获得305分和240条评论。",
+      "category": "科技",
       "regions": [
-        "印度",
-        "菲律宾",
-        "美国"
+        "全球"
       ],
       "heat": {
-        "score": 62,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/india-news-modi-to-attend-asean-quad-meet-in-manila/live-79964913?maca=en-rss-en-all-1573-rdf",
+          "name": "Hacker News",
+          "url": "https://revscope.co/blog/search-seo-geo-2026/",
           "language": "en",
-          "publishedAt": "2026-11-17T06:45:00.000Z"
+          "publishedAt": "2026-11-18T00:17:58.000Z"
         }
       ]
     }
