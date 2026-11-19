@@ -1,296 +1,259 @@
 {
-  "generatedAt": "2026-11-18T07:38:06.211Z",
+  "generatedAt": "2026-11-19T07:33:24.315Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "英伟达称不会恢复黄仁勋职务，并公布销售飙升",
-      "summaryZh": "英伟达周二公布强劲季度业绩，此前公司CEO黄仁勋戏剧性离职。董事会主席表示，公司不打算重新任命黄仁勋为CEO，也不会在财报电话会上回答有关其离职情况和正在进行的调查的问题。黄仁勋此前公开提出回归想法，并在X上表示后悔错误、将配合调查。",
+      "titleZh": "Anthropic 创纪录 IPO 能否阻止 AI 泡沫破裂？",
+      "summaryZh": "Anthropic 备受期待的 IPO 预计将使其跻身美国市值前十公司，但未来仍不确定。美国中期选举后科技股大幅抛售以及英伟达丑闻令其 IPO 前景存疑，不过仍有数千亿美元资金投入 AI 领域。",
       "category": "科技",
       "regions": [
         "美国",
-        "欧洲",
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 4,
-        "regionCount": 3,
-        "reasonZh": "共有4个来源、3个地区信号，且报道集中在过去24小时内。"
+        "score": 91,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "BBC World 与 DW 两个来源在过去 24 小时内报道，聚焦 Anthropic IPO 与 AI 泡沫风险，热度为 91。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-18T01:18:18.000Z"
+          "publishedAt": "2026-11-18T21:28:08.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-18T03:00:22.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
-          "language": "en",
-          "publishedAt": "2026-11-17T22:32:50.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
-          "language": "en",
-          "publishedAt": "2026-11-17T22:05:05.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-          "language": "en",
-          "publishedAt": "2026-11-17T22:42:27.000Z"
+          "publishedAt": "2026-11-19T05:58:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "玛丽·佩尔托拉翻转阿拉斯加参议院席位，民主党再下一城",
-      "summaryZh": "这场激烈角逐是美国参议院最后一个被宣布结果的选区，可能面临法律挑战。佩尔托拉以50.1%的得票率击败共和党人丹·沙利文。",
+      "titleZh": "塞内加尔：Pastef 开除总统法耶，与松科彻底决裂",
+      "summaryZh": "塞内加尔执政党 Pastef 正式确认总统巴西鲁·迪奥马耶·法耶离开该党。法耶与前导师、国民议会议长奥斯曼·松科公开冲突，并于 7 月成立自己的政治组织；此事发生在经济危机背景下。",
       "category": "政治",
       "regions": [
-        "美国",
-        "阿拉斯加"
+        "塞内加尔",
+        "西非"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+        "score": 70,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "France 24 在过去 24 小时内发布两篇报道，关注 Pastef 与法耶的决裂及其政治影响，热度为 70。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-18T03:28:41.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/afrique/20261119-bassirou-diomaye-faye-radi%C3%A9-du-pastef-un-autre-signe-de-la-s%C3%A9paration-d%C3%A9finitive-avec-sonko",
+          "language": "fr",
+          "publishedAt": "2026-11-19T06:24:22.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-18T06:27:00.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261118-s%C3%A9n%C3%A9gal-le-pastef-officialise-le-d%C3%A9part-de-ses-rangs-du-pr%C3%A9sident-bassirou-diomaye-faye",
+          "language": "fr",
+          "publishedAt": "2026-11-18T21:27:11.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "非洲经济未来不能依赖华盛顿",
-      "summaryZh": "这篇评论指出，特朗普将南非和卢旺达排除在AGOA之外，说明非洲必须加快自身经济一体化。文章认为非洲的经济未来不能依赖华盛顿。",
+      "titleZh": "美国封锁伊朗港口，德黑兰坚称经济可承受",
+      "summaryZh": "美国对伊朗港口的封锁对伊朗经济造成严重打击，但德黑兰坚称其经济能够挺过去。报道称，目前判断封锁影响仍“为时过早”。",
       "category": "财经",
       "regions": [
-        "非洲",
-        "美国"
+        "伊朗",
+        "美国",
+        "中东"
       ],
       "heat": {
         "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "Al Jazeera 在过去 24 小时内报道，聚焦美国封锁伊朗港口与德黑兰的回应，热度为 63。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-18T06:22:59.000Z"
+          "publishedAt": "2026-11-19T07:08:57.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "和平委员会警告加沙停火若无行动将面临崩溃",
-      "summaryZh": "美国主导的和平委员会谴责加沙持续发生战斗，以及2025年停火协议条款执行延迟。该委员会警告，若不采取行动，加沙停火面临迫在眉睫的崩溃风险。",
-      "category": "国际",
+      "titleZh": "《虚幻竞技场 2004》可在浏览器中游玩",
+      "summaryZh": "Hacker News 上出现一项在浏览器中运行《虚幻竞技场 2004》的项目，获得 144 分和 59 条评论。该帖子由 TheAceOfHearts 发布。",
+      "category": "体育",
       "regions": [
-        "加沙",
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 57,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "Hacker News 过去 24 小时内发布，获 144 分、59 条评论，热度为 62。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+          "name": "Hacker News",
+          "url": "https://ut2004.dev/",
           "language": "en",
-          "publishedAt": "2026-11-18T01:07:01.000Z"
+          "publishedAt": "2026-11-19T01:29:29.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "匈牙利寻求足球英雄",
-      "summaryZh": "北爱尔兰获得国家联赛升级，与匈牙利1-1战平。相关报道以“匈牙利寻求足球英雄”为题。",
-      "category": "体育",
+      "titleZh": "习近平、普京与特朗普峰会不会是“新雅尔塔”",
+      "summaryZh": "评论文章认为，中俄美三位领导人对地缘政治目标和世界秩序有不同愿景。因此，该峰会不会成为“新雅尔塔”。",
+      "category": "国际",
       "regions": [
-        "匈牙利",
-        "北爱尔兰",
-        "欧洲"
+        "中国",
+        "俄罗斯",
+        "美国",
+        "全球"
       ],
       "heat": {
-        "score": 57,
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "Al Jazeera 过去 24 小时内发表评论，讨论三边峰会与全球秩序，热度为 60。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
+          "url": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-18T02:32:57.000Z"
+          "publishedAt": "2026-11-19T06:07:05.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "特朗普希望在中国APEC会议上取得什么？",
-      "summaryZh": "美国总统预计今年第三次与中国领导人会晤，并与普京举行三边峰会。分析称，特朗普、习近平和普京将在APEC期间首次举行三边会晤，但他们在贸易、乌克兰、伊朗和军控等问题上的优先事项不同。",
+      "titleZh": "对习近平而言这是引人注目的地缘外交时刻，但暗藏风险",
+      "summaryZh": "BBC 评论称，此次会晤对中国领导人习近平而言是一个引人注目的地缘外交时刻。报道指出，会晤也伴随挑战，因为有些议题习近平似乎并不愿与普京和特朗普讨论。",
       "category": "政治",
       "regions": [
-        "美国",
         "中国",
         "俄罗斯",
-        "亚太"
+        "美国"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "BBC World 过去 24 小时内报道，聚焦习近平与普京、特朗普会晤的外交机遇与风险，热度为 64。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-18T01:33:05.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-18T05:39:00.000Z"
+          "publishedAt": "2026-11-19T04:42:52.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "英伟达第三季度超预期，为黄仁勋离职后首份财报",
-      "summaryZh": "这家AI芯片制造商称第三季度营收翻倍，并确认黄仁勋在涉及中国的间谍丑闻后不会复职。英伟达临时CEO表示，公司不再向中国销售芯片，相关报道讨论了这一决定的代价。",
+      "titleZh": "AI 不会让你变富（2025）",
+      "summaryZh": "Hacker News 上的一篇文章题为《AI 不会让你变富（2025）》，获得 93 分和 53 条评论。帖子由 madars 发布。",
       "category": "科技",
       "regions": [
-        "美国",
-        "中国"
+        "全球"
       ],
       "heat": {
-        "score": 96,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "Hacker News 过去 24 小时内发布，获 93 分、53 条评论，热度为 64。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-rdf",
+          "name": "Hacker News",
+          "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
           "language": "en",
-          "publishedAt": "2026-11-18T00:34:00.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-          "language": "en",
-          "publishedAt": "2026-11-17T23:37:48.000Z"
+          "publishedAt": "2026-11-19T01:51:28.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "以色列：艾森科特盟友马坦·卡哈纳当选议会议长",
-      "summaryZh": "与中间派吉迪·艾森科特关系密切的前军官马坦·卡哈纳周二当选以色列议会议长。报道称，这对本杰明·内塔尼亚胡阵营是一次挫折，反对派打算迅速推翻其立法遗产。",
-      "category": "政治",
+      "titleZh": "软件公司正试图扼杀家用计算？",
+      "summaryZh": "Hacker News 上出现一篇讨论“软件公司是否正试图扼杀家用计算”的帖子，获得 154 分和 98 条评论。帖子由 sammatilda 发布。",
+      "category": "科技",
       "regions": [
-        "以色列",
-        "中东"
+        "全球"
       ],
       "heat": {
-        "score": 67,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "Hacker News 过去 24 小时内发布，获 154 分、98 条评论，热度为 64。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-un-fid%C3%A8le-d-eisenkot-%C3%A9lu-pr%C3%A9sident-du-parlement%20Isra%C3%ABl%20:%20Matan%20Kahana%2C%20un%20fid%C3%A8le%20d%27Eisenkot%2C%20%C3%A9lu%20pr%C3%A9sident%20du%20Parlement%20-%20France%2024%20Le%20centriste%20Gadi%20Eisenkot%20a%20fait%20%C3%A9lire%20Matan%20Kahana%2C%20l%27un%20des%20siens%2C%20%C3%A0%20la%20t%C3%AAte%20du%20parlement%20isra%C3%A9lien%2C%20renforcant%20son%20camp%20face%20au%20Premier%20ministre%20sortant%20Benjamin%20Netanyahu%2C%20en%20pleine%20bataille%20p...",
-          "language": "fr",
-          "publishedAt": "2026-11-17T21:24:46.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-un-fid%C3%A8le-d-eisenkot-%C3%A9lu-pr%C3%A9sident-du-parlement",
-          "language": "fr",
-          "publishedAt": "2026-11-17T21:23:18.000Z"
+          "name": "Hacker News",
+          "url": "https://lateblt.livejournal.com/526188.html",
+          "language": "en",
+          "publishedAt": "2026-11-18T23:49:18.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "第九条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "科技",
+      "titleZh": "特朗普希望与普京和习近平谈核问题",
+      "summaryZh": "美国总统特朗普表示，他计划与中国习近平和俄罗斯普京讨论核不扩散问题。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "美国",
+        "中国",
+        "俄罗斯"
       ],
       "heat": {
-        "score": 65,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "Al Jazeera 过去 24 小时内发布视频新闻，聚焦特朗普的核不扩散表态，热度为 63。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://nicolasbouliane.com/blog/death-by-ai",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-18T06:47:26.000Z"
+          "publishedAt": "2026-11-19T04:50:28.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "谷歌AI回答使搜索流量减少40%",
-      "summaryZh": "Hacker News上的一篇帖子称，谷歌的AI回答使搜索流量减少40%。该帖获得305分和240条评论。",
+      "titleZh": "黑人高中生起诉：AI 将多力多滋包装误判为枪",
+      "summaryZh": "有黑人高中生提起诉讼，原因是 AI 将一袋多力多滋误判为枪支。Hacker News 帖子获得 81 分和 42 条评论，由 DeepLogin 发布。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 65,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "Hacker News 过去 24 小时内发布，获 81 分、42 条评论，热度为 63。"
       },
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://revscope.co/blog/search-seo-geo-2026/",
+          "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
           "language": "en",
-          "publishedAt": "2026-11-18T00:17:58.000Z"
+          "publishedAt": "2026-11-19T00:57:20.000Z"
         }
       ]
     }
