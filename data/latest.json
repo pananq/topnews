@@ -1,259 +1,277 @@
 {
-  "generatedAt": "2026-11-19T07:33:24.315Z",
+  "generatedAt": "2026-11-20T07:25:24.793Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "Anthropic 创纪录 IPO 能否阻止 AI 泡沫破裂？",
-      "summaryZh": "Anthropic 备受期待的 IPO 预计将使其跻身美国市值前十公司，但未来仍不确定。美国中期选举后科技股大幅抛售以及英伟达丑闻令其 IPO 前景存疑，不过仍有数千亿美元资金投入 AI 领域。",
+      "titleZh": "特朗普迫于压力更换美国网络安全主管",
+      "summaryZh": "特朗普解除国家网络总监肖恩·凯恩克罗斯的职务，并任命国防部官员柯尔斯滕·戴维斯为代理国家网络总监。此前一周美国经历了一连串技术故障。",
       "category": "科技",
       "regions": [
-        "美国",
-        "全球"
+        "美国"
       ],
       "heat": {
-        "score": 91,
+        "score": 100,
         "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "BBC World 与 DW 两个来源在过去 24 小时内报道，聚焦 Anthropic IPO 与 AI 泡沫风险，热度为 91。"
+        "regionCount": 2,
+        "reasonZh": "共 2 个来源（半岛电视台、德国之声）、2 个地区信号，报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-18T21:28:08.000Z"
+          "publishedAt": "2026-11-20T05:48:35.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-19T05:58:00.000Z"
+          "publishedAt": "2026-11-20T04:21:00.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "塞内加尔：Pastef 开除总统法耶，与松科彻底决裂",
-      "summaryZh": "塞内加尔执政党 Pastef 正式确认总统巴西鲁·迪奥马耶·法耶离开该党。法耶与前导师、国民议会议长奥斯曼·松科公开冲突，并于 7 月成立自己的政治组织；此事发生在经济危机背景下。",
-      "category": "政治",
+      "titleZh": "Anthropic 上市首日跻身全球市值最高上市公司之列",
+      "summaryZh": "Anthropic 成为首家上市的纯人工智能公司，为整个行业提供了一次检验。其上市首秀未能缓解市场对 AI 泡沫的担忧，亚洲股市随科技股抛售下挫，日本、韩国、台湾和香港指数均下跌。",
+      "category": "财经",
       "regions": [
-        "塞内加尔",
-        "西非"
+        "美国",
+        "亚洲市场"
       ],
       "heat": {
-        "score": 70,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "France 24 在过去 24 小时内发布两篇报道，关注 Pastef 与法耶的决裂及其政治影响，热度为 70。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共 2 个来源（BBC World、半岛电视台）、2 个地区信号，报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/afrique/20261119-bassirou-diomaye-faye-radi%C3%A9-du-pastef-un-autre-signe-de-la-s%C3%A9paration-d%C3%A9finitive-avec-sonko",
-          "language": "fr",
-          "publishedAt": "2026-11-19T06:24:22.000Z"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-19T23:33:51.000Z"
         },
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261118-s%C3%A9n%C3%A9gal-le-pastef-officialise-le-d%C3%A9part-de-ses-rangs-du-pr%C3%A9sident-bassirou-diomaye-faye",
-          "language": "fr",
-          "publishedAt": "2026-11-18T21:27:11.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-20T02:54:22.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "美国封锁伊朗港口，德黑兰坚称经济可承受",
-      "summaryZh": "美国对伊朗港口的封锁对伊朗经济造成严重打击，但德黑兰坚称其经济能够挺过去。报道称，目前判断封锁影响仍“为时过早”。",
-      "category": "财经",
+      "titleZh": "英国政府被迫披露针对苹果的秘密后门令",
+      "summaryZh": "英国法庭裁定驳回伦敦方面关于披露该命令会损害国家安全的说法，英国政府被迫承认曾向苹果发出秘密加密命令。该裁决与相关讨论在技术社区引发广泛关注。",
+      "category": "政治",
       "regions": [
-        "伊朗",
-        "美国",
-        "中东"
+        "英国",
+        "美国"
       ],
       "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "Al Jazeera 在过去 24 小时内报道，聚焦美国封锁伊朗港口与德黑兰的回应，热度为 63。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共 2 个来源（TechCrunch、Hacker News）、2 个地区信号，报道集中在过去 24 小时内，并在 Hacker News 获得 611 分、275 条评论。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
           "language": "en",
-          "publishedAt": "2026-11-19T07:08:57.000Z"
+          "publishedAt": "2026-11-19T15:32:20.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+          "language": "en",
+          "publishedAt": "2026-11-19T16:21:03.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "《虚幻竞技场 2004》可在浏览器中游玩",
-      "summaryZh": "Hacker News 上出现一项在浏览器中运行《虚幻竞技场 2004》的项目，获得 144 分和 59 条评论。该帖子由 TheAceOfHearts 发布。",
+      "titleZh": "特朗普追授赦免美国棒球传奇皮特·罗斯",
+      "summaryZh": "罗斯于 2024 年去世，因赌球被终身禁止参与棒球运动，去年已获恢复资格。特朗普在其身后予以赦免。",
       "category": "体育",
       "regions": [
-        "全球"
+        "美国"
       ],
       "heat": {
-        "score": 62,
+        "score": 57,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "Hacker News 过去 24 小时内发布，获 144 分、59 条评论，热度为 62。"
+        "reasonZh": "共 1 个来源、1 个地区信号，报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://ut2004.dev/",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-19T01:29:29.000Z"
+          "publishedAt": "2026-11-19T23:51:50.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "习近平、普京与特朗普峰会不会是“新雅尔塔”",
-      "summaryZh": "评论文章认为，中俄美三位领导人对地缘政治目标和世界秩序有不同愿景。因此，该峰会不会成为“新雅尔塔”。",
+      "titleZh": "以军完成加沙“黄线”以外地面行动",
+      "summaryZh": "哈马斯谴责此次行动是“公然”违反停火协议。以色列军方称，行动旨在拆除一条“恐怖隧道”。",
       "category": "国际",
       "regions": [
-        "中国",
-        "俄罗斯",
-        "美国",
-        "全球"
+        "以色列",
+        "巴勒斯坦加沙地带"
       ],
       "heat": {
-        "score": 60,
+        "score": 53,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "Al Jazeera 过去 24 小时内发表评论，讨论三边峰会与全球秩序，热度为 60。"
+        "reasonZh": "共 1 个来源、1 个地区信号，报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-19T06:07:05.000Z"
+          "publishedAt": "2026-11-19T17:03:23.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "对习近平而言这是引人注目的地缘外交时刻，但暗藏风险",
-      "summaryZh": "BBC 评论称，此次会晤对中国领导人习近平而言是一个引人注目的地缘外交时刻。报道指出，会晤也伴随挑战，因为有些议题习近平似乎并不愿与普京和特朗普讨论。",
-      "category": "政治",
+      "titleZh": "苹果招聘工程师研发自研 AI 智能体",
+      "summaryZh": "据彭博发现的招聘信息，苹果正招聘一名工程师，领导开发一款可浏览网页、跨应用操作、编写代码并调用服务的智能体 AI 助手。此举将使苹果与 Meta Muse、OpenAI、Anthropic、谷歌等展开竞争。",
+      "category": "科技",
       "regions": [
-        "中国",
-        "俄罗斯",
         "美国"
       ],
       "heat": {
-        "score": 64,
-        "sourceCount": 1,
+        "score": 85,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "BBC World 过去 24 小时内报道，聚焦习近平与普京、特朗普会晤的外交机遇与风险，热度为 64。"
+        "reasonZh": "共 2 个来源（The Verge、TechCrunch）、1 个地区信号，报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
           "language": "en",
-          "publishedAt": "2026-11-19T04:42:52.000Z"
+          "publishedAt": "2026-11-19T22:31:41.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+          "language": "en",
+          "publishedAt": "2026-11-20T00:56:01.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "AI 不会让你变富（2025）",
-      "summaryZh": "Hacker News 上的一篇文章题为《AI 不会让你变富（2025）》，获得 93 分和 53 条评论。帖子由 madars 发布。",
+      "titleZh": "Meta 的 Muse Charm 设备或定价 300 美元",
+      "summaryZh": "据 The Information 报道，Meta 计划将带屏幕、可与其 Muse AI 智能体对话的小型设备 Muse Charm 定价为 300 美元。扎克伯格此前称预计在 12 月假日季出货，但未公布价格；Meta 未否认上述报道。",
       "category": "科技",
       "regions": [
-        "全球"
+        "美国"
       ],
       "heat": {
-        "score": 64,
-        "sourceCount": 1,
+        "score": 83,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "Hacker News 过去 24 小时内发布，获 93 分、53 条评论，热度为 64。"
+        "reasonZh": "共 2 个来源（The Verge、TechCrunch）、1 个地区信号，报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
           "language": "en",
-          "publishedAt": "2026-11-19T01:51:28.000Z"
+          "publishedAt": "2026-11-19T20:22:17.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+          "language": "en",
+          "publishedAt": "2026-11-19T21:58:06.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "软件公司正试图扼杀家用计算？",
-      "summaryZh": "Hacker News 上出现一篇讨论“软件公司是否正试图扼杀家用计算”的帖子，获得 154 分和 98 条评论。帖子由 sammatilda 发布。",
+      "titleZh": "Hacker News 热议：前 YC 总裁发声与 AI 安全防护之争",
+      "summaryZh": "Hacker News 上一条题为“前 YC 总裁：‘停下！’”的帖子关注度较低，而题为“去你的 AI 安全防护”的帖子获得 530 分、210 条评论。社区讨论主要围绕人工智能安全防护议题展开。",
       "category": "科技",
       "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 79,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共 1 个来源、1 个地区信号，报道集中在过去 24 小时内，其中一篇帖子获 530 分、210 条评论。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://geoffralston.substack.com/p/stop",
+          "language": "en",
+          "publishedAt": "2026-11-20T06:43:08.000Z"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+          "language": "en",
+          "publishedAt": "2026-11-19T16:30:18.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "英国与欧盟据报将就青年流动计划达成一致",
+      "summaryZh": "据 BBC 了解，该计划预计在周五的英欧峰会上获批。食品贸易和碳排放方面的新协议也在议程之列。",
+      "category": "财经",
+      "regions": [
+        "英国",
+        "欧盟"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共 1 个来源、1 个地区信号，报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-20T07:14:46.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "田嶋幸三称世界杯红牌争议促使其竞选国际足联主席",
+      "summaryZh": "田嶋幸三是明年 3 月国际足联主席选举的三名候选人之一，另外两人是现任主席因凡蒂诺和迪亚洛。他表示，世界杯上巴洛贡红牌引发的争议促使他决定参选。",
+      "category": "政治",
+      "regions": [
+        "日本",
         "全球"
       ],
       "heat": {
         "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "Hacker News 过去 24 小时内发布，获 154 分、98 条评论，热度为 64。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://lateblt.livejournal.com/526188.html",
-          "language": "en",
-          "publishedAt": "2026-11-18T23:49:18.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "titleZh": "特朗普希望与普京和习近平谈核问题",
-      "summaryZh": "美国总统特朗普表示，他计划与中国习近平和俄罗斯普京讨论核不扩散问题。",
-      "category": "政治",
-      "regions": [
-        "美国",
-        "中国",
-        "俄罗斯"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "Al Jazeera 过去 24 小时内发布视频新闻，聚焦特朗普的核不扩散表态，热度为 63。"
+        "reasonZh": "共 1 个来源、1 个地区信号，报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
+          "url": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-19T04:50:28.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "titleZh": "黑人高中生起诉：AI 将多力多滋包装误判为枪",
-      "summaryZh": "有黑人高中生提起诉讼，原因是 AI 将一袋多力多滋误判为枪支。Hacker News 帖子获得 81 分和 42 条评论，由 DeepLogin 发布。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "Hacker News 过去 24 小时内发布，获 81 分、42 条评论，热度为 63。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
-          "language": "en",
-          "publishedAt": "2026-11-19T00:57:20.000Z"
+          "publishedAt": "2026-11-20T06:15:06.000Z"
         }
       ]
     }
