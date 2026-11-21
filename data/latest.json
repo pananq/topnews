@@ -1,277 +1,268 @@
 {
-  "generatedAt": "2026-11-20T07:25:24.793Z",
+  "generatedAt": "2026-11-21T07:18:31.925Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普迫于压力更换美国网络安全主管",
-      "summaryZh": "特朗普解除国家网络总监肖恩·凯恩克罗斯的职务，并任命国防部官员柯尔斯滕·戴维斯为代理国家网络总监。此前一周美国经历了一连串技术故障。",
+      "titleZh": "特朗普威胁禁止美国企业在海外建设人工智能数据中心",
+      "summaryZh": "特朗普威胁称，如果美国科技公司在海外建设人工智能数据中心，将面临“巨额税收”，并称不会允许本国公司到国外建设数据中心。报道指出，这一潜在政策细节很少，其团队部分成员也是首次听说。相关表态发生在其与习近平和普京会晤后的记者会上。",
       "category": "科技",
       "regions": [
-        "美国"
+        "美国",
+        "全球"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共 2 个来源（半岛电视台、德国之声）、2 个地区信号，报道集中在过去 24 小时内。"
+        "sourceCount": 3,
+        "regionCount": 3,
+        "reasonZh": "共有 3 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-20T05:48:35.000Z"
+          "publishedAt": "2026-11-20T20:54:12.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-all-1573-rdf",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-20T04:21:00.000Z"
+          "publishedAt": "2026-11-20T21:10:53.000Z"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+          "language": "en",
+          "publishedAt": "2026-11-20T18:50:19.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "Anthropic 上市首日跻身全球市值最高上市公司之列",
-      "summaryZh": "Anthropic 成为首家上市的纯人工智能公司，为整个行业提供了一次检验。其上市首秀未能缓解市场对 AI 泡沫的担忧，亚洲股市随科技股抛售下挫，日本、韩国、台湾和香港指数均下跌。",
-      "category": "财经",
+      "titleZh": "苏丹战争将结束，但是否为时已晚？",
+      "summaryZh": "这篇观点文章称，苏丹内部压力可能实现国际外交未能达成的目标。文章讨论苏丹战争可能结束的前景，并追问结束时机是否已经太晚。",
+      "category": "政治",
       "regions": [
-        "美国",
-        "亚洲市场"
+        "苏丹"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共 2 个来源（BBC World、半岛电视台）、2 个地区信号，报道集中在过去 24 小时内。"
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-19T23:33:51.000Z"
-        },
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+          "url": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-20T02:54:22.000Z"
+          "publishedAt": "2026-11-21T06:32:04.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "英国政府被迫披露针对苹果的秘密后门令",
-      "summaryZh": "英国法庭裁定驳回伦敦方面关于披露该命令会损害国家安全的说法，英国政府被迫承认曾向苹果发出秘密加密命令。该裁决与相关讨论在技术社区引发广泛关注。",
-      "category": "政治",
+      "titleZh": "科技股遭抛售拖累市场，Anthropic股价下滑",
+      "summaryZh": "科技股抛售令美国市场承压，标普500指数和道琼斯工业平均指数被推入回调区间。报道提到Anthropic股价下滑。",
+      "category": "财经",
       "regions": [
-        "英国",
         "美国"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共 2 个来源（TechCrunch、Hacker News）、2 个地区信号，报道集中在过去 24 小时内，并在 Hacker News 获得 611 分、275 条评论。"
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-19T15:32:20.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-          "language": "en",
-          "publishedAt": "2026-11-19T16:21:03.000Z"
+          "publishedAt": "2026-11-20T22:42:47.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "特朗普追授赦免美国棒球传奇皮特·罗斯",
-      "summaryZh": "罗斯于 2024 年去世，因赌球被终身禁止参与棒球运动，去年已获恢复资格。特朗普在其身后予以赦免。",
-      "category": "体育",
+      "titleZh": "丹麦指俄罗斯策划暗杀美乌说唱歌手",
+      "summaryZh": "丹麦指控俄罗斯策划暗杀一名美国-乌克兰说唱歌手，俄罗斯驻丹麦大使馆否认这一指控。此事导致俄罗斯国防武官被驱逐。",
+      "category": "国际",
       "regions": [
+        "丹麦",
+        "俄罗斯",
+        "乌克兰",
         "美国"
       ],
       "heat": {
-        "score": 57,
+        "score": 56,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共 1 个来源、1 个地区信号，报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-19T23:51:50.000Z"
+          "publishedAt": "2026-11-20T21:57:07.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "以军完成加沙“黄线”以外地面行动",
-      "summaryZh": "哈马斯谴责此次行动是“公然”违反停火协议。以色列军方称，行动旨在拆除一条“恐怖隧道”。",
-      "category": "国际",
+      "titleZh": "波切蒂诺能否拯救曼联免于英超降级？",
+      "summaryZh": "毛里西奥·波切蒂诺将在周日首次执教曼联，届时球队客场挑战竞争对手利物浦。报道讨论他能否帮助曼联避免英超降级。",
+      "category": "体育",
       "regions": [
-        "以色列",
-        "巴勒斯坦加沙地带"
+        "英国"
       ],
       "heat": {
-        "score": 53,
+        "score": 56,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共 1 个来源、1 个地区信号，报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-19T17:03:23.000Z"
+          "publishedAt": "2026-11-21T00:55:01.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "苹果招聘工程师研发自研 AI 智能体",
-      "summaryZh": "据彭博发现的招聘信息，苹果正招聘一名工程师，领导开发一款可浏览网页、跨应用操作、编写代码并调用服务的智能体 AI 助手。此举将使苹果与 Meta Muse、OpenAI、Anthropic、谷歌等展开竞争。",
+      "titleZh": "人工智能抛售拖累Anthropic第二日，纳斯达克回吐2026年全部涨幅",
+      "summaryZh": "报道称，人工智能相关抛售令Anthropic第二个交易日承压，纳斯达克指数回吐2026年全部涨幅。另有报道称纳斯达克、标普500和道琼斯指数均下挫，标普和道指进入回调区间。",
       "category": "科技",
       "regions": [
-        "美国"
+        "美国",
+        "全球"
       ],
       "heat": {
-        "score": 85,
-        "sourceCount": 2,
+        "score": 81,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共 2 个来源（The Verge、TechCrunch）、1 个地区信号，报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+          "name": "Hacker News",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
           "language": "en",
-          "publishedAt": "2026-11-19T22:31:41.000Z"
+          "publishedAt": "2026-11-20T13:29:59.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+          "name": "Hacker News",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
           "language": "en",
-          "publishedAt": "2026-11-20T00:56:01.000Z"
+          "publishedAt": "2026-11-20T17:44:01.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "Meta 的 Muse Charm 设备或定价 300 美元",
-      "summaryZh": "据 The Information 报道，Meta 计划将带屏幕、可与其 Muse AI 智能体对话的小型设备 Muse Charm 定价为 300 美元。扎克伯格此前称预计在 12 月假日季出货，但未公布价格；Meta 未否认上述报道。",
+      "titleZh": "ClawDOS：面向DOS的人工智能编程代理",
+      "summaryZh": "该条目介绍ClawDOS，一个面向DOS的人工智能编程代理。同组讨论还涉及用“氛围编程”方式开发推理芯片。",
       "category": "科技",
       "regions": [
-        "美国"
+        "全球"
       ],
       "heat": {
-        "score": 83,
-        "sourceCount": 2,
+        "score": 80,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共 2 个来源（The Verge、TechCrunch）、1 个地区信号，报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+          "name": "Hacker News",
+          "url": "http://ricapar.net/ClawDOS/",
           "language": "en",
-          "publishedAt": "2026-11-19T20:22:17.000Z"
+          "publishedAt": "2026-11-21T05:38:01.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+          "name": "Hacker News",
+          "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
           "language": "en",
-          "publishedAt": "2026-11-19T21:58:06.000Z"
+          "publishedAt": "2026-11-20T18:15:16.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "Hacker News 热议：前 YC 总裁发声与 AI 安全防护之争",
-      "summaryZh": "Hacker News 上一条题为“前 YC 总裁：‘停下！’”的帖子关注度较低，而题为“去你的 AI 安全防护”的帖子获得 530 分、210 条评论。社区讨论主要围绕人工智能安全防护议题展开。",
-      "category": "科技",
+      "titleZh": "以色列反对派阵营能否保持团结对抗内塔尼亚胡？",
+      "summaryZh": "报道关注埃森科特领导的脆弱联盟，该联盟必须克服深刻的意识形态分歧，才能将反对派力量转化为政府。文章讨论以色列反对派阵营能否维持团结以对抗内塔尼亚胡。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "以色列",
+        "中东"
       ],
       "heat": {
-        "score": 79,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共 1 个来源、1 个地区信号，报道集中在过去 24 小时内，其中一篇帖子获 530 分、210 条评论。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://geoffralston.substack.com/p/stop",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-20T06:43:08.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-          "language": "en",
-          "publishedAt": "2026-11-19T16:30:18.000Z"
+          "publishedAt": "2026-11-21T05:46:29.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "英国与欧盟据报将就青年流动计划达成一致",
-      "summaryZh": "据 BBC 了解，该计划预计在周五的英欧峰会上获批。食品贸易和碳排放方面的新协议也在议程之列。",
-      "category": "财经",
+      "titleZh": "南非选举受挫后，非国大力争保住主要城市控制权",
+      "summaryZh": "报道称，南非执政党非国大在选举受挫后，正努力保住主要城市的控制权。非国大似乎不愿在地方层面复制其与亲商的民主联盟达成的全国权力分享协议。",
+      "category": "政治",
       "regions": [
-        "英国",
-        "欧盟"
+        "南非",
+        "非洲"
       ],
       "heat": {
-        "score": 64,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共 1 个来源、1 个地区信号，报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-20T07:14:46.000Z"
+          "publishedAt": "2026-11-21T00:34:51.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "田嶋幸三称世界杯红牌争议促使其竞选国际足联主席",
-      "summaryZh": "田嶋幸三是明年 3 月国际足联主席选举的三名候选人之一，另外两人是现任主席因凡蒂诺和迪亚洛。他表示，世界杯上巴洛贡红牌引发的争议促使他决定参选。",
-      "category": "政治",
+      "titleZh": "半岛电视台解析：美中人工智能竞赛进入新阶段",
+      "summaryZh": "半岛电视台的解说解读人工智能领域的最新动态。视频聚焦美中人工智能竞赛，并称该竞赛正进入一个新阶段。",
+      "category": "科技",
       "regions": [
-        "日本",
-        "全球"
+        "美国",
+        "中国"
       ],
       "heat": {
-        "score": 64,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共 1 个来源、1 个地区信号，报道集中在过去 24 小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-20T06:15:06.000Z"
+          "publishedAt": "2026-11-21T05:08:40.000Z"
         }
       ]
     }
