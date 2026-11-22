@@ -1,174 +1,13 @@
 {
-  "generatedAt": "2026-11-21T07:18:31.925Z",
+  "generatedAt": "2026-11-22T06:59:29.649Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普威胁禁止美国企业在海外建设人工智能数据中心",
-      "summaryZh": "特朗普威胁称，如果美国科技公司在海外建设人工智能数据中心，将面临“巨额税收”，并称不会允许本国公司到国外建设数据中心。报道指出，这一潜在政策细节很少，其团队部分成员也是首次听说。相关表态发生在其与习近平和普京会晤后的记者会上。",
-      "category": "科技",
-      "regions": [
-        "美国",
-        "全球"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 3,
-        "reasonZh": "共有 3 个来源、3 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-20T20:54:12.000Z"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-20T21:10:53.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-          "language": "en",
-          "publishedAt": "2026-11-20T18:50:19.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "苏丹战争将结束，但是否为时已晚？",
-      "summaryZh": "这篇观点文章称，苏丹内部压力可能实现国际外交未能达成的目标。文章讨论苏丹战争可能结束的前景，并追问结束时机是否已经太晚。",
-      "category": "政治",
-      "regions": [
-        "苏丹"
-      ],
-      "heat": {
-        "score": 64,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-21T06:32:04.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "科技股遭抛售拖累市场，Anthropic股价下滑",
-      "summaryZh": "科技股抛售令美国市场承压，标普500指数和道琼斯工业平均指数被推入回调区间。报道提到Anthropic股价下滑。",
-      "category": "财经",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 59,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-20T22:42:47.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "丹麦指俄罗斯策划暗杀美乌说唱歌手",
-      "summaryZh": "丹麦指控俄罗斯策划暗杀一名美国-乌克兰说唱歌手，俄罗斯驻丹麦大使馆否认这一指控。此事导致俄罗斯国防武官被驱逐。",
-      "category": "国际",
-      "regions": [
-        "丹麦",
-        "俄罗斯",
-        "乌克兰",
-        "美国"
-      ],
-      "heat": {
-        "score": 56,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-20T21:57:07.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "波切蒂诺能否拯救曼联免于英超降级？",
-      "summaryZh": "毛里西奥·波切蒂诺将在周日首次执教曼联，届时球队客场挑战竞争对手利物浦。报道讨论他能否帮助曼联避免英超降级。",
-      "category": "体育",
-      "regions": [
-        "英国"
-      ],
-      "heat": {
-        "score": 56,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-21T00:55:01.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "人工智能抛售拖累Anthropic第二日，纳斯达克回吐2026年全部涨幅",
-      "summaryZh": "报道称，人工智能相关抛售令Anthropic第二个交易日承压，纳斯达克指数回吐2026年全部涨幅。另有报道称纳斯达克、标普500和道琼斯指数均下挫，标普和道指进入回调区间。",
-      "category": "科技",
-      "regions": [
-        "美国",
-        "全球"
-      ],
-      "heat": {
-        "score": 81,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-          "language": "en",
-          "publishedAt": "2026-11-20T13:29:59.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "language": "en",
-          "publishedAt": "2026-11-20T17:44:01.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "ClawDOS：面向DOS的人工智能编程代理",
-      "summaryZh": "该条目介绍ClawDOS，一个面向DOS的人工智能编程代理。同组讨论还涉及用“氛围编程”方式开发推理芯片。",
+      "titleZh": "AI 供应链安全与 canary token 发现",
+      "summaryZh": "Hacker News 上出现关于 AI 供应链安全的讨论，聚焦 canary token 能发现什么问题。同一聚合下还有一篇题为《有意识 AI 的神话》的帖子，获得较多评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -182,25 +21,24 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "http://ricapar.net/ClawDOS/",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
           "language": "en",
-          "publishedAt": "2026-11-21T05:38:01.000Z"
+          "publishedAt": "2026-11-22T05:11:43.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
           "language": "en",
-          "publishedAt": "2026-11-20T18:15:16.000Z"
+          "publishedAt": "2026-11-22T02:10:02.000Z"
         }
       ]
     },
     {
-      "rank": 8,
-      "titleZh": "以色列反对派阵营能否保持团结对抗内塔尼亚胡？",
-      "summaryZh": "报道关注埃森科特领导的脆弱联盟，该联盟必须克服深刻的意识形态分歧，才能将反对派力量转化为政府。文章讨论以色列反对派阵营能否维持团结以对抗内塔尼亚胡。",
+      "rank": 2,
+      "titleZh": "化石燃料僵局使 COP31 气候谈判进入第二天延时",
+      "summaryZh": "COP31 主席 Murat Kurum 要求谈判代表考虑一份最后一刻的提案，以试图达成协议。化石燃料问题上的僵局使谈判进入第二天延时。",
       "category": "政治",
       "regions": [
-        "以色列",
         "中东"
       ],
       "heat": {
@@ -212,20 +50,111 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-21T05:46:29.000Z"
+          "publishedAt": "2026-11-22T04:51:35.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "南非选举受挫后，非国大力争保住主要城市控制权",
-      "summaryZh": "报道称，南非执政党非国大在选举受挫后，正努力保住主要城市的控制权。非国大似乎不愿在地方层面复制其与亲商的民主联盟达成的全国权力分享协议。",
+      "rank": 3,
+      "titleZh": "伊朗总统称伊朗面临“无声的经济战”",
+      "summaryZh": "伊朗总统表示，伊朗正面临一场“无声的经济战”。半岛电视台报道了伊朗总统的这一表态。",
+      "category": "财经",
+      "regions": [
+        "中东"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-21T23:18:14.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "芬兰谴责乌克兰无人机袭击波罗的海俄罗斯货船",
+      "summaryZh": "芬兰方面称，周六发现一架乌克兰无人机袭击了一艘俄罗斯货船，货船起火。芬兰总理 Petteri Orpo 表示，“乌克兰有权自卫，对抗侵略者”。",
+      "category": "国际",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 58,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/europe/20261122-en-direct-la-finlande-d%C3%A9nonce-une-attaque-de-drone-ukrainien-contre-un-cargo-russe-en-mer-baltique",
+          "language": "fr",
+          "publishedAt": "2026-11-22T05:55:48.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "自去年以来，我们一直在问：“如果 AI 解决了黎曼猜想会怎样？”",
+      "summaryZh": "Hacker News 上出现一个讨论帖，提问如果 AI 解决了黎曼猜想会怎样。该帖获得 27 分和 8 条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "language": "en",
+          "publishedAt": "2026-11-22T03:06:35.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "Together.ai 出现请求提示词泄露问题",
+      "summaryZh": "Hacker News 上有帖子讨论 Together.ai 的请求提示词泄露问题。该帖获得 19 分和 7 条评论。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+          "language": "en",
+          "publishedAt": "2026-11-22T03:07:27.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "尼日利亚青年过去曾展现力量，为何如今未能影响这次选举？",
+      "summaryZh": "BBC 报道称，与 2023 年相比，登记参加明年选举的年轻人有所减少。报道提出疑问：年轻人是否正在对民主失去信心？",
       "category": "政治",
       "regions": [
-        "南非",
-        "非洲"
+        "尼日利亚"
       ],
       "heat": {
         "score": 61,
@@ -236,23 +165,46 @@
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-21T00:34:51.000Z"
+          "publishedAt": "2026-11-22T00:10:37.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "半岛电视台解析：美中人工智能竞赛进入新阶段",
-      "summaryZh": "半岛电视台的解说解读人工智能领域的最新动态。视频聚焦美中人工智能竞赛，并称该竞赛正进入一个新阶段。",
-      "category": "科技",
+      "rank": 8,
+      "titleZh": "美国前总统乔治·华盛顿的一缕头发以 4000 美元售出",
+      "summaryZh": "据卖家后裔称，这缕头发是在 1799 年华盛顿去世前不久作为友谊的象征赠送的。报道称其售价为 4000 美元。",
+      "category": "政治",
       "regions": [
-        "美国",
-        "中国"
+        "美国"
       ],
       "heat": {
-        "score": 61,
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-21T22:01:19.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "黎巴嫩总统要求以色列撤军，谴责伊朗干涉",
+      "summaryZh": "黎巴嫩总统 Joseph Aoun 表示，存在“两个根本且密不可分的障碍”，使黎巴嫩无法完全庆祝独立。他要求以色列撤军，并谴责伊朗的干涉。",
+      "category": "政治",
+      "regions": [
+        "中东",
+        "黎巴嫩"
+      ],
+      "heat": {
+        "score": 60,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -260,9 +212,32 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-21T05:08:40.000Z"
+          "publishedAt": "2026-11-21T23:44:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "Pandex——面向 AI 代理的欧洲官方法律，基于 MCP",
+      "summaryZh": "Hacker News 上出现一个关于 Pandex 的帖子，称其是面向 AI 代理的欧洲官方法律，并通过 MCP 提供。该帖获得 64 分和 13 条评论。",
+      "category": "科技",
+      "regions": [
+        "欧洲"
+      ],
+      "heat": {
+        "score": 60,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.pandex.io",
+          "language": "en",
+          "publishedAt": "2026-11-21T20:47:41.000Z"
         }
       ]
     }
