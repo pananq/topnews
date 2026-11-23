@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-22T06:59:29.649Z",
+  "generatedAt": "2026-11-23T07:49:01.180Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "AI 供应链安全与 canary token 发现",
-      "summaryZh": "Hacker News 上出现关于 AI 供应链安全的讨论，聚焦 canary token 能发现什么问题。同一聚合下还有一篇题为《有意识 AI 的神话》的帖子，获得较多评论。",
+      "titleZh": "第一条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 80,
+        "score": 75,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -21,117 +21,52 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "url": "https://boazbk.github.io/mltheoryseminar/",
           "language": "en",
-          "publishedAt": "2026-11-22T05:11:43.000Z"
+          "publishedAt": "2026-11-22T18:01:54.000Z"
         },
         {
           "name": "Hacker News",
-          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+          "url": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np",
           "language": "en",
-          "publishedAt": "2026-11-22T02:10:02.000Z"
+          "publishedAt": "2026-11-22T19:50:36.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "化石燃料僵局使 COP31 气候谈判进入第二天延时",
-      "summaryZh": "COP31 主席 Murat Kurum 要求谈判代表考虑一份最后一刻的提案，以试图达成协议。化石燃料问题上的僵局使谈判进入第二天延时。",
+      "titleZh": "Burnham 将向议员推介“里程碑式”欧盟协议",
+      "summaryZh": "报道指出，Burnham 将向议员表示，周五达成的协议是“在破碎的现状与改变之间做选择”。该协议被形容为可能让下一个十年“好得多”。",
       "category": "政治",
       "regions": [
-        "中东"
+        "欧洲",
+        "英国"
       ],
       "heat": {
-        "score": 63,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-22T04:51:35.000Z"
+          "publishedAt": "2026-11-23T07:01:31.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "伊朗总统称伊朗面临“无声的经济战”",
-      "summaryZh": "伊朗总统表示，伊朗正面临一场“无声的经济战”。半岛电视台报道了伊朗总统的这一表态。",
+      "titleZh": "叙利亚与欧盟会谈推进，外交官担忧焦点转向遣返",
+      "summaryZh": "叙利亚与欧盟正在就贸易和政治关系展开谈判，但移民很可能是讨论的关键议题。报道称，外交官担心会谈焦点会集中在遣返问题上。",
       "category": "财经",
       "regions": [
-        "中东"
-      ],
-      "heat": {
-        "score": 58,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-21T23:18:14.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "芬兰谴责乌克兰无人机袭击波罗的海俄罗斯货船",
-      "summaryZh": "芬兰方面称，周六发现一架乌克兰无人机袭击了一艘俄罗斯货船，货船起火。芬兰总理 Petteri Orpo 表示，“乌克兰有权自卫，对抗侵略者”。",
-      "category": "国际",
-      "regions": [
-        "欧洲"
-      ],
-      "heat": {
-        "score": 58,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/europe/20261122-en-direct-la-finlande-d%C3%A9nonce-une-attaque-de-drone-ukrainien-contre-un-cargo-russe-en-mer-baltique",
-          "language": "fr",
-          "publishedAt": "2026-11-22T05:55:48.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "自去年以来，我们一直在问：“如果 AI 解决了黎曼猜想会怎样？”",
-      "summaryZh": "Hacker News 上出现一个讨论帖，提问如果 AI 解决了黎曼猜想会怎样。该帖获得 27 分和 8 条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
-      ],
-      "heat": {
-        "score": 63,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "language": "en",
-          "publishedAt": "2026-11-22T03:06:35.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "Together.ai 出现请求提示词泄露问题",
-      "summaryZh": "Hacker News 上有帖子讨论 Together.ai 的请求提示词泄露问题。该帖获得 19 分和 7 条评论。",
-      "category": "科技",
-      "regions": [
-        "全球"
+        "中东",
+        "欧洲",
+        "叙利亚",
+        "欧盟"
       ],
       "heat": {
         "score": 62,
@@ -141,20 +76,22 @@
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-22T03:07:27.000Z"
+          "publishedAt": "2026-11-23T06:08:13.000Z"
         }
       ]
     },
     {
-      "rank": 7,
-      "titleZh": "尼日利亚青年过去曾展现力量，为何如今未能影响这次选举？",
-      "summaryZh": "BBC 报道称，与 2023 年相比，登记参加明年选举的年轻人有所减少。报道提出疑问：年轻人是否正在对民主失去信心？",
-      "category": "政治",
+      "rank": 4,
+      "titleZh": "COP31 因化石燃料分歧无果而终",
+      "summaryZh": "在土耳其安塔利亚举行的 COP31 是史上最长的联合国气候会议，于 11 月 22 日以失败告终。欧盟和其他国家拒绝了一份未提及化石燃料的最终决定草案，报道提到与会者感到失望和愤怒。",
+      "category": "国际",
       "regions": [
-        "尼日利亚"
+        "全球",
+        "欧洲",
+        "土耳其"
       ],
       "heat": {
         "score": 61,
@@ -164,44 +101,28 @@
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-22T00:10:37.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "titleZh": "美国前总统乔治·华盛顿的一缕头发以 4000 美元售出",
-      "summaryZh": "据卖家后裔称，这缕头发是在 1799 年华盛顿去世前不久作为友谊的象征赠送的。报道称其售价为 4000 美元。",
-      "category": "政治",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 60,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-climat-la-cop31-%C3%A9choue-devant-la-division-des-pays-sur-les-%C3%A9nergies-fossiles",
+          "language": "fr",
+          "publishedAt": "2026-11-22T16:37:45.000Z"
+        },
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-21T22:01:19.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-cop31-%C3%A0-antalya-la-plus-longue-cop-de-l-histoire-s-ach%C3%A8ve-sur-un-%C3%A9chec",
+          "language": "fr",
+          "publishedAt": "2026-11-22T16:35:25.000Z"
         }
       ]
     },
     {
-      "rank": 9,
-      "titleZh": "黎巴嫩总统要求以色列撤军，谴责伊朗干涉",
-      "summaryZh": "黎巴嫩总统 Joseph Aoun 表示，存在“两个根本且密不可分的障碍”，使黎巴嫩无法完全庆祝独立。他要求以色列撤军，并谴责伊朗的干涉。",
-      "category": "政治",
+      "rank": 5,
+      "titleZh": "印巴板球球迷呼吁让“肮脏政治”远离板球",
+      "summaryZh": "印巴板球球迷表示，希望政治远离这项备受喜爱的运动。球迷称，球员正被迫为政客的利益参与对抗行为。",
+      "category": "体育",
       "regions": [
-        "中东",
-        "黎巴嫩"
+        "南亚",
+        "印度",
+        "巴基斯坦"
       ],
       "heat": {
         "score": 60,
@@ -212,22 +133,46 @@
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+          "url": "https://www.aljazeera.com/sports/2026/11/23/india-pakistan-cricket-fans-want-dirty-politics-kept-out-of-beloved-sport?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-21T23:44:00.000Z"
+          "publishedAt": "2026-11-23T07:07:33.000Z"
         }
       ]
     },
     {
-      "rank": 10,
-      "titleZh": "Pandex——面向 AI 代理的欧洲官方法律，基于 MCP",
-      "summaryZh": "Hacker News 上出现一个关于 Pandex 的帖子，称其是面向 AI 代理的欧洲官方法律，并通过 MCP 提供。该帖获得 64 分和 13 条评论。",
-      "category": "科技",
+      "rank": 6,
+      "titleZh": "史上最长联合国气候谈判无协议收场",
+      "summaryZh": "史上最长的联合国气候谈判结束，但未达成协议，暴露出深刻分歧。共同主办 COP31 的澳大利亚总理将失败归因于“艰难的地缘政治时期”。",
+      "category": "政治",
       "regions": [
-        "欧洲"
+        "全球",
+        "澳大利亚"
       ],
       "heat": {
-        "score": 60,
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-23T05:15:06.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "第七条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -235,9 +180,83 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.pandex.io",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
           "language": "en",
-          "publishedAt": "2026-11-21T20:47:41.000Z"
+          "publishedAt": "2026-11-22T21:01:16.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "titleZh": "利比亚港口俄罗斯船只爆炸，官员称疑似无人机袭击",
+      "summaryZh": "利比亚东部政府称，一艘俄罗斯船只在利比亚港口发生爆炸，疑似遭无人机袭击。该船在返回俄罗斯途中停靠，以获取燃料和补给。",
+      "category": "政治",
+      "regions": [
+        "利比亚",
+        "俄罗斯",
+        "北非"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-23T02:59:35.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "titleZh": "泽连斯基称乌方袭击利比亚附近两艘俄船只",
+      "summaryZh": "乌克兰总统泽连斯基称，乌方周日对利比亚沿海两艘俄罗斯船只实施打击。与此同时，基辅地区遭俄罗斯打击，至少 15 人死亡，其中 11 人死于住宅楼部分坍塌；北约计划周一在布鲁塞尔开会讨论冲突。",
+      "category": "政治",
+      "regions": [
+        "欧洲",
+        "乌克兰",
+        "俄罗斯",
+        "利比亚"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/europe/20261123-ukraine-en-direct-au-moins-15-morts-dans-des-frappes-russes-pr%C3%A8s-de-kiev",
+          "language": "fr",
+          "publishedAt": "2026-11-23T06:01:52.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "titleZh": "第十条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 61,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://0rwx.com/",
+          "language": "en",
+          "publishedAt": "2026-11-22T23:53:00.000Z"
         }
       ]
     }
