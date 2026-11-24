@@ -1,246 +1,271 @@
 {
-  "generatedAt": "2026-11-23T07:49:01.180Z",
+  "generatedAt": "2026-11-24T10:00:25.995Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "第一条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "titleZh": "特朗普称“说服”英伟达恢复黄仁勋CEO职务引发争议",
+      "summaryZh": "英伟达在特朗普施压下重新任命黄仁勋为CEO，此前黄仁勋因与涉嫌中国间谍的婚外情报道辞职，其回归帮助公司市值增加1万亿美元。特朗普相关言论引发反弹，黄仁勋将于下周在参议院作证。",
       "category": "科技",
       "regions": [
-        "全球"
+        "美国",
+        "中国",
+        "全球市场"
       ],
       "heat": {
-        "score": 75,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 4,
+        "regionCount": 3,
+        "reasonZh": "共有4个来源、3个地区信号，报道集中在过去24小时内，且涉及市场、监管与政治多重角度。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://boazbk.github.io/mltheoryseminar/",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-22T18:01:54.000Z"
+          "publishedAt": "2026-11-24T09:42:54.000Z"
         },
         {
-          "name": "Hacker News",
-          "url": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-22T19:50:36.000Z"
+          "publishedAt": "2026-11-24T06:24:25.000Z"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+          "language": "en",
+          "publishedAt": "2026-11-23T22:25:12.000Z"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "language": "en",
+          "publishedAt": "2026-11-23T22:10:32.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+          "language": "en",
+          "publishedAt": "2026-11-23T18:12:22.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "Burnham 将向议员推介“里程碑式”欧盟协议",
-      "summaryZh": "报道指出，Burnham 将向议员表示，周五达成的协议是“在破碎的现状与改变之间做选择”。该协议被形容为可能让下一个十年“好得多”。",
+      "titleZh": "谢赫·哈西娜计划12月16日结束流亡返回孟加拉国",
+      "summaryZh": "流亡印度两年后，被罢免的前总理哈西娜宣布12月16日返回孟加拉国，并要求达卡安排国家航空公司航班。孟加拉国政府表示只能通过引渡让她回国；她去年因镇压导致数百人死亡被缺席判处死刑。",
       "category": "政治",
       "regions": [
-        "欧洲",
-        "英国"
+        "孟加拉国",
+        "印度"
       ],
       "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，报道集中在过去24小时内，涉及流亡领导人回国与引渡争议。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-23T07:01:31.000Z"
+          "publishedAt": "2026-11-24T07:35:02.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/exiled-leader-sheikh-hasina-plans-to-return-to-bangladesh-on-dec-16/a-80028083?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-11-24T07:32:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "叙利亚与欧盟会谈推进，外交官担忧焦点转向遣返",
-      "summaryZh": "叙利亚与欧盟正在就贸易和政治关系展开谈判，但移民很可能是讨论的关键议题。报道称，外交官担心会谈焦点会集中在遣返问题上。",
+      "titleZh": "美国将英伟达丑闻中心的Megaspeed列入贸易黑名单",
+      "summaryZh": "美国工业与安全局将总部位于新加坡的Megaspeed列入出口管制清单，该公司处于英伟达间谍丑闻中心。消息与黄仁勋恢复英伟达CEO同一天出现，此前特朗普政府因未将其列入而受到质疑。",
       "category": "财经",
       "regions": [
-        "中东",
-        "欧洲",
-        "叙利亚",
-        "欧盟"
+        "美国",
+        "新加坡",
+        "全球"
       ],
       "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 98,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有2个来源、2个地区信号，报道集中在过去24小时内，且与英伟达CEO复职同日发生。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-23T06:08:13.000Z"
+          "publishedAt": "2026-11-24T00:52:47.000Z"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-11-23T22:35:00.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "COP31 因化石燃料分歧无果而终",
-      "summaryZh": "在土耳其安塔利亚举行的 COP31 是史上最长的联合国气候会议，于 11 月 22 日以失败告终。欧盟和其他国家拒绝了一份未提及化石燃料的最终决定草案，报道提到与会者感到失望和愤怒。",
-      "category": "国际",
+      "titleZh": "阿森纳对阵多特蒙德：欧冠预测、观看方式与首发阵容",
+      "summaryZh": "欧冠周二上演，英格兰冠军阿森纳对阵德国联赛领头羊多特蒙德。报道提供比赛预测、直播观看方式和阵容信息。",
+      "category": "体育",
       "regions": [
-        "全球",
         "欧洲",
-        "土耳其"
+        "英国",
+        "德国"
       ],
       "heat": {
-        "score": 61,
+        "score": 58,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，报道集中在过去24小时内，欧冠赛事本身具跨地区关注度。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-climat-la-cop31-%C3%A9choue-devant-la-division-des-pays-sur-les-%C3%A9nergies-fossiles",
-          "language": "fr",
-          "publishedAt": "2026-11-22T16:37:45.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-cop31-%C3%A0-antalya-la-plus-longue-cop-de-l-histoire-s-ach%C3%A8ve-sur-un-%C3%A9chec",
-          "language": "fr",
-          "publishedAt": "2026-11-22T16:35:25.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-24T05:56:41.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "印巴板球球迷呼吁让“肮脏政治”远离板球",
-      "summaryZh": "印巴板球球迷表示，希望政治远离这项备受喜爱的运动。球迷称，球员正被迫为政客的利益参与对抗行为。",
-      "category": "体育",
+      "titleZh": "联合国秘书长希望一年内建立限制AI风险的机制",
+      "summaryZh": "古特雷斯呼吁联合国会员国在明年之前制定管理AI风险的多边框架。他表示，第一步可能是商定共同安全措施、评估体系和独立监督的最低要求。",
+      "category": "国际",
       "regions": [
-        "南亚",
-        "印度",
-        "巴基斯坦"
+        "全球"
       ],
       "heat": {
-        "score": 60,
+        "score": 51,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，报道集中在过去24小时内，涉及联合国层面的AI治理倡议。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/23/india-pakistan-cricket-fans-want-dirty-politics-kept-out-of-beloved-sport?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-23T07:07:33.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20261123-intelligence-artificielle-chef-onu-guterres-espere-voir-d-ici-un-an-mecanisme-pour-limiter-risques-ia",
+          "language": "fr",
+          "publishedAt": "2026-11-23T22:42:46.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "史上最长联合国气候谈判无协议收场",
-      "summaryZh": "史上最长的联合国气候谈判结束，但未达成协议，暴露出深刻分歧。共同主办 COP31 的澳大利亚总理将失败归因于“艰难的地缘政治时期”。",
-      "category": "政治",
+      "titleZh": "黄仁勋回归英伟达引发“精英免责”争议",
+      "summaryZh": "The Verge评论称，黄仁勋在特朗普和万斯推动下重返英伟达CEO岗位，并批评美国总统施压大公司。TechCrunch指出，科技领袖应对黄仁勋复职可能带来的问题保持清醒。",
+      "category": "科技",
       "regions": [
-        "全球",
-        "澳大利亚"
+        "美国",
+        "全球科技行业"
       ],
       "heat": {
-        "score": 64,
-        "sourceCount": 1,
+        "score": 80,
+        "sourceCount": 2,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有2个来源、1个地区信号，报道集中在过去24小时内，聚焦黄仁勋复职的争议与后续风险。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
           "language": "en",
-          "publishedAt": "2026-11-23T05:15:06.000Z"
+          "publishedAt": "2026-11-23T22:09:26.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+          "language": "en",
+          "publishedAt": "2026-11-23T16:57:40.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "第七条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
-      "category": "科技",
+      "titleZh": "也门政府军在贝达省对胡塞武装的攻势为何停滞",
+      "summaryZh": "也门政府军9月曾取得初步进展，但胡塞武装在多条战线作战使攻势放缓。报道分析贝达省攻势停滞的原因。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "也门"
       ],
       "heat": {
         "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，报道集中在过去24小时内，涉及也门冲突前线态势。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/why-has-yemens-offensive-against-the-houthis-in-al-bayda-stalled?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-22T21:01:16.000Z"
+          "publishedAt": "2026-11-24T07:36:07.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "利比亚港口俄罗斯船只爆炸，官员称疑似无人机袭击",
-      "summaryZh": "利比亚东部政府称，一艘俄罗斯船只在利比亚港口发生爆炸，疑似遭无人机袭击。该船在返回俄罗斯途中停靠，以获取燃料和补给。",
+      "titleZh": "德国大众汽车与IG Metall工会启动薪资谈判",
+      "summaryZh": "德国最大工会IG Metall与大众汽车举行薪资谈判，大众正寻求削减成本。与此同时，德国总统访问加纳。",
       "category": "政治",
       "regions": [
-        "利比亚",
-        "俄罗斯",
-        "北非"
+        "德国",
+        "加纳"
       ],
       "heat": {
         "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，报道集中在过去24小时内，涉及德国汽车业劳资谈判。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/germany-news-volkswagen-begins-wage-talks-with-ig-metall-union/live-80028306?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-23T02:59:35.000Z"
+          "publishedAt": "2026-11-24T08:15:00.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "泽连斯基称乌方袭击利比亚附近两艘俄船只",
-      "summaryZh": "乌克兰总统泽连斯基称，乌方周日对利比亚沿海两艘俄罗斯船只实施打击。与此同时，基辅地区遭俄罗斯打击，至少 15 人死亡，其中 11 人死于住宅楼部分坍塌；北约计划周一在布鲁塞尔开会讨论冲突。",
-      "category": "政治",
+      "titleZh": "Declare：面向用户与AI的界面语言",
+      "summaryZh": "Hacker News上发布“Declare”界面语言，获得52点和41条评论。帖子称这是一种为用户和AI设计的界面语言。",
+      "category": "科技",
       "regions": [
-        "欧洲",
-        "乌克兰",
-        "俄罗斯",
-        "利比亚"
+        "全球"
       ],
       "heat": {
-        "score": 61,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，报道集中在过去24小时内，Hacker News上有52点和41条评论。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/europe/20261123-ukraine-en-direct-au-moins-15-morts-dans-des-frappes-russes-pr%C3%A8s-de-kiev",
-          "language": "fr",
-          "publishedAt": "2026-11-23T06:01:52.000Z"
+          "name": "Hacker News",
+          "url": "https://davidtemkin.github.io/declarelang/",
+          "language": "en",
+          "publishedAt": "2026-11-24T02:36:56.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "第十条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "titleZh": "AI中的杰文斯悖论：更便宜的Token无法覆盖资本开支",
+      "summaryZh": "Hacker News上讨论“AI中的杰文斯悖论：更便宜的Token无法为资本开支买单”，获得4点和0条评论。",
       "category": "科技",
       "regions": [
         "全球"
@@ -249,14 +274,14 @@
         "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "共有1个来源、1个地区信号，报道集中在过去24小时内，Hacker News讨论量较低。"
       },
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://0rwx.com/",
+          "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
           "language": "en",
-          "publishedAt": "2026-11-22T23:53:00.000Z"
+          "publishedAt": "2026-11-24T09:39:50.000Z"
         }
       ]
     }
