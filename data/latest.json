@@ -1,287 +1,286 @@
 {
-  "generatedAt": "2026-11-24T10:00:25.995Z",
+  "generatedAt": "2026-11-25T08:44:54.946Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "fresh",
+  "status": "partial",
   "events": [
     {
       "rank": 1,
-      "titleZh": "特朗普称“说服”英伟达恢复黄仁勋CEO职务引发争议",
-      "summaryZh": "英伟达在特朗普施压下重新任命黄仁勋为CEO，此前黄仁勋因与涉嫌中国间谍的婚外情报道辞职，其回归帮助公司市值增加1万亿美元。特朗普相关言论引发反弹，黄仁勋将于下周在参议院作证。",
-      "category": "科技",
+      "titleZh": "华为被判窃取美国商业秘密，但敲诈勒索指控不成立",
+      "summaryZh": "纽约一个陪审团裁定华为窃取美国商业秘密罪名成立，但在敲诈勒索指控上无罪。DW报道称，华为在12项指控中有10项被判有罪。报道称华为计划上诉。",
+      "category": "财经",
       "regions": [
         "美国",
-        "中国",
-        "全球市场"
+        "中国"
       ],
       "heat": {
         "score": 100,
-        "sourceCount": 4,
-        "regionCount": 3,
-        "reasonZh": "共有4个来源、3个地区信号，报道集中在过去24小时内，且涉及市场、监管与政治多重角度。"
+        "sourceCount": 3,
+        "regionCount": 2,
+        "reasonZh": "共有3个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-24T09:42:54.000Z"
+          "publishedAt": "2026-11-25T02:59:27.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/us-jury-convicts-huawei-of-violating-sanctions-stealing-trade-secrets/a-80042172?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-24T06:24:25.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-          "language": "en",
-          "publishedAt": "2026-11-23T22:25:12.000Z"
+          "publishedAt": "2026-11-25T02:01:00.000Z"
         },
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
           "language": "en",
-          "publishedAt": "2026-11-23T22:10:32.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-          "language": "en",
-          "publishedAt": "2026-11-23T18:12:22.000Z"
+          "publishedAt": "2026-11-24T22:23:27.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "谢赫·哈西娜计划12月16日结束流亡返回孟加拉国",
-      "summaryZh": "流亡印度两年后，被罢免的前总理哈西娜宣布12月16日返回孟加拉国，并要求达卡安排国家航空公司航班。孟加拉国政府表示只能通过引渡让她回国；她去年因镇压导致数百人死亡被缺席判处死刑。",
-      "category": "政治",
+      "titleZh": "塞内加尔球迷庆祝非洲杯法律裁决胜诉",
+      "summaryZh": "体育仲裁法庭维持塞内加尔的上诉，恢复其2025年非洲杯冠军身份。此前被宣布为冠军的摩洛哥被确认为亚军。",
+      "category": "体育",
       "regions": [
-        "孟加拉国",
-        "印度"
+        "塞内加尔",
+        "摩洛哥",
+        "非洲"
       ],
       "heat": {
-        "score": 100,
+        "score": 93,
         "sourceCount": 2,
         "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，报道集中在过去24小时内，涉及流亡领导人回国与引渡争议。"
+        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-24T07:35:02.000Z"
+          "publishedAt": "2026-11-25T01:39:53.000Z"
         },
         {
           "name": "DW",
-          "url": "https://www.dw.com/en/exiled-leader-sheikh-hasina-plans-to-return-to-bangladesh-on-dec-16/a-80028083?maca=en-rss-en-all-1573-rdf",
+          "url": "https://www.dw.com/en/cas-reinstates-senegal-as-2025-afcon-champions/a-80021027?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-24T07:32:00.000Z"
+          "publishedAt": "2026-11-24T14:42:00.000Z"
         }
       ]
     },
     {
       "rank": 3,
-      "titleZh": "美国将英伟达丑闻中心的Megaspeed列入贸易黑名单",
-      "summaryZh": "美国工业与安全局将总部位于新加坡的Megaspeed列入出口管制清单，该公司处于英伟达间谍丑闻中心。消息与黄仁勋恢复英伟达CEO同一天出现，此前特朗普政府因未将其列入而受到质疑。",
-      "category": "财经",
+      "titleZh": "黄仁勋据称告诉英伟达员工：特朗普让他复职的说法“不实”",
+      "summaryZh": "据多家媒体报道，英伟达CEO黄仁勋在重返公司后的首次全员大会上向员工道歉，并称特朗普让他复职的说法“完全不实”。他还表示不要认为政治在公司中发挥了作用；另有报道称，特朗普称赦免黄仁勋是“一个选项”，黄仁勋与Alice Huang的关系持续受到质疑。",
+      "category": "科技",
       "regions": [
-        "美国",
-        "新加坡",
-        "全球"
+        "美国"
       ],
       "heat": {
-        "score": 98,
+        "score": 83,
         "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，报道集中在过去24小时内，且与英伟达CEO复职同日发生。"
+        "regionCount": 1,
+        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
           "language": "en",
-          "publishedAt": "2026-11-24T00:52:47.000Z"
+          "publishedAt": "2026-11-24T20:02:03.000Z"
         },
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-rdf",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
           "language": "en",
-          "publishedAt": "2026-11-23T22:35:00.000Z"
+          "publishedAt": "2026-11-25T00:10:27.000Z"
         }
       ]
     },
     {
       "rank": 4,
-      "titleZh": "阿森纳对阵多特蒙德：欧冠预测、观看方式与首发阵容",
-      "summaryZh": "欧冠周二上演，英格兰冠军阿森纳对阵德国联赛领头羊多特蒙德。报道提供比赛预测、直播观看方式和阵容信息。",
-      "category": "体育",
+      "titleZh": "哥伦比亚卡塔赫纳人质事件：袭击者被击毙，所有人质获释",
+      "summaryZh": "哥伦比亚安全部队周三突袭了北部旅游城市卡塔赫纳的一家超市，此前一天约30人被劫持为人质。总统宣布所有人质获释，并称一名劫持者在突袭中被击毙。",
+      "category": "政治",
       "regions": [
-        "欧洲",
-        "英国",
-        "德国"
+        "哥伦比亚"
       ],
       "heat": {
-        "score": 58,
+        "score": 68,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，报道集中在过去24小时内，欧冠赛事本身具跨地区关注度。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-24T05:56:41.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261124-colombie-prise-otages-cours-ville-touristique-carthag%C3%A8ne",
+          "language": "fr",
+          "publishedAt": "2026-11-25T07:19:32.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "联合国秘书长希望一年内建立限制AI风险的机制",
-      "summaryZh": "古特雷斯呼吁联合国会员国在明年之前制定管理AI风险的多边框架。他表示，第一步可能是商定共同安全措施、评估体系和独立监督的最低要求。",
+      "titleZh": "以色列空袭加沙沙提难民营致至少四人死亡",
+      "summaryZh": "以色列对加沙沙提难民营一栋公寓楼发动空袭。报道称空袭造成至少四人死亡。",
       "category": "国际",
       "regions": [
-        "全球"
+        "加沙",
+        "以色列"
       ],
       "heat": {
-        "score": 51,
+        "score": 58,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，报道集中在过去24小时内，涉及联合国层面的AI治理倡议。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20261123-intelligence-artificielle-chef-onu-guterres-espere-voir-d-ici-un-an-mecanisme-pour-limiter-risques-ia",
-          "language": "fr",
-          "publishedAt": "2026-11-23T22:42:46.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-25T04:13:58.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "黄仁勋回归英伟达引发“精英免责”争议",
-      "summaryZh": "The Verge评论称，黄仁勋在特朗普和万斯推动下重返英伟达CEO岗位，并批评美国总统施压大公司。TechCrunch指出，科技领袖应对黄仁勋复职可能带来的问题保持清醒。",
+      "titleZh": "第六条科技要闻",
+      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
       "category": "科技",
       "regions": [
-        "美国",
-        "全球科技行业"
+        "全球"
       ],
       "heat": {
-        "score": 80,
-        "sourceCount": 2,
+        "score": 82,
+        "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有2个来源、1个地区信号，报道集中在过去24小时内，聚焦黄仁勋复职的争议与后续风险。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+          "name": "Hacker News",
+          "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
           "language": "en",
-          "publishedAt": "2026-11-23T22:09:26.000Z"
+          "publishedAt": "2026-11-25T03:47:42.000Z"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+          "name": "Hacker News",
+          "url": "https://www.anthropic.com/research/working-with-ai",
           "language": "en",
-          "publishedAt": "2026-11-23T16:57:40.000Z"
+          "publishedAt": "2026-11-24T21:07:38.000Z"
         }
       ]
     },
     {
       "rank": 7,
-      "titleZh": "也门政府军在贝达省对胡塞武装的攻势为何停滞",
-      "summaryZh": "也门政府军9月曾取得初步进展，但胡塞武装在多条战线作战使攻势放缓。报道分析贝达省攻势停滞的原因。",
-      "category": "政治",
+      "titleZh": "The Verge发布2026年父亲和母亲礼物指南",
+      "summaryZh": "The Verge发布2026年父亲和母亲礼物指南，面向游戏玩家、创作者、厨师和数码爱好者等不同人群。指南推荐了Sonos Ace Ultra降噪耳机、自主无人机、QD-OLED显示器、便携游戏设备、扫地机器人和AI喂鸟器等商品。",
+      "category": "科技",
       "regions": [
-        "也门"
+        "美国"
       ],
       "heat": {
-        "score": 63,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，报道集中在过去24小时内，涉及也门冲突前线态势。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/24/why-has-yemens-offensive-against-the-houthis-in-al-bayda-stalled?traffic_source=rss",
+          "name": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
           "language": "en",
-          "publishedAt": "2026-11-24T07:36:07.000Z"
+          "publishedAt": "2026-11-24T23:59:29.000Z"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+          "language": "en",
+          "publishedAt": "2026-11-24T21:09:59.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "德国大众汽车与IG Metall工会启动薪资谈判",
-      "summaryZh": "德国最大工会IG Metall与大众汽车举行薪资谈判，大众正寻求削减成本。与此同时，德国总统访问加纳。",
+      "titleZh": "津巴布韦已故前总统穆加贝之子因缺席庭审被发逮捕令",
+      "summaryZh": "津巴布韦已故前总统罗伯特·穆加贝的儿子因缺席庭审被签发逮捕令。报道称他近年来面临多起法律纠纷。",
       "category": "政治",
       "regions": [
-        "德国",
-        "加纳"
+        "津巴布韦"
       ],
       "heat": {
-        "score": 62,
+        "score": 65,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，报道集中在过去24小时内，涉及德国汽车业劳资谈判。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "DW",
-          "url": "https://www.dw.com/en/germany-news-volkswagen-begins-wage-talks-with-ig-metall-union/live-80028306?maca=en-rss-en-all-1573-rdf",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-24T08:15:00.000Z"
+          "publishedAt": "2026-11-25T07:26:54.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "Declare：面向用户与AI的界面语言",
-      "summaryZh": "Hacker News上发布“Declare”界面语言，获得52点和41条评论。帖子称这是一种为用户和AI设计的界面语言。",
-      "category": "科技",
+      "titleZh": "CAS裁定塞内加尔为2025非洲杯冠军，摩洛哥提出异议",
+      "summaryZh": "体育仲裁法庭宣布塞内加尔正式成为2025年非洲杯冠军。摩洛哥足协表示异议，称程序存在不合规。另一篇报道称，CAS推翻了CAF上诉陪审团的决定，认为决赛裁判有权在比赛中断后恢复比赛。",
+      "category": "体育",
       "regions": [
-        "全球"
+        "塞内加尔",
+        "摩洛哥",
+        "非洲"
       ],
       "heat": {
-        "score": 62,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，报道集中在过去24小时内，Hacker News上有52点和41条评论。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://davidtemkin.github.io/declarelang/",
-          "language": "en",
-          "publishedAt": "2026-11-24T02:36:56.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261125-can-2025-le-s%C3%A9n%C3%A9gal-d%C3%A9clar%C3%A9-vainqueur-par-le-tas-le-maroc-conteste",
+          "language": "fr",
+          "publishedAt": "2026-11-25T06:28:24.000Z"
+        },
+        {
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/sports/20261124-can-2025-pourquoi-tas-arbitre-senegal-maroc",
+          "language": "fr",
+          "publishedAt": "2026-11-24T17:02:32.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "AI中的杰文斯悖论：更便宜的Token无法覆盖资本开支",
-      "summaryZh": "Hacker News上讨论“AI中的杰文斯悖论：更便宜的Token无法为资本开支买单”，获得4点和0条评论。",
-      "category": "科技",
+      "titleZh": "基尔马尔·阿布雷戈·加西亚离开美国前往西班牙，结束特朗普驱逐争议",
+      "summaryZh": "基尔马尔·阿布雷戈·加西亚离开美国前往西班牙，结束围绕特朗普政府驱逐行动的争议。他曾被驱逐至萨尔瓦多并返回美国，此案成为特朗普移民议程辩论的焦点。",
+      "category": "政治",
       "regions": [
-        "全球"
+        "美国",
+        "西班牙",
+        "萨尔瓦多"
       ],
       "heat": {
-        "score": 61,
+        "score": 64,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，报道集中在过去24小时内，Hacker News讨论量较低。"
+        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-24T09:39:50.000Z"
+          "publishedAt": "2026-11-25T06:36:00.000Z"
         }
       ]
     }
