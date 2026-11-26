@@ -1,162 +1,182 @@
 {
-  "generatedAt": "2026-11-25T08:44:54.946Z",
+  "generatedAt": "2026-11-26T08:30:06.889Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
-  "status": "partial",
+  "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "华为被判窃取美国商业秘密，但敲诈勒索指控不成立",
-      "summaryZh": "纽约一个陪审团裁定华为窃取美国商业秘密罪名成立，但在敲诈勒索指控上无罪。DW报道称，华为在12项指控中有10项被判有罪。报道称华为计划上诉。",
-      "category": "财经",
-      "regions": [
-        "美国",
-        "中国"
-      ],
-      "heat": {
-        "score": 100,
-        "sourceCount": 3,
-        "regionCount": 2,
-        "reasonZh": "共有3个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-          "language": "en",
-          "publishedAt": "2026-11-25T02:59:27.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/us-jury-convicts-huawei-of-violating-sanctions-stealing-trade-secrets/a-80042172?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-25T02:01:00.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
-          "language": "en",
-          "publishedAt": "2026-11-24T22:23:27.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "titleZh": "塞内加尔球迷庆祝非洲杯法律裁决胜诉",
-      "summaryZh": "体育仲裁法庭维持塞内加尔的上诉，恢复其2025年非洲杯冠军身份。此前被宣布为冠军的摩洛哥被确认为亚军。",
-      "category": "体育",
-      "regions": [
-        "塞内加尔",
-        "摩洛哥",
-        "非洲"
-      ],
-      "heat": {
-        "score": 93,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有2个来源、2个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-25T01:39:53.000Z"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/cas-reinstates-senegal-as-2025-afcon-champions/a-80021027?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-24T14:42:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "黄仁勋据称告诉英伟达员工：特朗普让他复职的说法“不实”",
-      "summaryZh": "据多家媒体报道，英伟达CEO黄仁勋在重返公司后的首次全员大会上向员工道歉，并称特朗普让他复职的说法“完全不实”。他还表示不要认为政治在公司中发挥了作用；另有报道称，特朗普称赦免黄仁勋是“一个选项”，黄仁勋与Alice Huang的关系持续受到质疑。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 83,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有2个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-          "language": "en",
-          "publishedAt": "2026-11-24T20:02:03.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
-          "language": "en",
-          "publishedAt": "2026-11-25T00:10:27.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "哥伦比亚卡塔赫纳人质事件：袭击者被击毙，所有人质获释",
-      "summaryZh": "哥伦比亚安全部队周三突袭了北部旅游城市卡塔赫纳的一家超市，此前一天约30人被劫持为人质。总统宣布所有人质获释，并称一名劫持者在突袭中被击毙。",
+      "titleZh": "哥伦比亚警方突袭超市，解救被劫持17小时的76人",
+      "summaryZh": "哥伦比亚警方突袭卡塔赫纳一家超市，解救被劫持17小时的76人。一名枪手被击毙；总统称事件源于一辆载有现金的装甲车抢劫未遂。总统还当面嘲讽被捕的劫持者。",
       "category": "政治",
       "regions": [
         "哥伦比亚"
       ],
       "heat": {
-        "score": 68,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "score": 100,
+        "sourceCount": 2,
+        "regionCount": 2,
+        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20261124-colombie-prise-otages-cours-ville-touristique-carthag%C3%A8ne",
-          "language": "fr",
-          "publishedAt": "2026-11-25T07:19:32.000Z"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-25T18:41:33.000Z"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-26T03:23:24.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "titleZh": "1Password遭入侵泄露客户姓名和邮箱，密码未泄露",
+      "summaryZh": "1Password表示，黑客通过一名员工的企业GitHub账号进入其后端系统，窃取了客户姓名和邮箱地址。公司称密码或其他存储在客户保险库中的信息未暴露，但用户可能面临钓鱼风险；受影响用户数量尚不明确。",
+      "category": "科技",
+      "regions": [
+        "美洲"
+      ],
+      "heat": {
+        "score": 92,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+          "language": "en",
+          "publishedAt": "2026-11-25T19:10:15.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+          "language": "en",
+          "publishedAt": "2026-11-25T18:49:52.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+          "language": "en",
+          "publishedAt": "2026-11-25T14:20:28.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "欧盟领导人峰会寻求就长期预算和乌克兰问题达成一致",
+      "summaryZh": "欧盟27国领导人预计将在峰会上讨论2028至2034年欧盟预算。乌克兰和欧洲央行领导层也在讨论议程中。",
+      "category": "财经",
+      "regions": [
+        "欧盟",
+        "乌克兰"
+      ],
+      "heat": {
+        "score": 62,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/eu-leaders-seek-agreement-on-long-term-budget-and-ukraine-at-summit/live-80056415?maca=en-rss-en-all-1573-rdf",
+          "language": "en",
+          "publishedAt": "2026-11-26T07:31:00.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "辛纳因膝部手术无缘2027年澳网",
+      "summaryZh": "两届墨尔本公园冠军辛纳因膝部手术将缺席2027年澳大利亚网球公开赛。自2026年7月赢得温网冠军后，他尚未参加任何比赛。",
+      "category": "体育",
+      "regions": [
+        "澳大利亚"
+      ],
+      "heat": {
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/26/jannik-sinner-australian-open-2027-knee-injury-surgery-tennis?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-26T06:32:48.000Z"
         }
       ]
     },
     {
       "rank": 5,
-      "titleZh": "以色列空袭加沙沙提难民营致至少四人死亡",
-      "summaryZh": "以色列对加沙沙提难民营一栋公寓楼发动空袭。报道称空袭造成至少四人死亡。",
+      "titleZh": "法国圣战宣传者埃米莉·柯尼希在巴黎受审",
+      "summaryZh": "前伊斯兰国法国籍人物埃米莉·柯尼希自周四起在巴黎特别重罪法院受审，为期四天，被控参与恐怖主义犯罪团伙。联合国曾将她列入最危险战斗人员名单。",
       "category": "国际",
       "regions": [
-        "加沙",
-        "以色列"
+        "法国"
       ],
       "heat": {
-        "score": 58,
+        "score": 57,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-25T04:13:58.000Z"
+          "name": "France 24 Francais",
+          "url": "https://www.france24.com/fr/france/20261126-le-proc%C3%A8s-d-%C3%A9milie-k%C3%B6nig-propagandiste-du-jihad-s-ouvre-devant-la-cour-d-assises-sp%C3%A9ciale-de-paris",
+          "language": "fr",
+          "publishedAt": "2026-11-26T05:31:24.000Z"
         }
       ]
     },
     {
       "rank": 6,
-      "titleZh": "第六条科技要闻",
-      "summaryZh": "自动摘要：该事件已有来源报道。当前保留来源链接供继续阅读。",
+      "titleZh": "FCC批准SpaceX计划：最多100万颗数据中心卫星入轨",
+      "summaryZh": "美国联邦通信委员会授权SpaceX部署最多100万颗配备AI芯片的卫星，作为“Starmind”计划的一部分。FCC要求SpaceX在2033年前至少部署一颗卫星，并在2040年前达到100万颗卫星的里程碑。FCC还推迟了SpaceX关于处置600公里以上卫星的请求。",
+      "category": "科技",
+      "regions": [
+        "美国"
+      ],
+      "heat": {
+        "score": 81,
+        "sourceCount": 2,
+        "regionCount": 1,
+        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+          "language": "en",
+          "publishedAt": "2026-11-25T17:44:51.000Z"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+          "language": "en",
+          "publishedAt": "2026-11-25T20:56:44.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "《纽约时报》警告摄影师勿因AI功能更新Photoshop",
+      "summaryZh": "《纽约时报》警告摄影师不要因Photoshop的AI功能而更新软件。Hacker News上该话题获得350分和298条评论。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 82,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
         "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
@@ -164,123 +184,80 @@
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
           "language": "en",
-          "publishedAt": "2026-11-25T03:47:42.000Z"
-        },
-        {
-          "name": "Hacker News",
-          "url": "https://www.anthropic.com/research/working-with-ai",
-          "language": "en",
-          "publishedAt": "2026-11-24T21:07:38.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "The Verge发布2026年父亲和母亲礼物指南",
-      "summaryZh": "The Verge发布2026年父亲和母亲礼物指南，面向游戏玩家、创作者、厨师和数码爱好者等不同人群。指南推荐了Sonos Ace Ultra降噪耳机、自主无人机、QD-OLED显示器、便携游戏设备、扫地机器人和AI喂鸟器等商品。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 65,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-          "language": "en",
-          "publishedAt": "2026-11-24T23:59:29.000Z"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
-          "language": "en",
-          "publishedAt": "2026-11-24T21:09:59.000Z"
+          "publishedAt": "2026-11-25T21:18:02.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "津巴布韦已故前总统穆加贝之子因缺席庭审被发逮捕令",
-      "summaryZh": "津巴布韦已故前总统罗伯特·穆加贝的儿子因缺席庭审被签发逮捕令。报道称他近年来面临多起法律纠纷。",
-      "category": "政治",
+      "titleZh": "英伟达暂停向东南亚运送芯片",
+      "summaryZh": "Hacker News帖子称英伟达已停止向东南亚运送芯片。该帖获得13分和3条评论，来源未提供更多细节。",
+      "category": "科技",
       "regions": [
-        "津巴布韦"
+        "东南亚"
       ],
       "heat": {
-        "score": 65,
+        "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+          "name": "Hacker News",
+          "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
           "language": "en",
-          "publishedAt": "2026-11-25T07:26:54.000Z"
+          "publishedAt": "2026-11-26T06:43:42.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "CAS裁定塞内加尔为2025非洲杯冠军，摩洛哥提出异议",
-      "summaryZh": "体育仲裁法庭宣布塞内加尔正式成为2025年非洲杯冠军。摩洛哥足协表示异议，称程序存在不合规。另一篇报道称，CAS推翻了CAF上诉陪审团的决定，认为决赛裁判有权在比赛中断后恢复比赛。",
-      "category": "体育",
+      "titleZh": "硅谷如何成为以色列对巴勒斯坦战争的关键一环",
+      "summaryZh": "半岛电视台报道称，从监控系统到AI目标定位，美国科技巨头深度嵌入以色列的战争机器。",
+      "category": "科技",
       "regions": [
-        "塞内加尔",
-        "摩洛哥",
-        "非洲"
+        "美国",
+        "以色列",
+        "巴勒斯坦"
       ],
       "heat": {
-        "score": 64,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261125-can-2025-le-s%C3%A9n%C3%A9gal-d%C3%A9clar%C3%A9-vainqueur-par-le-tas-le-maroc-conteste",
-          "language": "fr",
-          "publishedAt": "2026-11-25T06:28:24.000Z"
-        },
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/sports/20261124-can-2025-pourquoi-tas-arbitre-senegal-maroc",
-          "language": "fr",
-          "publishedAt": "2026-11-24T17:02:32.000Z"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-26T06:12:53.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "基尔马尔·阿布雷戈·加西亚离开美国前往西班牙，结束特朗普驱逐争议",
-      "summaryZh": "基尔马尔·阿布雷戈·加西亚离开美国前往西班牙，结束围绕特朗普政府驱逐行动的争议。他曾被驱逐至萨尔瓦多并返回美国，此案成为特朗普移民议程辩论的焦点。",
-      "category": "政治",
+      "titleZh": "韩国央行在AI芯片热潮中加息并上调GDP增长预期",
+      "summaryZh": "韩国银行将关键利率上调0.25个百分点，背景是半导体出口繁荣。央行还上调了GDP增长预测。",
+      "category": "科技",
       "regions": [
-        "美国",
-        "西班牙",
-        "萨尔瓦多"
+        "韩国"
       ],
       "heat": {
-        "score": 64,
+        "score": 61,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有1个来源、1个地区信号，且报道集中在过去24小时内。"
+        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
       },
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-25T06:36:00.000Z"
+          "publishedAt": "2026-11-26T05:49:40.000Z"
         }
       ]
     }
