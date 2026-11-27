@@ -1,263 +1,246 @@
 {
-  "generatedAt": "2026-11-26T08:30:06.889Z",
+  "generatedAt": "2026-11-27T08:43:54.249Z",
   "windowHours": 24,
   "timezone": "Asia/Shanghai",
   "status": "fresh",
   "events": [
     {
       "rank": 1,
-      "titleZh": "哥伦比亚警方突袭超市，解救被劫持17小时的76人",
-      "summaryZh": "哥伦比亚警方突袭卡塔赫纳一家超市，解救被劫持17小时的76人。一名枪手被击毙；总统称事件源于一辆载有现金的装甲车抢劫未遂。总统还当面嘲讽被捕的劫持者。",
+      "titleZh": "泽连斯基批评特朗普与普京“奇怪”友谊",
+      "summaryZh": "乌克兰总统泽连斯基接受BBC采访时，批评美国总统特朗普与俄罗斯总统普京之间“奇怪”的友谊。他表示，不应把普京当作朋友，并对美国在结束战争的和平谈判中没有足够强硬地施压俄罗斯表达不满。",
       "category": "政治",
       "regions": [
-        "哥伦比亚"
+        "乌克兰",
+        "美国",
+        "俄罗斯"
       ],
       "heat": {
-        "score": 100,
-        "sourceCount": 2,
-        "regionCount": 2,
-        "reasonZh": "共有 2 个来源、2 个地区信号，且报道集中在过去 24 小时内。"
+        "score": 74,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "热度74，共有1个来源、1个地区信号，报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-25T18:41:33.000Z"
+          "publishedAt": "2026-11-26T22:49:27.000Z"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
           "language": "en",
-          "publishedAt": "2026-11-26T03:23:24.000Z"
+          "publishedAt": "2026-11-26T22:06:20.000Z"
         }
       ]
     },
     {
       "rank": 2,
-      "titleZh": "1Password遭入侵泄露客户姓名和邮箱，密码未泄露",
-      "summaryZh": "1Password表示，黑客通过一名员工的企业GitHub账号进入其后端系统，窃取了客户姓名和邮箱地址。公司称密码或其他存储在客户保险库中的信息未暴露，但用户可能面临钓鱼风险；受影响用户数量尚不明确。",
-      "category": "科技",
-      "regions": [
-        "美洲"
-      ],
-      "heat": {
-        "score": 92,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
-          "language": "en",
-          "publishedAt": "2026-11-25T19:10:15.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
-          "language": "en",
-          "publishedAt": "2026-11-25T18:49:52.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
-          "language": "en",
-          "publishedAt": "2026-11-25T14:20:28.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "titleZh": "欧盟领导人峰会寻求就长期预算和乌克兰问题达成一致",
-      "summaryZh": "欧盟27国领导人预计将在峰会上讨论2028至2034年欧盟预算。乌克兰和欧洲央行领导层也在讨论议程中。",
-      "category": "财经",
-      "regions": [
-        "欧盟",
-        "乌克兰"
-      ],
-      "heat": {
-        "score": 62,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/eu-leaders-seek-agreement-on-long-term-budget-and-ukraine-at-summit/live-80056415?maca=en-rss-en-all-1573-rdf",
-          "language": "en",
-          "publishedAt": "2026-11-26T07:31:00.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "titleZh": "辛纳因膝部手术无缘2027年澳网",
-      "summaryZh": "两届墨尔本公园冠军辛纳因膝部手术将缺席2027年澳大利亚网球公开赛。自2026年7月赢得温网冠军后，他尚未参加任何比赛。",
-      "category": "体育",
-      "regions": [
-        "澳大利亚"
-      ],
-      "heat": {
-        "score": 59,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/26/jannik-sinner-australian-open-2027-knee-injury-surgery-tennis?traffic_source=rss",
-          "language": "en",
-          "publishedAt": "2026-11-26T06:32:48.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "titleZh": "法国圣战宣传者埃米莉·柯尼希在巴黎受审",
-      "summaryZh": "前伊斯兰国法国籍人物埃米莉·柯尼希自周四起在巴黎特别重罪法院受审，为期四天，被控参与恐怖主义犯罪团伙。联合国曾将她列入最危险战斗人员名单。",
-      "category": "国际",
-      "regions": [
-        "法国"
-      ],
-      "heat": {
-        "score": 57,
-        "sourceCount": 1,
-        "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "France 24 Francais",
-          "url": "https://www.france24.com/fr/france/20261126-le-proc%C3%A8s-d-%C3%A9milie-k%C3%B6nig-propagandiste-du-jihad-s-ouvre-devant-la-cour-d-assises-sp%C3%A9ciale-de-paris",
-          "language": "fr",
-          "publishedAt": "2026-11-26T05:31:24.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "titleZh": "FCC批准SpaceX计划：最多100万颗数据中心卫星入轨",
-      "summaryZh": "美国联邦通信委员会授权SpaceX部署最多100万颗配备AI芯片的卫星，作为“Starmind”计划的一部分。FCC要求SpaceX在2033年前至少部署一颗卫星，并在2040年前达到100万颗卫星的里程碑。FCC还推迟了SpaceX关于处置600公里以上卫星的请求。",
-      "category": "科技",
-      "regions": [
-        "美国"
-      ],
-      "heat": {
-        "score": 81,
-        "sourceCount": 2,
-        "regionCount": 1,
-        "reasonZh": "共有 2 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
-      },
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-          "language": "en",
-          "publishedAt": "2026-11-25T17:44:51.000Z"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
-          "language": "en",
-          "publishedAt": "2026-11-25T20:56:44.000Z"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "titleZh": "《纽约时报》警告摄影师勿因AI功能更新Photoshop",
-      "summaryZh": "《纽约时报》警告摄影师不要因Photoshop的AI功能而更新软件。Hacker News上该话题获得350分和298条评论。",
+      "titleZh": "你的AI在群聊中“背着你”谈论你",
+      "summaryZh": "该Hacker News帖子获得138点、47条评论，讨论AI在群聊中背着你谈论你的情形。帖子由utiiiD发布。",
       "category": "科技",
       "regions": [
         "全球"
       ],
       "heat": {
-        "score": 63,
+        "score": 67,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "热度67，共有1个来源、1个地区信号，报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Hacker News",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+          "url": "https://construct22.com/",
           "language": "en",
-          "publishedAt": "2026-11-25T21:18:02.000Z"
+          "publishedAt": "2026-11-27T06:44:34.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "titleZh": "胡塞武装袭击考验沙特安全形象",
+      "summaryZh": "报道称，胡塞武装的袭击正在考验沙特阿拉伯的安全形象。尽管遭到袭击，利雅得的市场和餐厅仍然繁忙，居民表示信任政府能够保护他们。",
+      "category": "财经",
+      "regions": [
+        "沙特阿拉伯",
+        "中东"
+      ],
+      "heat": {
+        "score": 63,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "热度63，共有1个来源、1个地区信号，报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-27T06:04:51.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "titleZh": "法保总统谴责马赛暴力事件，五名球迷住院",
+      "summaryZh": "法国和保加利亚总统谴责马赛球迷在欧联杯对阵莱夫斯基索菲亚比赛中的暴力行为。事件导致五名球迷住院。",
+      "category": "体育",
+      "regions": [
+        "法国",
+        "保加利亚"
+      ],
+      "heat": {
+        "score": 59,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "热度59，共有1个来源、1个地区信号，报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/27/french-bulgarian-presidents-slam-marseille-violence-five-fans-in-hospital?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-27T06:37:34.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "titleZh": "住房问题能否决定西班牙大选？",
+      "summaryZh": "BBC视频报道关注西班牙大选，探讨住房问题是否会影响选情。记者在瓦伦西亚采访了一对因高租金而被迫分开的情侣。",
+      "category": "政治",
+      "regions": [
+        "西班牙"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "热度64，共有1个来源、1个地区信号，报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "publishedAt": "2026-11-27T06:09:31.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "titleZh": "新西兰选举结果令保守派现任者面临艰难谈判",
+      "summaryZh": "新西兰选举结果使保守派现任总理卢克森及其民粹联盟伙伴面临与中间派“造王者”的艰难谈判。",
+      "category": "政治",
+      "regions": [
+        "新西兰"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "热度64，共有1个来源、1个地区信号，报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
+          "language": "en",
+          "publishedAt": "2026-11-27T07:55:32.000Z"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "titleZh": "AI让自托管重新变得有趣",
+      "summaryZh": "该Hacker News帖子称AI让自托管重新变得有趣，获得626点、324条评论。帖子由jlelse发布。",
+      "category": "科技",
+      "regions": [
+        "全球"
+      ],
+      "heat": {
+        "score": 64,
+        "sourceCount": 1,
+        "regionCount": 1,
+        "reasonZh": "热度64，共有1个来源、1个地区信号，报道集中在过去24小时内。"
+      },
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "language": "en",
+          "publishedAt": "2026-11-26T21:47:45.000Z"
         }
       ]
     },
     {
       "rank": 8,
-      "titleZh": "英伟达暂停向东南亚运送芯片",
-      "summaryZh": "Hacker News帖子称英伟达已停止向东南亚运送芯片。该帖获得13分和3条评论，来源未提供更多细节。",
-      "category": "科技",
+      "titleZh": "西班牙2026年大选图解",
+      "summaryZh": "西班牙人将于11月29日提前举行大选。文章用地图和图表解释选举制度、主要政党和关键议题。",
+      "category": "政治",
       "regions": [
-        "东南亚"
+        "西班牙"
       ],
       "heat": {
         "score": 63,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "热度63，共有1个来源、1个地区信号，报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Hacker News",
-          "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-26T06:43:42.000Z"
+          "publishedAt": "2026-11-27T05:57:37.000Z"
         }
       ]
     },
     {
       "rank": 9,
-      "titleZh": "硅谷如何成为以色列对巴勒斯坦战争的关键一环",
-      "summaryZh": "半岛电视台报道称，从监控系统到AI目标定位，美国科技巨头深度嵌入以色列的战争机器。",
-      "category": "科技",
+      "titleZh": "新西兰机会党有望成为选举“造王者”",
+      "summaryZh": "新当选的机会党处于可左右新西兰下一届议会向左或向右的位置。该党可能成为选举中的“造王者”。",
+      "category": "政治",
       "regions": [
-        "美国",
-        "以色列",
-        "巴勒斯坦"
+        "新西兰"
       ],
       "heat": {
-        "score": 61,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "热度62，共有1个来源、1个地区信号，报道集中在过去24小时内。"
       },
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss",
           "language": "en",
-          "publishedAt": "2026-11-26T06:12:53.000Z"
+          "publishedAt": "2026-11-27T04:59:53.000Z"
         }
       ]
     },
     {
       "rank": 10,
-      "titleZh": "韩国央行在AI芯片热潮中加息并上调GDP增长预期",
-      "summaryZh": "韩国银行将关键利率上调0.25个百分点，背景是半导体出口繁荣。央行还上调了GDP增长预测。",
-      "category": "科技",
+      "titleZh": "印度莫迪政府召集议会特别会议",
+      "summaryZh": "印度莫迪政府召集议会特别会议。此前，印度议会的季风会期于8月无限期休会。",
+      "category": "政治",
       "regions": [
-        "韩国"
+        "印度"
       ],
       "heat": {
-        "score": 61,
+        "score": 62,
         "sourceCount": 1,
         "regionCount": 1,
-        "reasonZh": "共有 1 个来源、1 个地区信号，且报道集中在过去 24 小时内。"
+        "reasonZh": "热度62，共有1个来源、1个地区信号，报道集中在过去24小时内。"
       },
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
+          "name": "DW",
+          "url": "https://www.dw.com/en/india-s-modi-government-calls-special-sitting-of-parliament/live-80070511?maca=en-rss-en-all-1573-rdf",
           "language": "en",
-          "publishedAt": "2026-11-26T05:49:40.000Z"
+          "publishedAt": "2026-11-27T07:23:00.000Z"
         }
       ]
     }
